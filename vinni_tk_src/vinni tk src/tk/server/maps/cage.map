@@ -1,0 +1,19 @@
+mapname:cage
+maxx:25
+maxy:25
+maxz:200
+tile:0:25:0:25:0:0:corpse2
+zone:0:25:0:25:0:200:cage
+noitems:0:25:0:25:0:200::guided_missile:aircraft:sticky_bomb:pipe_bomb:warp_box:antibiotic:police_car:gp30:robot:shield:security_bomb:helicopter:throwing_star:tk_ultra_health_potion:rocket_launcher:stp429_mini_missile:hand_cannon:mass_bomb:mine:motion_bomb:suicide_bomb:turret
+robots:0:25:0:25:0:0:1:1000:lion,bear,wolf,polarbear,coyote,hunter,dog,rabbit,boar,goat,gorilla,leopard
+src:0:25:0:25:0:50:birds4.ogg
+tile:0:25:0:25:40:40:cement3
+zone:10:10:10:10:40:50:door to cage!:trackme
+travelpoint:25:25:25:25:40:40:store:0:30:0:store
+noitems:0:25:0:25:0:200:wood
+
+travelpoint:25:25:25:25:0:0:cage:10:10:40:moved
+zone:0:25:0:25:40:100:top of the cage
+tile:10:20:10:20:40:40:metal8
+zone:10:20:10:20:40:40:press enter to open the hatch and go down:trackme
+travelpoint:10:20:10:20:40:40:cage:15:15:0:you opened the hatch and went down to the angry and hungry animals

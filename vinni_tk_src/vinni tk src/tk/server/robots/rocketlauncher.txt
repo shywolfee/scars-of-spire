@@ -1,0 +1,16 @@
+name rocketlauncher
+health 150000
+defence 3000
+speed 700
+damage 50000,100000
+shoot 5000
+distance 10
+aggro 1000
+spread 3
+angle 60
+steps 2
+shieldhits 300,300
+shieldchance 5
+loot coin
+amount 1000
+xp 1380,9900

@@ -1,0 +1,879 @@
+
+ramil (magistral) sent /where franklin 1-15-2021, 7:33:00 PM
+ramil (magistral) sent /go 0 0 0 store 1-15-2021, 7:38:08 PM
+ramil (magistral) sent /omv 1-15-2021, 7:38:11 PM
+ramil (magistral) sent /inv 1-15-2021, 7:38:14 PM
+ramil (magistral) sent /inv 1-15-2021, 7:38:30 PM
+ramil (magistral) sent /inv 1-15-2021, 7:40:58 PM
+ramil (magistral) sent /inv 1-15-2021, 7:42:20 PM
+ramil (magistral) sent /inv 1-15-2021, 7:43:09 PM
+ramil (magistral) sent /inv 1-15-2021, 7:44:46 PM
+ramil (magistral) sent /inv 1-15-2021, 7:45:12 PM
+ramil (magistral) sent /ivn 1-15-2021, 7:46:20 PM
+ramil (magistral) sent /inv 1-15-2021, 7:46:21 PM
+ramil (magistral) sent /chars 1-15-2021, 7:46:45 PM
+ramil (magistral) sent /inv 1-15-2021, 7:47:37 PM
+ramil (magistral) sent /inv 1-15-2021, 7:47:39 PM
+ramil (magistral) sent /go 0 0 0 weapon 1-15-2021, 7:48:01 PM
+ramil (magistral) sent /inv 1-15-2021, 7:48:02 PM
+ramil (magistral) sent /go 0 0 0 store 1-15-2021, 7:49:03 PM
+ramil (magistral) sent /go 142 207 0 1-15-2021, 7:49:42 PM
+ramil (magistral) sent /go 0 0 0 store 1-15-2021, 7:50:16 PM
+ramil (magistral) sent /lchat | 1-15-2021, 7:52:02 PM
+ramil (magistral) sent /where terminator 1-15-2021, 7:54:12 PM
+ramil (magistral) sent /lchat \   1-15-2021, 7:56:33 PM
+ramil (magistral) sent /inv 1-15-2021, 7:59:06 PM
+ramil (magistral) sent /inv 1-15-2021, 7:59:37 PM
+ramil (magistral) sent /inv 1-15-2021, 8:00:41 PM
+ramil (magistral) sent /inv 1-15-2021, 8:00:56 PM
+ramil (magistral) sent /inv 1-15-2021, 8:03:46 PM
+ramil (magistral) sent /lchat me 1-15-2021, 8:04:29 PM
+ramil (magistral) sent /go 1 1 40 boxing 1-15-2021, 8:04:45 PM
+ramil (magistral) sent /inv 1-15-2021, 8:04:47 PM
+ramil (magistral) sent /inv 1-15-2021, 8:05:44 PM
+ramil (magistral) sent /inv 1-15-2021, 8:07:21 PM
+ramil (magistral) sent /go 0 100 0 1-15-2021, 8:13:40 PM
+ramil (magistral) sent /inv 1-15-2021, 8:14:42 PM
+ramil (magistral) sent /inv 1-15-2021, 8:15:03 PM
+ramil (magistral) sent /inv 1-15-2021, 8:18:28 PM
+ramil (magistral) sent /inv 1-15-2021, 8:19:20 PM
+ramil (magistral) sent /ubv] 1-15-2021, 8:20:39 PM
+ramil (magistral) sent /ivn 1-15-2021, 8:21:30 PM
+ramil (magistral) sent /inv 1-15-2021, 8:21:32 PM
+ramil (magistral) sent /inv 1-15-2021, 8:22:53 PM
+ramil (magistral) sent /lchat | 1-15-2021, 8:23:32 PM
+ramil (magistral) sent /inv 1-15-2021, 8:24:05 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:24:19 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:24:40 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0empty_beer_bottle, 2520:300:0:30:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starterempty_beer_bottle
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0
+zone:15:15:15:15:0:100:press enter to enter in the afk area:trackme
+travelpoint:15:15:15:15:0:0:afk_area:0:0:0:welcome to the silent 1-15-2021, 8:25:39 PM
+ramil (magistral) sent /inv 1-15-2021, 8:25:41 PM
+ramil (magistral) sent /inv 1-15-2021, 8:25:43 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0empty_beer_bottle, 2520:300:0:30:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0
+zone:15:15:15:15:0:100:press enter to enter in the afk area:trackme
+travelpoint:15:15:15:15:0:0:afk_area:0:0:0:welcome to the silent 1-15-2021, 8:26:16 PM
+ramil (magistral) sent /inv 1-15-2021, 8:26:19 PM
+ramil (magistral) sent /inbv 1-15-2021, 8:28:57 PM
+ramil (magistral) sent /inv 1-15-2021, 8:30:21 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:///hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0
+zone:15:15:15:15:0:100:press enter to enter in the afk area:trackme
+travelpoint:15:15:15:15:0:0:afk_area:0:0:0:welcome to the silent\ 1-15-2021, 8:30:25 PM
+ramil (magistral) sent /inv 1-15-2021, 8:30:30 PM
+ramil (magistral) sent /go 0 100 0 1-15-2021, 8:31:26 PM
+ramil (magistral) sent /ivn 1-15-2021, 8:33:00 PM
+ramil (magistral) sent /inv 1-15-2021, 8:33:05 PM
+ramil (magistral) sent /inv 1-15-2021, 8:33:18 PM
+ramil (magistral) sent /inv 1-15-2021, 8:34:17 PM
+ramil (magistral) sent /inv 1-15-2021, 8:34:28 PM
+ramil (magistral) sent /inv 1-15-2021, 8:34:47 PM
+ramil (magistral) sent /admins 1-15-2021, 8:35:06 PM
+ramil (magistral) sent /staff 1-15-2021, 8:35:10 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0
+zone:15:15:15:15:0:100:press enter to enter in the afk area:trackme
+travelpoint:15:15:15:15:0:0:afk_area:0:0:0:welcome to the silent 1-15-2021, 8:35:55 PM
+ramil (magistral) sent /go 0 0 -1 1-15-2021, 8:36:31 PM
+ramil (magistral) sent /inv 1-15-2021, 8:36:52 PM
+ramil (magistral) sent /go 0 0 0 weapon 1-15-2021, 8:37:37 PM
+ramil (magistral) sent /go 0 0 0 weapon 1-15-2021, 8:39:15 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:39:26 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:5:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice
+fightingstate:0
+travelpoint:50:50:50:50:150:150:store:5:5:0:moved
+travelpoint:160:160:180:180:225:225:store:5:5:0:moved
+travelpoint:534:534:560:560:535:535:store:5:5:0:moved
+tile:500:500:510:510:500:500:suicide
+tile:500:500:512:512:500:500:teleport
+tile:500:500:514:515:500:500:suicide
+tile:500:500:517:520:500:500:teleport
+zone:500:500:506:530:500:510:Here begins a place with different traps! Hidden suicide bombs and teleporters, that will move you to the coordinates 0, 0, 0! Good luck, player!
+tile:500:500:523:527:500:500:teleport
+tile:505:507:530:530:505:505:suicide
+tile:515:518:530:530:505:505:teleport
+tile:525:527:530:530:505:505:suicide
+tile:534:534:545:555:535:535:stun 1-15-2021, 8:40:04 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:5:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottle
+fightingstate:0
+travelpoint:50:50:50:50:150:150:store:5:5:0:moved
+travelpoint:160:160:180:180:225:225:store:5:5:0:moved
+travelpoint:534:534:560:560:535:535:store:5:5:0:moved
+tile:500:500:510:510:500:500:suicide
+tile:500:500:512:512:500:500:teleport
+tile:500:500:514:515:500:500:suicide
+tile:500:500:517:520:500:500:teleport
+zone:500:500:506:530:500:510:Here begins a place with different traps! Hidden suicide bombs and teleporters, that will move you to the coordinates 0, 0, 0! Good luck, player!
+tile:500:500:523:527:500:500:teleport
+tile:505:507:530:530:505:505:suicide
+tile:515:518:530:530:505:505:teleport
+tile:525:527:530:530:505:505:suicide
+tile:534:534:545:555:535:535:stun 1-15-2021, 8:40:27 PM
+ramil (magistral) sent /go 0 0 0 store 1-15-2021, 8:40:29 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:40:42 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:41:02 PM
+ramil (magistral) sent /sell 1-15-2021, 8:41:53 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+4zone:21:30:100:110:0:15:door, press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to last level
+tile:125:179:281:281:0:0:stun
+tile:201:1000:281:281:0:15:walldoor2
+tile:185:190:281:281:0:0:teleport
+zone:200:200:281:300:0:15:door, press enter  to go to store
+tile:30:50:281:281:0:0:stun
+tile:55:58:281:281:0:0:teleport
+tile:65:75:281:281:0:0:stun
+tile:88:90:281:281:0:0:teleport
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved
+fightingstate:0
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottle 1-15-2021, 8:42:52 PM
+ramil (magistral) sent /go 0 0 0 challengemaps 1-15-2021, 8:43:30 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:43:38 PM
+ramil (magistral) sent /rawdata mapname:challengemaps
+maxx:15
+maxy:0
+maxz:0
+tile:0:15:0:0:0:0:challenge
+src:0:15:0:0:0:0:drums2.ogg
+zone:0:15:0:0:0:0:Challenge maps! Please select the map by pressing the left and right arrow keys
+travelpoint:0:0:0:0:0:0:store:5:5:0:moved
+zone:0:0:0:0:0:0:go back:trackme
+fightingstate:0
+noitems:0:15:0:0:0:10:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:hand_grenade:stone:concussive_grenade:turret:wood
+tile:0:15:0:0:0:0:tile3
+zone:2:2:0:0:0:10:weapon challenge
+
+zone:3:3:0:0:0:10:laberint of death
+zone:4:4:0:0:0:0:dangerous place
+zone:5:5:0:0:0:10:snow mountain
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottle 1-15-2021, 8:44:36 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:45:51 PM
+ramil (magistral) sent /rawdata mapname:dangerous_place
+maxx:100
+maxy:100
+maxz:20000
+tile:0:100:0:100:0:0:tile
+zone:0:100:0:100:0:100:dangerous place
+tile:0:100:0:100:0:0:concrete34
+tile:1:99:0:99:0:100:wallstone1
+tile:0:0:10:10:0:4:teleport
+tile:0:0:12:12:0:4:teleport
+tile:0:0:14:15:0:3:teleport
+tile:0:0:20:24:0:0:hazard
+tile:0:0:30:49:0:10:hazard
+tile:1:1:29:29:6:6:hardwood
+tile:1:1:30:32:6:6:hardwood
+tile:0:0:32:32:6:6:hardwood
+tile:0:0:32:32:7:10:blank
+tile:0:0:33:33:11:11:hardwood
+tile:0:0:35:35:15:15:hardwood
+tile:0:0:40:40:11:11:hardwood
+tile:1:1:40:40:16:16:hardwood
+tile:1:1:40:40:17:23:blank
+tile:0:0:41:41:21:21:hardwood
+tile:0:0:47:47:15:15:hardwood
+tile:0:0:51:51:11:11:hardwood
+tile:0:0:51:51:7:7:hardwood
+tile:0:0:60:60:0:2:hazard
+tile:0:0:65:69:0:0:hazard
+tile:0:0:75:99:0:100:hazard
+tile:0:0:75:75:5:5:hardwood
+tile:0:0:75:75:6:7:blank
+tile:0:0:76:77:6:6:hardwood
+tile:0:0:75:75:6:6:hardwood
+tile:0:0:78:80:5:5:hardwood
+tile:0:0:77:77:5:5:hardwood
+tile:0:0:80:82:4:4:hardwood
+tile:0:0:82:84:3:3:hardwood
+tile:0:0:84:86:2:2:hardwood
+tile:0:0:86:88:1:1:hardwood
+
+tile:0:0:88:90:0:0:hardwood
+tile:1:1:90:90:0:0:hardwoodmapname:bolgelo
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:tile
+zone:0:100:0:100:0:100:dangerous place
+tile:0:100:0:100:0:0:concrete34
+tile:1:99:0:99:0:100:wallstone1
+tile:0:0:10:10:0:4:teleport
+tile:0:0:12:12:0:4:teleport
+tile:0:0:14:15:0:3:teleport
+tile:0:0:20:24:0:0:hazard
+tile:0:0:30:49:0:10:hazard
+tile:1:1:29:29:6:6:hardwood
+tile:1:1:30:32:6:6:hardwood
+tile:0:0:32:32:6:6:hardwood
+tile:0:0:32:32:7:10:blank
+tile:0:0:33:33:11:11:hardwood
+tile:0:0:35:35:15:15:hardwood
+tile:0:0:40:40:11:11:hardwood
+tile:1:1:40:40:16:16:hardwood
+tile:1:1:40:40:17:23:blank
+tile:0:0:41:41:21:21:hardwood
+tile:0:0:47:47:15:15:hardwood
+tile:0:0:51:51:11:11:hardwood
+tile:0:0:51:51:7:7:hardwood
+tile:0:0:60:60:0:4:hazard
+tile:0:0:65:69:0:0:hazard
+tile:0:0:75:99:0:100:hazard
+tile:0:0:75:75:5:5:hardwood
+tile:0:0:75:75:6:7:blank
+tile:0:0:76:77:6:6:hardwood
+tile:0:0:75:75:6:6:hardwood
+tile:0:0:78:80:5:5:hardwood
+tile:0:0:77:77:5:5:hardwood
+tile:0:0:80:82:4:4:hardwood
+tile:0:0:82:84:3:3:hardwood
+tile:0:0:84:86:2:2:hardwood
+tile:0:0:86:88:1:1:hardwood
+
+tile:0:0:88:90:0:0:hardwood
+
+tile:1:1:91:91:0:0:hardwood
+
+tile:1:1:92:92:0:0:hardwood
+tile:0:0:92:92:0:0:hardwood
+tile:0:0:93:93:0:0:hardwood
+tile:1:1:94:94:0:0:hardwood
+tile:1:1:95:95:0:0:hardwood
+tile:0:0:95:96:0:0:hardwood
+tile:1:1:97:97:0:0:hardwood
+tile:1:1:98:98:0:0:hardwood
+tile:0:0:98:99:0:0:hardwood
+zone:0:0:100:100:0:100:well done, you completed the first part, I'll tell you a secret, there will be two more, good luck!!!
+
+
+src:5:80:100:100:0:0:oven.ogg
+zone:1:80:100:100:0:100:under you is a huge cauldron of boiling water, it is better not to fall into it
+tile:5:5:100:100:0:4:wallmedal1
+tile:5:5:100:100:5:5:metal7
+tile:6:79:100:100:0:0:hazard
+tile:10:10:100:100:5:5:metal7
+tile:14:14:100:100:5:5:metal7
+tile:15:15:100:100:10:10:metal7
+tile:17:17:100:100:15:15:metal7
+tile:20:20:100:100:20:20:metal7
+tile:30:30:100:100:10:10:metal7
+tile:35:35:100:100:10:10:metal
+tile:35:36:100:100:11:11:metal7
+tile:36:37:100:100:12:12:metal7
+tile:37:38:100:100:13:13:metal7
+tile:38:39:100:100:14:14:metal7
+tile:39:39:100:100:15:15:metal7
+tile:39:39:100:100:15:30:metal7
+tile:40:60:100:100:30:30:metal7
+tile:41:45:100:100:30:30:blank
+tile:50:50:100:100:30:30:hazard
+tile:51:51:100:100:30:30:teleport
+tile:52:52:100:100:30:30:stun
+tile:63:63:100:100:27:27:metal7
+tile:64:64:100:100:26:26:metal7
+tile:65:65:100:100:25:25:metal7
+tile:66:66:100:100:24:24:metal7
+tile:67:67:100:100:23:23:metal7
+tile:68:68:100:100:22:22:metal7
+tile:69:69:100:100:21:21:teleport
+tile:70:70:100:100:20:20:metal7
+tile:75:75:100:100:20:20:metal7
+tile:75:80:100:100:25:25:hazard
+tile:80:80:100:100:10:10:metal7
+tile:80:80:100:100:0:5:wallmedal1
+tile:81:81:100:100:5:5:metal7
+zone:100:100:100:100:0:10:almost over! just a little more!
+tile:100:100:90:90:0:10:hazard
+tile:100:100:90:90:2:4:blank
+tile:100:100:85:85:0:10:hazard
+tile:100:100:85:85:2:3:blank
+zone:100:100:81:84:0:100:just one advice, dont jump!
+tile:100:100:60:80:6:6:hazard
+tile:100:100:60:80:0:0:stun
+tile:100:100:56:56:0:4:teleport
+travelpoint:100:100:50:50:49:49:store:5:5:0:you opened the hatch and went up
+zone:100:100:50:50:49:49:press enter to open the hatch.
+tile:100:100:49:51:10:50:wallstone1
+tile:100:100:50:50:0:50:metal7
+tile:0:100:0:100:50:50:wallstone
+tile:100:100:50:50:50:50:wallmetal9
+
+tile:0:100:0:100:100:100:short_grass
+src:0:100:0:100:100:150:background1.ogg
+zone:0:100:0:100:100:150:forest
+tile:0:100:0:100:99:99:walldirt
+zone:100:100:50:50:100:150:and so, you got out... now go to the West
+tile:75:80:100:100:25:25:blank
+noitems:0:100:0:100:0:100000:warp_box:concussive_grenade:frequency_scrambler:tank:police_car:armored_tank:aircraft
+fightingstate:0
+noitems:0:300:0:300:0:1000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+tile:1:1:96:96:0:0:hardwood
+tile:1:1:93:93:0:0:hardwood
+tile:100:100:85:85:1:1:blank
+tile:0:100:0:100:51:51:hazard
+tile:100:100:90:90:5:10:blank
+tile:100:100:85:85:4:10:blank
+tile:80:80:100:100:6:6:metal7
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottle 1-15-2021, 8:46:20 PM
+ramil (magistral) sent /go 0 0 0 snow_mountin 1-15-2021, 8:46:32 PM
+ramil (magistral) sent /go 5 0 0 challengemaps 1-15-2021, 8:46:40 PM
+ramil (magistral) sent /rawdata mapname:dangerous_place
+maxx:100
+maxy:100
+maxz:20000
+tile:0:100:0:100:0:0:tile
+zone:0:100:0:100:0:100:dangerous place
+tile:0:100:0:100:0:0:concrete34
+tile:1:99:0:99:0:100:wallstone1
+tile:0:0:10:10:0:4:teleport
+tile:0:0:12:12:0:4:teleport
+tile:0:0:14:15:0:3:teleport
+tile:0:0:20:24:0:0:hazard
+tile:0:0:30:49:0:10:hazard
+tile:1:1:29:29:6:6:hardwood
+tile:1:1:30:32:6:6:hardwood
+tile:0:0:32:32:6:6:hardwood
+tile:0:0:32:32:7:10:blank
+tile:0:0:33:33:11:11:hardwood
+tile:0:0:35:35:15:15:hardwood
+tile:0:0:40:40:11:11:hardwood
+tile:1:1:40:40:16:16:hardwood
+tile:1:1:40:40:17:23:blank
+tile:0:0:41:41:21:21:hardwood
+tile:0:0:47:47:15:15:hardwood
+tile:0:0:51:51:11:11:hardwood
+tile:0:0:51:51:7:7:hardwood
+tile:0:0:60:60:0:2:hazard
+tile:0:0:65:69:0:0:hazard
+tile:0:0:75:99:0:100:hazard
+tile:0:0:75:75:5:5:hardwood
+tile:0:0:75:75:6:7:blank
+tile:0:0:76:77:6:6:hardwood
+tile:0:0:75:75:6:6:hardwood
+tile:0:0:78:80:5:5:hardwood
+tile:0:0:77:77:5:5:hardwood
+tile:0:0:80:82:4:4:hardwood
+tile:0:0:82:84:3:3:hardwood
+tile:0:0:84:86:2:2:hardwood
+tile:0:0:86:88:1:1:hardwood
+
+tile:0:0:88:90:0:0:hardwood
+tile:1:1:90:90:0:0:hardwoodmapname:bolgelo
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:tile
+zone:0:100:0:100:0:100:dangerous place
+tile:0:100:0:100:0:0:concrete34
+tile:1:99:0:99:0:100:wallstone1
+tile:0:0:10:10:0:4:teleport
+tile:0:0:12:12:0:4:teleport
+tile:0:0:14:15:0:3:teleport
+tile:0:0:20:24:0:0:hazard
+tile:0:0:30:49:0:10:hazard
+tile:1:1:29:29:6:6:hardwood
+tile:1:1:30:32:6:6:hardwood
+tile:0:0:32:32:6:6:hardwood
+tile:0:0:32:32:7:10:blank
+tile:0:0:33:33:11:11:hardwood
+tile:0:0:35:35:15:15:hardwood
+tile:0:0:40:40:11:11:hardwood
+tile:1:1:40:40:16:16:hardwood
+tile:1:1:40:40:17:23:blank
+tile:0:0:41:41:21:21:hardwood
+tile:0:0:47:47:15:15:hardwood
+tile:0:0:51:51:11:11:hardwood
+tile:0:0:51:51:7:7:hardwood
+tile:0:0:60:60:0:4:hazard
+tile:0:0:65:69:0:0:hazard
+tile:0:0:75:99:0:100:hazard
+tile:0:0:75:75:5:5:hardwood
+tile:0:0:75:75:6:7:blank
+tile:0:0:76:77:6:6:hardwood
+tile:0:0:75:75:6:6:hardwood
+tile:0:0:78:80:5:5:hardwood
+tile:0:0:77:77:5:5:hardwood
+tile:0:0:80:82:4:4:hardwood
+tile:0:0:82:84:3:3:hardwood
+tile:0:0:84:86:2:2:hardwood
+tile:0:0:86:88:1:1:hardwood
+
+tile:0:0:88:90:0:0:hardwood
+
+tile:1:1:91:91:0:0:hardwood
+
+tile:1:1:92:92:0:0:hardwood
+tile:0:0:92:92:0:0:hardwood
+tile:0:0:93:93:0:0:hardwood
+tile:1:1:94:94:0:0:hardwood
+tile:1:1:95:95:0:0:hardwood
+tile:0:0:95:96:0:0:hardwood
+tile:1:1:97:97:0:0:hardwood
+tile:1:1:98:98:0:0:hardwood
+tile:0:0:98:99:0:0:hardwood
+zone:0:0:100:100:0:100:well done, you completed the first part, I'll tell you a secret, there will be two more, good luck!!!
+
+
+src:5:80:100:100:0:0:oven.ogg
+zone:1:80:100:100:0:100:under you is a huge cauldron of boiling water, it is better not to fall into it
+tile:5:5:100:100:0:4:wallmedal1
+tile:5:5:100:100:5:5:metal7
+tile:6:79:100:100:0:0:hazard
+tile:10:10:100:100:5:5:metal7
+tile:14:14:100:100:5:5:metal7
+tile:15:15:100:100:10:10:metal7
+tile:17:17:100:100:15:15:metal7
+tile:20:20:100:100:20:20:metal7
+tile:30:30:100:100:10:10:metal7
+tile:35:35:100:100:10:10:metal
+tile:35:36:100:100:11:11:metal7
+tile:36:37:100:100:12:12:metal7
+tile:37:38:100:100:13:13:metal7
+tile:38:39:100:100:14:14:metal7
+tile:39:39:100:100:15:15:metal7
+tile:39:39:100:100:15:30:metal7
+tile:40:60:100:100:30:30:metal7
+tile:41:45:100:100:30:30:blank
+tile:50:50:100:100:30:30:hazard
+tile:51:51:100:100:30:30:teleport
+tile:52:52:100:100:30:30:stun
+tile:63:63:100:100:27:27:metal7
+tile:64:64:100:100:26:26:metal7
+tile:65:65:100:100:25:25:metal7
+tile:66:66:100:100:24:24:metal7
+tile:67:67:100:100:23:23:metal7
+tile:68:68:100:100:22:22:metal7
+tile:69:69:100:100:21:21:teleport
+tile:70:70:100:100:20:20:metal7
+tile:75:75:100:100:20:20:metal7
+tile:75:80:100:100:25:25:hazard
+tile:80:80:100:100:10:10:metal7
+tile:80:80:100:100:0:5:wallmedal1
+tile:81:81:100:100:5:5:metal7
+zone:100:100:100:100:0:10:almost over! just a little more!
+tile:100:100:90:90:0:10:hazard
+tile:100:100:90:90:2:4:blank
+tile:100:100:85:85:0:10:hazard
+tile:100:100:85:85:2:3:blank
+zone:100:100:81:84:0:100:just one advice, dont jump!
+tile:100:100:60:80:6:6:hazard
+tile:100:100:60:80:0:0:stun
+tile:100:100:56:56:0:4:teleport
+travelpoint:100:100:50:50:49:49:store:5:5:0:you opened the hatch and went up
+zone:100:100:50:50:49:49:press enter to open the hatch.
+tile:100:100:49:51:10:50:wallstone1
+tile:100:100:50:50:0:50:metal7
+tile:0:100:0:100:50:50:wallstone
+tile:100:100:50:50:50:50:wallmetal9
+
+tile:0:100:0:100:100:100:short_grass
+src:0:100:0:100:100:150:background1.ogg
+zone:0:100:0:100:100:150:forest
+tile:0:100:0:100:99:99:walldirt
+zone:100:100:50:50:100:150:and so, you got out... now go to the West
+tile:75:80:100:100:25:25:blank
+noitems:0:100:0:100:0:100000:warp_box:concussive_grenade:frequency_scrambler:tank:police_car:armored_tank:aircraft
+fightingstate:0
+noitems:0:300:0:300:0:1000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+tile:1:1:96:96:0:0:hardwood
+tile:1:1:93:93:0:0:hardwood
+tile:100:100:85:85:1:1:blank
+tile:0:100:0:100:51:51:hazard
+tile:100:100:90:90:5:10:blank
+tile:100:100:85:85:4:10:blank
+tile:80:80:100:100:6:6:metal7
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottle 1-15-2021, 8:46:46 PM
+ramil (magistral) sent /rawmap 1-15-2021, 8:46:49 PM
+ramil (magistral) sent /rawdata mapname:ch4
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:snow
+tile:10:100:0:100:0:100:wallrocks1
+tile:0:9:9:9:0:10:snow
+tile:0:9:10:10:0:10:wallrocks1
+zone:0:1000:0:1000:0:1000:the snow mountain
+src:0:1000:0:1000:0:1000:wind5.ogg
+tile:0:9:10:19:11:11:snow
+tile:0:9:20:20:11:21:snow
+tile:0:9:11:1000:0:0:hazard
+tile:0:9:21:30:21:21:snow
+tile:0:9:25:25:21:24:teleport
+tile:0:9:30:30:21:30:snow
+tile:0:6:30:30:25:25:hazard
+zone:0:6:30:30:24:24:try to get around it
+zone:7:7:30:30:24:24:good, go upp
+tile:0:9:31:39:30:30:snow
+tile:0:9:31:39:30:30:stun
+tile:0:9:40:40:30:40:snow
+tile:0:9:41:41:30:39:wallrocks1
+tile:0:9:41:49:40:40:snow
+tile:0:9:50:50:40:50:snow
+tile:0:9:42:43:40:42:teleport
+tile:0:9:51:59:50:50:snow
+tile:0:9:52:55:50:50:teleport
+tile:0:9:60:60:50:60:snow
+tile:0:9:60:69:60:60:snow
+tile:0:9:61:61:60:60:hazard
+tile:0:9:63:63:60:62:hazard
+tile:0:9:67:68:60:63:teleport
+tile:0:9:70:70:60:70:snow
+tile:0:9:71:79:70:70:snow
+tile:0:9:71:74:70:70:teleport
+tile:0:9:80:80:70:80:snow
+tile:0:9:81:89:80:80:snow
+tile:0:9:81:81:80:80:hazard
+tile:0:9:82:82:80:80:stun
+tile:0:9:83:83:80:80:suicide
+tile:0:9:84:85:80:80:teleport
+tile:0:9:90:90:80:90:snow
+tile:0:9:91:120:90:90:snow
+tile:0:9:94:97:90:90:hazard
+tile:0:9:103:105:90:92:teleport
+tile:0:9:110:115:90:90:stun
+tile:0:9:120:120:90:100:snow
+tile:0:9:120:139:100:100:snow
+tile:0:9:121:124:100:100:hazard
+tile:0:9:128:131:100:100:teleport
+tile:0:9:141:141:100:115:wallrocks1
+tile:0:0:140:140:100:100:snow1
+tile:1:9:140:140:100:115:wallrocks1
+zone:0:9:140:140:100:115:press enter to finish
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0
+travelpoint:0:0:140:140:100:100:store:5:5:0:condrats
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottle 1-15-2021, 8:47:20 PM
+ramil (magistral) sent /go 0 140 100 1-15-2021, 8:47:27 PM
+ramil (magistral) sent /bid 555 1-15-2021, 9:02:05 PM
+ramil (magistral) sent /cancelauction 1-15-2021, 9:02:06 PM
+ramil (magistral) sent /cancelbid y 1-15-2021, 9:02:07 PM
+ramil (magistral) sent /bid 2 1-15-2021, 9:02:10 PM
+ramil (magistral) sent /cancelauction 1-15-2021, 9:02:11 PM
+ramil (magistral) sent /cancelbid y 1-15-2021, 9:02:14 PM
+ramil (magistral) sent /go 0 80 0 1-15-2021, 9:03:09 PM
+ramil (magistral) sent /go 0 00 store 1-15-2021, 9:03:15 PM
+ramil (magistral) sent /go 0 75 0 main 1-15-2021, 9:04:08 PM
+ramil (magistral) sent /go 0 80 0 main 1-15-2021, 9:05:00 PM
+ramil (magistral) sent /go 401 401 0 1-15-2021, 9:06:12 PM
+ramil (magistral) sent /t caria missile 1-15-2021, 9:08:11 PM
+ramil (magistral) sent /go 35 135 0 1-15-2021, 9:09:06 PM
+ramil (magistral) sent /go 0 0 0 stor 1-15-2021, 9:35:45 PM
+ramil (magistral) sent /go 0 0 0 store 1-15-2021, 9:35:50 PM
+ramil (magistral) sent /lchat aha 1-15-2021, 10:25:16 PM
+ramil (magistral) sent /lchat whats are weapon? 1-15-2021, 10:26:26 PM
+ramil (magistral) sent /lchat laaaaaaaags 1-15-2021, 10:28:05 PM
+ramil (magistral) sent /lchat the ping took 5517 ms, 5 seconds 1-15-2021, 10:28:15 PM
+ramil (magistral) sent /lchat ahahahahahhahahahahahahadassffsdafsda 1-15-2021, 10:28:35 PM
+ramil (magistral) sent /inv 1-15-2021, 10:28:50 PM
+ramil (magistral) sent /inv 1-15-2021, 10:29:25 PM
+ramil (magistral) sent /t aha 1-15-2021, 10:31:29 PM
+ramil (magistral) sent /inv 1-15-2021, 10:31:37 PM
+ramil (magistral) sent /inv 1-15-2021, 10:32:02 PM
+ramil (magistral) sent /inv 1-15-2021, 10:32:43 PM
+ramil (magistral) sent /inv 1-15-2021, 10:33:08 PM
+ramil (magistral) sent /t 4 stones 1-15-2021, 10:34:33 PM
+ramil (magistral) sent /t bye 1-15-2021, 10:34:42 PM

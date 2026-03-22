@@ -1,0 +1,15 @@
+mapname:road_to_the_lost_city
+maxx:300
+maxy:100
+maxz:50
+tile:0:300:0:100:0:0:grass2
+zone:0:300:0:39:0:50:forest
+zone:0:300:51:100:0:50:forest
+tile:0:300:40:50:0:0:concrete12
+zone:1:299:40:50:0:50:road to the lost city
+zone:0:0:40:50:0:50:will return back to the village
+zone:300:300:40:50:0:50:passage to the lost city
+src:0:300:51:100:0:50:amb1.ogg
+src:0:300:0:39:0:50:amb1.ogg
+travelpoint:300:300:40:50:0:10:the_lost_city:0:45:0:you went to the lost city
+travelpoint:0:0:40:50:0:10:north_village:250:45:0:you returned to the village

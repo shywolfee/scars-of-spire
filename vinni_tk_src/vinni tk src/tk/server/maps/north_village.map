@@ -1,0 +1,34 @@
+mapname:north_village
+maxx:250
+maxy:250
+maxz:50
+tile:0:250:0:250:0:0:grass2
+zone:0:250:0:250:0:50:village
+tile:120:130:0:250:0:0:concrete12
+tile:0:119:40:50:0:0:concrete12
+tile:131:250:40:50:0:0:concrete12
+zone:120:130:0:0:0:50:go back to the north road
+zone:120:130:1:249:0:50:road
+zone:131:249:40:50:0:50:road
+zone:0:119:40:50:0:50:road
+tile:210:230:51:51:0:30:wallsheetrock
+tile:210:210:52:60:0:30:wallsheetrock
+tile:210:230:64:64:0:30:wallsheetrock
+tile:230:230:52:63:0:30:wallsheetrock
+tile:211:229:52:63:0:0:carpet2
+tile:210:210:61:63:0:10:walldoor1
+tile:210:210:61:63:11:30:wallsheetrock
+travelpoint:209:209:61:63:0:10:north_village:211:62:0:you went into a small house
+travelpoint:211:211:61:63:0:10:north_village:209:62:0:you left a small house
+zone:211:211:61:63:0:10:door:trackme
+zone:209:209:61:63:0:10:door in small house
+zone:211:229:52:60:0:30:a small house
+zone:212:229:61:63:0:30:a small house
+tile:215:220:52:55:0:3:wallcloth
+tile:215:220:52:55:4:4:carpet4
+tile:229:229:63:63:0:20:plank
+zone:229:229:63:63:0:28:stairs to the second floor
+travelpoint:120:130:0:0:0:10:north_road:55:500:0:you returned to the north road
+zone:250:250:40:50:0:50:passage to the road leading to the lost city
+zone:0:0:47:49:0:50:passage to the mountains
+travelpoint:250:250:40:50:0:10:road_to_the_lost_city:0:45:0:you walked the road leading to the lost city

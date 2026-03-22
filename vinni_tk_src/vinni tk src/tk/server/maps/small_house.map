@@ -1,0 +1,307 @@
+mapname:small_house
+maxx:50
+maxy:50
+maxz:100
+zone:0:50:0:50:0:100:house
+src:0:50:0:50:0:100:shelteramb.ogg
+tile:23:26:0:5:0:0:concrete5
+tile:0:22:0:50:0:10:wallstone
+tile:27:50:0:50:0:10:wallstone
+tile:23:26:6:50:0:10:wallstone
+tile:0:22:0:50:10:10:carpet2
+tile:27:50:0:50:10:10:carpet2
+tile:23:26:6:50:10:10:carpet2
+tile:23:26:5:5:0:10:carpet3
+tile:23:26:0:4:10:10:carpet2
+zone:19:27:0:9:0:20:hallways
+zone:23:26:5:5:0:9:stairs
+zone:23:26:5:5:10:20:stairs
+tile:28:28:0:10:10:69:wallwoodcrate
+tile:2:16:0:9:10:10:tile4
+tile:18:18:0:10:10:69:wallwoodcrate
+tile:19:27:0:4:10:39:wallwoodcrate
+tile:19:21:5:5:10:40:concrete26
+tile:19:27:0:4:40:40:wood1
+tile:23:27:5:5:40:70:concrete26
+zone:19:21:4:5:10:50:staircase to the second floor
+zone:18:28:0:5:40:69:flight of stairs
+zone:0:50:0:50:70:100:second floor
+zone:23:27:5:5:40:80:staircase to the second floor:trackme
+tile:0:9:10:11:10:89:wallwoodcrate
+tile:11:18:10:11:10:69:wallwoodcrate
+tile:19:20:10:10:10:69:wallwoodcrate
+tile:25:27:10:10:10:69:wallwoodcrate
+tile:21:24:10:10:20:69:wallwoodcrate
+tile:17:17:0:9:10:69:wallwoodcrate
+tile:0:1:0:9:10:69:wallwoodcrate
+tile:14:16:0:2:10:12:wallmetal9
+tile:14:16:0:2:13:13:glass4
+tile:15:15:1:1:11:13:spring
+src:15:15:1:1:10:13:sprinkle.ogg
+src:15:15:1:1:10:13:waterdrip.ogg
+tile:3:3:0:1:10:11:wallglass
+tile:2:2:1:1:10:11:wallglass
+tile:3:3:0:1:12:12:glass3
+tile:2:2:1:1:12:12:glass3
+tile:2:2:0:0:10:10:water
+tile:10:10:11:11:10:11:wallwood4
+tile:10:10:11:11:11:11:tile3
+zone:0:17:0:11:10:20:restroom
+zone:1:3:0:1:10:20:toilet seat
+tile:10:10:10:11:20:69:wallwoodcrate
+tile:23:26:0:0:0:9:walldoor2
+amb:23:26:0:1:0:7:windchimes.ogg
+tile:22:22:22:22:10:15:wallcone
+tile:28:28:28:28:10:15:wallcone
+tile:22:22:28:28:10:15:wallcone
+tile:28:28:22:22:10:15:wallcone
+tile:20:30:20:30:15:15:shelter
+tile:21:29:22:22:14:14:wallcone1
+tile:21:29:28:28:14:14:wallcone1
+tile:22:22:21:29:14:14:wallcone1
+tile:28:28:21:29:14:14:wallcone1
+tile:23:27:25:25:14:14:wallcone1
+zone:14:17:0:2:11:20:washbasin
+travelpoint:23:26:0:1:0:10:main:225:449:2:you left the little house
+zone:20:30:20:30:15:30:table:trackme
+tile:0:6:25:35:10:12:wallbeaulon
+tile:1:6:27:33:13:13:grate
+tile:1:6:25:26:12:90:wallbeaulon
+tile:1:6:34:35:12:90:wallbeaulon
+tile:0:0:25:35:12:90:wallbeaulon
+tile:6:6:27:27:13:20:wallglass
+tile:6:6:33:33:13:20:wallglass
+tile:6:6:27:33:20:90:wallbeaulon
+src:0:6:25:35:13:20:hearth.ogg
+tile:6:6:28:32:13:13:wallglass
+src:0:2:27:33:13:20:fire.ogg
+tile:1:1:30:30:18:18:concrete20
+tile:5:5:30:30:23:23:concrete20
+tile:5:5:27:27:28:28:concrete20
+tile:1:1:31:31:32:32:concrete20
+tile:5:5:31:31:37:37:concrete20
+tile:5:5:27:27:42:42:concrete20
+tile:5:5:33:33:47:47:concrete20
+tile:1:1:29:29:51:51:concrete20
+tile:1:1:33:33:56:56:concrete20
+tile:3:3:33:33:61:61:concrete20
+tile:3:3:27:27:65:65:concrete20
+tile:3:3:33:33:69:69:concrete20
+tile:5:5:33:33:74:74:concrete20
+tile:5:5:30:30:79:79:concrete20
+tile:3:3:30:30:83:90:concrete20
+zone:0:6:25:35:0:20:fireplace:trackme
+zone:0:7:25:35:18:25:way to the chimney
+zone:0:6:25:35:25:90:chimney
+src:3:3:30:30:90:100:buz.ogg
+tile:0:50:0:50:90:90:plywood
+zone:0:50:0:50:90:100:attic
+tile:48:50:48:50:90:90:metal5
+travelpoint:48:50:48:50:90:90:main:250:475:100:you climbed onto the roof
+zone:22:27:0:1:0:10:door to the street
+tile:25:25:19:19:10:11:chair
+zone:25:25:19:19:10:25:armchair
+tile:25:25:31:31:10:11:chair
+zone:25:25:31:31:10:25:armchair
+tile:19:19:25:25:10:11:chair
+zone:19:19:25:25:10:25:armchair
+tile:31:31:25:25:10:11:chair
+zone:31:31:25:25:10:25:armchair
+tile:29:29:0:15:10:69:wallwoodcrate
+tile:30:35:15:15:10:69:wallwoodcrate
+tile:39:50:15:15:10:69:wallwoodcrate
+tile:36:38:15:15:10:10:tile3
+tile:30:50:0:14:10:10:stone2
+tile:36:38:15:15:20:69:wallwoodcrate
+tile:10:10:10:10:10:10:tile4
+zone:10:10:11:12:10:20:entrance to the toilet:trackme
+zone:30:50:0:15:10:30:kitchen:trackme
+zone:36:38:15:15:10:20:passage to the kitchen
+tile:10:10:10:10:10:19:walldoor1
+door:10:11:11:10:9:10:1000:.ogg:dooropen5.ogg:1.ogg:doorclose.ogg
+door:10:9:10:10:11:11:1000:.ogg:dooropen5.ogg:1.ogg:doorclose.ogg
+tile:45:50:0:14:10:15:wallcounter
+tile:45:50:0:14:15:15:deck
+tile:30:33:0:2:10:20:wallmetal9
+tile:30:33:0:2:20:20:metal11
+tile:36:40:0:4:10:15:wallmetal6
+tile:36:40:0:4:15:15:metal1
+tile:39:39:3:3:15:15:metal4
+tile:39:39:1:1:15:15:metal4
+tile:37:37:1:1:15:15:metal4
+tile:37:37:3:3:15:15:metal4
+tile:42:44:0:4:10:15:wallcounter
+tile:42:44:0:4:15:15:deck
+door:15:1:13:15:1:13:300:.ogg:.ogg:drinkingfountain.ogg:.ogg
+zone:30:34:0:3:10:40:fridge
+zone:36:40:0:4:15:30:plate
+src:15:35:15:35:10:20:bar.ogg
+tile:0:6:40:50:10:12:wallsofa
+tile:0:6:40:50:12:12:plexi
+tile:7:15:46:50:10:12:wallsofa
+tile:7:15:46:50:12:12:plexi
+zone:0:6:40:50:12:30:large soft sofa:trackme
+zone:7:15:46:50:12:30:large soft sofa
+tile:7:50:0:50:70:70:hardwood1
+tile:3:6:0:24:70:70:hardwood1
+tile:0:1:1:24:70:70:hardwood1
+tile:2:2:10:24:70:70:hardwood1
+tile:0:6:36:50:70:70:hardwood1
+tile:23:27:5:5:65:70:concrete21
+tile:30:30:0:50:70:89:wallsheetrock
+tile:30:30:16:20:70:80:walldoor2
+travelpoint:29:29:16:20:70:80:small_house:31:18:70:you went into the bedroom
+travelpoint:31:31:16:20:70:80:small_house:29:18:70:you left the room
+zone:30:50:0:30:70:80:bedroom
+zone:29:29:16:20:70:80:bedroom door:trackme
+zone:31:31:16:20:70:80:corridor door
+tile:30:50:30:30:70:89:wallsheetrock
+tile:30:50:0:0:70:89:wallsheetrock
+tile:50:50:0:50:70:89:wallsheetrock
+tile:30:50:50:50:70:89:wallsheetrock
+tile:47:49:3:5:70:72:wallcone1
+tile:47:49:3:5:72:72:wood
+tile:44:49:6:16:70:80:wallcontainer
+tile:44:49:7:15:80:80:plexi
+tile:43:43:9:10:70:80:stairs
+zone:42:43:9:10:70:89:staircase to bed
+tile:43:43:6:8:70:83:wallcontainer
+tile:43:43:11:16:70:83:wallcontainer
+tile:44:49:16:16:80:83:wallcontainer
+tile:44:49:6:6:80:83:wallcontainer
+zone:43:50:6:16:80:89:bed::trackme
+tile:47:49:17:19:70:72:wallcone1
+tile:47:49:17:19:72:72:wood
+zone:47:49:3:5:72:80:bedside table
+zone:47:49:17:19:72:80:bedside table
+tile:45:49:22:29:74:74:hardwood4
+tile:45:49:29:29:70:73:wallcardboard
+tile:45:49:22:22:70:73:wallcardboard
+tile:49:49:22:29:70:73:wallcardboard
+tile:46:48:27:28:70:72:wallcomputer
+tile:46:48:27:28:72:72:metal8
+src:46:48:27:28:70:72:desktop1.ogg
+tile:15:15:46:50:12:14:wallmedal
+tile:15:15:46:50:12:14:wallfurniture
+tile:15:15:46:50:14:14:carpet4
+tile:0:6:40:40:12:14:wallfurniture
+tile:0:6:40:40:14:14:carpet4
+tile:0:14:50:50:12:16:wallsofa
+tile:0:14:50:50:16:16:carpet5
+tile:0:0:41:49:12:16:wallsofa
+tile:0:0:41:49:16:16:carpet5
+zone:45:50:22:29:74:89:computer desk
+zone:45:45:27:27:70:73:shelter computer:trackme
+tile:43:44:24:26:70:71:walltable
+tile:43:44:24:26:71:71:plexi
+zone:42:44:24:26:71:80:computer chair
+tile:42:42:24:26:70:73:walltable
+tile:42:42:24:26:73:73:chair
+tile:49:49:26:28:74:76:wallglass
+src:47:49:7:7:80:82:pur.ogg
+src:38:38:2:2:15:15:oven.ogg
+zone:48:50:48:50:90:100:sunroof:trackme
+src:30:33:0:2:13:20:fridge3.ogg
+door:2:0:10:2:0:10:0:.ogg:.ogg:dooropen23.ogg:.ogg
+tile:19:27:0:0:40:50:wallglass
+zone:21:23:0:1:40:50:balcony door:trackme
+travelpoint:21:23:1:1:40:50:main:222:449:40:you went out to a small balcony, get some fresh air
+tile:19:19:0:0:40:50:wallwoodcrate
+tile:15:15:45:45:80:90:ladder1
+tile:9:9:43:43:10:14:wallfurniture
+tile:14:14:43:43:10:14:wallfurniture
+tile:9:9:37:37:10:14:wallfurniture
+tile:14:14:37:37:10:14:wallfurniture
+tile:9:14:37:43:14:14:wood
+zone:9:14:37:43:14:25:Coffee table:trackme
+tile:0:1:0:9:70:89:wallwoodcrate
+tile:17:18:0:9:70:89:wallwoodcrate
+tile:0:9:10:11:70:89:wallwoodcrate
+tile:11:18:10:11:70:89:wallwoodcrate
+tile:10:10:10:11:80:89:wallwoodcrate
+tile:10:10:10:10:70:79:walldoor1
+tile:10:10:11:11:70:71:wallwood4
+tile:10:10:11:11:71:71:tile3
+tile:3:16:0:9:70:70:tile4
+tile:2:3:1:1:70:71:wallglass
+tile:3:3:0:0:70:71:wallglass
+tile:2:3:1:1:71:71:glass3
+tile:3:3:0:0:71:71:glass3
+tile:2:2:2:9:70:70:tile4
+tile:1:1:0:1:20:69:wallrail
+tile:2:2:1:1:20:69:wallrail
+tile:3:3:0:1:20:69:wallrail
+tile:14:16:0:2:70:73:wallmetal9
+tile:14:16:0:2:73:73:glass4
+tile:15:15:1:1:71:73:spring
+src:15:15:1:1:70:73:sprinkle.ogg
+src:15:15:1:1:70:73:waterdrip.ogg
+zone:0:17:0:10:70:80:restroom
+zone:1:3:0:1:70:80:toilet seat
+zone:14:17:0:2:70:80:washbasin
+zone:1:3:0:1:20:69:sewage pipe
+zone:10:10:9:10:10:20:door
+zone:10:10:9:10:70:80:door
+zone:10:10:11:12:70:80:entrance to the toilet
+door:10:11:71:10:9:70:1000:.ogg:dooropen5.ogg:1.ogg:doorclose.ogg
+door:10:9:70:10:11:71:1000:.ogg:dooropen5.ogg:1.ogg:doorclose.ogg
+door:15:1:73:15:1:73:300:.ogg:.ogg:drinkingfountain.ogg:.ogg
+src:20:20:5:10:10:10:music.ogg
+src:30:30:5:10:10:10:music.ogg
+src:20:20:10:10:40:40:music.ogg
+src:30:30:10:10:40:40:music.ogg
+src:20:20:5:10:70:70:music.ogg
+src:30:30:5:10:70:70:music.ogg
+src:20:20:35:40:10:10:music.ogg
+src:30:30:35:40:10:10:music.ogg
+src:20:20:35:40:70:70:music.ogg
+src:30:30:35:40:70:70:music.ogg
+src:25:25:25:25:20:70:music.ogg
+tile:45:50:20:40:10:12:walltile
+tile:45:50:20:40:12:12:wood3
+zone:45:50:20:40:12:30:pier glass:trackme
+tile:49:50:23:27:12:15:wallglass
+tile:49:50:23:27:15:15:generic
+zone:48:50:23:27:12:30:tv
+src:49:50:23:27:12:13:bowlingalleylong.ogg
+src:20:30:20:30:15:30:cafe.ogg
+tile:46:50:40:40:12:45:wallbuilding
+tile:46:50:33:33:12:45:wallbuilding
+tile:46:46:34:39:12:15:wallglass
+tile:46:46:33:40:16:45:wallbuilding
+travelpoint:45:45:34:39:12:13:small_house:47:36:12:you're in the closet
+tile:47:50:34:39:12:12:hardwood4
+tile:48:50:34:39:17:17:bridge1
+tile:48:50:34:39:23:23:bridge1
+tile:48:50:34:39:29:29:bridge1
+tile:48:50:34:39:35:35:bridge1
+tile:47:47:34:39:41:41:shelter
+tile:46:50:33:40:45:45:deck
+zone:46:50:33:40:12:55:closet
+zone:46:50:33:40:45:60:on top of the closet
+zone:45:45:34:39:12:15:closet door:trackme
+travelpoint:47:47:34:39:12:15:small_house:45:35:12:you closed the closet door
+tile:49:50:29:31:12:12:wallwood3
+tile:49:50:29:31:13:13:metal10
+zone:48:50:29:31:12:25:disc player
+tile:15:15:1:1:11:12:underwater
+src:20:20:10:10:10:10:jloop.ogg
+src:30:30:10:10:10:10:jloop.ogg
+src:20:20:10:10:40:40:jloop.ogg
+src:30:30:10:10:40:40:jloop.ogg
+src:20:20:10:10:70:70:jloop.ogg
+src:30:30:10:10:70:70:jloop.ogg
+src:20:20:40:40:10:10:jloop.ogg
+src:30:30:40:40:10:10:jloop.ogg
+src:20:20:40:40:70:70:jloop.ogg
+src:30:30:40:40:70:70:jloop.ogg
+src:25:25:25:25:20:60:jloop.ogg
+/robots:0:50:0:50:10:70:3:0:cockroach,rabbit
+zone:15:15:45:45:80:90:broken staircase:trackme
+tile:30:30:36:40:70:80:walldoor2
+src:23:26:1:1:0:5:windchimes2.ogg
+zone:2:2:0:0:10:10:to drain the water, press enter:trackme
+travelpoint:2:2:0:0:10:10:cave:1:1:220:!
+noitems:0:50:0:50:0:100:concussive_grenade
+
+tile:15:15:45:45:70:80:ladder1

@@ -1,0 +1,190 @@
+
+grand father (bolgelo) sent /hideme 1-10-2021, 10:14:56 PM
+grand father (bolgelo) sent /unhideme 1-10-2021, 10:15:03 PM
+grand father (bolgelo) sent /admintell well 1-10-2021, 10:22:26 PM
+grand father (bolgelo) sent /admintell fuck! you dont changed that fucking admintell sound! 1-10-2021, 10:22:38 PM
+grand father (bolgelo) sent /pm Mongkol if you will nead help pm me or send message in admintell by pressing y key 1-10-2021, 10:23:18 PM
+grand father (bolgelo) sent /admintell никита 1-10-2021, 10:23:50 PM
+grand father (bolgelo) sent /admintell почему я слышу кого то как своего тимейте 1-10-2021, 10:24:00 PM
+grand father (bolgelo) sent /admintell тимейта* 1-10-2021, 10:24:05 PM
+grand father (bolgelo) sent /teams 1-10-2021, 10:24:17 PM
+grand father (bolgelo) sent /t loooool i forgo 1-10-2021, 10:24:26 PM
+grand father (bolgelo) sent /t forgot 1-10-2021, 10:24:28 PM
+grand father (bolgelo) sent /t tahti am in team loooool 1-10-2021, 10:24:36 PM
+grand father (bolgelo) sent /t that* 1-10-2021, 10:24:38 PM
+grand father (bolgelo) sent /t franklin balls 1-10-2021, 10:28:08 PM
+grand father (bolgelo) sent /t dont lose points aaaaaaaa 1-10-2021, 10:28:13 PM
+grand father (bolgelo) sent /compinfo dicks_to_nikita 1-10-2021, 10:30:56 PM
+grand father (bolgelo) sent /admintell чё за 1-10-2021, 10:31:16 PM
+grand father (bolgelo) sent /admintell почему сначало делит а потом через 10 сек выход 1-10-2021, 10:31:27 PM
+grand father (bolgelo) sent /admintell прикрути админам удалялку 1-10-2021, 10:31:53 PM
+grand father (bolgelo) sent /r who are you 1-10-2021, 10:33:32 PM
+grand father (bolgelo) sent /rawmap 1-10-2021, 10:33:49 PM
+grand father (bolgelo) sent /r duncan? 1-10-2021, 10:33:57 PM
+grand father (bolgelo) sent /admintell are you crazy 1-10-2021, 10:34:08 PM
+grand father (bolgelo) sent /admintell noitems:0:500:0:500:0:500:concussive_grenade:carrier_missile:guided_missile
+ 1-10-2021, 10:34:13 PM
+grand father (bolgelo) sent /admintell i will cahnge that boolshit 1-10-2021, 10:36:17 PM
+grand father (bolgelo) sent /admintell change* 1-10-2021, 10:36:22 PM
+grand father (bolgelo) sent /rawmap 1-10-2021, 10:36:36 PM
+grand father (bolgelo) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:grass
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+src:0:500:0:500:0:50:wind5.ogg
+tile:0:500:0:500:0:0:snow
+noitems:0:500:0:500:0:199:guided_missile 1-10-2021, 10:38:14 PM
+grand father (bolgelo) sent /admintell блять 1-10-2021, 10:39:26 PM
+grand father (bolgelo) sent /admintell ты опять зафейлил клавишу e 1-10-2021, 10:39:35 PM
+grand father (bolgelo) sent /admintell я на e могу поворачиваться 1-10-2021, 10:39:44 PM
+grand father (bolgelo) sent /admintell в танка 1-10-2021, 10:39:51 PM
+grand father (bolgelo) sent /admintell танке 1-10-2021, 10:39:56 PM
+grand father (bolgelo) sent /giveall metal 500 1-10-2021, 10:42:33 PM
+grand father (bolgelo) sent /admintell why 1-10-2021, 10:43:04 PM
+grand father (bolgelo) sent /admintell thats not much 1-10-2021, 10:43:16 PM
+grand father (bolgelo) sent /suicide 1-10-2021, 10:44:34 PM
+grand father (bolgelo) sent /go 0 100 0  1-10-2021, 10:44:57 PM
+grand father (bolgelo) sent /cdata Mongkol inv 1-10-2021, 10:45:24 PM
+grand father (bolgelo) sent /giveall coin 21210 1-10-2021, 10:46:13 PM
+grand father (bolgelo) sent /notify you can set favorit slots by shift and numbers keys, and you can use this by alt and numbers 1-10-2021, 10:47:02 PM
+grand father (bolgelo) sent /compinfo laid 1-10-2021, 10:47:48 PM
+grand father (bolgelo) sent /compinfo roflrofl 1-10-2021, 10:48:01 PM
+grand father (bolgelo) sent /admr roflrofl maybe time to change your name? 1-10-2021, 10:48:32 PM
+grand father (bolgelo) sent /inv 1-10-2021, 10:49:56 PM
+grand father (bolgelo) sent /rawmpa 1-10-2021, 10:53:16 PM
+grand father (bolgelo) sent /rawmap 1-10-2021, 10:53:18 PM
+grand father (bolgelo) sent /rawdata mapname:stun
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:stun
+travelpoint:100:100:100:100:0:0:store:0:0:0:moved
+fightingstate:0
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:hand_grenade:stone:concussive_grenade:turret:armored_tank:armored_tank:tank:aircraft:police_car
+zone:0:100:0:100:0:100:stun!
+zone:100:100:100:100:0:100:press enter to get your reward:trackme
+tile:0:0:0:0:0:0:concrete3
+zone:0:0:0:0:0:100:your reward is waiting for you at the coordenates 100 100 0  1-10-2021, 10:53:30 PM
+grand father (bolgelo) sent /rawmap 1-10-2021, 10:56:06 PM
+grand father (bolgelo) sent /rawdata mapname:stun
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:stun
+travelpoint:100:100:100:100:0:0:store:0:0:0:moved
+fightingstate:0
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:hand_grenade:stone:concussive_grenade:turret:armored_tank:armored_tank:tank:aircraft:police_car
+zone:0:100:0:100:0:100:stun!
+zone:100:100:100:100:0:100:press enter to get your reward:trackme
+tile:0:0:0:0:0:0:concrete3
+zone:0:0:0:0:0:100:your reward is waiting for you at the coordenates 100 100 0 
+src:0:100:0:100:0:100:drums9.ogg 1-10-2021, 10:56:19 PM
+grand father (bolgelo) sent /inv 1-10-2021, 10:56:22 PM
+grand father (bolgelo) sent /go 0 0 0 store 1-10-2021, 10:56:52 PM
+grand father (bolgelo) sent /newmotd Welcome to the killer! we hope you like the game, and we advise you to invite your friends! good luck and enjoy!
+ link for the game below!
+http://darkserver.ru/tk2/tk.zip 1-10-2021, 11:03:45 PM
+grand father (bolgelo) sent /warn artem 1 dont speak in russian in english channel! if you will do this again, i will disable your chat at 1 day. 1-10-2021, 11:05:04 PM
+grand father (bolgelo) sent /admr artem засунь его в магазин любой, он тебе сразу монеты даст, можно и не через автомат. а через простой например weapon store 1-10-2021, 11:06:22 PM
+grand father (bolgelo) sent /gnstart 1-10-2021, 11:06:25 PM
+grand father (bolgelo) sent /gnsubmit 12 1-10-2021, 11:06:33 PM
+grand father (bolgelo) sent /gnstart 1-10-2021, 11:06:40 PM
+grand father (bolgelo) sent /gnsubmit 15 1-10-2021, 11:06:42 PM
+grand father (bolgelo) sent /inv 1-10-2021, 11:07:08 PM
+grand father (bolgelo) sent /inv 1-10-2021, 11:07:09 PM
+grand father (bolgelo) sent /where roflrofl 1-10-2021, 11:14:45 PM
+grand father (bolgelo) sent /go 5 5 5  1-10-2021, 11:14:56 PM
+grand father (bolgelo) sent /go 5 5 5  1-10-2021, 11:15:06 PM
+grand father (bolgelo) sent /go 0 0 10 1-10-2021, 11:15:13 PM
+grand father (bolgelo) sent /go 5 5 5  1-10-2021, 11:15:18 PM
+grand father (bolgelo) sent /go 5 5 5 admin_area 1-10-2021, 11:16:14 PM
+grand father (bolgelo) sent /go 19 19 5 admin_area 1-10-2021, 11:17:28 PM
+grand father (bolgelo) sent /inv 1-10-2021, 11:17:38 PM
+grand father (bolgelo) sent /hideme 1-10-2021, 11:19:22 PM
+grand father (bolgelo) sent /admr roflrofl die 1-10-2021, 11:19:52 PM
+grand father (bolgelo) sent /chat welcome to the killer! enjoy! gift time! 1-10-2021, 11:20:32 PM
+grand father (bolgelo) sent /giveall snowball 69 1-10-2021, 11:20:39 PM
+grand father (bolgelo) sent /giveall turret 10 1-10-2021, 11:21:15 PM
+grand father (bolgelo) sent /chat megagift time! 1-10-2021, 11:21:41 PM
+grand father (bolgelo) sent /megagift 1-10-2021, 11:21:47 PM
+grand father (bolgelo) sent /chat hi there 1-10-2021, 11:29:22 PM
+grand father (bolgelo) sent /chat if you nead help, press y and tipe your message. 1-10-2021, 11:29:54 PM
+grand father (bolgelo) sent /where jibran 1-10-2021, 11:30:55 PM
+grand father (bolgelo) sent /where Mongkol 1-10-2021, 11:31:30 PM
+grand father (bolgelo) sent /chat enter 1-10-2021, 11:33:01 PM
+grand father (bolgelo) sent /chat grave 1-10-2021, 11:33:28 PM
+grand father (bolgelo) sent /chat left key from 1 1-10-2021, 11:33:36 PM
+grand father (bolgelo) sent /chat track store and press enter to buy 1-10-2021, 11:43:09 PM
+grand father (bolgelo) sent /chatt wait, you took damage 1-10-2021, 11:46:26 PM
+grand father (bolgelo) sent /chat because you took damage 1-10-2021, 11:46:40 PM
+grand father (bolgelo) sent /chat wait a little time 1-10-2021, 11:46:52 PM
+grand father (bolgelo) sent /chat rpg7 for example 1-10-2021, 11:52:20 PM

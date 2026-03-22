@@ -1,0 +1,90 @@
+void bike()
+{
+int index=get_player_index(e.peer_id);
+if(index>-1)
+{
+string items=players[index].get_inv();
+if(inv_item_number(items,"bike")<1)
+{
+send_reliable(players[index].peer_id,"bike_stop",0);
+return;
+}
+if(players[index].biketimer.elapsed>=700)
+{
+players[index].biketimer.restart();
+vector max,currentcoords(players[index].x,players[index].y,players[index].facing),bk;
+string playertile=get_tile_at(players[index].x,players[index].y,players[index].z,players[index].map);
+if(playertile=="")
+{
+send_reliable(players[index].peer_id,"Not in the air!",2);
+return;
+}
+if(playertile=="water" or playertile=="shallow" or playertile=="water2" or playertile=="water3" or playertile=="water4" or playertile=="sewer")
+{
+players[index].playsound("bikestuck");
+send_reliable(players[index].peer_id,"Oh no! You're bike just got stuck!",0);
+return;
+}
+max=get_max_values(players[index].map);
+int distance=0;
+string biketile;
+bk=currentcoords;
+for(uint i=1; i<=10; i++)
+{
+bk=move(players[index].x,players[index].y,players[index].facing);
+bk.x=round(bk.x,0);
+bk.y=round(bk.y,0);
+if(bk.x>=max.x)
+{
+bk.x=max.x;
+//continue;
+}
+if(bk.y>=max.y)
+{
+bk.y=max.y;
+//continue;
+}
+if(bk.x<=0) bk.x=0;
+if(bk.y<=0) bk.y=0;
+biketile=get_tile_at(bk.x,bk.y,players[index].z,players[index].map);
+if(string_contains(biketile,"water",1)>-1)
+{
+players[index].playsound("bikestuck");
+send_reliable(players[index].peer_id,"Oh no! You're bike just got stuck!",0);
+return;
+}
+if(string_contains(biketile,"wall",1)>-1)
+{
+//send_reliable(players[index].peer_id,"Oops? Your bike just crashed!",2);
+//players[index].playsound("bikecrash");
+//players[index].give("bike",-1);
+//players[index].health+=-20000;
+return;
+}
+players[index].x=bk.x;
+players[index].y=bk.y;
+send_reliable(players[index].peer_id,"move "+players[index].x+" "+players[index].y+" "+players[index].z,0);
+for(uint j=0;j<20;j+=1) {
+bk=move(players[index].x,players[index].y,players[index].facing);
+}
+string bt=get_tile_at(bk.x,bk.y,players[index].z,players[index].map);
+if(string_contains(bt,"wall",1)>-1)
+players[index].playsound("bikeradar");
+}
+if(bk.x<=max.x and bk.y<=max.y and bk.x>=0 and bk.y>=0)
+{
+if(biketile!=players[index].biketile)
+{
+players[index].playsound("bikechangetile");
+players[index].biketile=biketile;
+}
+if(biketiles.find(biketile)<0)
+{
+players[index].playsound("bikemisc");
+}
+else
+players[index].playsound("bike"+biketile);
+}
+}
+}
+}

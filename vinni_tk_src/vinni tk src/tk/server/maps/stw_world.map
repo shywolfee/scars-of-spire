@@ -1,0 +1,6 @@
+mapname:stw_world
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:sand
+zone:0:500:0:20:0:100:shoreline

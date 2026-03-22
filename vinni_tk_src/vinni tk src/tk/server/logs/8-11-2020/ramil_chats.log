@@ -1,0 +1,152 @@
+
+ramil (ramil) said hi 8-11-2020, 2:18:03 PM
+ramil (ramil) said fight on the store 8-11-2020, 2:23:26 PM
+ramil (ramil) said ok 8-11-2020, 2:23:40 PM
+ramil (ramil) said go in t 8-11-2020, 2:28:58 PM
+ramil (ramil) said go in tt 8-11-2020, 2:29:10 PM
+ramil (ramil) said go in teamtalk 8-11-2020, 2:32:40 PM
+ramil (ramil) said uuuuuu7u 8-11-2020, 2:33:53 PM
+ramil (ramil) said v/sethealth ramil 100000 8-11-2020, 2:52:19 PM
+ramil (ramil) said hi 8-11-2020, 3:38:31 PM
+ramil (ramil) said bitch 8-11-2020, 3:38:34 PM
+ramil (ramil) said newbie 8-11-2020, 3:38:40 PM
+ramil (ramil) said fight in the store 8-11-2020, 3:38:47 PM
+ramil (ramil) said go in teamtalk 8-11-2020, 3:39:02 PM
+ramil (ramil) said mutant_s lokation 8-11-2020, 3:39:28 PM
+ramil (ramil) said mutant 8-11-2020, 3:40:35 PM
+ramil (ramil) said dun 8-11-2020, 3:56:00 PM
+ramil (ramil) said enablet 8-11-2020, 3:56:42 PM
+ramil (ramil) said enablet. 8-11-2020, 3:57:18 PM
+ramil (ramil) said врублены. 8-11-2020, 3:57:39 PM
+ramil (ramil) said dun 8-11-2020, 3:58:22 PM
+ramil (ramil) said stop stp 8-11-2020, 4:10:29 PM
+ramil (ramil) said mutant 8-11-2020, 4:11:04 PM
+ramil (ramil) said m 8-11-2020, 4:15:37 PM
+ramil (ramil) said no] 8-11-2020, 4:15:57 PM
+ramil (ramil) said gg 8-11-2020, 4:21:59 PM
+ramil (ramil) said не надо было тна 5 пищеру ходить. 8-11-2020, 4:22:15 PM
+ramil (ramil) said там чёто не так. 8-11-2020, 4:22:23 PM
+ramil (ramil) said это из-за роботов на 5 пищере 8-11-2020, 4:24:00 PM
+ramil (ramil) said .вырублена. 8-11-2020, 4:34:56 PM
+ramil (ramil) said n 8-11-2020, 4:35:38 PM
+ramil (ramil) said m 8-11-2020, 4:35:40 PM
+ramil (ramil) said a 8-11-2020, 4:53:43 PM
+ramil (ramil) said go to privat room for 2 8-11-2020, 6:59:12 PM
+ramil (ramil) said .штм 8-11-2020, 7:01:31 PM
+ramil (ramil) said inv 8-11-2020, 7:06:58 PM
+ramil (ramil) said inv 8-11-2020, 7:10:16 PM
+ramil (ramil) said mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-11-2020, 7:16:53 PM
+ramil (ramil) said mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-11-2020, 7:18:32 PM
+ramil (ramil) said .туцумуте еуые 8-11-2020, 9:07:23 PM

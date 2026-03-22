@@ -1,0 +1,15 @@
+name person3
+health 4000
+defence 1000
+speed 500
+damage 0
+shoot 2000000000
+distance 0
+aggro 1000
+spread 1
+angle 90
+steps 0
+loot coin
+amount 10
+pains 3
+xp 1,10

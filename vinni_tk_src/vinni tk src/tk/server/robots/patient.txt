@@ -1,0 +1,16 @@
+name patient
+health 20000
+defence 1000
+speed 350
+damage 400,4000
+shoot 600
+distance 15
+aggro 1000
+spread 1
+angle 10
+steps 0
+loot coin
+amount 500
+shieldhits 10,50
+shieldchance 30
+xp 200,300

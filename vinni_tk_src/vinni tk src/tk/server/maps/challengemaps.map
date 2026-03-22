@@ -1,0 +1,18 @@
+mapname:challengemaps
+maxx:15
+maxy:0
+maxz:0
+tile:0:15:0:0:0:0:challenge
+src:0:15:0:0:0:0:drums2.ogg
+zone:0:15:0:0:0:0:Challenge maps! Please select the map by pressing the left and right arrow keys
+travelpoint:0:0:0:0:0:0:store:5:5:0:moved
+zone:0:0:0:0:0:0:go back:trackme
+fightingstate:0
+noitems:0:15:0:0:0:10:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:hand_grenade:stone:concussive_grenade:turret:wood
+tile:0:15:0:0:0:0:tile3
+zone:2:2:0:0:0:10:weapon challenge
+
+zone:3:3:0:0:0:10:laberint of death
+zone:4:4:0:0:0:0:dangerous place
+zone:5:5:0:0:0:10:snow mountain
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottlev:aircraft

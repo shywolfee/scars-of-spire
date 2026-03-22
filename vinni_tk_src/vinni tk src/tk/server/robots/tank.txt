@@ -1,0 +1,16 @@
+name tank
+health 500000
+defence 15000
+speed 600
+damage 10000,50000
+shoot 4300
+distance 25
+aggro 1000
+spread 4
+angle 10
+steps 2
+loot armored_tank
+amount 1
+shieldhits 100,300
+shieldchance 20
+xp 5000,7000

@@ -1,0 +1,33 @@
+sign@[] signs;
+class sign
+{
+int x,y,z;
+string text;
+sign(int sx,int sy,int sz,string t)
+{
+x=sx;
+y=sy;
+z=sz;
+text=t;
+}
+}
+void signcheckloop()
+{
+for(uint i=0; i<signs.length(); i++)
+{
+if(me.x==signs[i].x&&me.y==signs[i].y&&me.z==signs[i].z)
+{
+send_reliable(0,"signpress",0);
+speak(signs[i].text);
+}
+}
+}
+void spawn_sign(int signx,int signy,int signz,string signtext)
+{
+sign s1(signx,signy,signz,signtext);
+signs.insert_last(s1);
+}
+void destroysigns()
+{
+signs.resize(0);
+}

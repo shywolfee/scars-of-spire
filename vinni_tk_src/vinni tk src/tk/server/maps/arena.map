@@ -1,0 +1,7 @@
+mapname:arena
+maxx:100
+maxy:100
+maxz:30
+tile:0:100:0:100:0:0:deepsand
+zone:0:100:0:100:0:30:arena
+noitems:0:100:0:100:0:100:wood:armored_tank:police_car:aircraft:tank

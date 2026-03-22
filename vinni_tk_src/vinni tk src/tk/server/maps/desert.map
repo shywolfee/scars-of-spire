@@ -1,0 +1,13 @@
+mapname:desert
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:deepsand
+amb:0:500:0:500:0:500:wind1.ogg
+amb:0:500:0:500:0:500:wind2.ogg
+zone:0:500:0:500:0:500:desert
+travelpoint:0:500:0:0:0:10:stwml:250:500:0:!
+zone:0:500:0:0:0:10:to enter in island mainland press enter:trackmemapname:stwml
+
+travelpoint:251:500:500:500:0:0:stwrs:125:0:10:!
+zone:251:500:500:500:0:10:to exit the desert, press enter:trackme

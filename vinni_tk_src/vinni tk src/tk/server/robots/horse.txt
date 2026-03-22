@@ -1,0 +1,16 @@
+name horse
+health 20000
+defence 1500
+speed 300
+damage 100,10000
+shoot 500
+distance 5
+aggro 1000
+spread 2
+angle 90
+steps 2
+loot dead_horse
+amount 1
+shieldhits 10,40
+shieldchance 35
+xp 500,700

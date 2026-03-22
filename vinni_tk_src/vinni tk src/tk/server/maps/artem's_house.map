@@ -1,0 +1,49 @@
+mapname:artem's_house
+maxx:40
+maxy:55
+maxz:30
+tile:0:40:0:55:0:0:carpet2
+zone:0:40:0:55:0:30:my home
+tile:0:10:0:12:0:0:stone2
+zone:0:10:0:12:0:15:hallway
+tile:10:10:0:12:0:30:wallbank
+tile:11:25:12:12:0:30:wallbank
+tile:25:25:0:11:0:30:wallbank
+tile:10:12:20:40:0:30:wallbank
+tile:13:40:20:20:0:30:wallbank
+tile:13:40:40:40:0:30:wallbank
+tile:0:9:40:40:0:30:wallbank
+tile:10:10:8:11:0:20:wall3
+tile:10:12:30:35:0:15:wallwoodcrate
+tile:3:7:40:40:0:15:wallwoodcrate
+tile:26:40:0:19:0:0:linoleum
+tile:11:24:0:11:0:0:tile4
+zone:11:24:0:11:0:30:restroom
+zone:26:40:0:19:0:30:kitchen
+zone:13:40:21:39:0:30:living room
+zone:0:40:41:55:0:30:my room
+zone:9:9:8:11:0:10:toilet door:trackme
+travelpoint:9:9:8:11:0:10:artem's_house:11:9:0:you went to the toilet
+zone:11:11:8:11:0:10:door to the hallway
+travelpoint:11:11:8:11:0:10:artem's_house:9:9:0:you returned to the hallway
+zone:9:9:30:35:0:10:living room door:trackme
+travelpoint:9:9:30:35:0:10:artem's_house:13:33:0:you went into the living room
+zone:13:13:30:35:0:10:door to the corridor
+travelpoint:13:13:30:35:0:10:artem's_house:9:33:0:you went out into the corridor
+zone:3:7:39:39:0:10:door to the master's room:trackme
+travelpoint:3:7:39:39:0:10:artem's_house:5:41:0:you went into the luxurious room of the master of the house
+zone:3:7:41:41:0:10:door of the room
+travelpoint:3:7:41:41:0:10:artem's_house:5:39:0:you left the room, but you didn’t want to leave here
+tile:0:2:1:1:0:3:wallbrick
+tile:0:3:6:6:0:15:wallbrick
+tile:0:3:12:12:0:15:wallbrick
+fightingstate:0
+tile:1:2:1:5:3:3:shelter
+tile:0:0:1:5:3:15:wallbrick
+tile:0:3:7:11:3:3:shelter
+tile:3:3:6:11:3:15:wallbrick
+zone:1:2:1:5:3:15:shelf
+zone:0:2:7:11:3:15:wardrobe
+travelpoint:2:2:7:11:3:3:artem's_house:4:8:3:you climbed out of a stuffy closet
+travelpoint:4:4:7:11:3:3:artem's_house:2:8:4:you climbed into the closet
+zone:0:3:7:11:0:2:under the cupboard

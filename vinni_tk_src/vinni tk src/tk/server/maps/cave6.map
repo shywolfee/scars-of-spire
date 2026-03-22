@@ -1,0 +1,28 @@
+mapname:cave6
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+tile:25:75:25:75:0:50:wallbank
+tile:26:74:26:74:0:49:walls
+tile:25:75:25:75:51:51:roof2
+amb:0:100:0:100:0:100:sky.ogg
+amb:0:100:0:100:0:100:skytopia.ogg
+tile:0:24:0:100:0:0:cement2
+tile:0:100:0:24:0:0:cement2
+tile:76:100:0:100:0:0:cement2
+tile:0:100:76:100:0:0:cement2
+tile:40:50:25:25:0:10:wallgate
+zone:0:100:0:100:0:100:near the warehouse
+tile:0:0:0:100:0:20:wallfence2
+tile:0:100:100:100:0:20:wallfence2
+tile:100:100:0:100:0:20:wallfence2
+tile:0:100:0:0:0:20:wallfence2
+tile:50:60:0:0:0:20:wallgate
+zone:50:60:1:1:0:20:gate
+zone:40:50:24:24:0:10:warehouse gate
+travelpoint:40:50:24:24:0:10:sklad:25:1:0:you go into an old military warehouse and see a lot of ammunition in front of you
+travelpoint:50:60:1:1:0:20:cave5:50:499:0:you went back to an abandoned road
+noitems:0:100:0:100:0:100000:warp_box:concussive_grenade::tank:police_car:armored_tank:aircraft
+
+robots:50:60:1:5:0:0:1:5000:Amphibian

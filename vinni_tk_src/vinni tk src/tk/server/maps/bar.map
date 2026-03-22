@@ -1,0 +1,22 @@
+mapname:bar
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:carpet4
+tile:0:50:0:0:0:20:wallwoodcrate
+tile:50:50:0:50:0:20:wallwoodcrate
+tile:0:50:50:50:0:20:wallwoodcrate
+tile:30:49:30:49:0:0:wallwoodcrate
+tile:30:49:30:49:1:1:hardwood
+zone:0:50:0:50:0:100:bar
+zone:30:49:30:49:1:19:dance area:trackme
+noitems:0:50:0:50:0:100:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:fire_starter:aircraft:police_car:aircraft:tank:armored_tank
+fightingstate:0
+travelpoint:49:50:15:15:0:10:store:30:15:29:moved
+tile:50:50:15:15:0:10:walldoor2
+zone:49:50:15:15:0:10:exit:trackme
+vending_machine:25:25:0
+zone:25:25:25:25:0:10:vending_machine:trackme
+tile:25:25:25:25:0:0:beam
+url:http://ep256.streamr.ru/
+ispawn:1:49:1:49:0:1:20000:1:pack_of_100_empty_beer_bottle

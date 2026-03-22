@@ -1,0 +1,693 @@
+
+nikita-k (nikita-k) sent /chars 12-26-2020, 9:06:09 AM
+nikita-k (nikita-k) sent /help 12-26-2020, 9:06:35 AM
+nikita-k (nikita-k) sent /chars 12-26-2020, 9:07:09 AM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 9:14:50 AM
+nikita-k (nikita-k) sent /go 160 180 225 12-26-2020, 9:16:04 AM
+nikita-k (nikita-k) sent /go 534 560 535 12-26-2020, 9:16:47 AM
+nikita-k (nikita-k) sent /move nikita-k weapon 160 180 225 12-26-2020, 9:18:16 AM
+nikita-k (nikita-k) sent /move nikita-k 160 180 225 weapon 12-26-2020, 9:18:26 AM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 9:18:34 AM
+nikita-k (nikita-k) sent /changemap nikita-k store 12-26-2020, 9:18:53 AM
+nikita-k (nikita-k) sent /chartrash 12-26-2020, 9:37:02 AM
+nikita-k (nikita-k) sent /notify backupping server data... 12-26-2020, 9:39:24 AM
+nikita-k (nikita-k) sent /notify backup compleated 12-26-2020, 9:39:49 AM
+nikita-k (nikita-k) sent /objgrab 12-26-2020, 9:42:56 AM
+nikita-k (nikita-k) sent /kick maxgamer 12-26-2020, 9:46:49 AM
+nikita-k (nikita-k) sent /newadmin maxgamer 12-26-2020, 9:50:14 AM
+nikita-k (nikita-k) sent /adminkill maxgamer 12-26-2020, 9:50:17 AM
+nikita-k (nikita-k) sent /follow maxgamer 12-26-2020, 10:02:28 AM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 10:05:33 AM
+nikita-k (nikita-k) sent /gnsubmit 10 12-26-2020, 10:05:38 AM
+nikita-k (nikita-k) sent /compinfo tramp 12-26-2020, 10:06:15 AM
+nikita-k (nikita-k) sent /bid 2 12-26-2020, 10:07:52 AM
+nikita-k (nikita-k) sent /bid 1000000000 12-26-2020, 10:08:21 AM
+nikita-k (nikita-k) sent /cancelbid 12-26-2020, 10:08:28 AM
+nikita-k (nikita-k) sent /bid 3 12-26-2020, 10:11:34 AM
+nikita-k (nikita-k) sent /move nikita-k 500 509 500 weapon 12-26-2020, 10:18:48 AM
+nikita-k (nikita-k) sent /go 500 509 500 12-26-2020, 10:19:53 AM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 10:25:54 AM
+nikita-k (nikita-k) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:5:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0
+travelpoint:50:50:50:50:150:150:store:5:5:0:moved
+travelpoint:160:160:180:180:225:225:store:5:5:0:moved
+travelpoint:534:534:560:560:535:535:store:5:5:0:moved
+tile:500:500:510:510:500:500:suicide
+tile:500:500:512:512:500:500:teleport
+tile:500:500:514:515:500:500:suicide
+tile:500:500:517:520:500:500:teleport
+zone:500:500:506:506:500:500:Here begins a place with different traps. Hidden suicide bombs and teleporters, that will move you to the coordinates 0, 0, 0. Good luck, player! 12-26-2020, 10:26:45 AM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 10:27:11 AM
+nikita-k (nikita-k) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:5:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0
+travelpoint:50:50:50:50:150:150:store:5:5:0:moved
+travelpoint:160:160:180:180:225:225:store:5:5:0:moved
+travelpoint:534:534:560:560:535:535:store:5:5:0:moved
+tile:500:500:510:510:500:500:suicide
+tile:500:500:512:512:500:500:teleport
+tile:500:500:514:515:500:500:suicide
+tile:500:500:517:520:500:500:teleport
+zone:500:500:506:506:500:500:Here begins a place with different traps! Hidden suicide bombs and teleporters, that will move you to the coordinates 0, 0, 0! Good luck, player! 12-26-2020, 10:27:56 AM
+nikita-k (nikita-k) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:5:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0
+travelpoint:50:50:50:50:150:150:store:5:5:0:moved
+travelpoint:160:160:180:180:225:225:store:5:5:0:moved
+travelpoint:534:534:560:560:535:535:store:5:5:0:moved
+tile:500:500:510:510:500:500:suicide
+tile:500:500:512:512:500:500:teleport
+tile:500:500:514:515:500:500:suicide
+tile:500:500:517:520:500:500:teleport
+zone:500:500:506:530:500:500:Here begins a place with different traps! Hidden suicide bombs and teleporters, that will move you to the coordinates 0, 0, 0! Good luck, player! 12-26-2020, 10:28:48 AM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 10:29:59 AM
+nikita-k (nikita-k) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:5:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0
+travelpoint:50:50:50:50:150:150:store:5:5:0:moved
+travelpoint:160:160:180:180:225:225:store:5:5:0:moved
+travelpoint:534:534:560:560:535:535:store:5:5:0:moved
+tile:500:500:510:510:500:500:suicide
+tile:500:500:512:512:500:500:teleport
+tile:500:500:514:515:500:500:suicide
+tile:500:500:517:520:500:500:teleport
+zone:500:500:506:530:500:510:Here begins a place with different traps! Hidden suicide bombs and teleporters, that will move you to the coordinates 0, 0, 0! Good luck, player!
+tile:500:500:522:527:500:500:teleport 12-26-2020, 10:30:14 AM
+nikita-k (nikita-k) sent /go 500 506 500 12-26-2020, 10:30:50 AM
+nikita-k (nikita-k) sent /sell 12-26-2020, 10:35:27 AM
+nikita-k (nikita-k) sent /maps 12-26-2020, 10:37:05 AM
+nikita-k (nikita-k) sent /conpinfo rider 12-26-2020, 10:39:31 AM
+nikita-k (nikita-k) sent /compinfo rider 12-26-2020, 10:39:37 AM
+nikita-k (nikita-k) sent /plays botvoice19 12-26-2020, 10:44:49 AM
+nikita-k (nikita-k) sent /plays bot_voice19 12-26-2020, 10:44:56 AM
+nikita-k (nikita-k) sent /plays bot_voice20 12-26-2020, 10:45:11 AM
+nikita-k (nikita-k) sent /online 12-26-2020, 11:06:26 AM
+nikita-k (nikita-k) sent /warnpublic И так, щя будем тестить только что сделанные мной cannon balls 12-26-2020, 11:18:21 AM
+nikita-k (nikita-k) sent /update 12-26-2020, 11:19:12 AM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 11:20:33 AM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 11:25:34 AM
+nikita-k (nikita-k) sent /r yes 12-26-2020, 11:26:48 AM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 11:26:58 AM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 11:41:27 AM
+nikita-k (nikita-k) sent /chars 12-26-2020, 11:42:01 AM
+nikita-k (nikita-k) sent /bid 1000 12-26-2020, 11:42:44 AM
+nikita-k (nikita-k) sent /cancelbid y 12-26-2020, 11:57:17 AM
+nikita-k (nikita-k) sent /cancelauction 12-26-2020, 11:57:18 AM
+nikita-k (nikita-k) sent /admintell test 12-26-2020, 11:57:25 AM
+nikita-k (nikita-k) sent /joinevent uh 12-26-2020, 11:59:38 AM
+nikita-k (nikita-k) sent /cancelauction 12-26-2020, 12:03:34 PM
+nikita-k (nikita-k) sent /update 12-26-2020, 12:10:12 PM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 12:12:14 PM
+nikita-k (nikita-k) sent /gnsubmit 25 12-26-2020, 12:12:17 PM
+nikita-k (nikita-k) sent /gnsubmit 2 12-26-2020, 12:12:25 PM
+nikita-k (nikita-k) sent /gnsubmit w 12-26-2020, 12:12:26 PM
+nikita-k (nikita-k) sent /gnstop 12-26-2020, 12:12:45 PM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 12:12:50 PM
+nikita-k (nikita-k) sent /gnstop 12-26-2020, 12:12:54 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 12:18:51 PM
+nikita-k (nikita-k) sent /cancelbid y 12-26-2020, 12:19:25 PM
+nikita-k (nikita-k) sent /cancelauction 12-26-2020, 12:19:27 PM
+nikita-k (nikita-k) sent /cancelauction 12-26-2020, 12:19:38 PM
+nikita-k (nikita-k) sent /cancelauction 12-26-2020, 12:19:43 PM
+nikita-k (nikita-k) sent /joinevent 3333 12-26-2020, 12:19:51 PM
+nikita-k (nikita-k) sent /bid 1 12-26-2020, 12:57:23 PM
+nikita-k (nikita-k) sent /chars 12-26-2020, 12:57:41 PM
+nikita-k (nikita-k) sent /chars 12-26-2020, 1:35:40 PM
+nikita-k (nikita-k) sent /cancelauction 12-26-2020, 1:36:25 PM
+nikita-k (nikita-k) sent /cancelauction 12-26-2020, 1:36:49 PM
+nikita-k (nikita-k) sent /pm franklin die 12-26-2020, 1:37:02 PM
+nikita-k (nikita-k) sent /joinevent 12' 12-26-2020, 1:37:37 PM
+nikita-k (nikita-k) sent /newmap suicidemap 100 100 100 concrete 12-26-2020, 1:39:13 PM
+nikita-k (nikita-k) sent /changemap franklin suicidemap 12-26-2020, 1:41:18 PM
+nikita-k (nikita-k) sent /delmap suicidemap 12-26-2020, 1:47:21 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 1:47:40 PM
+nikita-k (nikita-k) sent /newmap stun 100 100 100 stun 12-26-2020, 1:48:55 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 1:55:36 PM
+nikita-k (nikita-k) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme 12-26-2020, 1:55:52 PM
+nikita-k (nikita-k) sent /move nikita-k 100 100 0 stun 12-26-2020, 2:01:12 PM
+nikita-k (nikita-k) sent /admingun 12-26-2020, 2:01:55 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 2:02:43 PM
+nikita-k (nikita-k) sent /rawdata mapname:stun
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:stun
+travelpoint:100:100:100:100:0:0:store:0:0:0:moved
+fightingstate:0
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:hand_grenade:stone:concussive_grenade:turret 12-26-2020, 2:03:27 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 2:04:13 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 2:10:35 PM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 2:11:09 PM
+nikita-k (nikita-k) sent /bid 2001 12-26-2020, 2:13:35 PM
+nikita-k (nikita-k) sent /bid 4000000 12-26-2020, 2:13:39 PM
+nikita-k (nikita-k) sent /cancelbid y 12-26-2020, 2:13:43 PM
+nikita-k (nikita-k) sent /newmotd in the store, at coordinates 10, 5, 0 there is a passage to the map full of stun grenades, your goal is to reach coordinates 100, 100, 0. at the end you will receive a reward, 30000 coins! Good luck! В магазине, на координатах 10, 5, 0 появился проход на карту со stun гранатами! Ваша цель, дойти до координат 100, 100, 0 и получить награду, 30000 монет! Удачи! 12-26-2020, 2:19:24 PM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 2:22:03 PM
+nikita-k (nikita-k) sent /gnsubmit 10 12-26-2020, 2:22:06 PM
+nikita-k (nikita-k) sent /shelters 12-26-2020, 2:22:58 PM
+nikita-k (nikita-k) sent /teams 12-26-2020, 2:23:08 PM
+nikita-k (nikita-k) sent /pm bolgelo why? 12-26-2020, 2:30:24 PM
+nikita-k (nikita-k) sent /builders 12-26-2020, 2:34:56 PM
+nikita-k (nikita-k) sent /compinfo artem 12-26-2020, 2:41:04 PM
+nikita-k (nikita-k) sent /bid 1000000000 12-26-2020, 2:43:51 PM
+nikita-k (nikita-k) sent /cancelbid y 12-26-2020, 2:44:00 PM
+nikita-k (nikita-k) sent /bid 10000 12-26-2020, 2:44:10 PM
+nikita-k (nikita-k) sent /bid 1000000000 12-26-2020, 2:44:46 PM
+nikita-k (nikita-k) sent /cancelbid y 12-26-2020, 2:44:57 PM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 2:45:27 PM
+nikita-k (nikita-k) sent /gnsubmit 20 12-26-2020, 2:45:29 PM
+nikita-k (nikita-k) sent /garbage 12-26-2020, 2:49:50 PM
+nikita-k (nikita-k) sent /newbuilder bolgelo 12-26-2020, 2:51:03 PM
+nikita-k (nikita-k) sent /newevent fight 12-26-2020, 2:53:51 PM
+nikita-k (nikita-k) sent /eventset 8396 map=event 12-26-2020, 2:54:43 PM
+nikita-k (nikita-k) sent /eventset joinx=5 12-26-2020, 2:54:54 PM
+nikita-k (nikita-k) sent /eventset 8396 joinx=5 12-26-2020, 2:55:02 PM
+nikita-k (nikita-k) sent /eventset 8396 joiny=5 12-26-2020, 2:55:10 PM
+nikita-k (nikita-k) sent /eventset 8396 can_keep_inventory=1 12-26-2020, 2:55:22 PM
+nikita-k (nikita-k) sent /launchevent 8396 12-26-2020, 2:55:30 PM
+nikita-k (nikita-k) sent /robotinfo 12-26-2020, 3:09:21 PM
+nikita-k (nikita-k) sent /bid 2 12-26-2020, 3:16:08 PM
+nikita-k (nikita-k) sent /bid 200 12-26-2020, 3:16:10 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 3:20:07 PM
+nikita-k (nikita-k) sent /endevent 12-26-2020, 3:24:36 PM
+nikita-k (nikita-k) sent /sethealth franlin 0 12-26-2020, 3:24:42 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 3:34:52 PM
+nikita-k (nikita-k) sent /changemap nikita-k admin_area 12-26-2020, 3:35:58 PM
+nikita-k (nikita-k) sent /go 10 10 0 12-26-2020, 3:36:23 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 12-26-2020, 3:40:33 PM
+nikita-k (nikita-k) sent /warn bolgelo 5 do not ask for the administrator rank, or you will be banned, siska! 12-26-2020, 3:45:27 PM
+nikita-k (nikita-k) sent /tempban bolgelo 1 12-26-2020, 3:48:09 PM
+nikita-k (nikita-k) sent /ban bolgelo 12-26-2020, 3:49:38 PM
+nikita-k (nikita-k) sent /unban bolgelo 12-26-2020, 3:49:49 PM
+nikita-k (nikita-k) sent /plays ban 12-26-2020, 3:50:20 PM
+nikita-k (nikita-k) sent /adminhelp 12-26-2020, 3:50:47 PM
+nikita-k (nikita-k) sent /delmap zalp2 12-26-2020, 3:52:09 PM
+nikita-k (nikita-k) sent /blockfeature bolgelo admintell 12-26-2020, 3:52:31 PM
+nikita-k (nikita-k) sent /unblockfeature disabled bolgelo's admintell admintell 12-26-2020, 3:53:00 PM
+nikita-k (nikita-k) sent /unblockfeature bolgelo admintell 12-26-2020, 3:53:17 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k bolgelo 12-26-2020, 4:00:15 PM
+nikita-k (nikita-k) sent /suicide 12-26-2020, 4:14:43 PM
+nikita-k (nikita-k) sent /chars 12-26-2020, 4:17:39 PM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 4:23:52 PM
+nikita-k (nikita-k) sent /gnsubmit 20 12-26-2020, 4:23:54 PM
+nikita-k (nikita-k) sent /t d 12-26-2020, 4:26:21 PM
+nikita-k (nikita-k) sent /bid 2 12-26-2020, 4:27:16 PM
+nikita-k (nikita-k) sent /bid 690000000 12-26-2020, 4:33:04 PM
+nikita-k (nikita-k) sent /cancelbid y 12-26-2020, 4:33:09 PM
+nikita-k (nikita-k) sent /ban krokodailtop 12-26-2020, 4:37:31 PM
+nikita-k (nikita-k) sent /banned 12-26-2020, 4:38:23 PM
+nikita-k (nikita-k) sent /banned 12-26-2020, 4:43:41 PM
+nikita-k (nikita-k) sent /unban krokodailtop 12-26-2020, 4:44:00 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 4:54:25 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 4:54:51 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge 12-26-2020, 4:55:01 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 4:55:43 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge
+tile:0:0:0:5:5:5:ash 12-26-2020, 4:55:53 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 4:58:05 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge 12-26-2020, 4:58:15 PM
+nikita-k (nikita-k) sent /suicide 12-26-2020, 4:58:21 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 5:11:37 PM
+nikita-k (nikita-k) sent /sethealth dmitriy 0 12-26-2020, 5:14:48 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 5:18:50 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 5:27:05 PM
+nikita-k (nikita-k) sent /notify и так, болие мение прыжки поправил, но есть одно но. Когда бирёшь какое-либо оружие, прыжки чутка багаются. Например, человек жмёт стрелку 5 раз, а передвигается всего на 4 клетки 12-26-2020, 5:32:41 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 5:42:52 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k golden_ball 12-26-2020, 6:08:06 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k golden_ball 12-26-2020, 6:09:58 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k golden_ball 12-26-2020, 6:12:20 PM
+nikita-k (nikita-k) sent /shelterkill siska 12-26-2020, 6:12:30 PM
+nikita-k (nikita-k) sent /garbage 12-26-2020, 6:35:58 PM
+nikita-k (nikita-k) sent /countbombs 12-26-2020, 6:36:09 PM
+nikita-k (nikita-k) sent /shockwave 12-26-2020, 6:49:13 PM
+nikita-k (nikita-k) sent /go 0 100 0 12-26-2020, 6:49:30 PM
+nikita-k (nikita-k) sent /go 0 0 0 12-26-2020, 6:50:15 PM
+nikita-k (nikita-k) sent /gnstart 12-26-2020, 6:52:35 PM
+nikita-k (nikita-k) sent /gnsubmit 20 12-26-2020, 6:52:36 PM
+nikita-k (nikita-k) sent /inv 12-26-2020, 6:55:16 PM
+nikita-k (nikita-k) sent /follow franklin 12-26-2020, 6:55:21 PM
+nikita-k (nikita-k) sent /inv 12-26-2020, 6:55:47 PM
+nikita-k (nikita-k) sent /inv 12-26-2020, 6:55:49 PM
+nikita-k (nikita-k) sent /stopfollow 12-26-2020, 6:59:52 PM
+nikita-k (nikita-k) sent /inv 12-26-2020, 6:59:54 PM
+nikita-k (nikita-k) sent /shandemap nikita-k store 12-26-2020, 7:16:30 PM
+nikita-k (nikita-k) sent /changemap nikita-k store 12-26-2020, 7:16:38 PM
+nikita-k (nikita-k) sent /s 12-26-2020, 7:20:43 PM
+nikita-k (nikita-k) sent /chars 12-26-2020, 8:26:37 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 8:28:15 PM
+nikita-k (nikita-k) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme 12-26-2020, 8:28:25 PM
+nikita-k (nikita-k) sent /whelters 12-26-2020, 8:29:11 PM
+nikita-k (nikita-k) sent /whelters 12-26-2020, 8:29:16 PM
+nikita-k (nikita-k) sent /shelters 12-26-2020, 8:29:30 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 9:17:59 PM
+nikita-k (nikita-k) sent /reboot 12-26-2020, 9:18:52 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 9:19:33 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge
+tile:10:10:10:10:10:10:ash 12-26-2020, 9:20:09 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 9:21:17 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 9:21:33 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 9:21:35 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge
+tile:10:10:10:10:10:10:ash
+door:0:0:0:10:10:0:100:doorsnd8.ogg:doorloop.ogg:dooropen5.ogg:doorclose.ogg 12-26-2020, 9:21:56 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 9:22:32 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 9:22:42 PM
+nikita-k (nikita-k) sent /rawmap 12-26-2020, 9:22:45 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 12-26-2020, 9:25:15 PM

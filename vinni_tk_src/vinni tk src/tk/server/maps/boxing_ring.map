@@ -1,0 +1,11 @@
+mapname:boxing_ring
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:cement1
+zone:0:50:0:50:0:50:boxing ring
+tile:1:49:1:49:8:8:concrete5
+travelpoint:0:0:0:0:0:0:c_system:35:40:15:After a desperate fight with boxers, you return to the stairs to the cyborgs.
+src:0:50:0:50:0:10:rumble1.ogg
+robots:0:50:0:50:0:0:2:20000:boxer,boxer,trainer
+noitems:0:50:0:50:0:50:awp:crossbow:gauss:rocket_launcher:sniper:cannon:sword:rpg7

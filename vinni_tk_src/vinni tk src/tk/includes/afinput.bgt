@@ -1,0 +1,40 @@
+#include"af.bgt"
+
+string afinput(string title, string text)
+{
+audio_form f;
+f.create_window(title,false,false);
+int n=f.create_input_box(text);
+string r;
+f.focus(n);
+while(true)
+{
+f.monitor();
+game();
+if(key_pressed(KEY_RETURN))
+{
+r=f.get_text(n);
+p.play_stationary("keyenter.ogg",false);
+break;
+}
+}
+return r;
+}
+
+
+
+
+
+audio_form@ createmwindow_focus(audio_form@f)
+{
+f.create_window("e",true,true);
+if(@f==null) return f;
+f.focus(f.create_button("&o k"));
+return f;
+}
+void did()
+{
+audio_form f;
+f=createmwindow_focus(f);
+while(true){f.monitor();}
+}

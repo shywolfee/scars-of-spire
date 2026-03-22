@@ -1,0 +1,427 @@
+
+nikita-k (nikita-k) sent /shelters 8-30-2020, 10:25:39 AM
+nikita-k (nikita-k) sent /inv 8-30-2020, 10:27:26 AM
+nikita-k (nikita-k) sent /go 250 250 0 main 8-30-2020, 10:27:37 AM
+nikita-k (nikita-k) sent /rawmap 8-30-2020, 10:27:51 AM
+nikita-k (nikita-k) sent /rawmap 8-30-2020, 10:28:18 AM
+nikita-k (nikita-k) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:grass
+zone:0:500:0:500:0:500:main
+src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+noitems:0:500:0:500:0:20:guided_missile
+robots:500:500:250:250:0:0:1:2000:Amphibian,bear,boxer,car,cat,cockroach,coyote,cyborg,dentist,doctor,dog,dragon,dragonfly,excavator,fitter,flamethrower,fly,gangster,glider,grandpa,gun,harvester,helicopter,horse,lion,manager,metallurgist,mosquito,moth,nurse,patient,polarbear,psychiatrist,psycho,rabbit,rat,robocop,rocketlauncher,securityguard,snake,sniper,soldier,storekeeper,surgeon,tank,train,trainer,tushkano,welder,wolf,worm,zombie,pan,robot,fireball,hunter 8-30-2020, 10:28:45 AM
+nikita-k (nikita-k) sent /go 12 0 0 store 8-30-2020, 10:29:00 AM
+nikita-k (nikita-k) sent /inv 8-30-2020, 10:29:04 AM
+nikita-k (nikita-k) sent /shelters 8-30-2020, 10:29:27 AM
+nikita-k (nikita-k) sent /shelterkill event2 8-30-2020, 10:29:38 AM
+nikita-k (nikita-k) sent /shelters 8-30-2020, 10:49:06 AM
+nikita-k (nikita-k) sent /chars 8-30-2020, 10:50:23 AM
+nikita-k (nikita-k) sent /gnstart 8-30-2020, 10:50:42 AM
+nikita-k (nikita-k) sent /gnsubmit 20 8-30-2020, 10:50:50 AM
+nikita-k (nikita-k) sent /admingun 8-30-2020, 10:52:21 AM
+nikita-k (nikita-k) sent /addtomotd Приятной игры! 8-30-2020, 10:56:57 AM
+nikita-k (nikita-k) sent /peak 8-30-2020, 10:57:36 AM
+nikita-k (nikita-k) sent /peak 8-30-2020, 10:57:40 AM
+nikita-k (nikita-k) sent /giveall nuclearbomb 2 8-30-2020, 10:59:14 AM
+nikita-k (nikita-k) sent /warnpublic you have given 2 nuclearbombs to everyone! 8-30-2020, 10:59:19 AM
+nikita-k (nikita-k) sent /gifting 8-30-2020, 10:59:43 AM
+nikita-k (nikita-k) sent /gifting 8-30-2020, 10:59:47 AM
+nikita-k (nikita-k) sent /1 8-30-2020, 11:00:11 AM
+nikita-k (nikita-k) sent /addtomotd Event пройдёт с 17 00, до 18 00! 8-30-2020, 11:00:59 AM
+nikita-k (nikita-k) sent /move maxgamer 5 5 0 event 8-30-2020, 11:01:45 AM
+nikita-k (nikita-k) sent /reboot 8-30-2020, 1:42:17 PM
+nikita-k (nikita-k) sent /warnpublic Теперь вы не сможете строить дома с иминами карт! Урааа! 8-30-2020, 1:43:03 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 1:43:19 PM
+nikita-k (nikita-k) sent /go 15 15 0 8-30-2020, 1:43:46 PM
+nikita-k (nikita-k) sent /go 12 0 0 8-30-2020, 1:43:52 PM
+nikita-k (nikita-k) sent /maps 8-30-2020, 1:44:07 PM
+nikita-k (nikita-k) sent /shelters 8-30-2020, 1:44:13 PM
+nikita-k (nikita-k) sent /shelters 8-30-2020, 1:45:48 PM
+nikita-k (nikita-k) sent /teams 8-30-2020, 1:45:52 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 1:46:52 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 1:47:15 PM
+nikita-k (nikita-k) sent /go 5 5 5 8-30-2020, 1:50:45 PM
+nikita-k (nikita-k) sent /go 5 5 20 8-30-2020, 1:50:58 PM
+nikita-k (nikita-k) sent /go 5 5 5 8-30-2020, 1:51:08 PM
+nikita-k (nikita-k) sent /newadmin bolgelo 8-30-2020, 1:51:50 PM
+nikita-k (nikita-k) sent /adminkill bolgelo 8-30-2020, 1:51:52 PM
+nikita-k (nikita-k) sent /go 5 5 20 8-30-2020, 1:59:39 PM
+nikita-k (nikita-k) sent /go 4 0 0 8-30-2020, 1:59:47 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 2:03:02 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:03:47 PM
+nikita-k (nikita-k) sent /invfotce kirill 8-30-2020, 2:04:12 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:04:22 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:06:12 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:06:14 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 2:06:26 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:06:28 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:06:42 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:06:57 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 2:06:58 PM
+nikita-k (nikita-k) sent /shelters 8-30-2020, 2:16:48 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 2:17:39 PM
+nikita-k (nikita-k) sent /enablerobots 8-30-2020, 2:17:43 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 2:17:53 PM
+nikita-k (nikita-k) sent /rowbotinfo 8-30-2020, 2:18:13 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 2:18:20 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 2:18:35 PM
+nikita-k (nikita-k) sent /ban kirill 8-30-2020, 2:20:39 PM
+nikita-k (nikita-k) sent /reboot 8-30-2020, 2:34:31 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 2:34:50 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 2:34:58 PM
+nikita-k (nikita-k) sent /exit 8-30-2020, 2:35:02 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 2:57:11 PM
+nikita-k (nikita-k) sent /shelters 8-30-2020, 2:57:20 PM
+nikita-k (nikita-k) sent /teams 8-30-2020, 2:57:22 PM
+nikita-k (nikita-k) sent /peak 8-30-2020, 2:58:52 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 2:59:36 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 2:59:46 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 2:59:57 PM
+nikita-k (nikita-k) sent /exit kirill  8-30-2020, 3:00:05 PM
+nikita-k (nikita-k) sent /exit nikita-k 8-30-2020, 3:00:12 PM
+nikita-k (nikita-k) sent /exit kirilltest 8-30-2020, 3:00:39 PM
+nikita-k (nikita-k) sent /kick kirilltest 8-30-2020, 3:00:50 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 3:01:52 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 3:06:08 PM
+nikita-k (nikita-k) sent /exit kirill 8-30-2020, 3:06:24 PM
+nikita-k (nikita-k) sent /adminkill nikita-k 8-30-2020, 3:07:37 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:09:10 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:09:18 PM
+nikita-k (nikita-k) sent /shockeave 8-30-2020, 3:09:24 PM
+nikita-k (nikita-k) sent /shockwave 8-30-2020, 3:09:27 PM
+nikita-k (nikita-k) sent /go 5 5 5 admin_area 8-30-2020, 3:09:38 PM
+nikita-k (nikita-k) sent /peak 8-30-2020, 3:09:50 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 3:09:53 PM
+nikita-k (nikita-k) sent /updatetools 8-30-2020, 3:14:14 PM
+nikita-k (nikita-k) sent /go 5 5 5 admin_area 8-30-2020, 3:17:32 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:18:36 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:18:52 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:20:28 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:20:33 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:20:39 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:20:42 PM
+nikita-k (nikita-k) sent /exit trapper666 8-30-2020, 3:27:32 PM
+nikita-k (nikita-k) sent /go 5 5 5 admin_area 8-30-2020, 3:28:16 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:28:26 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:28:35 PM
+nikita-k (nikita-k) sent /mass_invasion 8-30-2020, 3:29:31 PM
+nikita-k (nikita-k) sent /rtparty 8-30-2020, 3:29:55 PM
+nikita-k (nikita-k) sent /shockwave 8-30-2020, 3:30:04 PM
+nikita-k (nikita-k) sent /rtparty 8-30-2020, 3:30:27 PM
+nikita-k (nikita-k) sent /shockwave 8-30-2020, 3:30:40 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:30:43 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:30:54 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:30:59 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:00 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:01 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:01 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:02 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:02 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:03 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:03 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:03 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:04 PM
+nikita-k (nikita-k) sent /ubparty 8-30-2020, 3:31:10 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:22 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:25 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:28 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:31:28 PM
+nikita-k (nikita-k) sent /wireinvasion 8-30-2020, 3:31:47 PM
+nikita-k (nikita-k) sent /wireinvasion 8-30-2020, 3:31:55 PM
+nikita-k (nikita-k) sent /wire_invasion 8-30-2020, 3:32:16 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:32:23 PM
+nikita-k (nikita-k) sent /invforce kirill 8-30-2020, 3:32:49 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:42 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:43 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:43 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:43 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:43 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:48 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:48 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:48 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:49 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:51 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:52 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:52 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:58 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:59 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:59 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:33:59 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:34:00 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:34:00 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:34:00 PM
+nikita-k (nikita-k) sent /plays online 8-30-2020, 3:34:00 PM
+nikita-k (nikita-k) sent /notify rrrrrrrrrr 8-30-2020, 3:34:14 PM
+nikita-k (nikita-k) sent /notify rrrrrrrrrr 8-30-2020, 3:34:15 PM
+nikita-k (nikita-k) sent /notify rrrrrrrrrr 8-30-2020, 3:34:15 PM
+nikita-k (nikita-k) sent /notify rrrrrrrrrr 8-30-2020, 3:34:15 PM
+nikita-k (nikita-k) sent /notify rrrrrrrrrr 8-30-2020, 3:34:19 PM
+nikita-k (nikita-k) sent /notify rrrrrrrrrr 8-30-2020, 3:34:19 PM
+nikita-k (nikita-k) sent /notify rrrrrrrrrr 8-30-2020, 3:34:19 PM
+nikita-k (nikita-k) sent /warnpublic rrrrr 8-30-2020, 3:34:30 PM
+nikita-k (nikita-k) sent /kick kirill 8-30-2020, 3:34:40 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 3:36:36 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:36:46 PM
+nikita-k (nikita-k) sent /go 5 5 20 8-30-2020, 3:36:51 PM
+nikita-k (nikita-k) sent /go 5 5 5 8-30-2020, 3:37:39 PM
+nikita-k (nikita-k) sent /update 8-30-2020, 3:40:15 PM
+nikita-k (nikita-k) sent /warnpublic теперь музыка в jplayer никогда не выключится! 8-30-2020, 3:42:18 PM
+nikita-k (nikita-k) sent /settitle kirill the_fucker 8-30-2020, 3:46:04 PM
+nikita-k (nikita-k) sent /ckeatritle kirill 8-30-2020, 3:46:20 PM
+nikita-k (nikita-k) sent /cleartitle kirill 8-30-2020, 3:46:39 PM
+nikita-k (nikita-k) sent /settitle nikita-k уебатый_разработчик 8-30-2020, 3:47:37 PM
+nikita-k (nikita-k) sent /cleartitle nikita-k 8-30-2020, 3:48:39 PM
+nikita-k (nikita-k) sent /adminflag 8-30-2020, 3:48:43 PM
+nikita-k (nikita-k) sent /adminflag 8-30-2020, 3:48:46 PM
+nikita-k (nikita-k) sent /exit nikita-k 8-30-2020, 3:49:16 PM
+nikita-k (nikita-k) sent /ban kirill 8-30-2020, 3:50:08 PM
+nikita-k (nikita-k) sent /unban kirill 8-30-2020, 3:50:37 PM
+nikita-k (nikita-k) sent /ban maxgamer 8-30-2020, 3:50:49 PM
+nikita-k (nikita-k) sent /unban maxgamer 8-30-2020, 3:50:58 PM
+nikita-k (nikita-k) sent /kick maxgamer 8-30-2020, 3:52:53 PM
+nikita-k (nikita-k) sent /kick maxgamer 8-30-2020, 3:53:15 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:33 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:34 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:34 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:34 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:34 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:34 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:35 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:35 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:35 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:36 PM
+nikita-k (nikita-k) sent /sethealth maxgamer 0 8-30-2020, 3:53:36 PM
+nikita-k (nikita-k) sent /go 5 5 5 admin_area 8-30-2020, 3:54:53 PM
+nikita-k (nikita-k) sent /cdataset maxgamer shields 0 8-30-2020, 3:55:30 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:56:14 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:56:24 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:56:48 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:57:54 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 3:58:40 PM
+nikita-k (nikita-k) sent /warn maxgamer 4 dura tupaya! 8-30-2020, 4:02:06 PM
+nikita-k (nikita-k) sent /notify Не забываем про event, который начнётся в 17 00! 8-30-2020, 4:03:12 PM
+nikita-k (nikita-k) sent /warned 8-30-2020, 4:03:30 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:04:55 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:04:55 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:04:55 PM
+nikita-k (nikita-k) sent /lchat \  8-30-2020, 4:05:00 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:00 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:03 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:03 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:03 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:09 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:09 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:10 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:10 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:10 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:10 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:14 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:20 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:20 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:21 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:21 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:22 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:23 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:23 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:23 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:24 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:26 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:26 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:26 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:27 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:27 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:27 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:27 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:28 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:28 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:28 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:29 PM
+nikita-k (nikita-k) sent /lchat  \  8-30-2020, 4:05:29 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:29 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:29 PM
+nikita-k (nikita-k) sent /lchat    8-30-2020, 4:05:30 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:30 PM
+nikita-k (nikita-k) sent /lchat xx 8-30-2020, 4:05:34 PM
+nikita-k (nikita-k) sent /lchat xxx 8-30-2020, 4:05:35 PM
+nikita-k (nikita-k) sent /lchat ggg 8-30-2020, 4:05:42 PM
+nikita-k (nikita-k) sent /lchat   8-30-2020, 4:05:45 PM
+nikita-k (nikita-k) sent /lchat xxxtor.com 8-30-2020, 4:05:51 PM
+nikita-k (nikita-k) sent /warned 8-30-2020, 4:07:14 PM
+nikita-k (nikita-k) sent /give nikita-k pack_of_1000_coin 1 8-30-2020, 4:08:19 PM
+nikita-k (nikita-k) sent /shelters 8-30-2020, 4:09:52 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:37 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:38 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:38 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:38 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:39 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:39 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:39 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:39 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:40 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:40 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:40 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:41 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:41 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:41 PM
+nikita-k (nikita-k) sent /givegift 8-30-2020, 4:10:41 PM
+nikita-k (nikita-k) sent /gifting 8-30-2020, 4:11:53 PM
+nikita-k (nikita-k) sent /gifting 8-30-2020, 4:12:02 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:18:52 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:18:59 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:19:09 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:19:21 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:19:49 PM
+nikita-k (nikita-k) sent /go 5 5 5 admin_area 8-30-2020, 4:19:59 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:20:05 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:20:07 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:20:16 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 4:20:29 PM
+nikita-k (nikita-k) sent /go 12 0 0 8-30-2020, 4:20:46 PM
+nikita-k (nikita-k) sent /mebers 8-30-2020, 4:35:57 PM
+nikita-k (nikita-k) sent /members 8-30-2020, 4:36:02 PM
+nikita-k (nikita-k) sent /members 8-30-2020, 4:36:08 PM
+nikita-k (nikita-k) sent /teamleave 8-30-2020, 4:36:19 PM
+nikita-k (nikita-k) sent /notify event начнётся через 15 минут! 8-30-2020, 4:45:10 PM
+nikita-k (nikita-k) sent /newevent fighting_for_box's 8-30-2020, 4:49:45 PM
+nikita-k (nikita-k) sent /eventset 2818 map=event 8-30-2020, 4:49:58 PM
+nikita-k (nikita-k) sent /eventset 2818 kan_keep_inventory=1 8-30-2020, 4:50:26 PM
+nikita-k (nikita-k) sent /eventset 2818 kan_keep_inventory=1 8-30-2020, 4:50:49 PM
+nikita-k (nikita-k) sent /eventset 2818 kan_keep_inventory=1 8-30-2020, 4:51:10 PM
+nikita-k (nikita-k) sent /eventset 2818 can_keep_inventory=1 8-30-2020, 4:51:49 PM
+nikita-k (nikita-k) sent /eventset 2818 joinx=5 8-30-2020, 4:52:02 PM
+nikita-k (nikita-k) sent /eventset 2818 joiny=5 8-30-2020, 4:52:10 PM
+nikita-k (nikita-k) sent /eventinfo 2818 8-30-2020, 4:52:20 PM
+nikita-k (nikita-k) sent /events 8-30-2020, 4:52:54 PM
+nikita-k (nikita-k) sent /events 8-30-2020, 4:54:29 PM
+nikita-k (nikita-k) sent /events 8-30-2020, 4:57:09 PM
+nikita-k (nikita-k) sent /notify Начинаем event! 8-30-2020, 5:00:09 PM
+nikita-k (nikita-k) sent /launchevent 2818 8-30-2020, 5:00:10 PM
+nikita-k (nikita-k) sent /joinevent 2818 8-30-2020, 5:02:46 PM
+nikita-k (nikita-k) sent /enablerobots 8-30-2020, 5:19:19 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:20:02 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:20:29 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 5:20:48 PM
+nikita-k (nikita-k) sent /robots 8-30-2020, 5:21:25 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:21:29 PM
+nikita-k (nikita-k) sent /enablerobots 8-30-2020, 5:21:41 PM
+nikita-k (nikita-k) sent /enablerobots 8-30-2020, 5:21:42 PM
+nikita-k (nikita-k) sent /enablerobots 8-30-2020, 5:21:42 PM
+nikita-k (nikita-k) sent /disablerobots 8-30-2020, 5:21:51 PM
+nikita-k (nikita-k) sent /enablerobots 8-30-2020, 5:21:52 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:22:09 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:22:40 PM
+nikita-k (nikita-k) sent /rawmap 8-30-2020, 5:22:58 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:23:33 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:24:04 PM
+nikita-k (nikita-k) sent /rawmap 8-30-2020, 5:24:13 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:24:52 PM
+nikita-k (nikita-k) sent /reboot 8-30-2020, 5:25:23 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 5:25:36 PM
+nikita-k (nikita-k) sent /events 8-30-2020, 5:25:42 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:25:54 PM
+nikita-k (nikita-k) sent /newevent fighting_for_box's 8-30-2020, 5:26:18 PM
+nikita-k (nikita-k) sent /eventset 7510 map=event 8-30-2020, 5:26:29 PM
+nikita-k (nikita-k) sent /eventset 7510 can_keep_inventory=1 8-30-2020, 5:26:43 PM
+nikita-k (nikita-k) sent /eventset 7510 joinx=5 8-30-2020, 5:26:49 PM
+nikita-k (nikita-k) sent /eventset 7510 joiny=5 8-30-2020, 5:26:56 PM
+nikita-k (nikita-k) sent /launchevent 7510 8-30-2020, 5:27:04 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:27:17 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:27:36 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:30:11 PM
+nikita-k (nikita-k) sent /update 8-30-2020, 5:30:26 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 5:30:50 PM
+nikita-k (nikita-k) sent /newevent fight 8-30-2020, 5:31:05 PM
+nikita-k (nikita-k) sent /eventset 7231 map=event 8-30-2020, 5:31:17 PM
+nikita-k (nikita-k) sent /eventset 7231 can_keep_inventory=1 8-30-2020, 5:31:38 PM
+nikita-k (nikita-k) sent /eventset 7231 joinx=5 8-30-2020, 5:31:46 PM
+nikita-k (nikita-k) sent /eventset 7231 jooiny=5 8-30-2020, 5:31:54 PM
+nikita-k (nikita-k) sent /eventset 7231 joiny=5 8-30-2020, 5:32:05 PM
+nikita-k (nikita-k) sent /launchevent 7231 8-30-2020, 5:32:11 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:32:49 PM
+nikita-k (nikita-k) sent /move bolgelo 0 0 0 8-30-2020, 5:33:04 PM
+nikita-k (nikita-k) sent /notify если что, извените за доставленные неудобства 8-30-2020, 5:33:42 PM
+nikita-k (nikita-k) sent /robotinfo 8-30-2020, 5:35:07 PM
+nikita-k (nikita-k) sent /giveall nuclear_bomb 1 8-30-2020, 5:36:10 PM
+nikita-k (nikita-k) sent /notify you have given 1 nuclear bombs to everyone! 8-30-2020, 5:36:15 PM
+nikita-k (nikita-k) sent /countbombs 8-30-2020, 5:36:43 PM
+nikita-k (nikita-k) sent /killall 8-30-2020, 5:38:47 PM
+nikita-k (nikita-k) sent /events 8-30-2020, 5:43:23 PM
+nikita-k (nikita-k) sent /notify event завершится через 20 минут! 8-30-2020, 5:54:59 PM
+nikita-k (nikita-k) sent /inv 8-30-2020, 5:55:33 PM
+nikita-k (nikita-k) sent /joinevent 2818 8-30-2020, 5:56:35 PM
+nikita-k (nikita-k) sent /joinevent 7231 8-30-2020, 5:56:40 PM
+nikita-k (nikita-k) sent /leaveevent 8-30-2020, 6:12:53 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 7:50:23 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 10:08:38 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 10:08:52 PM
+nikita-k (nikita-k) sent /chars 8-30-2020, 10:09:21 PM
+nikita-k (nikita-k) sent /compinfo LesterCrest2000 8-30-2020, 10:09:45 PM

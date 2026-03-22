@@ -1,0 +1,16 @@
+name fitter
+health 10000
+defence 1000
+speed 400
+damage 700,7000
+shoot 800
+distance 5
+aggro 1000
+spread 3
+angle 90
+steps 2
+loot coin
+amount 550
+shieldhits 10,50
+shieldchance 3
+xp 100,500

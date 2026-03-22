@@ -1,0 +1,788 @@
+
+ramil (magistral) sent /rawmap 1-30-2021, 8:48:36 AM
+ramil (magistral) sent /inv 1-30-2021, 8:49:02 AM
+ramil (magistral) sent /go 0 0 0 challengemaps 1-30-2021, 8:49:08 AM
+ramil (magistral) sent /go 149 281 0 1-30-2021, 8:49:17 AM
+ramil (magistral) sent /lchat right 1-30-2021, 8:49:21 AM
+ramil (magistral) sent /lchat oy press s or x 1-30-2021, 8:49:34 AM
+ramil (magistral) sent /lchat presss x allotof times 1-30-2021, 8:50:11 AM
+ramil (magistral) sent /lchat p gppd 1-30-2021, 8:50:15 AM
+ramil (magistral) sent /lchat good 1-30-2021, 8:50:19 AM
+ramil (magistral) sent /go 188 281 0 1-30-2021, 8:50:41 AM
+ramil (magistral) sent /inv 1-30-2021, 8:50:44 AM
+ramil (magistral) sent /go 188 281 0 1-30-2021, 8:51:01 AM
+ramil (magistral) sent /lchat right 1-30-2021, 8:51:10 AM
+ramil (magistral) sent /lchat go 1-30-2021, 8:51:12 AM
+ramil (magistral) sent /lchat right 1-30-2021, 8:51:15 AM
+ramil (magistral) sent /go 149 281 0 1-30-2021, 8:51:39 AM
+ramil (magistral) sent /lchat x 1-30-2021, 8:52:08 AM
+ramil (magistral) sent /go 189 281 0 1-30-2021, 8:52:31 AM
+ramil (magistral) sent /go 189 281 0 1-30-2021, 8:52:34 AM
+ramil (magistral) sent /rawmap 1-30-2021, 8:52:42 AM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to final level
+tile:30:50:281:281:0:0:stun
+tile:55:59:281:281:0:0:teleport
+tile:75:79:281:281:0:2:teleport
+tile:90:93:281:281:0:0:teleport
+tile:125:149:281:281:0:2:stun
+tile:155:165:281:281:0:0:stun
+tile:175:182:281:281:0:0:teleport
+tile:190:192:281:281:0:2:teleport
+tile:201:1000:281:281:0:100:walldoor2
+zone:200:1000:281:281:0:10:dore, press enter to go to store
+noitems:0:3000:0:3000:0:3000:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle:armored_tank:police_car:aircraft:tank
+fightingstate:0
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved 1-30-2021, 8:53:14 AM
+ramil (magistral) sent /go 174 281 0 1-30-2021, 8:53:23 AM
+ramil (magistral) sent /rawmap 1-30-2021, 8:54:31 AM
+ramil (magistral) sent /lchat wait 1-30-2021, 8:55:42 AM
+ramil (magistral) sent /lchat i neid to  playest travel points 1-30-2021, 8:56:02 AM
+ramil (magistral) sent /lchat 69  sergeant_major ramil: playst 1-30-2021, 8:56:12 AM
+ramil (magistral) sent /go 534 560 535 1-30-2021, 8:56:32 AM
+ramil (magistral) sent /rawmap 1-30-2021, 8:57:22 AM
+ramil (magistral) sent /go 50 50 100 1-30-2021, 8:58:06 AM
+ramil (magistral) sent /sell 1-30-2021, 8:58:46 AM
+ramil (magistral) sent /sell 1-30-2021, 8:59:23 AM
+ramil (magistral) sent /go 0 100 100 1-30-2021, 9:01:51 AM
+ramil (magistral) sent /go 1 140 100 1-30-2021, 9:01:56 AM
+ramil (magistral) sent /t Unterhaltungsserver/ !SpaЯ & Fun! - TeamTalk 5 Classic v. 5.7.0.5017 - Unreleased 1-30-2021, 9:57:29 AM
+ramil (magistral) sent /t loool 1-30-2021, 9:57:31 AM
+ramil (magistral) sent /lchat wait 1-30-2021, 9:58:53 AM
+ramil (magistral) sent /t fucking  bolgelo 1-30-2021, 9:59:16 AM
+ramil (magistral) sent /t он разрешыл 1-30-2021, 9:59:31 AM
+ramil (magistral) sent /t ой 1-30-2021, 9:59:33 AM
+ramil (magistral) sent /lchat wait 1-30-2021, 9:59:41 AM
+ramil (magistral) sent /rawmaap 1-30-2021, 9:59:47 AM
+ramil (magistral) sent //rawmap 1-30-2021, 9:59:57 AM
+ramil (magistral) sent /rawmap 1-30-2021, 10:00:03 AM
+ramil (magistral) sent /rawdata mapname:challengemaps
+maxx:15
+maxy:0
+maxz:0
+tile:0:15:0:0:0:0:challenge
+src:0:15:0:0:0:0:drums2.ogg
+zone:0:15:0:0:0:0:Challenge maps! Please select the map by pressing the left and right arrow keys
+travelpoint:0:0:0:0:0:0:store:5:5:0:moved
+zone:0:0:0:0:0:0:go back:trackme
+fightingstate:0
+noitems:0:15:0:0:0:10:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:hand_grenade:stone:concussive_grenade:turret:wood
+tile:0:15:0:0:0:0:tile3
+zone:2:2:0:0:0:10:weapon challenge
+
+zone:3:3:0:0:0:10:laberint of death
+zone:4:4:0:0:0:0:dangerous place
+zone:5:5:0:0:0:10:snow mountain
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:empty_beer_bottlev:aircraft 1-30-2021, 10:00:33 AM
+ramil (magistral) sent /cancelauction 1-30-2021, 10:02:03 AM
+ramil (magistral) sent /cancelauction 1-30-2021, 10:02:09 AM
+ramil (magistral) sent /cancelauction 1-30-2021, 10:02:51 AM
+ramil (magistral) sent /admins 1-30-2021, 10:03:41 AM
+ramil (magistral) sent /inv 1-30-2021, 10:04:11 AM
+ramil (magistral) sent /inv 1-30-2021, 10:04:40 AM
+ramil (magistral) sent /inv 1-30-2021, 10:04:48 AM
+ramil (magistral) sent /t uuuuuuuuuuuuuuuuuuuuuuuuuuuu 1-30-2021, 10:04:57 AM
+ramil (magistral) sent /inv 1-30-2021, 10:05:02 AM
+ramil (magistral) sent /go 0 0 0 testing\ 1-30-2021, 10:05:35 AM
+ramil (magistral) sent /t ты делаешь двери? 1-30-2021, 10:07:02 AM
+ramil (magistral) sent /t курца 1-30-2021, 10:08:54 AM
+ramil (magistral) sent /t курица 1-30-2021, 10:08:57 AM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 10:10:03 AM
+ramil (magistral) sent /go 10 10 0 1-30-2021, 10:11:07 AM
+ramil (magistral) sent /go 1 1 40 1-30-2021, 10:11:59 AM
+ramil (magistral) sent /inv 1-30-2021, 10:12:16 AM
+ramil (magistral) sent /inv 1-30-2021, 10:12:36 AM
+ramil (magistral) sent /go 0 0 0 store 1-30-2021, 10:16:48 AM
+ramil (magistral) sent /where killer3000 1-30-2021, 10:25:54 AM
+ramil (magistral) sent /inv 1-30-2021, 10:26:06 AM
+ramil (magistral) sent /inv 1-30-2021, 10:26:22 AM
+ramil (magistral) sent /t staff_sergeant roflgamer:   lol how do you move fast 1-30-2021, 10:30:14 AM
+ramil (magistral) sent /lchat i going to 10 0 0 and use drinks 1-30-2021, 10:30:35 AM
+ramil (magistral) sent /go 0 0 0 1-30-2021, 10:32:16 AM
+ramil (magistral) sent /go 0 15 0 1-30-2021, 10:32:27 AM
+ramil (magistral) sent /go 20 0 0 main 1-30-2021, 10:32:50 AM
+ramil (magistral) sent /go 115 0 0  1-30-2021, 10:35:00 AM
+ramil (magistral) sent /go 75 5 5 main 1-30-2021, 10:36:14 AM
+ramil (magistral) sent /t the w shelter belonging to blindgamers14 with 2605168 health is in front and slightly off to the right, 11 feet away.  1-30-2021, 10:36:39 AM
+ramil (magistral) sent /newmap ch5 10 1000 1000 stone2 1-30-2021, 10:39:26 AM
+ramil (magistral) sent /go 0 0 0 ch4 1-30-2021, 10:39:53 AM
+ramil (magistral) sent /go 0 0 0 ch5 1-30-2021, 10:40:11 AM
+ramil (magistral) sent /rawmap 1-30-2021, 10:48:42 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:10:35:stone2
+zone:0:10:15:15:10:35: be careful with these stones
+tile:0:10:15:15:18:19:hazardmapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:10:35:stone2
+zone:0:10:15:15:10:35: be careful with these stones
+tile:0:10:15:15:14:16:hazard 1-30-2021, 10:49:06 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:10:35:stone2
+zone:0:10:15:15:10:35: be careful with these stones
+tile:0:10:15:15:18:19:hazardmapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:10:35:hazard
+zone:0:10:15:15:10:35: be careful with these stones 1-30-2021, 10:50:12 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:10:35:stone2
+zone:0:10:15:15:10:35: be careful with these stones
+tile:0:10:15:15:18:19:hazardmapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:15:35:hazard
+zone:0:10:15:15:10:35: be careful with these stones 1-30-2021, 10:50:29 AM
+ramil (magistral) sent /go 0 0 0 1-30-2021, 10:50:39 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:10:35:stone2
+zone:0:10:15:15:10:35: be careful with these stones
+tile:0:10:15:15:18:19:hazardmapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+zone:0:10:15:15:10:35: be careful with these stones 1-30-2021, 10:52:22 AM
+ramil (magistral) sent /rawmap 1-30-2021, 10:52:33 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:15:15:10:35:stone2
+zone:0:10:15:15:10:35: be careful with these stones
+tile:0:10:15:15:18:19:hazardmapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+zone:0:10:15:15:10:35:careful 1-30-2021, 10:53:17 AM
+ramil (magistral) sent /rawmap 1-30-2021, 10:53:22 AM
+ramil (magistral) sent /rawmap 1-30-2021, 10:54:32 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+zone:0:10:15:15:10:35: be careful with these stones 1-30-2021, 10:55:55 AM
+ramil (magistral) sent /go 0 10 0 1-30-2021, 10:56:01 AM
+ramil (magistral) sent /go 0 10 10 1-30-2021, 10:56:12 AM
+ramil (magistral) sent /rawmap 1-30-2021, 10:58:02 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+zone:0:10:15:15:10:35: be careful with these stones
+tile:0:10:12:12:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2 1-30-2021, 10:58:19 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:12:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2 1-30-2021, 10:59:05 AM
+ramil (magistral) sent /go 0 15 0 ch5 1-30-2021, 10:59:41 AM
+ramil (magistral) sent /go 0 0 0 1-30-2021, 10:59:46 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:01:57 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:12:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:0:6:15:15:17:22:stone2 1-30-2021, 11:02:10 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:12:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2 1-30-2021, 11:02:28 AM
+ramil (magistral) sent /go 6 15 22 1-30-2021, 11:02:34 AM
+ramil (magistral) sent /inv 1-30-2021, 11:06:33 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:12:30 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:12:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2
+tile:0:10:14:14:16:21:hazard
+tile:7:7:15:16:22:22:dirt1
+tile:0:10:16:16:22:35:hazard
+tile:7:7:16:16:22:25:dirt1
+tile:6:6:16:16:25:29:bare 1-30-2021, 11:12:45 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:18:38 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:1000:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2
+tile:0:10:14:14:16:21:hazard
+tile:7:7:15:16:22:22:dirt1
+tile:0:10:16:16:22:35:hazard
+tile:7:7:16:16:22:25:dirt1
+tile:6:6:16:16:25:29:bare
+tile:7:7:16:16:29:35:vent
+tile:0:10:17:24:35:35:suicide
+tile:7:7:25:50:35:35:concrete6
+tile:7:7:40:45:35:35:teleport 1-30-2021, 11:19:23 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:20:45 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:1000:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2
+tile:0:10:14:14:16:21:hazard
+tile:7:7:15:16:22:22:dirt1
+tile:0:10:16:16:22:35:hazard
+tile:7:7:16:16:22:25:dirt1
+tile:6:6:16:16:25:29:bare
+tile:7:7:16:16:29:35:vent
+tile:0:10:17:24:35:35:suicide
+tile:7:7:25:50:35:35:concrete6
+tile:7:7:40:45:35:35:teleport
+tile:7:7:56:56:38:45:bleacher
+tile:7:7:57:87:45:48:suicide 1-30-2021, 11:21:02 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:21:54 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:1000:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2
+tile:0:10:14:14:16:21:hazard
+tile:7:7:15:16:22:22:dirt1
+tile:0:10:16:16:22:35:hazard
+tile:7:7:16:16:22:25:dirt1
+tile:6:6:16:16:25:29:bare
+tile:7:7:16:16:29:35:vent
+tile:0:10:17:24:35:35:suicide
+tile:7:7:25:50:35:35:concrete6
+tile:7:7:40:45:35:35:teleport
+tile:7:7:56:56:38:45:bleacher
+tile:7:7:57:87:45:49:suicide
+tile:7:7:57:75:50:50:cement1 1-30-2021, 11:22:12 AM
+ramil (magistral) sent /inv 1-30-2021, 11:22:13 AM
+ramil (magistral) sent /go 0 0 0 ch5 1-30-2021, 11:24:51 AM
+ramil (magistral) sent /inv 1-30-2021, 11:25:01 AM
+ramil (magistral) sent /go 0 0 0 1-30-2021, 11:26:57 AM
+ramil (magistral) sent /go 7 75 65 1-30-2021, 11:27:05 AM
+ramil (magistral) sent /go 0 75 65 1-30-2021, 11:27:15 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:27:29 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:1000:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2
+tile:0:10:14:14:16:21:hazard
+tile:7:7:15:16:22:22:dirt1
+tile:0:10:16:16:22:35:hazard
+tile:7:7:16:16:22:25:dirt1
+tile:6:6:16:16:25:29:bare
+tile:7:7:16:16:29:35:vent
+tile:0:10:17:24:35:35:suicide
+tile:7:7:25:50:35:35:concrete6
+tile:7:7:40:45:35:35:teleport
+tile:7:7:56:56:38:45:bleacher
+tile:7:7:57:87:45:49:suicide
+tile:7:7:57:75:50:50:cement1
+tile:7:7:63:70:50:50:suicide
+tile:0:0:75:95:52:55:generic 1-30-2021, 11:27:45 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:29:51 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:1000:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2
+tile:0:10:14:14:16:21:hazard
+tile:7:7:15:16:22:22:dirt1
+tile:0:10:16:16:22:35:hazard
+tile:7:7:16:16:22:25:dirt1
+tile:6:6:16:16:25:29:bare
+tile:7:7:16:16:29:35:vent
+tile:0:10:17:24:35:35:suicide
+tile:7:7:25:50:35:35:concrete6
+tile:7:7:40:45:35:35:teleport
+tile:7:7:56:56:38:45:bleacher
+tile:7:7:57:87:45:49:suicide
+tile:7:7:57:75:50:50:cement1
+tile:7:7:63:70:50:50:suicide
+tile:0:0:75:75:52:55:generic
+tile:0:0:85:105:55:55:gravel1
+tile:0:0:75:95:56:60:hazard 1-30-2021, 11:30:12 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:30:54 AM
+ramil (magistral) sent /rawdata mapname:ch5
+maxx:10
+maxy:1000
+maxz:1000
+tile:0:10:0:1000:0:0:stone2
+zone:0:10:0:1000:0:1000:mountain
+tile:11:1000:0:1000:0:1000:wallgrassdirt
+tile:0:10:11:11:0:10:wallrocks1
+tile:0:10:10:10:0:10:stone2
+tile:0:10:11:15:10:10:dirt
+tile:0:10:12:1000:0:0:hazard
+tile:0:10:15:15:10:35:hazard
+tile:0:10:15:15:10:13:stone2
+tile:3:3:15:15:13:14:stone2
+tile:0:2:15:15:14:15:stone2
+tile:7:7:15:15:15:17:stone2
+tile:0:7:14:14:15:15:synthetic
+tile:6:6:15:15:17:22:stone2
+tile:0:10:14:14:16:21:hazard
+tile:7:7:15:16:22:22:dirt1
+tile:0:10:16:16:22:35:hazard
+tile:7:7:16:16:22:25:dirt1
+tile:6:6:16:16:25:29:bare
+tile:7:7:16:16:29:35:vent
+tile:0:10:17:24:35:35:suicide
+tile:7:7:25:50:35:35:concrete6
+tile:7:7:40:45:35:35:teleport
+tile:7:7:56:56:38:45:bleacher
+tile:7:7:57:87:45:49:suicide
+tile:7:7:57:75:50:50:cement1
+tile:7:7:63:70:50:50:suicide
+tile:0:0:75:75:52:55:generic
+tile:0:0:85:95:55:55:gravel1
+tile:0:0:75:94:56:60:hazard
+tile:0:0:76:95:54:54:hazard 1-30-2021, 11:33:04 AM
+ramil (magistral) sent /rawmap 1-30-2021, 11:43:12 AM
+ramil (magistral) sent /go 0 0 0 store 1-30-2021, 11:43:15 AM
+ramil (magistral) sent /go 0 0 0 store 1-30-2021, 11:44:34 AM
+ramil (magistral) sent /go 25 1 0 road to tower 1-30-2021, 11:46:13 AM
+ramil (magistral) sent /go 0 0 0 road_to_tower 1-30-2021, 11:46:30 AM
+ramil (magistral) sent /go 0 0 0 weaoin 1-30-2021, 11:50:22 AM
+ramil (magistral) sent /go 0 0 0 weapon 1-30-2021, 11:50:26 AM
+ramil (magistral) sent /go 0 0 0 store 1-30-2021, 12:03:44 PM
+ramil (magistral) sent /go 100 0 0 1-30-2021, 12:06:29 PM
+ramil (magistral) sent /go 100 100 0 1-30-2021, 12:06:48 PM
+ramil (magistral) sent /go 100 100 0 main 1-30-2021, 12:06:55 PM
+ramil (magistral) sent /go 155 280 0 main 1-30-2021, 12:09:28 PM
+ramil (magistral) sent /go 490 0 0 1-30-2021, 12:12:44 PM
+ramil (magistral) sent /go 340 250 0 main 1-30-2021, 12:14:02 PM
+ramil (magistral) sent /teams 1-30-2021, 12:18:18 PM
+ramil (magistral) sent /go 375 280 0 main 1-30-2021, 12:20:48 PM
+ramil (magistral) sent /go 385 289 0 main 1-30-2021, 12:21:08 PM
+ramil (magistral) sent /go 339 250 0 main 1-30-2021, 12:22:23 PM
+ramil (magistral) sent /go 345 250 0 main 1-30-2021, 12:22:37 PM
+ramil (magistral) sent /go 341 10 0 1-30-2021, 12:23:54 PM
+ramil (magistral) sent /go 341 10 0 main 1-30-2021, 12:24:00 PM
+ramil (magistral) sent /lchat wait 1-30-2021, 12:24:06 PM
+ramil (magistral) sent /inv 1-30-2021, 12:24:09 PM
+ramil (magistral) sent /inv 1-30-2021, 12:24:28 PM
+ramil (magistral) sent /go 304 0 0  1-30-2021, 12:25:16 PM
+ramil (magistral) sent /go 304 0 0  mina 1-30-2021, 12:25:21 PM
+ramil (magistral) sent /go 304 0 0 main 1-30-2021, 12:25:25 PM
+ramil (magistral) sent /inv 1-30-2021, 12:25:35 PM
+ramil (magistral) sent /inv 1-30-2021, 12:25:39 PM
+ramil (magistral) sent /go 250 0 0 main 1-30-2021, 12:27:48 PM
+ramil (magistral) sent /go 250 250 200 1-30-2021, 12:28:00 PM
+ramil (magistral) sent /t hi 1-30-2021, 12:28:53 PM
+ramil (magistral) sent /go 223 449 2 1-30-2021, 2:18:08 PM
+ramil (magistral) sent /teams 1-30-2021, 2:18:58 PM
+ramil (magistral) sent /members 1-30-2021, 2:19:02 PM
+ramil (magistral) sent /sgelters 1-30-2021, 2:19:22 PM
+ramil (magistral) sent /shelters 1-30-2021, 2:19:25 PM
+ramil (magistral) sent /go 250 750 -215 battles 1-30-2021, 2:19:37 PM
+ramil (magistral) sent /where magistral 1-30-2021, 2:20:10 PM
+ramil (magistral) sent /go 2 2 0 1-30-2021, 2:21:44 PM
+ramil (magistral) sent /go 0 0 0 weapon 1-30-2021, 2:22:15 PM
+ramil (magistral) sent /bestplayer 1-30-2021, 2:23:49 PM
+ramil (magistral) sent //inv 1-30-2021, 2:30:56 PM
+ramil (magistral) sent /inv 1-30-2021, 2:30:58 PM
+ramil (magistral) sent /where stepman 1-30-2021, 2:32:46 PM
+ramil (magistral) sent /inv 1-30-2021, 2:32:50 PM
+ramil (magistral) sent /where stepman 1-30-2021, 2:33:09 PM
+ramil (magistral) sent /go 223 449 2 1-30-2021, 2:35:04 PM
+ramil (magistral) sent /go 1 1 201 cave 1-30-2021, 2:35:52 PM
+ramil (magistral) sent /go 7 100 0 1-30-2021, 2:45:02 PM
+ramil (magistral) sent /robotinfo 1-30-2021, 2:46:25 PM
+ramil (magistral) sent /inv 1-30-2021, 2:47:05 PM
+ramil (magistral) sent /inv 1-30-2021, 2:48:33 PM
+ramil (magistral) sent /inv 1-30-2021, 2:48:43 PM
+ramil (magistral) sent /go 0 0 50 1-30-2021, 2:49:45 PM
+ramil (magistral) sent /inv 1-30-2021, 2:49:53 PM
+ramil (magistral) sent /go 25 1 0 1-30-2021, 2:51:00 PM
+ramil (magistral) sent /go 0 0 0 1-30-2021, 2:52:12 PM
+ramil (magistral) sent /robotinfo 1-30-2021, 2:52:56 PM
+ramil (magistral) sent /where stepman 1-30-2021, 2:55:24 PM
+ramil (magistral) sent /robotinfo 1-30-2021, 2:56:40 PM
+ramil (magistral) sent /aaahaaahahaeiwr 1-30-2021, 2:57:11 PM
+ramil (magistral) sent /robotinfo 1-30-2021, 2:58:49 PM
+ramil (magistral) sent /robotinfo 1-30-2021, 2:59:49 PM
+ramil (magistral) sent /go 0 100 0 main 1-30-2021, 3:03:54 PM
+ramil (magistral) sent /go 10 0 0  1-30-2021, 3:04:09 PM
+ramil (magistral) sent /go 250 250 200 1-30-2021, 3:10:53 PM
+ramil (magistral) sent /go 250 250 200 main 1-30-2021, 3:11:35 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:23:08 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:24:36 PM
+ramil (magistral) sent /bid 5555 1-30-2021, 5:25:16 PM
+ramil (magistral) sent /bid 4435445 1-30-2021, 5:25:32 PM
+ramil (magistral) sent /cancelauction 1-30-2021, 5:25:34 PM
+ramil (magistral) sent /cancelbid y 1-30-2021, 5:25:35 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:31:16 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:31:26 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:31:33 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:32:16 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:32:29 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:34:22 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:34:31 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:34:37 PM
+ramil (magistral) sent /bid 2\ 1-30-2021, 5:34:56 PM
+ramil (magistral) sent /bid 501111 1-30-2021, 5:34:59 PM
+ramil (magistral) sent /bid 50111111 1-30-2021, 5:35:02 PM
+ramil (magistral) sent /cancelauction 1-30-2021, 5:35:03 PM
+ramil (magistral) sent /cancelbid y 1-30-2021, 5:35:05 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:35:06 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:35:15 PM
+ramil (magistral) sent /lchat hoo 1-30-2021, 5:36:50 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:37:00 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:37:05 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:37:11 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:37:22 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:37:29 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 5:37:51 PM
+ramil (magistral) sent /newmap magistral 100 100 100 grass 1-30-2021, 5:38:43 PM
+ramil (magistral) sent /rawmap 1-30-2021, 5:38:46 PM
+ramil (magistral) sent /rawdata mapname:magistral
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+ispawn:0:100:0:100:0:0:5000:10:nuclear_bomb 1-30-2021, 5:39:15 PM
+ramil (magistral) sent /newmap ramil 100 100 100 grass 1-30-2021, 5:39:57 PM
+ramil (magistral) sent /rawdata mapname:ramil
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+ispawn:0:100:0:100:0:0:5000:10:nuclear_bomb 1-30-2021, 5:40:12 PM
+ramil (magistral) sent /go 0 0 0 store 1-30-2021, 5:41:17 PM
+ramil (magistral) sent /go 0 0 0  ramil 1-30-2021, 5:42:48 PM
+ramil (magistral) sent /go 0 0 0 ramil 1-30-2021, 5:43:26 PM
+ramil (magistral) sent /go 0 0 0 ramil 1-30-2021, 5:43:45 PM
+ramil (magistral) sent /go 0 0 0 ramil 1-30-2021, 5:44:02 PM
+ramil (magistral) sent /inv 1-30-2021, 5:44:06 PM
+ramil (magistral) sent /rawmap 1-30-2021, 5:44:09 PM
+ramil (magistral) sent /rawdata mapname:ramil
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+ispawn:0:100:0:100:0:0:5000:10:nuclear_bomb
+travelpoint:0:0:0:0:0:100:store:5:5:10:ahiuaGuuerwu 1-30-2021, 5:44:23 PM
+ramil (magistral) sent /lchat do you want help? 1-30-2021, 5:45:26 PM
+ramil (magistral) sent /newmap police 100 100 100 coicried 1-30-2021, 5:51:15 PM
+ramil (magistral) sent /rawdata mapname:police
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete27
+zone:0:100:0:100:0:100:police station
+src:0:100:0:100:0:100:quietstreet.ogg
+tile:0:0:50:100:0:100:wallbank
+tile:0:50:50:50:0:100:wallbank
+tile:50:50:50:100:0:100:wallbank
+tile:0:50:100:100:0:100:wallbank
+tile:25:35:49:49:0:0:diamond
+zone:0:50:50:100:0:100:police chief's office
+travelpoint:25:35:51:51:0:10:police:30:49:0:you left the office of the police chief
+tile:25:35:50:50:0:10:walldoor
+travelpoint:25:35:49:49:0:10:police:30:51:0:you went to the police chief's office
+tile:1:49:51:99:0:0:carpet6
+robots:0:100:0:100:0:0:3:10000:gangster,robocop,soldier,securityguard
+zone:25:35:49:50:0:10:door to the police chief's office:trackme
+zone:25:35:51:51:0:10:exit from office:trackme
+tile:21:22:92:100:0:9:wallstone1
+tile:29:30:92:100:0:9:wallstone1
+tile:20:30:90:99:10:10:glass3
+tile:24:24:88:88:0:3:wallmetal1
+tile:24:24:84:84:0:3:wallmetal1
+tile:28:28:84:84:0:3:wallmetal1
+tile:28:28:88:88:0:3:wallmetal1
+tile:24:28:84:88:4:4:chair
+tile:24:28:83:83:4:6:walltile
+tile:24:28:83:83:7:7:diamond
+zone:24:28:83:88:4:14:chair
+zone:20:30:90:100:10:20:table
+zone:24:28:83:83:7:17:back of a chair 1-30-2021, 5:51:24 PM
+ramil (magistral) sent /inv 1-30-2021, 5:51:27 PM
+ramil (magistral) sent /inv 1-30-2021, 5:51:57 PM
+ramil (magistral) sent /go 50 0 0 police 1-30-2021, 5:52:54 PM
+ramil (magistral) sent /go 39 45 0 police 1-30-2021, 5:53:36 PM
+ramil (magistral) sent /robotinfo 1-30-2021, 5:55:58 PM
+ramil (magistral) sent /suicide 1-30-2021, 5:59:17 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:16:13 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:16:26 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:16:36 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:16:43 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:16:55 PM
+ramil (magistral) sent /t disable chat to trever and artem pls 1-30-2021, 6:17:15 PM
+ramil (magistral) sent /t hee use russian lang 1-30-2021, 6:17:24 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:18:12 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:18:24 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:18:36 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:18:42 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:19:14 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:19:39 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:19:42 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:20:04 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:20:07 PM
+ramil (magistral) sent /admintell u3 vs 1 1-30-2021, 6:20:45 PM
+ramil (magistral) sent /t oy 1-30-2021, 6:20:49 PM
+ramil (magistral) sent /t sory 1-30-2021, 6:20:50 PM
+ramil (magistral) sent /t путаю. 1-30-2021, 6:20:55 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:23:24 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:23:47 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:23:58 PM
+ramil (magistral) sent /inv 1-30-2021, 6:24:10 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:24:11 PM
+ramil (magistral) sent /t ????? ???????? joined channel ????????????? - File sharing 1-30-2021, 6:24:29 PM
+ramil (magistral) sent /t streight off to the right (28 tiles away)  in viewing platform at 29, 1, 40 1-30-2021, 6:24:33 PM
+ramil (magistral) sent /inv 1-30-2021, 6:25:07 PM
+ramil (magistral) sent /t fuuuuuucke 1-30-2021, 6:25:16 PM
+ramil (magistral) sent /go 30 30  1-30-2021, 6:25:43 PM
+ramil (magistral) sent /go 0 0 0 1-30-2021, 6:25:45 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:26:05 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:26:24 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:26:57 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:27:25 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:27:34 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:27:56 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:29:42 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:29:55 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:30:06 PM
+ramil (magistral) sent /bestplayer 1-30-2021, 6:30:27 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:30:41 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:30:50 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:31:01 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:31:13 PM
+ramil (magistral) sent /go 30 30 0 1-30-2021, 6:31:20 PM
+ramil (magistral) sent /chars 1-30-2021, 7:02:58 PM
+ramil (magistral) sent /storetime 1-30-2021, 9:34:27 PM
+ramil (magistral) sent /go 1 1 40 boxing 1-30-2021, 9:40:48 PM
+ramil (magistral) sent /inv 1-30-2021, 9:40:49 PM
+ramil (magistral) sent /inv 1-30-2021, 9:41:04 PM
+ramil (magistral) sent /inv 1-30-2021, 9:42:11 PM
+ramil (magistral) sent /inv 1-30-2021, 9:47:37 PM
+ramil (magistral) sent /inv 1-30-2021, 9:59:10 PM
+ramil (magistral) sent /inv 1-30-2021, 9:59:44 PM
+ramil (magistral) sent /inv 1-30-2021, 10:00:22 PM
+ramil (magistral) sent /inv 1-30-2021, 10:00:26 PM
+ramil (magistral) sent /suicide 1-30-2021, 10:00:33 PM

@@ -1,0 +1,49 @@
+
+nikita-k (nikita-k) said hi 2-16-2021, 7:32:15 PM
+nikita-k (nikita-k) said aa 2-16-2021, 8:02:15 PM
+nikita-k (nikita-k) said запрещены 2-16-2021, 8:02:58 PM
+nikita-k (nikita-k) said они были запрещены 2-16-2021, 8:03:19 PM
+nikita-k (nikita-k) said roflflflflflflf 2-16-2021, 9:37:37 PM
+nikita-k (nikita-k) said google has given you 549000000 rocket_launchers! 2-16-2021, 9:37:42 PM
+nikita-k (nikita-k) said you have received 414670848 coins in return for your contribution 2-16-2021, 9:38:28 PM
+nikita-k (nikita-k) said type a command here. 2-16-2021, 9:48:32 PM
+nikita-k (nikita-k) said oi 2-16-2021, 9:48:35 PM
+nikita-k (nikita-k) said hi 2-16-2021, 9:49:07 PM
+nikita-k (nikita-k) said if(parsed[0]=="tk_voice") 2-16-2021, 10:01:35 PM
+nikita-k (nikita-k) said oy 2-16-2021, 10:01:39 PM
+nikita-k (nikita-k) said string[] parsed=string_split(get_event_message(), " ", false);
+if(parsed[0]=="tk_voice")
+{
+int x, y, z;
+x=string_to_number(parsed[1]);
+y=string_to_number(parsed[2]);
+z=string_to_number(parsed[3]);
+string vc=string_replace(get_event_message(),parsed[0]+" "+parsed[1]+" "+parsed[2]+" "+parsed[3]+" ", "",true);
+p.play_3d(vc,me.x,me.y,me.z,x,y,z,false,true);
+}
+}
+ 2-16-2021, 10:05:21 PM
+nikita-k (nikita-k) said oooo fucking bots 2-16-2021, 10:07:18 PM
+nikita-k (nikita-k) said haha 2-16-2021, 10:07:21 PM
+nikita-k (nikita-k) said type a command here. 2-16-2021, 10:07:27 PM
+nikita-k (nikita-k) said oi 2-16-2021, 10:07:29 PM
+nikita-k (nikita-k) said On line: 512 (1)
+Line: ttsv.speak_to_file(DIRECTORY_TEMP+"/ttsmsg.ogg",stuff);
+Error: 'ttsv' is not declared
+ 2-16-2021, 10:11:53 PM
+nikita-k (nikita-k) said lol 2-16-2021, 10:12:05 PM
+nikita-k (nikita-k) said ttssssss chat 2-16-2021, 10:12:21 PM
+nikita-k (nikita-k) said yup 2-16-2021, 10:12:37 PM
+nikita-k (nikita-k) said aaaaaa 2-16-2021, 10:13:40 PM
+nikita-k (nikita-k) said Line: ttsvoice.speak_to_file(DIRECTORY_TEMP+"/ttsmsg.ogg",stuff);
+Error: Illegal operation on 'int&'
+ 2-16-2021, 10:13:49 PM
+nikita-k (nikita-k) said i, dont, tell, key 2-16-2021, 10:14:19 PM
+nikita-k (nikita-k) said d 2-16-2021, 10:14:22 PM
+nikita-k (nikita-k) said aa 2-16-2021, 10:14:57 PM
+nikita-k (nikita-k) said wowowowww i have 63 sorces! 2-16-2021, 10:16:57 PM
+nikita-k (nikita-k) said haha 2-16-2021, 10:17:01 PM
+nikita-k (nikita-k) said i want more! Lol 2-16-2021, 10:17:14 PM
+nikita-k (nikita-k) said if(wname=="flair") 2-16-2021, 10:19:13 PM
+nikita-k (nikita-k) said ha 2-16-2021, 10:30:51 PM
+nikita-k (nikita-k) said ball 2-16-2021, 10:31:05 PM

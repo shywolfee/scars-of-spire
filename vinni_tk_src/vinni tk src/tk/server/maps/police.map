@@ -1,0 +1,33 @@
+mapname:police
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete27
+zone:0:100:0:100:0:100:police station
+src:0:100:0:100:0:100:quietstreet.ogg
+tile:0:0:50:100:0:100:wallbank
+tile:0:50:50:50:0:100:wallbank
+tile:50:50:50:100:0:100:wallbank
+tile:0:50:100:100:0:100:wallbank
+tile:25:35:49:49:0:0:diamond
+zone:0:50:50:100:0:100:police chief's office
+travelpoint:25:35:51:51:0:10:police:30:49:0:you left the office of the police chief
+tile:25:35:50:50:0:10:walldoor
+travelpoint:25:35:49:49:0:10:police:30:51:0:you went to the police chief's office
+tile:1:49:51:99:0:0:carpet6
+robots:0:100:0:100:0:0:3:10000:gangster,robocop,soldier,securityguard
+zone:25:35:49:50:0:10:door to the police chief's office:trackme
+zone:25:35:51:51:0:10:exit from office:trackme
+tile:21:22:92:100:0:9:wallstone1
+tile:29:30:92:100:0:9:wallstone1
+tile:20:30:90:99:10:10:glass3
+tile:24:24:88:88:0:3:wallmetal1
+tile:24:24:84:84:0:3:wallmetal1
+tile:28:28:84:84:0:3:wallmetal1
+tile:28:28:88:88:0:3:wallmetal1
+tile:24:28:84:88:4:4:chair
+tile:24:28:83:83:4:6:walltile
+tile:24:28:83:83:7:7:diamond
+zone:24:28:83:88:4:14:chair
+zone:20:30:90:100:10:20:table
+zone:24:28:83:83:7:17:back of a chair

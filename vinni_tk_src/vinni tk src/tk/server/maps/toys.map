@@ -1,0 +1,32 @@
+mapname:toys
+maxx:500
+maxy:500
+maxz:50
+tile:0:500:0:500:0:0:stone
+src:0:500:0:500:0:50:rumble.ogg
+zone:0:500:0:500:0:50:hall of dangerous toys
+tile:0:0:0:500:0:50:wallbigmetal1
+tile:500:500:0:500:0:50:wallbigmetal1
+tile:1:499:0:0:0:50:wallbigmetal1
+tile:1:499:500:500:0:50:wallbigmetal1
+tile:200:300:200:300:16:16:bridge
+zone:200:300:200:300:16:30:platform
+tile:200:204:200:204:1:15:wallbigmetal1
+tile:202:202:202:202:0:16:ladder2
+tile:200:204:296:300:1:15:wallbigmetal1
+tile:202:202:298:298:0:16:ladder2
+tile:296:300:200:204:1:15:wallbigmetal1
+tile:298:298:202:202:0:16:ladder2
+tile:296:300:296:300:1:15:wallbigmetal1
+tile:298:298:298:298:0:16:ladder2
+zone:202:202:202:202:0:30:ladder to the platform
+zone:202:202:298:298:0:30:ladder to the platform
+zone:298:298:202:202:0:30:ladder to the platform
+zone:298:298:298:298:0:30:ladder to the platform
+ispawn:200:300:200:300:16:16:30000:2:guided_missile:pack_of_300_guided_missile:rpg7:knife
+robots:1:499:1:499:0:0:2:0:tank,tank,horse,soldier,cat
+src:200:300:200:300:16:30:vending.ogg
+travelpoint:1:1:1:1:0:10:experiment:1:199:0:you moved to the next hall
+zone:0:1:0:1:0:10:teleport:trackme
+tile:1:1:1:1:0:0:metal5
+noitems:0:500:0:500:0:200:wood

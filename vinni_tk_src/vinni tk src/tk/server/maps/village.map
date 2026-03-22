@@ -1,0 +1,34 @@
+mapname:village
+maxx:100
+maxy:300
+maxz:50
+tile:0:100:0:300:0:0:grass
+zone:0:100:0:300:0:50:burnt village
+src:0:100:0:300:0:20:birds30.ogg
+tile:50:60:0:300:0:0:cement
+zone:50:60:0:300:0:20:road
+tile:0:100:135:165:-1:0:swimming
+src:0:100:135:165:-1:10:stream9.ogg
+zone:0:100:135:165:-1:20:deep river
+tile:0:100:135:165:-30:-2:underwater
+zone:0:100:135:165:-30:-2:under water
+amb:0:100:135:165:-30:-2:underwater.ogg
+tile:0:100:134:134:-30:-1:wallunderwater
+tile:0:100:166:166:-30:-1:wallunderwater
+tile:0:49:166:167:0:0:rocks2
+zone:0:49:166:167:0:20:stones near the river
+zone:61:100:166:167:0:20:stones near the river
+tile:61:100:166:167:0:0:rocks2
+travelpoint:50:60:0:0:0:10:h_road:55:1000:0:you are back on the road
+zone:50:60:0:0:0:50:you went on the road:trackme
+tile:0:49:133:134:0:0:rocks2
+zone:0:49:133:134:0:20:stones near the river
+tile:61:100:133:134:0:0:rocks2
+zone:61:100:133:134:0:20:stones near the river
+tile:50:60:135:165:30:30:bridge1
+tile:50:60:134:134:0:30:shelter
+tile:50:60:165:165:0:30:shelter
+zone:50:60:165:165:0:50:staircase to the bridge:trackme
+zone:50:60:134:134:0:50:staircase to the bridge:trackme
+zone:50:60:135:164:30:50:bridge:trackme
+robots:0:100:0:300:0:0:2:0:fireball,hunter

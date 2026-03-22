@@ -1,0 +1,713 @@
+
+ramil (magistral) sent /gnsubmit 15 1-7-2021, 11:22:35 AM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 11:26:55 AM
+ramil (magistral) sent /go 0 0 0 1-7-2021, 11:30:56 AM
+ramil (magistral) sent /go 534 560 535 1-7-2021, 11:31:55 AM
+ramil (magistral) sent /go 100 60 0 1-7-2021, 12:20:50 PM
+ramil (magistral) sent /chars 1-7-2021, 1:38:48 PM
+ramil (magistral) sent /adminflag 1-7-2021, 2:00:58 PM
+ramil (magistral) sent /me ffff 1-7-2021, 2:01:35 PM
+ramil (magistral) sent /lchat вправо 1-7-2021, 2:03:55 PM
+ramil (magistral) sent /time 1-7-2021, 2:42:49 PM
+ramil (magistral) sent /time 1-7-2021, 2:54:41 PM
+ramil (magistral) sent /go 500 1-7-2021, 2:55:22 PM
+ramil (magistral) sent /go 500 516 500 1-7-2021, 2:55:31 PM
+ramil (magistral) sent /sell 1-7-2021, 2:56:42 PM
+ramil (magistral) sent /ramwap 1-7-2021, 3:10:35 PM
+ramil (magistral) sent /rawmap 1-7-2021, 3:10:38 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+jplayer:15:15: 1-7-2021, 3:11:11 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+jplayer:15:15:0 1-7-2021, 3:11:27 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0 1-7-2021, 3:17:12 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0 1-7-2021, 3:17:13 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0 1-7-2021, 3:17:14 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0 1-7-2021, 3:17:15 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0 1-7-2021, 3:17:16 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0\ 1-7-2021, 3:17:17 PM
+ramil (magistral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+//jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+///jplayer:15:15:0 1-7-2021, 3:17:18 PM
+ramil (magistral) sent /go 15 15 0 store 1-7-2021, 3:32:25 PM
+ramil (magistral) sent /teams 1-7-2021, 3:40:32 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 3:42:06 PM
+ramil (magistral) sent /lchat come, come, cooooooooome 1-7-2021, 3:50:46 PM
+ramil (magistral) sent /reply dont know 1-7-2021, 4:04:55 PM
+ramil (magistral) sent /where nikita-k 1-7-2021, 4:35:14 PM
+ramil (magistral) sent /lchat hi 1-7-2021, 4:35:28 PM
+ramil (magistral) sent /lchat aha 1-7-2021, 4:35:37 PM
+ramil (magistral) sent /go 0 69 60 1-7-2021, 4:37:02 PM
+ramil (magistral) sent /lchat eyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy 1-7-2021, 4:38:19 PM
+ramil (magistral) sent /sell 1-7-2021, 4:39:12 PM
+ramil (magistral) sent /cancelauction 1-7-2021, 4:39:42 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:06 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:06 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:07 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:07 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:08 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:08 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:08 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:09 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:09 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:09 PM
+ramil (magistral) sent /s57 1-7-2021, 4:40:10 PM
+ramil (magistral) sent /lchat aaa 1-7-2021, 4:40:27 PM
+ramil (magistral) sent /s56 1-7-2021, 4:40:29 PM
+ramil (magistral) sent /s7 1-7-2021, 4:40:39 PM
+ramil (magistral) sent /gnsubmit 5 1-7-2021, 4:43:24 PM
+ramil (magistral) sent /cancelauction 1-7-2021, 4:47:37 PM
+ramil (magistral) sent /cancelauction 1-7-2021, 4:47:54 PM
+ramil (magistral) sent /cancelauction 1-7-2021, 4:48:40 PM
+ramil (magistral) sent /go 0 100 0 oldnaub 1-7-2021, 4:49:56 PM
+ramil (magistral) sent /go 10 1 0 store 1-7-2021, 4:50:47 PM
+ramil (magistral) sent /go 0 0 0 newmain 1-7-2021, 5:11:14 PM
+ramil (magistral) sent /rawmap 1-7-2021, 5:11:26 PM
+ramil (magistral) sent /go 0 0 0 storer 1-7-2021, 5:12:21 PM
+ramil (magistral) sent /go 0 0 0 syti 1-7-2021, 5:12:29 PM
+ramil (magistral) sent /go 0 0 0 syti 1-7-2021, 5:12:34 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 5:13:19 PM
+ramil (magistral) sent /go 0 0 10 ain 1-7-2021, 5:13:50 PM
+ramil (magistral) sent /go 0 0 0 pk 1-7-2021, 5:13:55 PM
+ramil (magistral) sent /go 0 0 0 pk_map 1-7-2021, 5:14:01 PM
+ramil (magistral) sent /go 0 0 0 pkmap 1-7-2021, 5:14:07 PM
+ramil (magistral) sent /go 0 0 0 battle_field 1-7-2021, 5:14:22 PM
+ramil (magistral) sent /go 0 0 0 battlefield 1-7-2021, 5:14:29 PM
+ramil (magistral) sent /go 0 0 0 beatch 1-7-2021, 5:15:45 PM
+ramil (magistral) sent /go 0 340 100 factory 1-7-2021, 5:15:55 PM
+ramil (magistral) sent /go 0 0 0 1-7-2021, 5:16:02 PM
+ramil (magistral) sent /go 0 0 50 1-7-2021, 5:16:06 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 5:16:17 PM
+ramil (magistral) sent /maps 1-7-2021, 5:16:21 PM
+ramil (magistral) sent /go 0 0 0 50 1-7-2021, 5:16:34 PM
+ramil (magistral) sent /go 0 0 0 save_zone 1-7-2021, 5:17:46 PM
+ramil (magistral) sent /go 100 100 0 1-7-2021, 5:17:52 PM
+ramil (magistral) sent /go 0 0 0 station 1-7-2021, 5:18:13 PM
+ramil (magistral) sent /where magistral 1-7-2021, 5:18:29 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 5:19:14 PM
+ramil (magistral) sent /go 5 5 5 justshelter 1-7-2021, 5:19:47 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 5:19:52 PM
+ramil (magistral) sent /go 0 0 0 sity 1-7-2021, 5:20:27 PM
+ramil (magistral) sent /rawmap 1-7-2021, 5:20:38 PM
+ramil (magistral) sent /rawdata mapname:sity
+maxx:500
+maxy:500
+maxz:10000
+tile:0:200:0:200:0:0:grass
+zone:0:200:0:200:0:100:sity
+tile:0:500:0:500:0:0:concrete18
+src:0:500:0:500:0:-5:city.ogg 1-7-2021, 5:21:46 PM
+ramil (magistral) sent /go 0 0 0 test2 1-7-2021, 5:22:07 PM
+ramil (magistral) sent /go 0 0 0 test 1-7-2021, 5:22:21 PM
+ramil (magistral) sent /go 0 0 0 sity 1-7-2021, 5:22:30 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 5:23:20 PM
+ramil (magistral) sent /go 0 0 0 tisting 1-7-2021, 5:23:43 PM
+ramil (magistral) sent /go 0 0 0 testing 1-7-2021, 5:23:50 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 5:24:16 PM
+ramil (magistral) sent /rawmap 1-7-2021, 5:24:20 PM
+ramil (magistral) sent /rawmap 1-7-2021, 5:29:07 PM
+ramil (magistral) sent /rawdata mapname:testing
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete
+//fightingstate:0
+zone:0:100:0:100:0:10:yard
+src:0:100:0:100:0:--25:amb1.ogg 1-7-2021, 5:29:44 PM
+ramil (magistral) sent /tiem 1-7-2021, 5:34:01 PM
+ramil (magistral) sent /time 1-7-2021, 5:34:02 PM
+ramil (magistral) sent /rawmap 1-7-2021, 5:34:48 PM
+ramil (magistral) sent /rawdata mapname:testing
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete
+//fightingstate:0
+zone:0:100:0:100:0:10:yard
+src:0:100:0:100:0:--25:amb1.ogg
+tile:30:35:40:40:0:40:walldoor
+tile:0:29:40:100:0:40:wall2
+zone:30:35:39:40:0:10:dor to the houce
+tile:36:100:40:100:0:40:wall2 1-7-2021, 5:36:00 PM
+ramil (magistral) sent /rawdata mapname:testing
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete
+//fightingstate:0
+zone:0:100:0:100:0:10:yard
+src:0:100:0:100:0:--25:amb1.ogg
+tile:30:35:40:40:0:40:walldoor
+tile:0:29:40:100:0:40:wall2
+zone:30:35:39:40:0:10:dor to the houce
+tile:36:100:40:100:0:40:wall2
+door:30:39:0:30:40:0:1000:nun.ogg:nun.ogg:door6open.ogg:door6close.ogg 1-7-2021, 5:39:26 PM
+ramil (magistral) sent /rawdata mapname:testing
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete
+//fightingstate:0
+zone:0:100:0:100:0:10:yard
+src:0:100:0:100:0:--25:amb1.ogg
+tile:30:35:40:40:0:40:walldoor
+tile:0:29:40:100:0:40:wall2
+zone:30:35:39:40:0:10:dor to the houce
+tile:36:100:40:100:0:40:wall2
+door:30:39:0:30:40:0:1:nun.ogg:nun.ogg:door1open.ogg:door1close.ogg 1-7-2021, 5:39:59 PM
+ramil (magistral) sent /rawdata mapname:testing
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete
+//fightingstate:0
+src:0:100:0:100:0:--25:amb1.ogg 1-7-2021, 5:40:56 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 5:41:01 PM
+ramil (magistral) sent /maps 1-7-2021, 5:41:03 PM
+ramil (magistral) sent /go 50 1 0 north_road 1-7-2021, 5:41:39 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 5:41:50 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 5:42:19 PM
+ramil (magistral) sent /go 0 0 0 north_road 1-7-2021, 5:42:35 PM
+ramil (magistral) sent /go 0 0 0 north_road 1-7-2021, 5:43:31 PM
+ramil (magistral) sent /go 50 200 0 1-7-2021, 5:44:00 PM
+ramil (magistral) sent /go 500 500 0 1-7-2021, 5:44:05 PM
+ramil (magistral) sent /go 50 500 0 1-7-2021, 5:44:08 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 5:44:49 PM
+ramil (magistral) sent /go 125 500 0 1-7-2021, 5:45:06 PM
+ramil (magistral) sent /go 125 200 0 1-7-2021, 5:45:10 PM
+ramil (magistral) sent /go 0 0 0 road 1-7-2021, 5:45:27 PM
+ramil (magistral) sent /go 751 0 0 1-7-2021, 5:46:57 PM
+ramil (magistral) sent /go 2 2 0 1-7-2021, 5:47:38 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 5:47:47 PM
+ramil (magistral) sent /go 0 0 0 1-7-2021, 6:16:48 PM
+ramil (magistral) sent /pm  mihail mihail's room - TeamTalk 5 Classic v. 5.6.3 1-7-2021, 6:19:54 PM
+ramil (magistral) sent /rawmap 1-7-2021, 6:29:14 PM
+ramil (magistral) sent /go 0 0 0  1-7-2021, 6:34:00 PM
+ramil (magistral) sent /suicide 1-7-2021, 6:34:04 PM
+ramil (magistral) sent /chars 1-7-2021, 8:20:49 PM
+ramil (magistral) sent /go 0 0 0 1-7-2021, 8:34:56 PM
+ramil (magistral) sent /go 1 1 0 shelter 1-7-2021, 9:19:49 PM
+ramil (magistral) sent /go 250 500 0 1-7-2021, 9:24:24 PM
+ramil (magistral) sent /go 251 500 0 1-7-2021, 9:24:41 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:25:23 PM
+ramil (magistral) sent /go 250 250 0 1-7-2021, 9:27:19 PM
+ramil (magistral) sent /go 250 250 20 1-7-2021, 9:27:26 PM
+ramil (magistral) sent /go 0 0 0 0 0 0 shelter 1-7-2021, 9:27:41 PM
+ramil (magistral) sent /go 250 0 0 1-7-2021, 9:32:14 PM
+ramil (magistral) sent /go 0 0 0 shelter 1-7-2021, 9:32:48 PM
+ramil (magistral) sent /go 0 0 20 1-7-2021, 9:33:21 PM
+ramil (magistral) sent /go 0 0 0 store 1-7-2021, 9:34:00 PM
+ramil (magistral) sent /storetime 1-7-2021, 9:34:13 PM
+ramil (magistral) sent /go 0 0 0 1-7-2021, 9:40:04 PM
+ramil (magistral) sent /suicide 1-7-2021, 9:42:02 PM
+ramil (magistral) sent /go 0 0 0 testing 1-7-2021, 9:42:58 PM
+ramil (magistral) sent /go 0 0 0 sklad 1-7-2021, 9:43:26 PM
+ramil (magistral) sent /go 0 0 50 1-7-2021, 9:47:31 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:47:36 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:47:41 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:47:57 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:48:21 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:48:34 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:48:38 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:48:48 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:49:27 PM
+ramil (magistral) sent /go 0 0 25 1-7-2021, 9:49:59 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:50:02 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:50:17 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:50:44 PM
+ramil (magistral) sent /bestplayer 1-7-2021, 9:50:50 PM
+ramil (magistral) sent /bestplayer 1-7-2021, 9:50:52 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:50:59 PM
+ramil (magistral) sent /clearstats 1-7-2021, 9:51:14 PM
+ramil (magistral) sent /bestplayer 1-7-2021, 9:51:23 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:52:56 PM
+ramil (magistral) sent /go 0 0 50 1-7-2021, 9:53:15 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:53:37 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:53:59 PM
+ramil (magistral) sent /killall 1-7-2021, 9:54:04 PM
+ramil (magistral) sent /stats magistral 1-7-2021, 9:54:24 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:54:55 PM
+ramil (magistral) sent /rawmap 1-7-2021, 9:55:10 PM
+ramil (magistral) sent /rawdata mapname:sklad
+maxx:50
+maxy:150
+maxz:50
+tile:0:50:0:50:0:0:metal1
+src:0:50:0:50:0:50:corridor.ogg
+tile:0:0:0:50:0:50:wallmetal9
+tile:0:50:0:0:0:50:wallmetal9
+tile:50:50:0:50:0:50:wallmetal9
+tile:0:50:50:50:0:50:wallmedaldebris
+tile:0:50:50:50:0:50:wallmetal9
+tile:1:49:49:49:0:25:metal2
+tile:1:49:1:48:25:25:metal1
+ispawn:1:49:1:48:25:25:300000:1:fnminimilight:cannon:sky_28_laser:small_dagger:spear:knife:hammer:glock_17_pistol:stp106_long_barreled_pistol:cyanide_pistol:colt_ar_15_assault_rifle:nak_nk1000_decimater:beretta_m1951_machine_pistol:zulfikar:sky_286_laser_pistol:sky_372_laser_machinegun:sky_386_laser_assault_rifle:sky_429_laser_shotgun
+ispawn:1:49:1:48:0:0:15000:5:pack_of_30_ammo_fnminimilight:pack_of_30_ammo_sky_28_laser:pack_of_30_ammo_glock_17_pistol:pack_of_30_ammo_stp106_long_barreled_pistol:pack_of_30_ammo_cyanide_pistol:pack_of_30_ammo_colt_ar_15_assault_rifle:pack_of_30_ammo_nak_nk1000_decimater:pack_of_30_ammo_beretta_m1951_machine_pistol:pack_of_30_ammo_crossbow:pack_of_30_ammo_sniper:pack_of_30_ammo_mlk_207_combat_rifle:pack_of_30_ammo_cop_357_derringer_pistol:pack_of_30_ammo_sig_p226_combat_pistol:pack_of_30_ammo_taser:pack_of_30_ammo_modern_sub_machine_gun_carbine:pack_of_30_ammo_gauss:pack_of_30_ammo_m79_grenade_launcher:pack_of_30_ammo_str_301_long_barreled_machine_pistol:pack_of_30_ammo_shotgun:pack_of_30_ammo_stp21_handgun:pack_of_30_ammo_beretta_nano_pocket_pistol:pack_of_30_ammo_ags30
+travelpoint:20:30:1:1:0:0:cave6:45:24:0:you open the gate and go out into the fresh air
+zone:0:50:0:50:0:50:warehouse
+tile:0:50:0:50:50:50:roof3
+zone:20:30:1:1:0:10:gate
+tile:20:30:0:0:0:10:wallgate
+robots:1:49:1:49:0:0:1:10000:cockroach,dog,hunter,securityguard,rabbit
+noitems:0:50:0:50:0:50:wood
+ 1-7-2021, 9:56:04 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:56:45 PM
+ramil (magistral) sent /rawdata /robotinfo 1-7-2021, 9:57:19 PM
+ramil (magistral) sent /rawmap 1-7-2021, 9:57:23 PM
+ramil (magistral) sent /rawdata mapname:sklad
+maxx:50
+maxy:50
+maxz:150
+tile:0:50:0:50:0:0:metal1
+src:0:50:0:50:0:50:corridor.ogg
+tile:0:0:0:50:0:50:wallmetal9
+tile:0:50:0:0:0:50:wallmetal9
+tile:50:50:0:50:0:50:wallmetal9
+tile:0:50:50:50:0:50:wallmedaldebris
+tile:0:50:50:50:0:50:wallmetal9
+tile:1:49:49:49:0:25:metal2
+tile:1:49:1:48:25:25:metal1
+ispawn:1:49:1:48:25:25:300000:1:fnminimilight:cannon:sky_28_laser:small_dagger:spear:knife:hammer:glock_17_pistol:stp106_long_barreled_pistol:cyanide_pistol:colt_ar_15_assault_rifle:nak_nk1000_decimater:beretta_m1951_machine_pistol:zulfikar:sky_286_laser_pistol:sky_372_laser_machinegun:sky_386_laser_assault_rifle:sky_429_laser_shotgun
+ispawn:1:49:1:48:0:0:15000:5:pack_of_30_ammo_fnminimilight:pack_of_30_ammo_sky_28_laser:pack_of_30_ammo_glock_17_pistol:pack_of_30_ammo_stp106_long_barreled_pistol:pack_of_30_ammo_cyanide_pistol:pack_of_30_ammo_colt_ar_15_assault_rifle:pack_of_30_ammo_nak_nk1000_decimater:pack_of_30_ammo_beretta_m1951_machine_pistol:pack_of_30_ammo_crossbow:pack_of_30_ammo_sniper:pack_of_30_ammo_mlk_207_combat_rifle:pack_of_30_ammo_cop_357_derringer_pistol:pack_of_30_ammo_sig_p226_combat_pistol:pack_of_30_ammo_taser:pack_of_30_ammo_modern_sub_machine_gun_carbine:pack_of_30_ammo_gauss:pack_of_30_ammo_m79_grenade_launcher:pack_of_30_ammo_str_301_long_barreled_machine_pistol:pack_of_30_ammo_shotgun:pack_of_30_ammo_stp21_handgun:pack_of_30_ammo_beretta_nano_pocket_pistol:pack_of_30_ammo_ags30
+travelpoint:20:30:1:1:0:0:cave6:45:24:0:you open the gate and go out into the fresh air
+zone:0:50:0:50:0:50:warehouse
+tile:0:50:0:50:50:50:roof3
+zone:20:30:1:1:0:10:gate
+tile:20:30:0:0:0:10:wallgate
+robots:1:49:1:49:0:0:1:10000:cockroach,dog,hunter,securityguard,rabbit
+noitems:0:50:0:50:0:50:wood
+
+zone:0:50:0:50:50:65:roof of the warehouce 1-7-2021, 9:57:41 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 9:58:05 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 10:05:23 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 10:05:31 PM
+ramil (magistral) sent /killrobots 1-7-2021, 10:06:11 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 10:06:55 PM
+ramil (magistral) sent /robotinfo 1-7-2021, 10:07:19 PM
+ramil (magistral) sent /go 20 20 0 store 1-7-2021, 10:09:11 PM
+ramil (magistral) sent /lchat lkljeriofgerijgiortjhigjrt\ 1-7-2021, 10:15:26 PM
+ramil (magistral) sent /lchat dtgiopevbu etwpqwkowekr wierfgjerwogerjfkler kerk ejrkgerl nonwefjkndkslnvdfnivjhdfnjvk hndfjjhbfjnhjiofgj oue jo k 1-7-2021, 10:15:53 PM
+ramil (magistral) sent /sell 1-7-2021, 10:16:29 PM
+ramil (magistral) sent /se;; 1-7-2021, 10:17:15 PM
+ramil (magistral) sent /sell 1-7-2021, 10:17:21 PM
+ramil (magistral) sent /chars 1-7-2021, 10:21:36 PM
+ramil (magistral) sent /cancelbid y 1-7-2021, 10:25:08 PM
+ramil (magistral) sent /cancelauction 1-7-2021, 10:25:30 PM

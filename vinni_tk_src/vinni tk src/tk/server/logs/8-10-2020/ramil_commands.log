@@ -1,0 +1,3363 @@
+
+ramil (ramil) sent /move dima 25 1 0 sklad 8-10-2020, 11:25:22 AM
+ramil (ramil) sent /move mitant 25 1 0 sklad 8-10-2020, 11:25:41 AM
+ramil (ramil) sent /move mutant  25 1 0 sklad 8-10-2020, 11:25:57 AM
+ramil (ramil) sent /move mutant 25 1 0 sklad 8-10-2020, 11:27:27 AM
+ramil (ramil) sent /move mutant 25 1 0 sklad 8-10-2020, 11:32:00 AM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 11:35:54 AM
+ramil (ramil) sent /stats dima 8-10-2020, 11:36:27 AM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 11:37:07 AM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 11:37:18 AM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 11:37:27 AM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 11:37:39 AM
+ramil (ramil) sent /move ramil 25 1 0 sklad 8-10-2020, 11:38:15 AM
+ramil (ramil) sent /move ramil 25 1 0 sklad 8-10-2020, 11:41:50 AM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 11:43:22 AM
+ramil (ramil) sent /inv 8-10-2020, 11:43:46 AM
+ramil (ramil) sent /rawmap 8-10-2020, 11:43:55 AM
+ramil (ramil) sent /move dima 1 1 0 8-10-2020, 11:45:34 AM
+ramil (ramil) sent /inv 8-10-2020, 11:45:49 AM
+ramil (ramil) sent /move ramil 1 1 0 8-10-2020, 11:46:04 AM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 11:47:20 AM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 11:47:43 AM
+ramil (ramil) sent /move ramil 20 20 40 8-10-2020, 11:53:38 AM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 11:53:47 AM
+ramil (ramil) sent /rawmap 8-10-2020, 11:54:19 AM
+ramil (ramil) sent /rawdata mapname:boxing
+maxx:30
+maxy:30
+maxz:50
+tile:0:30:0:30:0:0:stone
+tile:0:0:0:30:0:100:wallbump
+tile:0:30:0:0:0:50:wallbump
+tile:0:30:30:30:0:50:wallbump
+tile:30:30:0:30:0:50:wallbump
+tile:1:29:1:29:0:0:cement
+tile:1:29:1:29:40:40:hardwood2
+robots:1:29:1:29:0:0:3:7000:boxer,boxer,trainer
+noitems:0:30:0:30:0:50:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:concussive_grenade:bottle_bomb:impact_bomb:aircraft:wood:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:stone:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:hand_grenade:shield:tk_ultra_health_potion:warp_box:nuclear_bomb
+zone:0:30:0:30:40:50:viewing platform
+
+travelpoint:29:29:29:29:0:10:boxing:20:20:40:moved
+zone:0:30:0:30:0:20:boxing ring
+zone:29:29:29:29:0:10:to go up, press enter:trackme
+
+zone:29:29:29:29:40:50:to exit to the store, press enter
+travelpoint:29:29:29:29:40:40:store:30:30:0:you exit to the store
+travelpoint:1:1:1:1:0:0:c_system:35:35:0:die
+die 8-10-2020, 11:55:51 AM
+ramil (ramil) sent /rawdata mapname:boxing
+maxx:30
+maxy:30
+maxz:50
+tile:0:30:0:30:0:0:stone
+tile:0:0:0:30:0:100:wallbump
+tile:0:30:0:0:0:50:wallbump
+tile:0:30:30:30:0:50:wallbump
+tile:30:30:0:30:0:50:wallbump
+tile:1:29:1:29:0:0:cement
+tile:1:29:1:29:40:40:hardwood2
+robots:1:29:1:29:0:0:3:7000:boxer,boxer,trainer
+noitems:0:30:0:30:0:50:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:concussive_grenade:bottle_bomb:impact_bomb:aircraft:wood:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:stone:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:hand_grenade:shield:tk_ultra_health_potion:warp_box:nuclear_bomb
+zone:0:30:0:30:40:50:viewing platform
+
+travelpoint:29:29:29:29:0:10:boxing:20:20:40:moved
+zone:0:30:0:30:0:20:boxing ring
+zone:29:29:29:29:0:10:to go up, press enter:trackme
+
+zone:29:29:29:29:40:50:to exit to the store, press enter
+travelpoint:29:29:29:29:40:40:store:30:30:0:you exit to the store
+travelpoint:1:1:1:1:0:0:c_system:35:35:0:die
+ 8-10-2020, 11:56:10 AM
+ramil (ramil) sent /move 5 5 5 battlefield 8-10-2020, 12:06:22 PM
+ramil (ramil) sent /move ramil 5 5 5 battlefield 8-10-2020, 12:06:32 PM
+ramil (ramil) sent /move dima 1 1 1 battlefield 8-10-2020, 12:07:06 PM
+ramil (ramil) sent /move ramil 5 5 5 battles 8-10-2020, 12:08:46 PM
+ramil (ramil) sent /move dima 5 5 5 battles 8-10-2020, 12:09:11 PM
+ramil (ramil) sent /move mutant 5 5 5 battles 8-10-2020, 12:10:09 PM
+ramil (ramil) sent /rawmap 8-10-2020, 12:10:24 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:13:47 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:14:08 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:14:26 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:14:43 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:15:27 PM
+ramil (ramil) sent /moveplayer muant dima 8-10-2020, 12:15:48 PM
+ramil (ramil) sent /moveplayer ramil mutant 8-10-2020, 12:16:00 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:16:27 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:16:32 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:16:41 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:17:03 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:17:06 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:17:35 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:17:42 PM
+ramil (ramil) sent /move dima 300 300 0 8-10-2020, 12:18:03 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:18:04 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:18:35 PM
+ramil (ramil) sent /move mitant 300 300 0 8-10-2020, 12:18:51 PM
+ramil (ramil) sent /moveplayer mutantramil 8-10-2020, 12:19:14 PM
+ramil (ramil) sent /moveplayer mutant ramil 8-10-2020, 12:19:33 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:19:36 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:19:48 PM
+ramil (ramil) sent /inv 8-10-2020, 12:20:34 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:24:36 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:24:44 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:24:53 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:25:06 PM
+ramil (ramil) sent /inv 8-10-2020, 12:25:15 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:25:46 PM
+ramil (ramil) sent /moveplayer ramil dima 8-10-2020, 12:25:57 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 12:26:58 PM
+ramil (ramil) sent /move ramil 5 5 5 test 8-10-2020, 12:30:25 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 12:30:48 PM
+ramil (ramil) sent /enablerobots 8-10-2020, 12:33:02 PM
+ramil (ramil) sent /suicide 8-10-2020, 12:33:51 PM
+ramil (ramil) sent /where mutant 8-10-2020, 12:35:13 PM
+ramil (ramil) sent /rawmap 8-10-2020, 12:45:46 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 12:48:25 PM
+ramil (ramil) sent /where dima 8-10-2020, 12:49:48 PM
+ramil (ramil) sent /move ramil 00 0 store 8-10-2020, 12:50:31 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 12:50:39 PM
+ramil (ramil) sent /rawdats 8-10-2020, 12:51:58 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 12:52:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 12:53:13 PM
+ramil (ramil) sent /inv 8-10-2020, 12:53:15 PM
+ramil (ramil) sent /move mutant 0 0 0 store 8-10-2020, 12:53:46 PM
+ramil (ramil) sent /inv 8-10-2020, 12:53:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 12:55:16 PM
+ramil (ramil) sent /inv 8-10-2020, 12:55:39 PM
+ramil (ramil) sent /inv 8-10-2020, 12:56:44 PM
+ramil (ramil) sent /inv 8-10-2020, 12:57:29 PM
+ramil (ramil) sent /inv 8-10-2020, 12:57:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 12:57:57 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:00:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:00:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:01:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:01:34 PM
+ramil (ramil) sent /inv 8-10-2020, 1:02:11 PM
+ramil (ramil) sent /inv 8-10-2020, 1:02:44 PM
+ramil (ramil) sent /inv 8-10-2020, 1:02:58 PM
+ramil (ramil) sent /inv 8-10-2020, 1:03:16 PM
+ramil (ramil) sent /inv 8-10-2020, 1:03:21 PM
+ramil (ramil) sent /rawmap mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:04:18 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:04:35 PM
+ramil (ramil) sent /inv 8-10-2020, 1:04:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:05:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:07:22 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:07:29 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:09:07 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:17:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:17:26 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:19:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:19:18 PM
+ramil (ramil) sent /inv 8-10-2020, 1:19:32 PM
+ramil (ramil) sent /inv 8-10-2020, 1:20:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:22:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:22:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:23:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:23:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:23:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:24:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:24:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:24:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:24:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:25:03 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:25:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:25:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:25:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:25:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:25:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:26:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:26:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:27:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:28:01 PM
+ramil (ramil) sent //sethealth ramil 100000 8-10-2020, 1:28:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:28:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:28:34 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:29:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:31:20 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:31:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:31:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:32:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:32:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:32:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:33:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:34:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:34:18 PM
+ramil (ramil) sent /admingun 8-10-2020, 1:34:26 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:34:59 PM
+ramil (ramil) sent /sethealth ramil 100000   8-10-2020, 1:35:04 PM
+ramil (ramil) sent /suicide 8-10-2020, 1:35:14 PM
+ramil (ramil) sent /sethealth ramil 100000] 8-10-2020, 1:35:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:36:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:36:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:36:38 PM
+ramil (ramil) sent //sethealth ramil 100000] 8-10-2020, 1:36:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:36:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:37:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:37:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:37:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:37:57 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:38:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:38:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:39:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:39:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:39:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:39:32 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:39:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:40:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:40:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:41:05 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:41:40 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:41:59 PM
+ramil (ramil) sent /garbage_collect 8-10-2020, 1:42:50 PM
+ramil (ramil) sent /shelterkillall 8-10-2020, 1:43:02 PM
+ramil (ramil) sent /teams 8-10-2020, 1:53:42 PM
+ramil (ramil) sent /teams 8-10-2020, 1:53:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:54:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:54:27 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:55:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:56:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:56:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:56:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:57:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:57:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:57:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:58:00 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:58:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:58:20 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:58:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:58:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:59:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:59:18 PM
+ramil (ramil) sent /sethealth ramil 100000 //sethealth ramil 100000 8-10-2020, 1:59:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 1:59:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:00:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:01:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:01:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:01:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:01:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:01:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:02:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:02:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:02:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:02:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:03:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:03:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:03:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:03:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:04:00 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:04:53 PM
+ramil (ramil) sent /inv 8-10-2020, 2:05:43 PM
+ramil (ramil) sent /inv 8-10-2020, 2:06:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:06:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:06:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:07:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:07:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:08:48 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:08:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:09:00 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:09:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:09:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:10:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:11:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:11:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:11:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:11:31 PM
+ramil (ramil) sent /sethealth ramil 100000] 8-10-2020, 2:11:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:12:10 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:12:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:13:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:14:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:17:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:17:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:17:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:17:49 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:18:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:18:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:19:06 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 2:19:19 PM
+ramil (ramil) sent /stats ramil 8-10-2020, 2:22:38 PM
+ramil (ramil) sent /rawdata 8-10-2020, 2:48:28 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 2:48:33 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 2:51:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:51:46 PM
+ramil (ramil) sent /move Yarina 5 1 0 shelter 8-10-2020, 2:58:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 2:59:46 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 2:59:59 PM
+ramil (ramil) sent /shockwave 8-10-2020, 3:01:32 PM
+ramil (ramil) sent /move vladon 25 1 0 sklad 8-10-2020, 3:02:03 PM
+ramil (ramil) sent /inv 8-10-2020, 3:04:01 PM
+ramil (ramil) sent /move ramil 300 300 0 8-10-2020, 3:04:18 PM
+ramil (ramil) sent /move ramil 0 0 0 8-10-2020, 3:05:20 PM
+ramil (ramil) sent /move muant 25 1 0 sklad 8-10-2020, 3:06:21 PM
+ramil (ramil) sent /move mutant 25 1 0 sklad 8-10-2020, 3:06:36 PM
+ramil (ramil) sent /rawmap mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 3:07:41 PM
+ramil (ramil) sent /rawmap mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:to go on the battles map, press enter.:trackme 8-10-2020, 3:07:50 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 3:08:04 PM
+ramil (ramil) sent /sethealth ramil 1001 8-10-2020, 3:08:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:08:50 PM
+ramil (ramil) sent /inv 8-10-2020, 3:08:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:09:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:09:38 PM
+ramil (ramil) sent /inv 8-10-2020, 3:09:43 PM
+ramil (ramil) sent /inv 8-10-2020, 3:11:59 PM
+ramil (ramil) sent /inv 8-10-2020, 3:12:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:12:41 PM
+ramil (ramil) sent /move vladon 5 5 zlalp 8-10-2020, 3:18:47 PM
+ramil (ramil) sent /disablerobots 8-10-2020, 3:18:56 PM
+ramil (ramil) sent /inv 8-10-2020, 3:19:09 PM
+ramil (ramil) sent /inv 8-10-2020, 3:19:33 PM
+ramil (ramil) sent /move vad 25 1 0 sklad 8-10-2020, 3:20:12 PM
+ramil (ramil) sent /move vladon 25 1 0 sklad 8-10-2020, 3:20:38 PM
+ramil (ramil) sent /move dima 25 1 0 sklad 8-10-2020, 3:20:47 PM
+ramil (ramil) sent /inv 8-10-2020, 3:21:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:22:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:22:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:23:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:23:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:23:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:24:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:24:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:24:48 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:24:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:25:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:25:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:25:31 PM
+ramil (ramil) sent /inv 8-10-2020, 3:26:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:26:16 PM
+ramil (ramil) sent /stats ramil 8-10-2020, 3:26:22 PM
+ramil (ramil) sent /inv 8-10-2020, 3:26:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:26:40 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:26:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:26:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:27:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:27:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:28:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:28:20 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:28:26 PM
+ramil (ramil) sent /inv 8-10-2020, 3:28:39 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 3:29:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:30:00 PM
+ramil (ramil) sent /inv 8-10-2020, 3:30:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:30:11 PM
+ramil (ramil) sent /move vlado 8-10-2020, 3:31:54 PM
+ramil (ramil) sent /inv 8-10-2020, 3:31:57 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:32:21 PM
+ramil (ramil) sent /move vladon 5 5 5 admin_area 8-10-2020, 3:33:05 PM
+ramil (ramil) sent /move dima 5 5 5 adminarea 8-10-2020, 3:33:16 PM
+ramil (ramil) sent /move dima 5 5 5 admin_aria 8-10-2020, 3:33:31 PM
+ramil (ramil) sent /move dima 5 5 5 admin_area 8-10-2020, 3:33:44 PM
+ramil (ramil) sent /inv 8-10-2020, 3:33:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:34:00 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:34:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:34:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:34:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:34:23 PM
+ramil (ramil) sent /move ramil 29 29 40 8-10-2020, 3:35:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:36:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:36:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:38:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:38:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:39:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:40:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:40:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:41:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:41:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:41:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:41:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:42:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:43:26 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:44:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:44:48 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:45:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:45:37 PM
+ramil (ramil) sent /inv 8-10-2020, 3:45:44 PM
+ramil (ramil) sent /inv 8-10-2020, 3:46:03 PM
+ramil (ramil) sent /inv 8-10-2020, 3:46:35 PM
+ramil (ramil) sent /inv 8-10-2020, 3:46:57 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:47:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:48:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:48:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:48:48 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:49:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:49:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:50:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:50:17 PM
+ramil (ramil) sent /inv 8-10-2020, 3:50:22 PM
+ramil (ramil) sent /move maks2003 5 5 5 admin_area 8-10-2020, 3:52:31 PM
+ramil (ramil) sent /move alice 5 5 5 adminarea_ 8-10-2020, 3:52:56 PM
+ramil (ramil) sent /move ALICE 5 5 5 admin_aria 8-10-2020, 3:53:12 PM
+ramil (ramil) sent /move ALICE 5 5 5 admin_area 8-10-2020, 3:53:26 PM
+ramil (ramil) sent /inv 8-10-2020, 3:53:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:54:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:54:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:54:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:55:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:56:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:56:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:56:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:56:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:57:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:57:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:58:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:58:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:58:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:59:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:59:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:59:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:59:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 3:59:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:00:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:00:07 PM
+ramil (ramil) sent /sethealth ramil 100000  8-10-2020, 4:00:10 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:00:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:00:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:01:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:01:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:01:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:01:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:02:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:03:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:04:03 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:04:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:04:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:04:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:05:03 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:05:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:05:23 PM
+ramil (ramil) sent //sethealth ramil 100000 8-10-2020, 4:06:03 PM
+ramil (ramil) sent /inv 8-10-2020, 4:06:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:06:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:06:41 PM
+ramil (ramil) sent /inv 8-10-2020, 4:06:46 PM
+ramil (ramil) sent /inv 8-10-2020, 4:07:09 PM
+ramil (ramil) sent /move vladon 5 5 5 admin_area 8-10-2020, 4:07:29 PM
+ramil (ramil) sent /inv 8-10-2020, 4:07:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:09:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:09:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:10:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:10:16 PM
+ramil (ramil) sent /inv 8-10-2020, 4:10:29 PM
+ramil (ramil) sent /move vladon 5 5 5 amin_area 8-10-2020, 4:10:48 PM
+ramil (ramil) sent /move vladon 5 5 5 admin_area 8-10-2020, 4:11:06 PM
+ramil (ramil) sent /inv 8-10-2020, 4:11:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:11:22 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:12:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:12:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:16:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:17:32 PM
+ramil (ramil) sent /inv 8-10-2020, 4:18:55 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 4:19:28 PM
+ramil (ramil) sent /move vladon 25 1 0 sklad 8-10-2020, 4:21:55 PM
+ramil (ramil) sent /move dima 25 1 0 sklad 8-10-2020, 4:22:04 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 4:22:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:22:43 PM
+ramil (ramil) sent /move dima 25 1 0 sklad 8-10-2020, 4:23:01 PM
+ramil (ramil) sent /inv 8-10-2020, 4:23:11 PM
+ramil (ramil) sent /reboot 8-10-2020, 4:23:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:25:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:25:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:26:01 PM
+ramil (ramil) sent /move dima 25 1 0 sklad 8-10-2020, 4:26:20 PM
+ramil (ramil) sent /move vladon 25 1 0skladad 8-10-2020, 4:27:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:27:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:28:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:29:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:29:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:29:42 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:29:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:30:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:30:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:30:30 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:30:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:30:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:31:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:31:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:31:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:32:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:32:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:33:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:33:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:33:23 PM
+ramil (ramil) sent /inv 8-10-2020, 4:33:43 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 4:33:59 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb::bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 4:39:21 PM
+ramil (ramil) sent /inv 8-10-2020, 4:39:43 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 4:41:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:41:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:41:51 PM
+ramil (ramil) sent /i//inv 8-10-2020, 4:42:16 PM
+ramil (ramil) sent /inv 8-10-2020, 4:42:36 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 4:42:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:43:16 PM
+ramil (ramil) sent /inv 8-10-2020, 4:43:20 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:43:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:43:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:43:54 PM
+ramil (ramil) sent /sethealth ramil 100000] 8-10-2020, 4:44:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:44:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:44:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:44:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:44:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:44:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:45:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:45:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:45:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:45:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:45:44 PM
+ramil (ramil) sent /inv 8-10-2020, 4:46:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:46:09 PM
+ramil (ramil) sent /move dima 5 5 5 main 8-10-2020, 4:46:27 PM
+ramil (ramil) sent /inv 8-10-2020, 4:46:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:46:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:46:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:47:07 PM
+ramil (ramil) sent /move vladon 5 5 5 main 8-10-2020, 4:47:37 PM
+ramil (ramil) sent /enablerobots 8-10-2020, 4:47:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:48:00 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:48:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:48:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:48:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:48:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:48:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:49:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:49:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:49:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:49:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:50:11 PM
+ramil (ramil) sent / 8-10-2020, 4:50:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:51:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:52:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:52:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:52:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:53:03 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:53:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:53:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:53:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:53:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:53:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:54:04 PM
+ramil (ramil) sent /sethealth ramil 100000v 8-10-2020, 4:54:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:54:26 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:54:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:55:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:55:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:55:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:55:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:56:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:56:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:56:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:56:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:56:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:56:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:56:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:57:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:57:08 PM
+ramil (ramil) sent /inv 8-10-2020, 4:57:50 PM
+ramil (ramil) sent /move vladon 5 5 5 main 8-10-2020, 4:58:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:58:07 PM
+ramil (ramil) sent /inv 8-10-2020, 4:58:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:58:37 PM
+ramil (ramil) sent /move vladon 5 5 5 main 8-10-2020, 4:58:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:59:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 4:59:57 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:26 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:30 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:00:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:01:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:01:18 PM
+ramil (ramil) sent /sethealth best 0 8-10-2020, 5:01:39 PM
+ramil (ramil) sent /inv 8-10-2020, 5:02:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:02:10 PM
+ramil (ramil) sent /inv 8-10-2020, 5:02:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:02:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:02:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:02:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:02:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:03:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:03:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:03:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:03:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:03:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:03:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:03:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:04:02 PM
+ramil (ramil) sent /sethealth ramil 100000v 8-10-2020, 5:04:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:04:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:04:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:04:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:05:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:05:23 PM
+ramil (ramil) sent /inv 8-10-2020, 5:05:40 PM
+ramil (ramil) sent /sethealth ramil 100000//rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:06:05 PM
+ramil (ramil) sent /rawmap mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:06:17 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:06:27 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 5:16:39 PM
+ramil (ramil) sent /shelterkillall 8-10-2020, 5:26:37 PM
+ramil (ramil) sent /rawmap mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:28:15 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:28:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:28:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:29:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:29:49 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:31:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 5:32:53 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:33:54 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:37:27 PM
+ramil (ramil) sent /inv 8-10-2020, 5:41:07 PM
+ramil (ramil) sent /teams 8-10-2020, 5:43:33 PM
+ramil (ramil) sent /rasdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:44:28 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 5:44:34 PM
+ramil (ramil) sent /move ramil 0 0 0 8-10-2020, 6:31:37 PM
+ramil (ramil) sent /where dima 8-10-2020, 6:31:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:32:20 PM
+ramil (ramil) sent /enablerobots 8-10-2020, 6:32:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:32:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:33:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:38:33 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 6:41:37 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 6:42:17 PM
+ramil (ramil) sent /stat ramil 8-10-2020, 6:42:35 PM
+ramil (ramil) sent /stats ramil 8-10-2020, 6:42:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:46:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:46:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:48:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:50:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:50:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:50:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:50:32 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:51:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:51:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:52:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:53:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:53:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:54:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:54:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:55:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:55:42 PM
+ramil (ramil) sent /robotinfo 8-10-2020, 6:56:22 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:57:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 6:57:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:00:10 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:00:35 PM
+ramil (ramil) sent /admingun 8-10-2020, 7:01:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:01:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:02:06 PM
+ramil (ramil) sent /move ramil    store 8-10-2020, 7:02:14 PM
+ramil (ramil) sent /move ramil    store 8-10-2020, 7:02:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:03:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:03:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:03:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:03:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:04:23 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 7:04:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:20:27 PM
+ramil (ramil) sent /move ramil 500 100 0 8-10-2020, 7:21:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:21:29 PM
+ramil (ramil) sent /move ramil 500 100 0 main 8-10-2020, 7:21:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:21:42 PM
+ramil (ramil) sent /robotinfo 8-10-2020, 7:22:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:22:50 PM
+ramil (ramil) sent /move trevor 500 10 0 8-10-2020, 7:23:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:23:43 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 7:25:59 PM
+ramil (ramil) sent /sethealth ramil 10000 8-10-2020, 7:26:27 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:26:41 PM
+ramil (ramil) sent /move yarina 0 0 0 8-10-2020, 7:27:08 PM
+ramil (ramil) sent /move Yarina 0 0 0 8-10-2020, 7:27:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:27:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:28:49 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:28:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:29:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:29:22 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:29:27 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 7:32:04 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 7:50:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:50:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:51:57 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:52:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:53:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:53:59 PM
+ramil (ramil) sent /inv 8-10-2020, 7:54:11 PM
+ramil (ramil) sent /inv 8-10-2020, 7:54:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:54:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:55:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:55:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:55:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:55:40 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:55:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:56:22 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:56:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:57:05 PM
+ramil (ramil) sent /sethealth ramil 100000] 8-10-2020, 7:57:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:58:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:58:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:58:20 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:58:30 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:58:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 7:59:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:00:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:00:32 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:00:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:00:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:01:11 PM
+ramil (ramil) sent /onv 8-10-2020, 8:01:15 PM
+ramil (ramil) sent /inv 8-10-2020, 8:01:27 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 8:01:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:02:06 PM
+ramil (ramil) sent /inv 8-10-2020, 8:02:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:03:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:03:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:03:54 PM
+ramil (ramil) sent /sethealth ramil 100000] 8-10-2020, 8:04:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:04:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:05:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:05:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:05:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:05:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:05:47 PM
+ramil (ramil) sent /where Yarina 8-10-2020, 8:07:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:08:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:09:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:10:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:10:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:10:22 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:11:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:11:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:11:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:12:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:12:33 PM
+ramil (ramil) sent /inv 8-10-2020, 8:12:51 PM
+ramil (ramil) sent /inv 8-10-2020, 8:13:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:14:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:14:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:14:39 PM
+ramil (ramil) sent /pm  trevor go in tt privat room 8-10-2020, 8:15:18 PM
+ramil (ramil) sent /sethealth ramil 10000 8-10-2020, 8:16:50 PM
+ramil (ramil) sent /sethealth ramil 100000/sethealth ramil 10000 8-10-2020, 8:17:04 PM
+ramil (ramil) sent /sethealth ramil 100000/sethealth ramil 10000 8-10-2020, 8:17:11 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:17:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:18:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:19:10 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:19:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:19:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:19:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:20:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:20:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:20:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:20:49 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:20:56 PM
+ramil (ramil) sent /sethealth ramil 100000] 8-10-2020, 8:21:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:21:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:21:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:22:00 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:22:20 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:22:30 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:23:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:23:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:23:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:24:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:25:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:25:42 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:26:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:26:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:26:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:27:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:28:10 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:28:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:28:30 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:28:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:28:50 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:29:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:29:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:29:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:30:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:30:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:30:40 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:30:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:30:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:30:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:31:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:31:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:31:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:31:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:31:40 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:31:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:32:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:32:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:32:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:32:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:32:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:32:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:32:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:33:07 PM
+ramil (ramil) sent /inv 8-10-2020, 8:33:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:33:27 PM
+ramil (ramil) sent /inv 8-10-2020, 8:33:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:34:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:34:28 PM
+ramil (ramil) sent /inv 8-10-2020, 8:34:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:34:51 PM
+ramil (ramil) sent /inv 8-10-2020, 8:34:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:35:10 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:35:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:35:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:36:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:36:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:36:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:36:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:37:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:37:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:37:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:38:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:38:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:38:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:38:57 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:39:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:39:49 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:39:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:40:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:40:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:40:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:41:14 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:41:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:41:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:41:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:41:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:41:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:42:09 PM
+ramil (ramil) sent /stats ramil 8-10-2020, 8:42:46 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 8:43:14 PM
+ramil (ramil) sent /newevent ff 8-10-2020, 8:46:31 PM
+ramil (ramil) sent /eventset 9724 8-10-2020, 8:46:48 PM
+ramil (ramil) sent /eventset 6724 8-10-2020, 8:47:03 PM
+ramil (ramil) sent /eventset
+6724 8-10-2020, 8:47:29 PM
+ramil (ramil) sent /eventset
+ 6724 8-10-2020, 8:47:38 PM
+ramil (ramil) sent /eventset 6724 8-10-2020, 8:48:19 PM
+ramil (ramil) sent /eventset 6724 *Map:shelter  8-10-2020, 8:49:14 PM
+ramil (ramil) sent /endevent 6724 8-10-2020, 8:49:39 PM
+ramil (ramil) sent /rawdata *Map: 8-10-2020, 8:50:14 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 8:50:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:50:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:51:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:51:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:51:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:52:54 PM
+ramil (ramil) sent /inv 8-10-2020, 8:53:03 PM
+ramil (ramil) sent /inv 8-10-2020, 8:53:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:54:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:55:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:56:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:56:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:58:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:58:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:58:29 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:58:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:59:12 PM
+ramil (ramil) sent /sethealth ramil 100000  8-10-2020, 8:59:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 8:59:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:00:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:01:17 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:02:03 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:02:10 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:02:31 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:02:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:02:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:02:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:02:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:04:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:04:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:05:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:05:46 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:07:32 PM
+ramil (ramil) sent /inv 8-10-2020, 9:08:11 PM
+ramil (ramil) sent /inv 8-10-2020, 9:09:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:09:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:09:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:10:08 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:10:45 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:10:54 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:11:07 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:11:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:11:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:12:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:13:39 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:14:40 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:16:24 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:16:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:18:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:18:32 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:18:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:19:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:19:32 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:20:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:20:09 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:20:21 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:20:37 PM
+ramil (ramil) sent //sethealth ramil 100000 8-10-2020, 9:21:04 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:21:06 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:21:26 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:22:00 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:22:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:22:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:22:51 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:23:08 PM
+ramil (ramil) sent /inv 8-10-2020, 9:23:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:24:02 PM
+ramil (ramil) sent /move mitant 0 0 0 store 8-10-2020, 9:24:14 PM
+ramil (ramil) sent /move mutant 10 0 0 store 8-10-2020, 9:24:28 PM
+ramil (ramil) sent /inv 8-10-2020, 9:24:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:25:01 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:25:15 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:25:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:25:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:26:30 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:26:43 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:27:02 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:27:37 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:27:52 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:27:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:28:12 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:28:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:31:26 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:31:36 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:31:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:31:49 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:32:18 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:33:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:34:41 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:34:56 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:35:13 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:35:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:35:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:35:48 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:36:35 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:36:42 PM
+ramil (ramil) sent /move mutant 0 100 0 8-10-2020, 9:37:05 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:37:34 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:37:41 PM
+ramil (ramil) sent /invforce Yarina 8-10-2020, 9:38:42 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:38:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:39:23 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:39:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:39:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:39:55 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:40:25 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:40:33 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:40:40 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:40:48 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 9:41:59 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:43:44 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:43:53 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:44:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:46:47 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 9:47:16 PM
+ramil (ramil) sent /move ramil 0 0 0 battlefield 8-10-2020, 10:25:38 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 10:26:58 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 10:28:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 10:29:22 PM
+ramil (ramil) sent /move mutant 0 0 0 battlefield 8-10-2020, 10:30:28 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 10:31:19 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 10:31:24 PM
+ramil (ramil) sent /move mutant 25 25 0 battle_field 8-10-2020, 10:32:35 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 10:32:46 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 10:33:16 PM
+ramil (ramil) sent /sethealth ramil 100000 8-10-2020, 10:33:25 PM
+ramil (ramil) sent /move ramil 400  300 0 8-10-2020, 10:34:04 PM
+ramil (ramil) sent /move ramil 0 0 0 store 8-10-2020, 10:34:16 PM
+ramil (ramil) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 10:35:13 PM

@@ -1,0 +1,280 @@
+mapname:palace_on_the_clouds
+maxx:300
+maxy:300
+maxz:1500
+tile:0:300:0:300:1000:1000:snow
+zone:0:300:0:300:1000:1500:palace on the clouds
+tile:50:250:50:250:1000:1020:wallstone
+tile:120:140:49:49:1000:1019:wallstone
+tile:120:140:48:48:1000:1018:wallstone
+tile:120:140:47:47:1000:1017:wallstone
+tile:120:140:46:46:1000:1016:wallstone
+tile:120:140:45:45:1000:1015:wallstone
+tile:120:140:44:44:1000:1014:wallstone
+tile:120:140:43:43:1000:1013:wallstone
+tile:120:140:42:42:1000:1012:wallstone
+tile:120:140:41:41:1000:1011:wallstone
+tile:120:140:40:40:1000:1010:wallstone
+tile:120:140:39:39:1000:1009:wallstone
+tile:120:140:38:38:1000:1008:wallstone
+tile:120:140:37:37:1000:1007:wallstone
+tile:120:140:36:36:1000:1006:wallstone
+tile:120:140:35:35:1000:1005:wallstone
+tile:120:140:34:34:1000:1004:wallstone
+tile:120:140:33:33:1000:1003:wallstone
+tile:120:140:32:32:1000:1002:wallstone
+tile:120:140:31:31:1000:1001:wallstone
+tile:120:140:30:30:1000:1000:wallstone
+tile:120:140:30:30:1000:1000:ice
+tile:120:140:31:31:1001:1001:ice
+tile:120:140:32:32:1002:1002:ice
+tile:120:140:33:33:1003:1003:ice
+tile:120:140:34:34:1004:1004:ice
+tile:120:140:35:35:1005:1005:ice
+tile:120:140:36:36:1006:1006:ice
+tile:120:140:37:37:1007:1007:ice
+tile:120:140:38:38:1008:1008:ice
+tile:120:140:39:39:1009:1009:ice
+tile:120:140:40:40:1010:1010:ice
+tile:120:140:41:41:1011:1011:ice
+tile:120:140:42:42:1012:1012:ice
+tile:120:140:43:43:1013:1013:ice
+tile:120:140:44:44:1014:1014:ice
+tile:120:140:45:45:1015:1015:ice
+tile:120:140:46:46:1016:1016:ice
+tile:120:140:47:47:1017:1017:ice
+tile:120:140:48:48:1018:1018:ice
+tile:120:140:49:49:1019:1019:ice
+tile:50:250:50:250:1020:1020:stone
+tile:50:119:50:50:1020:1020:wallstone
+tile:50:119:50:50:1021:1100:wallstone
+tile:50:50:51:250:1020:1100:wallstone
+tile:51:250:250:250:1020:1020:wallstone
+tile:51:250:250:250:1020:1100:wallstone
+tile:250:250:50:249:1020:1100:wallstone
+tile:141:249:50:50:1020:1100:wallstone
+tile:121:130:50:50:1020:1100:wallsandbag
+tile:138:140:50:50:1020:1100:wallsandbag
+tile:131:132:50:50:1020:1100:wallsandbag
+tile:120:120:50:50:1020:1100:wallsandbag
+tile:133:137:50:50:1020:1030:wall3
+tile:133:137:50:50:1031:1100:wallsandbag
+travelpoint:133:137:49:49:1019:1030:palace_on_the_clouds:135:51:1020:you enter in palace!
+travelpoint:133:137:51:51:1020:1030:palace_on_the_clouds:135:49:1019:you exit of palace!
+amb:0:49:0:300:1000:1050:windchimes1.ogg
+amb:251:300:0:300:1000:1050:windchimes1.ogg
+tile:125:125:125:225:1020:1100:wallstone
+amb:50:250:0:49:1000:1050:windchimes1.ogg
+amb:50:250:251:300:1000:1050:windchimes1.ogg
+tile:225:225:125:225:1020:1100:wallstone
+tile:126:160:125:125:1020:1100:wallstone
+tile:190:224:125:125:1020:1100:wallstone
+tile:161:170:125:125:1020:1100:wallstone
+tile:180:189:125:125:1020:1100:wallstone
+tile:171:172:125:125:1020:1100:wallstone
+tile:178:179:125:125:1020:1100:wallstone
+tile:126:224:126:224:1050:1050:stone1
+tile:126:224:225:225:1020:1100:wallstone
+tile:220:224:220:224:1020:1049:concrete6
+tile:220:224:220:220:1020:1049:wallsheetrock
+tile:220:220:221:224:1021:1049:wallsheetrock
+tile:126:130:220:224:1020:1049:concrete6
+tile:126:130:220:220:1020:1049:wallsheetrock
+tile:130:130:221:224:1021:1049:wallsheetrock
+tile:126:130:126:130:1020:1049:concrete6
+tile:126:130:130:130:1020:1049:wallsheetrock
+tile:130:130:126:129:1021:1049:wallsheetrock
+tile:220:224:126:130:1020:1049:concrete6
+tile:220:220:126:130:1021:1049:wallsheetrock
+tile:221:224:130:130:1020:1049:wallsheetrock
+tile:220:220:130:130:1020:1020:wallsheetrock
+tile:166:194:166:194:1020:1025:wallstone
+tile:165:195:195:195:1020:1025:stone2
+tile:165:195:165:165:1020:1025:stone2
+tile:165:165:166:194:1020:1025:stone2
+tile:195:195:166:194:1020:1025:stone2
+tile:166:194:166:194:1025:1025:concrete28
+zone:165:195:165:195:1025:1040:platform
+tile:179:181:179:181:1025:1027:walldirt
+tile:180:180:180:180:1027:1027:chair
+tile:180:180:179:179:1027:1027:chair
+tile:179:179:179:180:1028:1028:walldirt
+tile:181:181:179:180:1028:1028:walldirt
+tile:179:179:179:180:1028:1028:metal5
+tile:181:181:179:180:1028:1028:metal5
+tile:179:181:181:181:1027:1035:walldirt
+tile:179:181:181:181:1035:1035:metal5
+tile:125:225:226:249:1050:1050:ice
+tile:220:224:225:225:1050:1060:air
+zone:220:224:225:225:1050:1060:ghost passage
+src:49:249:225:249:1050:1080:chasm1.ogg
+zone:220:224:220:224:1020:1050:northeast staircase
+zone:126:130:220:224:1020:1050:northwest staircase
+tile:126:130:225:225:1050:1060:air
+zone:126:130:225:225:1050:1060:ghost passage
+zone:126:130:126:130:1020:1050:southwest staircase
+tile:126:130:125:125:1050:1060:air
+tile:51:249:51:124:1050:1050:ice
+tile:51:125:225:249:1050:1050:ice
+tile:125:125:225:225:1050:1080:wallstone
+tile:51:124:124:225:1050:1050:ice
+tile:173:177:125:125:1050:1080:wallstone
+zone:220:224:126:130:1020:1050:southeast staircase
+tile:220:224:125:125:1050:1060:air
+tile:226:249:125:225:1050:1050:ice
+tile:226:249:226:249:1050:1050:ice
+tile:225:225:220:224:1050:1060:air
+zone:225:225:220:224:1050:1060:ghost passage
+zone:220:224:125:125:1050:1060:ghost passage
+tile:225:225:126:130:1050:1060:air
+zone:225:225:126:130:1050:1060:ghost passage
+tile:125:125:220:224:1050:1060:air
+zone:125:125:220:224:1050:1060:ghost passage
+src:226:249:51:249:1050:1080:chasm1.ogg
+src:125:225:51:124:1050:1080:chasm1.ogg
+zone:126:130:125:125:1050:1060:ghost passage
+tile:125:125:126:130:1050:1060:air
+zone:125:125:126:130:1050:1060:ghost passage
+src:51:124:51:249:1050:1080:chasm1.ogg
+zone:180:180:179:180:1027:1035:father's throne
+tile:131:131:126:130:1051:1080:wallsheetrock
+tile:126:131:131:131:1050:1080:wallsheetrock
+tile:126:130:126:130:1051:1080:concrete6
+zone:126:130:126:130:1051:1080:southwest staircase
+tile:219:219:126:131:1051:1080:wallsheetrock
+tile:220:224:131:131:1050:1080:wallsheetrock
+tile:220:224:126:130:1051:1080:concrete6
+zone:219:224:126:131:1051:1080:southeast staircase
+tile:219:219:219:224:1051:1080:wallsheetrock
+tile:220:224:219:219:1050:1080:wallsheetrock
+zone:219:224:219:224:1051:1080:northeast staircase
+tile:220:224:220:224:1051:1080:concrete6
+tile:126:131:219:219:1050:1080:wallsheetrock
+tile:131:131:220:224:1051:1080:wallsheetrock
+zone:126:131:219:224:1051:1080:northwest staircase
+tile:126:130:220:224:1051:1080:concrete6
+tile:126:224:126:224:1080:1080:bridge1
+zone:126:224:126:224:1080:1100:final floor in the palace
+tile:51:124:226:249:1080:1080:carpet2
+tile:51:124:225:225:1080:1150:wallsandbag
+tile:125:125:226:249:1080:1150:wallsandbag
+travelpoint:126:126:224:224:1080:1080:palace_on_the_clouds:124:226:1080:you moved to the northwest tower
+travelpoint:124:124:226:226:1080:1080:palace_on_the_clouds:126:224:1080:you are back on the top floor of the palace
+tile:226:249:226:249:1080:1080:carpet2
+tile:226:249:225:225:1080:1150:wallsandbag
+tile:225:225:226:249:1080:1150:wallsandbag
+travelpoint:224:224:224:224:1080:1080:palace_on_the_clouds:226:226:1080:you moved to the northeast tower
+travelpoint:226:226:226:226:1080:1080:palace_on_the_clouds:224:224:1080:you are back on the top floor of the palace
+zone:226:249:226:249:1080:1150:northeast tower
+tile:125:225:125:225:1100:1100:roof3
+zone:51:124:226:249:1080:1150:northwest tower
+tile:51:124:51:124:1080:1080:carpet2
+tile:51:124:125:125:1080:1150:wallsandbag
+tile:125:125:51:124:1080:1150:wallsandbag
+travelpoint:126:126:126:126:1080:1080:palace_on_the_clouds:124:124:1080:you moved to the southwest tower
+travelpoint:124:124:124:124:1080:1080:palace_on_the_clouds:126:126:1080:you are back on the top floor of the palace
+tile:226:249:51:124:1080:1080:carpet2
+tile:225:225:51:124:1080:1150:wallsandbag
+tile:226:249:125:125:1080:1150:wallsandbag
+zone:226:249:51:124:1080:1150:southeast tower
+travelpoint:224:224:126:126:1080:1080:palace_on_the_clouds:226:124:1080:you moved to the southeast tower
+travelpoint:226:226:124:124:1080:1080:palace_on_the_clouds:224:126:1080:you went back to the top floor of the castle
+tile:226:226:51:51:1080:1130:carpet4
+tile:226:227:52:52:1080:1130:wallwoodpile
+tile:227:227:51:51:1081:1130:wallwoodpile
+zone:226:226:51:51:1080:1130:long long staircase
+tile:225:250:50:50:1101:1150:wallsandbag
+tile:226:249:51:124:1130:1130:carpet2
+tile:250:250:50:125:1101:1150:wallsandbag
+tile:225:250:50:125:1150:1150:roof3
+zone:51:124:51:124:1080:1150:south west tower
+tile:124:124:51:51:1080:1130:carpet5
+tile:123:124:52:52:1080:1130:wallwoodpile
+tile:123:123:51:51:1081:1130:wallwoodpile
+tile:51:124:51:124:1130:1130:carpet2
+zone:124:124:51:51:1080:1130:long long staircase
+tile:50:125:50:50:1101:1150:wallsandbag
+tile:50:50:51:125:1101:1150:wallsandbag
+tile:50:125:50:125:1150:1150:roof3
+tile:124:124:249:249:1080:1130:carpet5
+tile:50:125:250:250:1080:1150:wallsandbag
+tile:51:124:226:249:1130:1130:carpet2
+tile:50:50:225:249:1101:1150:wallsandbag
+zone:124:124:249:249:1080:1130:long long staircase
+tile:123:124:248:248:1080:1129:wallwoodpile
+tile:123:123:249:249:1081:1129:wallwoodpile
+tile:50:125:225:250:1150:1150:roof3
+tile:226:226:249:249:1080:1130:carpet5
+tile:225:250:250:250:1101:1150:wallsandbag
+tile:226:250:250:250:1101:1150:wallsandbag
+tile:250:250:225:249:1101:1150:wallsandbag
+tile:226:249:226:249:1130:1130:carpet2
+tile:226:227:248:248:1080:1129:wallwoodpile
+tile:227:227:249:249:1081:1129:wallwoodpile
+zone:226:226:249:249:1080:1130:long long staircase
+tile:225:250:225:250:1150:1150:roof3
+tile:175:175:175:175:1080:1100:metal1
+tile:174:174:174:176:1080:1099:wallstone
+tile:176:176:174:176:1080:1099:wallstone
+tile:175:175:176:176:1080:1099:wallstone
+tile:175:175:174:174:1081:1099:wallstone
+zone:175:175:175:175:1080:1100:chimney
+zone:125:225:125:225:1100:1120:castle roof
+tile:173:177:170:180:1050:1052:wallstone
+tile:173:177:170:180:1052:1052:metal5
+tile:173:173:170:180:1052:1057:wallstone
+tile:177:177:170:180:1052:1057:wallstone
+tile:174:176:180:180:1052:1057:wallstone
+tile:173:177:170:180:1057:1057:stone1
+tile:174:176:170:170:1052:1053:wallmetal3
+tile:174:176:170:170:1055:1056:wallmetal3
+tile:174:174:170:170:1054:1054:wallmetal3
+tile:176:176:170:170:1054:1054:wallmetal3
+tile:175:175:170:170:1054:1054:metal2
+tile:174:176:171:179:1052:1052:fire
+src:174:176:171:179:1052:1057:fire.ogg
+zone:173:177:170:180:1052:1057:fireplace
+tile:174:174:174:176:1057:1080:wallstone
+tile:176:176:174:176:1057:1080:wallstone
+tile:175:175:176:176:1057:1057:wallstone1
+tile:175:175:176:176:1057:1080:wallstone
+tile:175:175:174:174:1057:1080:wallstone
+tile:175:175:175:175:1057:1080:metal1
+zone:175:175:175:175:1057:1080:chimney
+tile:175:175:174:174:1080:1080:air
+tile:175:175:174:174:1080:1080:metal8
+tile:8:8:50:53:1000:1001:ladder1
+tile:12:12:50:53:1000:1001:ladder1
+tile:8:8:53:53:1001:1009:wallstone1
+tile:12:12:53:53:1001:1009:wallstone1
+tile:5:15:48:58:1010:1010:bridge1
+tile:5:5:48:58:1010:1020:wallwoodpile
+tile:15:15:48:58:1010:1020:wallwoodpile
+tile:6:14:58:58:1010:1013:wallwoodpile
+tile:6:9:58:58:1014:1020:wallwoodpile
+tile:12:14:58:58:1014:1020:wallwoodpile
+tile:5:15:48:58:1020:1020:roof3
+tile:6:8:48:48:1010:1020:wallwoodpile
+tile:13:14:48:48:1010:1020:wallwoodpile
+tile:12:12:48:48:1010:1020:wallwoodpile
+tile:5:15:48:58:1020:1020:roof3
+tile:9:11:48:48:1010:1019:wallwood1
+travelpoint:9:11:49:49:1010:1017:palace_on_the_clouds:10:47:1010:you came out of the hut
+tile:9:11:47:47:1002:1010:rope
+tile:9:11:47:47:1010:1010:deck
+zone:9:11:47:47:1002:1009:rope-ladder
+zone:9:11:47:47:1010:1020:hut entrance
+travelpoint:9:11:47:47:1010:1020:palace_on_the_clouds:10:49:1010:you entered the hut, apparently no one has been living here for a long time, and all the furniture and utensils have long been ruined!
+zone:9:11:49:49:1010:1020:way out of the hut
+tile:9:11:53:55:1010:1013:wallstone
+tile:9:11:53:55:1013:1013:fire
+src:9:11:53:55:1013:1013:fire1.ogg
+zone:9:11:53:55:1013:1013:fireplace
+zone:6:14:49:57:1014:1019:hut
+zone:5:15:48:58:1020:1030:hut roof
+zone:6:8:49:57:1010:1013:hut
+zone:9:11:50:52:1010:1013:hut
+zone:12:14:49:57:1010:1013:hut
+zone:9:11:56:57:1010:1013:hut
+travelpoint:0:0:0:0:1000:1010:main:100:300:5:You left the beautiful ice palace
+zone:0:0:0:0:1000:1010:return to the main map:trackme

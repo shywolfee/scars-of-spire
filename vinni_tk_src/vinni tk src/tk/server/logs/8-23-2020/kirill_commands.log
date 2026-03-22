@@ -1,0 +1,544 @@
+
+kirill (kirill) sent /suicide 8-23-2020, 11:07:03 AM
+kirill (kirill) sent /inv 8-23-2020, 11:07:20 AM
+kirill (kirill) sent /follow alex 8-23-2020, 11:07:30 AM
+kirill (kirill) sent /stopfollow 8-23-2020, 11:08:24 AM
+kirill (kirill) sent /inv 8-23-2020, 11:09:23 AM
+kirill (kirill) sent /inv 8-23-2020, 11:09:36 AM
+kirill (kirill) sent /inv 8-23-2020, 11:09:51 AM
+kirill (kirill) sent /inv 8-23-2020, 11:11:27 AM
+kirill (kirill) sent /inv 8-23-2020, 11:11:56 AM
+kirill (kirill) sent /inv 8-23-2020, 11:11:59 AM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 11:12:24 AM
+kirill (kirill) sent /inv 8-23-2020, 11:14:27 AM
+kirill (kirill) sent /inv 8-23-2020, 11:14:29 AM
+kirill (kirill) sent /move rider 0 0 0 8-23-2020, 11:18:58 AM
+kirill (kirill) sent /inv 8-23-2020, 11:21:51 AM
+kirill (kirill) sent /inv 8-23-2020, 11:22:12 AM
+kirill (kirill) sent /move krill 200 200 0 8-23-2020, 11:22:23 AM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 11:22:43 AM
+kirill (kirill) sent /bid kirill1000 8-23-2020, 11:22:56 AM
+kirill (kirill) sent /bid 1000 8-23-2020, 11:23:01 AM
+kirill (kirill) sent /move vlados 0 0 0 8-23-2020, 11:25:34 AM
+kirill (kirill) sent /move Vlados 0 0 0 8-23-2020, 11:25:45 AM
+kirill (kirill) sent /enablerobots 8-23-2020, 11:26:42 AM
+kirill (kirill) sent /pm rider соберай коины 8-23-2020, 11:29:40 AM
+kirill (kirill) sent /reboot 8-23-2020, 11:32:38 AM
+kirill (kirill) sent /inv 8-23-2020, 11:33:06 AM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 11:33:26 AM
+kirill (kirill) sent /inv 8-23-2020, 11:35:12 AM
+kirill (kirill) sent /inv 8-23-2020, 11:35:14 AM
+kirill (kirill) sent /inv 8-23-2020, 11:35:19 AM
+kirill (kirill) sent /inv 8-23-2020, 11:35:23 AM
+kirill (kirill) sent /inv 8-23-2020, 11:35:28 AM
+kirill (kirill) sent /inv 8-23-2020, 11:35:30 AM
+kirill (kirill) sent /in 8-23-2020, 11:37:02 AM
+kirill (kirill) sent /inv 8-23-2020, 11:37:04 AM
+kirill (kirill) sent /inv 8-23-2020, 11:37:19 AM
+kirill (kirill) sent /inv 8-23-2020, 11:37:39 AM
+kirill (kirill) sent /inv 8-23-2020, 11:37:42 AM
+kirill (kirill) sent /reboot 8-23-2020, 11:37:58 AM
+kirill (kirill) sent /inv 8-23-2020, 11:38:22 AM
+kirill (kirill) sent /inv 8-23-2020, 11:38:37 AM
+kirill (kirill) sent /inv 8-23-2020, 11:38:42 AM
+kirill (kirill) sent /inv 8-23-2020, 11:39:45 AM
+kirill (kirill) sent /inv 8-23-2020, 11:39:48 AM
+kirill (kirill) sent /follow rider 8-23-2020, 11:40:02 AM
+kirill (kirill) sent /stopfollow 8-23-2020, 11:43:05 AM
+kirill (kirill) sent /changemap Yarina kirill's_world 8-23-2020, 11:45:11 AM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:0:0:50:50:0:20:kirill's_world:200:200:0:moved
+travelpoint:50:50:50:50:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:0:50:0:50:0:0:1:1000:kirillboss
+src:0:50:0:50:-15:-20:kirill_boss.ogg
+zone:0:50:0:50:0:20:kirill'smain_room:trackme
+zone:0:0:50:50:0:20:go back to the kirill's_world:trackme
+zone:50:50:50:50:0:20:go back to the store:trackme
+
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver 8-23-2020, 11:46:01 AM
+kirill (kirill) sent /inv 8-23-2020, 11:46:24 AM
+kirill (kirill) sent /follow Yarina 8-23-2020, 11:46:52 AM
+kirill (kirill) sent /inv 8-23-2020, 11:46:55 AM
+kirill (kirill) sent /follow Yarina 8-23-2020, 11:46:59 AM
+kirill (kirill) sent /stopfollow 8-23-2020, 11:48:12 AM
+kirill (kirill) sent /follow rider 8-23-2020, 11:48:57 AM
+kirill (kirill) sent /stopfollow 8-23-2020, 11:50:42 AM
+kirill (kirill) sent /inv 8-23-2020, 11:52:16 AM
+kirill (kirill) sent /inv 8-23-2020, 11:52:22 AM
+kirill (kirill) sent /inv 8-23-2020, 11:52:25 AM
+kirill (kirill) sent /follow rider 8-23-2020, 11:52:29 AM
+kirill (kirill) sent /inv 8-23-2020, 11:52:39 AM
+kirill (kirill) sent /suicide 8-23-2020, 11:52:50 AM
+kirill (kirill) sent /move kirill 0 0 0 8-23-2020, 11:52:57 AM
+kirill (kirill) sent /move kirill 0 0 0 8-23-2020, 11:53:05 AM
+kirill (kirill) sent /move kirill 1 1 5 8-23-2020, 11:53:29 AM
+kirill (kirill) sent /move kirill 1 1 0 8-23-2020, 11:53:40 AM
+kirill (kirill) sent /inv 8-23-2020, 11:53:44 AM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 11:54:51 AM
+kirill (kirill) sent /inv 8-23-2020, 11:54:54 AM
+kirill (kirill) sent /reboot 8-23-2020, 11:56:52 AM
+kirill (kirill) sent /invforce ramil 8-23-2020, 11:57:13 AM
+kirill (kirill) sent /inv 8-23-2020, 11:57:26 AM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 11:57:41 AM
+kirill (kirill) sent /jointeam 1 2 8-23-2020, 12:04:16 PM
+kirill (kirill) sent /suicide 8-23-2020, 12:18:44 PM
+kirill (kirill) sent /inv 8-23-2020, 12:22:30 PM
+kirill (kirill) sent /inv 8-23-2020, 12:23:06 PM
+kirill (kirill) sent /inv 8-23-2020, 12:31:57 PM
+kirill (kirill) sent /follow franklin 8-23-2020, 12:32:05 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 12:32:11 PM
+kirill (kirill) sent /follow franklin 8-23-2020, 12:33:40 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 12:36:23 PM
+kirill (kirill) sent /follow bloodstorm 8-23-2020, 12:38:03 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 12:39:13 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 12:39:52 PM
+kirill (kirill) sent /inv 8-23-2020, 12:40:18 PM
+kirill (kirill) sent /inmv 8-23-2020, 12:40:23 PM
+kirill (kirill) sent /inv 8-23-2020, 12:40:35 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 12:40:49 PM
+kirill (kirill) sent /points 8-23-2020, 12:41:53 PM
+kirill (kirill) sent /follow franklin 8-23-2020, 12:44:47 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 12:45:29 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 12:45:42 PM
+kirill (kirill) sent /inv 8-23-2020, 12:46:16 PM
+kirill (kirill) sent /inv 8-23-2020, 12:46:18 PM
+kirill (kirill) sent /inv 8-23-2020, 12:47:07 PM
+kirill (kirill) sent /inv 8-23-2020, 12:47:19 PM
+kirill (kirill) sent /move kirill 170 0 0 8-23-2020, 1:00:08 PM
+kirill (kirill) sent /inv 8-23-2020, 1:01:03 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:1000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:kirill'smain_room:0:0:0:moved
+zone:200:200:200:200:0:10:go to kirill's_boss:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+tile:0:200:0:200:0:0:grass2
+src:0:200:0:200:0:10:birds16.ogg
+tile:0:200:50:55:0:0:concrete3
+noitems:0:200:0:200:0:100:suicide_bomb:frequency_scrambler:armored:tank
+
+tile:150:170:0:0:0:0:water
+src:150:170:0:0:0:20:stream.ogg 8-23-2020, 1:04:04 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:1000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:kirill'smain_room:0:0:0:moved
+zone:200:200:200:200:0:10:go to kirill's_boss:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+tile:0:200:0:200:0:0:grass2
+src:0:200:0:200:0:10:forest.ogg
+tile:0:200:50:55:0:0:concrete3
+noitems:0:200:0:200:0:100:suicide_bomb:frequency_scrambler:armored:tank
+
+tile:150:170:0:0:0:0:water
+src:150:170:0:0:0:20:stream.ogg 8-23-2020, 1:05:52 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:1000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:kirill'smain_room:0:0:0:moved
+zone:200:200:200:200:0:10:go to kirill's_boss:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+tile:0:200:0:200:0:0:grass2
+src:0:200:0:200:0:10:forest.ogg
+tile:0:200:50:55:0:0:dirt7
+noitems:0:200:0:200:0:100:suicide_bomb:frequency_scrambler:armored:tank
+
+tile:150:170:0:0:0:0:water
+src:150:170:0:0:0:20:stream.ogg 8-23-2020, 1:07:47 PM
+kirill (kirill) sent /shockwave 8-23-2020, 1:08:26 PM
+kirill (kirill) sent /inv 8-23-2020, 1:09:48 PM
+kirill (kirill) sent /shockwave 8-23-2020, 1:12:51 PM
+kirill (kirill) sent /inv 8-23-2020, 1:13:06 PM
+kirill (kirill) sent /inv 8-23-2020, 1:14:08 PM
+kirill (kirill) sent /inv 8-23-2020, 1:14:12 PM
+kirill (kirill) sent /inv 8-23-2020, 1:18:41 PM
+kirill (kirill) sent /inv 8-23-2020, 1:18:42 PM
+kirill (kirill) sent /inv 8-23-2020, 1:18:45 PM
+kirill (kirill) sent /inv 8-23-2020, 1:19:41 PM
+kirill (kirill) sent /inv 8-23-2020, 1:20:36 PM
+kirill (kirill) sent /inv 8-23-2020, 1:20:37 PM
+kirill (kirill) sent /where nikita-k 8-23-2020, 1:20:54 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 1:36:57 PM
+kirill (kirill) sent /inv 8-23-2020, 1:37:02 PM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:0:0:50:50:0:20:kirill's_world:200:200:0:moved
+travelpoint:50:50:50:50:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:0:50:0:50:0:0:1:1000:kirillboss
+src:0:50:0:50:-15:-20:kirill_boss.ogg
+zone:0:50:0:50:0:20:kirill'smain_room:trackme
+zone:0:0:50:50:0:20:go back to the kirill's_world:trackme
+zone:50:50:50:50:0:20:go back to the store:trackme
+
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver 8-23-2020, 1:37:47 PM
+kirill (kirill) sent /inv 8-23-2020, 1:42:39 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 1:43:24 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 1:43:48 PM
+kirill (kirill) sent /inv 8-23-2020, 1:44:00 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 1:44:14 PM
+kirill (kirill) sent /inv 8-23-2020, 1:44:20 PM
+kirill (kirill) sent /inv 8-23-2020, 1:44:36 PM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:0:0:50:50:0:20:kirill's_world:200:200:0:moved
+travelpoint:50:50:50:50:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:0:50:0:50:0:0:1:1000:kirillboss
+src:0:50:0:50:-15:-20:kirill_boss.ogg
+zone:0:50:0:50:0:20:kirill'smain_room:trackme
+zone:0:0:50:50:0:20:go back to the kirill's_world:trackme
+zone:50:50:50:50:0:20:go back to the store:trackme
+
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver 8-23-2020, 1:45:07 PM
+kirill (kirill) sent /inv 8-23-2020, 1:45:33 PM
+kirill (kirill) sent /inv 8-23-2020, 1:45:36 PM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:0:0:50:50:0:20:kirill's_world:200:200:0:moved
+travelpoint:50:50:50:50:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:0:50:0:50:0:0:1:1000:kirillboss
+src:0:50:0:50:-15:-20:kirill_boss.ogg
+zone:0:50:0:50:0:20:kirill'smain_room:trackme
+zone:0:0:50:50:0:20:go back to the kirill's_world:trackme
+zone:50:50:50:50:0:20:go back to the store:trackme
+
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver 8-23-2020, 1:45:43 PM
+kirill (kirill) sent /inv 8-23-2020, 1:46:05 PM
+kirill (kirill) sent /inv 8-23-2020, 1:46:08 PM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:0:0:50:50:0:20:kirill's_world:200:200:0:moved
+travelpoint:50:50:50:50:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:0:50:0:50:0:0:1:1000:kirillboss
+src:0:50:0:50:-15:-20:kirill_boss.ogg
+zone:0:50:0:50:0:20:kirill'smain_room:trackme
+zone:0:0:50:50:0:20:go back to the kirill's_world:trackme
+zone:50:50:50:50:0:20:go back to the store:trackme
+
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver 8-23-2020, 1:46:14 PM
+kirill (kirill) sent /inv 8-23-2020, 1:46:34 PM
+kirill (kirill) sent /inv 8-23-2020, 1:46:36 PM
+kirill (kirill) sent /disablerobots 8-23-2020, 1:47:48 PM
+kirill (kirill) sent /inv 8-23-2020, 1:47:52 PM
+kirill (kirill) sent /enablerobtos 8-23-2020, 1:48:02 PM
+kirill (kirill) sent /enablerobots 8-23-2020, 1:48:07 PM
+kirill (kirill) sent /INV 8-23-2020, 3:28:32 PM
+kirill (kirill) sent /inv 8-23-2020, 3:28:35 PM
+kirill (kirill) sent /inv 8-23-2020, 3:28:52 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 3:29:46 PM
+kirill (kirill) sent /inv 8-23-2020, 3:30:12 PM
+kirill (kirill) sent /inv 8-23-2020, 3:30:25 PM
+kirill (kirill) sent /inv 8-23-2020, 3:30:36 PM
+kirill (kirill) sent /follow shoma 8-23-2020, 3:31:23 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 3:32:14 PM
+kirill (kirill) sent /inv 8-23-2020, 3:33:34 PM
+kirill (kirill) sent /inv 8-23-2020, 3:33:42 PM
+kirill (kirill) sent /inv 8-23-2020, 3:36:36 PM
+kirill (kirill) sent /inv 8-23-2020, 3:36:47 PM
+kirill (kirill) sent /inv 8-23-2020, 3:37:22 PM
+kirill (kirill) sent /follow shoma 8-23-2020, 3:37:43 PM
+kirill (kirill) sent /inv 8-23-2020, 3:37:46 PM
+kirill (kirill) sent /follow shoma 8-23-2020, 3:37:50 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 3:38:02 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 3:38:23 PM
+kirill (kirill) sent /inv 8-23-2020, 3:39:32 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 3:40:00 PM
+kirill (kirill) sent /inv 8-23-2020, 3:40:02 PM
+kirill (kirill) sent /inv 8-23-2020, 3:40:54 PM
+kirill (kirill) sent /inv 8-23-2020, 3:40:58 PM
+kirill (kirill) sent /inv 8-23-2020, 3:45:24 PM
+kirill (kirill) sent /inv 8-23-2020, 3:45:28 PM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:0:0:50:50:0:20:kirill's_world:200:200:0:moved
+travelpoint:50:50:50:50:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:0:50:0:50:0:0:1:15000:kirillboss
+src:0:50:0:50:-15:-20:kirill_boss.ogg
+zone:0:50:0:50:0:20:kirill'smain_room:trackme
+zone:0:0:50:50:0:20:go back to the kirill's_world:trackme
+zone:50:50:50:50:0:20:go back to the store:trackme
+
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver 8-23-2020, 3:47:50 PM
+kirill (kirill) sent /inv 8-23-2020, 3:48:19 PM
+kirill (kirill) sent /inv 8-23-2020, 3:48:29 PM
+kirill (kirill) sent /follow valintin 8-23-2020, 3:50:18 PM
+kirill (kirill) sent /follow valentin 8-23-2020, 3:51:23 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 3:52:32 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 3:52:57 PM
+kirill (kirill) sent /inv 8-23-2020, 3:53:54 PM
+kirill (kirill) sent /inv 8-23-2020, 3:53:56 PM
+kirill (kirill) sent /moveplayer valentin kirill 8-23-2020, 3:55:03 PM
+kirill (kirill) sent /adminhelp 8-23-2020, 3:56:45 PM
+kirill (kirill) sent /shockwave 8-23-2020, 3:56:53 PM
+kirill (kirill) sent /innv 8-23-2020, 3:57:01 PM
+kirill (kirill) sent /inv 8-23-2020, 3:59:01 PM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:0:0:50:50:0:20:kirill's_world:200:200:0:moved
+travelpoint:50:50:50:50:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:0:50:0:50:0:0:1:30000:kirillboss
+src:0:50:0:50:-15:-20:kirill_boss.ogg
+zone:0:50:0:50:0:20:kirill'smain_room:trackme
+zone:0:0:50:50:0:20:go back to the kirill's_world:trackme
+zone:50:50:50:50:0:20:go back to the store:trackme
+
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver 8-23-2020, 3:59:24 PM
+kirill (kirill) sent /INV 8-23-2020, 3:59:47 PM
+kirill (kirill) sent /changemap kirill kirill's_world 8-23-2020, 4:01:49 PM
+kirill (kirill) sent /move kirill 200 20 0 8-23-2020, 4:01:58 PM
+kirill (kirill) sent /inv 8-23-2020, 4:02:00 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 4:02:17 PM
+kirill (kirill) sent /inv 8-23-2020, 4:02:36 PM
+kirill (kirill) sent /follow david 8-23-2020, 4:02:51 PM
+kirill (kirill) sent /inv 8-23-2020, 4:02:55 PM
+kirill (kirill) sent /follow david 8-23-2020, 4:02:58 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 4:03:41 PM
+kirill (kirill) sent /inv 8-23-2020, 4:05:40 PM
+kirill (kirill) sent /inv 8-23-2020, 4:05:42 PM
+kirill (kirill) sent /inv 8-23-2020, 4:08:43 PM
+kirill (kirill) sent /inv 8-23-2020, 4:08:45 PM
+kirill (kirill) sent /reboot 8-23-2020, 4:12:51 PM
+kirill (kirill) sent /inv 8-23-2020, 4:13:02 PM
+kirill (kirill) sent /disablerobots 8-23-2020, 4:15:00 PM
+kirill (kirill) sent /enablerobots 8-23-2020, 4:15:06 PM
+kirill (kirill) sent /inv 8-23-2020, 4:15:54 PM
+kirill (kirill) sent /inv 8-23-2020, 4:15:57 PM
+kirill (kirill) sent /reboot 8-23-2020, 4:18:21 PM
+kirill (kirill) sent /inv 8-23-2020, 4:18:42 PM
+kirill (kirill) sent /enablerobots 8-23-2020, 4:18:49 PM
+kirill (kirill) sent /killall 8-23-2020, 4:20:24 PM
+kirill (kirill) sent /suicide 8-23-2020, 4:28:25 PM
+kirill (kirill) sent /reboot 8-23-2020, 6:52:45 PM
+kirill (kirill) sent /inv 8-23-2020, 6:53:07 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 6:53:18 PM
+kirill (kirill) sent /reboot 8-23-2020, 6:54:07 PM
+kirill (kirill) sent /enablerobots 8-23-2020, 6:54:29 PM
+kirill (kirill) sent /inv 8-23-2020, 6:54:30 PM
+kirill (kirill) sent /enablerobots 8-23-2020, 6:54:55 PM
+kirill (kirill) sent /inv 8-23-2020, 6:55:35 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 6:56:11 PM
+kirill (kirill) sent /inv 8-23-2020, 6:56:12 PM
+kirill (kirill) sent /inv 8-23-2020, 6:56:34 PM
+kirill (kirill) sent /inv 8-23-2020, 6:56:48 PM
+kirill (kirill) sent /inv 8-23-2020, 6:57:08 PM
+kirill (kirill) sent /inv 8-23-2020, 6:57:12 PM
+kirill (kirill) sent /inv 8-23-2020, 6:58:33 PM
+kirill (kirill) sent /inv 8-23-2020, 6:58:36 PM
+kirill (kirill) sent /inv 8-23-2020, 7:00:06 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 7:00:34 PM
+kirill (kirill) sent /inv 8-23-2020, 7:00:39 PM
+kirill (kirill) sent /inv 8-23-2020, 7:00:56 PM
+kirill (kirill) sent /inv 8-23-2020, 7:01:07 PM
+kirill (kirill) sent /inv 8-23-2020, 7:03:55 PM
+kirill (kirill) sent /inv 8-23-2020, 7:04:00 PM
+kirill (kirill) sent /inv 8-23-2020, 7:06:50 PM
+kirill (kirill) sent /inv 8-23-2020, 7:07:00 PM
+kirill (kirill) sent /inv 8-23-2020, 7:09:02 PM
+kirill (kirill) sent /inv 8-23-2020, 7:09:57 PM
+kirill (kirill) sent /inv 8-23-2020, 7:13:41 PM
+kirill (kirill) sent /inv 8-23-2020, 7:16:57 PM
+kirill (kirill) sent /inv 8-23-2020, 7:19:22 PM
+kirill (kirill) sent /inv 8-23-2020, 7:20:04 PM
+kirill (kirill) sent /inv 8-23-2020, 7:20:11 PM
+kirill (kirill) sent /inv 8-23-2020, 7:20:41 PM
+kirill (kirill) sent /inv 8-23-2020, 7:20:45 PM
+kirill (kirill) sent /follow Vlados 8-23-2020, 7:20:59 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 7:21:15 PM
+kirill (kirill) sent /inv 8-23-2020, 7:22:59 PM
+kirill (kirill) sent /inv 8-23-2020, 7:23:03 PM
+kirill (kirill) sent /follow alex 8-23-2020, 7:26:05 PM
+kirill (kirill) sent /stopfollow 8-23-2020, 7:27:22 PM
+kirill (kirill) sent /inv 8-23-2020, 7:31:28 PM
+kirill (kirill) sent /move kirill 200 200 0 8-23-2020, 7:37:52 PM
+kirill (kirill) sent /inv 8-23-2020, 7:39:46 PM
+kirill (kirill) sent /inv 8-23-2020, 7:39:48 PM
+kirill (kirill) sent /inv 8-23-2020, 7:49:12 PM
+kirill (kirill) sent /inv 8-23-2020, 7:49:17 PM
+kirill (kirill) sent /inv 8-23-2020, 7:53:02 PM
+kirill (kirill) sent /inv 8-23-2020, 7:53:14 PM
+kirill (kirill) sent /afk 8-23-2020, 8:02:14 PM
+kirill (kirill) sent /inv 8-23-2020, 8:02:16 PM
+kirill (kirill) sent /inv 8-23-2020, 8:02:40 PM
+kirill (kirill) sent /lchat chto 8-23-2020, 8:03:09 PM
+kirill (kirill) sent /inv 8-23-2020, 8:07:05 PM
+kirill (kirill) sent /inv 8-23-2020, 8:07:11 PM
+kirill (kirill) sent /inv 8-23-2020, 8:07:22 PM
+kirill (kirill) sent /inv 8-23-2020, 8:07:42 PM
+kirill (kirill) sent /inv 8-23-2020, 8:08:34 PM
+kirill (kirill) sent /inv 8-23-2020, 8:08:59 PM
+kirill (kirill) sent /shockwaave 8-23-2020, 8:09:44 PM
+kirill (kirill) sent /shockwave 8-23-2020, 8:09:50 PM
+kirill (kirill) sent /shockwave 8-23-2020, 8:10:08 PM
+kirill (kirill) sent /inv 8-23-2020, 8:11:34 PM
+kirill (kirill) sent /inv 8-23-2020, 8:11:45 PM
+kirill (kirill) sent /inv 8-23-2020, 8:14:02 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 8:18:39 PM
+kirill (kirill) sent /inv 8-23-2020, 8:19:01 PM
+kirill (kirill) sent /inv 8-23-2020, 8:21:04 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 8:21:55 PM
+kirill (kirill) sent /inv 8-23-2020, 8:21:57 PM
+kirill (kirill) sent /inv 8-23-2020, 8:24:32 PM
+kirill (kirill) sent /inv 8-23-2020, 8:24:35 PM
+kirill (kirill) sent /pm bolgelo zaydi v tt 8-23-2020, 8:29:27 PM
+kirill (kirill) sent /enablerobots 8-23-2020, 8:30:10 PM
+kirill (kirill) sent /move bolgelo kirill 8-23-2020, 8:30:55 PM
+kirill (kirill) sent /move bolgelo kirill 8-23-2020, 8:31:05 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 8:31:21 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 8:31:54 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 8:32:36 PM
+kirill (kirill) sent /gnstart 8-23-2020, 8:33:57 PM
+kirill (kirill) sent /gnsubmit 34 8-23-2020, 8:34:23 PM
+kirill (kirill) sent /gnsubmit 35 8-23-2020, 8:34:28 PM
+kirill (kirill) sent /inv 8-23-2020, 8:36:58 PM
+kirill (kirill) sent /inv 8-23-2020, 8:37:00 PM
+kirill (kirill) sent /inv 8-23-2020, 8:38:18 PM
+kirill (kirill) sent /inv 8-23-2020, 8:38:25 PM
+kirill (kirill) sent /inv 8-23-2020, 8:38:45 PM
+kirill (kirill) sent /inv 8-23-2020, 8:38:57 PM
+kirill (kirill) sent /gnsumbit 23 8-23-2020, 8:39:54 PM
+kirill (kirill) sent /gnsubmit 25 8-23-2020, 8:40:00 PM
+kirill (kirill) sent /gnsubmit 23 8-23-2020, 8:40:10 PM
+kirill (kirill) sent /changemap kirill bullship 8-23-2020, 8:40:24 PM
+kirill (kirill) sent /changemap kirill bullshit 8-23-2020, 8:40:35 PM
+kirill (kirill) sent /moveplayer kirill nikita-k 8-23-2020, 8:40:54 PM
+kirill (kirill) sent /rawmap 8-23-2020, 8:41:16 PM
+kirill (kirill) sent /ivn 8-23-2020, 8:42:17 PM
+kirill (kirill) sent /inv 8-23-2020, 8:42:19 PM
+kirill (kirill) sent /inv 8-23-2020, 8:42:22 PM
+kirill (kirill) sent /moveplayer ballgelo kirill 8-23-2020, 8:42:40 PM
+kirill (kirill) sent /inv 8-23-2020, 8:44:45 PM
+kirill (kirill) sent /inv 8-23-2020, 8:45:07 PM
+kirill (kirill) sent /inv 8-23-2020, 8:47:32 PM
+kirill (kirill) sent /inv 8-23-2020, 8:47:35 PM
+kirill (kirill) sent /give kirill snowball 1000 8-23-2020, 8:47:54 PM
+kirill (kirill) sent /inv 8-23-2020, 8:48:10 PM
+kirill (kirill) sent /moveplayer kirill ballgelo 8-23-2020, 8:48:41 PM
+kirill (kirill) sent /moveplayer kirill nikita-k 8-23-2020, 8:48:53 PM
+kirill (kirill) sent /inv 8-23-2020, 8:49:04 PM
+kirill (kirill) sent /moveplayer kirill ballgelo 8-23-2020, 8:49:13 PM
+kirill (kirill) sent /moveplayer kirill nikita-k 8-23-2020, 8:49:22 PM
+kirill (kirill) sent /INV 8-23-2020, 8:50:50 PM
+kirill (kirill) sent /INV 8-23-2020, 8:50:52 PM
+kirill (kirill) sent /inv 8-23-2020, 8:50:55 PM
+kirill (kirill) sent /moveplayer kirill nikita-k 8-23-2020, 8:51:24 PM
+kirill (kirill) sent /changemap kirill ballsiki 8-23-2020, 8:52:05 PM
+kirill (kirill) sent /inv 8-23-2020, 8:52:16 PM
+kirill (kirill) sent /inv 8-23-2020, 8:57:09 PM
+kirill (kirill) sent /inv 8-23-2020, 8:57:14 PM
+kirill (kirill) sent /plays kirillboss)voice12.ogg 8-23-2020, 8:58:27 PM
+kirill (kirill) sent /plays kirillboss_voice12 8-23-2020, 8:59:01 PM
+kirill (kirill) sent /move kirill 95 0 0 8-23-2020, 8:59:45 PM
+kirill (kirill) sent /inv 8-23-2020, 9:00:19 PM
+kirill (kirill) sent /inv 8-23-2020, 9:00:20 PM
+kirill (kirill) sent /plays kirill1_voice1 8-23-2020, 9:02:14 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 9:03:32 PM
+kirill (kirill) sent /newadmin ballgelo 8-23-2020, 9:04:07 PM
+kirill (kirill) sent /inv 8-23-2020, 9:04:32 PM
+kirill (kirill) sent /inv 8-23-2020, 9:04:36 PM
+kirill (kirill) sent /inv 8-23-2020, 9:04:45 PM
+kirill (kirill) sent /inv 8-23-2020, 9:04:48 PM
+kirill (kirill) sent /shockwave 8-23-2020, 9:05:25 PM
+kirill (kirill) sent /newadmin Ballgelo 8-23-2020, 9:05:44 PM
+kirill (kirill) sent /newadmin Ballgelo 8-23-2020, 9:05:57 PM
+kirill (kirill) sent /inv 8-23-2020, 9:06:31 PM
+kirill (kirill) sent /inv 8-23-2020, 9:06:35 PM
+kirill (kirill) sent /newadmin bolgelo 8-23-2020, 9:07:18 PM
+kirill (kirill) sent /removeadmin bolgelo 8-23-2020, 9:07:26 PM
+kirill (kirill) sent /changemap bolgelo kirill"smain_room 8-23-2020, 9:10:23 PM
+kirill (kirill) sent /changemap kirill kirill"smain_room 8-23-2020, 9:10:37 PM
+kirill (kirill) sent /changemap kirill'smain_room 8-23-2020, 9:10:46 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 9:11:00 PM
+kirill (kirill) sent /changemap bolgelo kirill'smain_room 8-23-2020, 9:11:16 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 9:12:08 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 9:12:47 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 9:13:41 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 9:14:02 PM
+kirill (kirill) sent /invforce bolgelo 8-23-2020, 9:14:55 PM
+kirill (kirill) sent /moveplayer nikita-k kirill 8-23-2020, 9:15:07 PM
+kirill (kirill) sent /moveplayer nikita-k kirill 8-23-2020, 9:16:06 PM
+kirill (kirill) sent /invforce ballgelo 8-23-2020, 9:17:36 PM
+kirill (kirill) sent /invforce bolgelo 8-23-2020, 9:17:46 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 9:18:20 PM
+kirill (kirill) sent /invforce bolgelo 8-23-2020, 9:20:44 PM
+kirill (kirill) sent /moveplayer bolgelo kirill 8-23-2020, 9:20:55 PM
+kirill (kirill) sent /suicide 8-23-2020, 10:17:34 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 10:18:07 PM
+kirill (kirill) sent /suicide 8-23-2020, 10:18:10 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 8-23-2020, 10:19:15 PM
+kirill (kirill) sent /rawdata mapname:kirill'smain_room
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:1:1:49:49:0:20:kirill's_world:200:200:0:moved
+travelpoint:49:49:49:49:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:1:49:0:49:0:0:1:30000:kirillboss
+src:0:49:0:49:-15:-20:kirill_boss.ogg
+zone:1:49:1:49:0:20:kirill'smain_room:
+zone:1:1:49:49:0:20:go back to the kirill's_world:trackme
+zone:49:49:49:49:0:20:go back to the store:trackme
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver
+tile:0:0:0:50:0:100:wallwoodcrate
+tile:0:50:50:50:0:100:wallwoodcrate
+tile:50:50:0:50:0:100:wallwoodcrate
+tile:0:50:0:0:0:100:wallwoodcrate
+tile:0:50:0:50:20:20:wallwoodcrate 8-23-2020, 10:19:23 PM
+kirill (kirill) sent /move kirill 1 1 0 8-23-2020, 10:19:30 PM
+kirill (kirill) sent /inv 8-23-2020, 10:19:44 PM

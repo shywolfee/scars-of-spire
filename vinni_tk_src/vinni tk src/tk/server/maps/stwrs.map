@@ -1,0 +1,25 @@
+mapname:stwrs
+maxx:250
+maxy:250
+maxz:250
+amb:0:250:0:250:-11:250:birds14.ogg
+tile:0:250:0:10:10:10:deepsand
+tile:0:250:11:30:10:10:stone1
+tile:0:20:11:250:10:10:stone1
+tile:230:250:11:250:10:10:stone1
+tile:0:250:230:250:10:10:stone1
+tile:21:229:31:229:0:0:water
+tile:20:20:31:229:0:10:stone1
+tile:19:19:31:230:0:9:wallstone
+tile:21:229:31:31:0:10:stone1
+tile:19:229:30:30:0:9:wallstone
+tile:230:230:31:229:0:10:stone1
+tile:230:230:30:231:0:9:wallstone
+tile:20:230:230:230:0:10:stone1
+tile:19:231:231:231:0:9:wallstone
+src:21:229:31:229:0:3:stream9.ogg
+travelpoint:0:250:0:0:10:10:desert:250:500:0:!
+zone:0:250:0:0:10:20:to enter in desert? press enter:trackme
+zone:0:250:11:250:0:500:rocky spring.
+
+zone:0:250:1:10:0:500:exit from the desert

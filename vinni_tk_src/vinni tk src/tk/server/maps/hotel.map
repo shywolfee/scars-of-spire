@@ -1,0 +1,846 @@
+mapname:hotel
+maxx:150
+maxy:150
+maxz:100
+tile:0:150:0:54:0:0:carpet2
+tile:0:150:76:150:0:0:carpet2
+tile:0:94:0:150:0:0:carpet2
+tile:131:150:0:150:0:0:carpet2
+zone:0:150:0:100:0:100:Hotel
+tile:0:65:0:99:0:14:wall2
+tile:86:150:0:99:0:14:wall2
+tile:131:150:0:99:0:14:wall2
+tile:95:130:0:54:0:14:wall2
+tile:95:130:76:99:0:14:wall2
+tile:0:150:100:100:0:50:wallbrick
+tile:66:85:16:89:0:14:wall2
+tile:66:85:16:89:15:15:carpet3
+tile:0:65:0:50:15:15:wood2
+tile:0:65:0:0:15:65:wall2
+tile:0:0:1:50:15:65:wall2
+tile:1:65:50:50:15:65:wall2
+tile:65:65:11:49:15:65:wall2
+tile:60:64:11:11:15:65:wall2
+tile:60:60:1:10:15:35:walldoor
+tile:60:60:1:10:36:65:wall2
+tile:66:66:1:10:0:15:smallwood
+tile:85:85:1:10:0:15:smallwood
+tile:86:150:0:50:15:15:hardwood4
+tile:86:150:0:0:15:65:wall2
+tile:150:150:1:50:15:65:wall2
+tile:86:149:50:50:15:65:wall2
+tile:86:86:11:49:15:65:wall2
+tile:87:90:11:11:15:65:wall2
+tile:90:90:1:10:15:35:walldoor
+tile:90:90:1:10:36:65:wall2
+zone:85:85:1:10:0:15:stairs to the restaurant
+zone:66:66:1:10:0:15:stairs to the club
+zone:60:61:1:10:15:30:door to the club:trackme
+zone:62:65:1:10:15:65:near the entrance to the club
+zone:89:90:1:10:15:35:door to the restaurant:trackme
+zone:86:88:1:10:15:65:near the restaurant entrance
+tile:1:20:1:49:15:29:wall2
+tile:1:20:1:49:30:30:carpet3
+tile:20:20:1:20:30:50:wallglass
+tile:20:20:31:49:30:50:wallglass
+tile:21:21:21:30:15:30:carpet6
+zone:1:20:1:49:30:50:lounging zone
+zone:60:64:12:34:15:50:the bar
+tile:61:62:12:30:15:19:wallglass2
+tile:61:62:12:30:20:20:wood4
+zone:61:62:12:30:20:50:on the bar
+tile:60:60:13:13:15:16:chair
+tile:60:60:16:16:15:16:chair
+tile:60:60:19:19:15:16:chair
+tile:60:60:22:22:15:16:chair
+tile:60:60:25:25:15:16:chair
+tile:60:60:28:28:15:16:chair
+zone:60:60:13:13:15:30:bar stool
+zone:60:60:16:16:15:30:bar stool
+zone:60:60:19:19:15:30:bar stool
+zone:60:60:22:22:15:30:bar stool
+zone:60:60:25:25:15:30:bar stool
+zone:60:60:28:28:15:30:bar stool
+zone:21:59:1:49:15:50:in the club
+zone:21:21:21:30:15:50:stairs to the lounging zone
+tile:60:64:45:45:15:50:wall2
+tile:60:64:40:40:15:50:wall2
+tile:60:64:35:35:15:50:wall2
+tile:60:60:46:49:15:30:wallwood2
+tile:60:60:41:44:15:30:wallwood2
+tile:60:60:36:39:15:30:wallwood2
+zone:59:60:46:49:15:30:door to the washroom
+zone:59:60:41:44:15:30:door to the washroom
+zone:59:60:36:39:15:30:door to the washroom
+tile:60:60:46:49:31:50:wall2
+tile:60:60:41:44:31:50:wall2
+tile:60:60:36:39:31:50:wall2
+zone:62:64:46:49:15:50:washroom
+zone:62:64:41:44:15:50:washroom
+zone:62:64:36:39:15:50:washroom
+tile:64:64:46:46:15:15:wallcone1
+tile:64:64:46:46:16:16:sewer1
+zone:64:64:46:46:15:30:toilet
+tile:64:64:49:49:15:16:wallcone
+tile:64:64:49:49:17:17:glass2
+zone:64:64:49:49:15:30:sink
+zone:61:61:46:49:15:30:exit
+zone:61:61:41:44:15:30:exit
+tile:64:64:41:41:15:15:wallcone1
+tile:64:64:41:41:16:16:sewer1
+tile:64:64:44:44:15:16:wallcone
+tile:64:64:44:44:17:17:glass2
+zone:64:64:41:41:15:50:toilet
+zone:64:64:44:44:15:50:sink
+tile:64:64:36:36:15:15:wallcone1
+tile:64:64:36:36:16:16:sewer1
+tile:64:64:39:39:15:16:wallcone
+tile:64:64:39:39:17:17:glass2
+zone:64:64:36:36:15:50:toilet
+zone:64:64:39:39:15:50:sink
+zone:61:61:36:39:15:30:exit
+travelpoint:59:59:46:49:15:30:hotel:62:47:15:you enter a small washroom
+travelpoint:61:61:46:49:15:30:hotel:59:47:15:you go back to the club
+travelpoint:59:59:41:44:15:30:hotel:62:42:15:you enter a small washroom
+travelpoint:61:61:41:44:15:30:hotel:59:42:15:you go back to the club
+travelpoint:59:59:36:39:15:30:hotel:62:37:15:you enter a small washroom
+travelpoint:61:61:36:39:15:30:hotel:59:37:15:you go back to the club
+travelpoint:59:59:1:10:15:30:hotel:62:5:15:you leave the club
+travelpoint:61:61:1:10:15:30:hotel:58:5:15:you enter the club
+zone:59:59:1:10:15:30:main exit
+tile:26:50:11:40:15:15:walltile
+tile:26:50:11:40:16:16:hardwood3
+zone:26:50:11:40:15:50:dance floor
+tile:31:45:48:49:15:19:wallglass2
+tile:31:45:48:49:20:20:wood4
+zone:31:45:47:49:15:50:the bar
+zone:31:45:48:49:20:50:on the bar
+tile:32:32:47:47:15:16:chair
+zone:32:32:47:47:15:50:bar stool
+tile:35:35:47:47:15:16:chair
+zone:35:35:47:47:15:50:bar stool
+tile:38:38:47:47:15:16:chair
+zone:38:38:47:47:15:50:bar stool
+tile:41:41:47:47:15:16:chair
+zone:41:41:47:47:15:50:bar stool
+tile:44:44:47:47:15:16:chair
+zone:44:44:47:47:15:50:bar stool
+tile:31:45:1:2:15:19:wallglass2
+tile:31:45:1:2:20:20:wood4
+zone:31:45:1:3:15:50:the bar
+zone:31:45:1:2:20:50:on the bar
+tile:32:32:3:3:15:16:chair
+zone:32:32:3:3:15:50:bar stool
+tile:35:35:3:3:15:16:chair
+zone:35:35:3:3:15:50:bar stool
+tile:38:38:3:3:15:16:chair
+zone:38:38:3:3:15:50:bar stool
+tile:41:41:3:3:15:16:chair
+zone:41:41:3:3:15:50:bar stool
+tile:44:44:3:3:15:16:chair
+zone:44:44:3:3:15:50:bar stool
+amb:61:64:46:49:15:50:toilet.ogg
+amb:61:64:41:44:15:50:toilet.ogg
+amb:61:64:36:39:15:50:toilet.ogg
+src:61:62:22:22:20:21:cafe.ogg
+src:38:38:1:2:20:21:cafe.ogg
+src:38:38:48:49:20:21:cafe.ogg
+tile:2:2:3:3:30:31:chair
+tile:2:2:6:6:30:31:chair
+zone:2:2:3:3:30:50:chair
+zone:2:2:6:6:30:50:chair
+tile:7:7:6:6:30:31:chair
+tile:7:7:3:3:30:31:chair
+zone:7:7:3:3:30:50:chair
+zone:7:7:6:6:30:50:chair
+tile:3:6:2:7:32:32:wood4
+tile:3:3:2:2:30:31:walltable
+tile:6:6:2:2:30:31:walltable
+tile:6:6:7:7:30:31:walltable
+tile:3:3:7:7:30:31:walltable
+zone:3:6:2:7:32:50:table 1
+zone:3:6:2:7:30:31:under the table
+tile:18:18:3:3:30:31:chair
+tile:18:18:6:6:30:31:chair
+zone:18:18:3:3:30:50:chair
+zone:18:18:6:6:30:50:chair
+tile:13:13:3:3:30:31:chair
+tile:13:13:6:6:30:31:chair
+zone:13:13:3:3:30:50:chair
+zone:13:13:6:6:30:50:chair
+tile:14:17:2:7:32:32:wood4
+tile:14:14:2:2:30:31:walltable
+tile:17:17:2:2:30:31:walltable
+tile:14:14:7:7:30:31:walltable
+tile:17:17:7:7:30:31:walltable
+zone:14:17:2:7:32:50:table 2
+zone:14:17:2:7:30:31:under the table
+tile:3:3:12:12:30:31:walltable
+tile:6:6:12:12:30:31:walltable
+tile:3:3:17:17:30:31:walltable
+tile:6:6:17:17:30:31:walltable
+tile:3:6:12:17:32:32:wood4
+tile:2:2:13:13:30:31:chair
+tile:2:2:16:16:30:31:chair
+tile:7:7:16:16:30:31:chair
+tile:7:7:13:13:30:31:chair
+zone:3:6:12:17:30:31:under the table
+zone:3:6:12:17:32:50:table 3
+zone:2:2:13:13:30:50:chair
+zone:2:2:16:16:30:50:chair
+zone:7:7:16:16:30:50:chair
+zone:7:7:13:13:30:50:chair
+tile:14:14:12:12:30:31:walltable
+tile:17:17:12:12:30:31:walltable
+tile:14:14:17:17:30:31:walltable
+tile:17:17:17:17:30:31:walltable
+tile:14:17:12:17:32:32:wood4
+tile:13:13:13:13:30:31:chair
+tile:13:13:16:16:30:31:chair
+tile:18:18:16:16:30:31:chair
+tile:18:18:13:13:30:31:chair
+zone:14:17:12:17:30:31:under the table
+zone:14:17:12:17:32:50:table 4
+zone:13:13:13:13:30:50:chair
+zone:13:13:16:16:30:50:chair
+zone:18:18:13:13:30:50:chair
+zone:18:18:16:16:30:50:chair
+src:1:20:1:49:30:35:bar.ogg
+tile:2:2:47:47:30:31:chair
+tile:2:2:44:44:30:31:chair
+tile:7:7:47:47:30:31:chair
+tile:7:7:44:44:30:31:chair
+tile:3:3:43:43:30:31:walltable
+tile:6:6:43:43:30:31:walltable
+tile:3:3:48:48:30:31:walltable
+tile:6:6:48:48:30:31:walltable
+tile:3:6:43:48:32:32:wood4
+zone:3:6:43:48:30:31:under the table
+zone:3:6:43:48:32:50:table 7
+zone:2:2:44:44:30:50:chair
+zone:2:2:47:47:30:50:chair
+zone:7:7:44:44:30:50:chair
+zone:7:7:47:47:30:50:chair
+tile:18:18:47:47:30:31:chair
+tile:18:18:44:44:30:31:chair
+tile:13:13:44:44:30:31:chair
+tile:13:13:47:47:30:31:chair
+tile:14:14:48:48:30:31:walltable
+tile:17:17:48:48:30:31:walltable
+tile:14:14:43:43:30:31:walltable
+tile:17:17:43:43:30:31:walltable
+tile:14:17:43:48:32:32:wood4
+zone:14:17:43:48:30:31:under the table
+zone:14:17:43:48:32:50:table 8
+zone:13:13:47:47:30:50:chair
+zone:13:13:44:44:30:50:chair
+zone:18:18:44:44:30:50:chair
+zone:18:18:47:47:30:50:chair
+src:26:27:11:11:15:20:jloop25.ogg
+src:26:27:40:40:15:20:jloop25.ogg
+src:49:50:11:11:15:20:jloop25.ogg
+src:49:50:40:40:15:20:jloop25.ogg
+tile:14:14:37:37:30:31:walltable
+tile:17:17:37:37:30:31:walltable
+tile:17:17:34:34:30:31:walltable
+tile:14:14:34:34:30:31:walltable
+tile:14:17:34:37:32:32:wood4
+tile:13:13:36:36:30:31:chair
+zone:13:13:36:36:30:50:chair
+tile:18:18:36:36:30:31:chair
+zone:18:18:36:36:30:50:chair
+zone:14:17:34:37:30:31:under the table
+zone:14:17:34:37:32:50:table 6
+tile:2:2:36:36:30:31:chair
+zone:2:2:36:36:30:50:chair
+tile:7:7:36:36:30:31:chair
+zone:7:7:36:36:30:50:chair
+tile:3:3:37:37:30:31:walltable
+tile:6:6:37:37:30:31:walltable
+tile:3:3:34:34:30:31:walltable
+tile:6:6:34:34:30:31:walltable
+tile:3:6:34:37:32:32:wood4
+zone:3:6:34:37:30:31:under the table
+zone:3:6:34:37:32:50:table 5
+travelpoint:89:89:1:10:15:30:hotel:91:5:15:welcome to our restaurant!
+zone:91:129:1:49:15:50:in the restaurant
+tile:130:130:1:49:15:50:wall2
+tile:130:130:1:10:15:30:walldoor
+zone:129:130:1:10:15:30:door to the kitchen
+travelpoint:129:129:1:10:15:30:hotel:131:5:15:you enter the kitchen
+zone:131:149:1:49:15:50:in the kitchen
+zone:131:131:1:10:15:30:exit
+travelpoint:131:131:1:10:15:30:hotel:129:5:15:you leave the kitchen
+zone:91:91:1:10:15:30:exit from the restaurant
+travelpoint:91:91:1:10:15:30:hotel:89:5:15:you leave the restaurant
+tile:145:149:1:1:15:30:wallmetal5
+tile:149:149:2:5:15:30:wallmetal5
+tile:145:148:5:5:15:30:wallmetal5
+tile:145:148:2:4:15:15:wallmetal5
+tile:145:148:2:4:16:16:glass4
+tile:145:148:2:4:21:21:glass4
+tile:145:148:2:4:26:26:glass4
+tile:145:149:1:5:31:31:diamond
+zone:145:149:1:5:31:50:on the fridge
+zone:144:144:1:5:15:50:near an open fridge
+zone:145:148:2:4:16:30:in the fridge
+src:145:148:2:4:15:31:fridge3.ogg
+tile:145:149:7:7:15:30:wallmetal5
+tile:149:149:8:11:15:30:wallmetal5
+tile:145:148:11:11:15:30:wallmetal5
+tile:145:148:8:10:15:15:wallmetal5
+tile:145:148:8:10:16:16:glass4
+tile:145:148:8:10:21:21:glass4
+tile:145:148:8:10:26:26:glass4
+tile:145:149:7:11:31:31:diamond
+zone:144:144:7:11:15:50:near an open fridge
+zone:145:148:8:10:16:30:in the fridge
+zone:145:149:7:11:31:50:on the fridge
+src:145:148:8:10:16:30:fridge3.ogg
+tile:149:149:14:14:15:17:walltable
+tile:144:144:14:14:15:17:walltable
+tile:144:144:24:24:15:17:walltable
+tile:149:149:24:24:15:17:walltable
+zone:144:149:14:24:15:17:under the table
+tile:144:149:14:24:18:18:wood4
+zone:144:149:14:24:18:50:On a big table
+tile:146:149:27:31:15:18:wallpole
+tile:146:149:27:31:19:19:glass4
+zone:145:145:27:31:15:50:near a stove
+zone:146:149:27:31:19:50:on the stove
+src:148:148:29:29:19:19:oven.ogg
+tile:146:149:34:37:15:16:wallmedalsheet
+tile:146:149:34:34:17:18:wallmedalsheet
+tile:146:149:37:37:17:18:wallmedalsheet
+tile:146:146:35:36:17:18:wallmedalsheet
+tile:149:149:35:36:17:18:wallmedalsheet
+tile:147:148:35:36:17:17:puddle
+tile:146:149:34:34:19:19:metal2
+tile:146:149:37:37:19:19:metal2
+tile:146:146:35:36:19:19:metal2
+tile:149:149:35:36:19:19:metal2
+zone:146:149:34:37:15:50:the sink
+zone:145:145:34:37:15:50:near the sink
+src:146:149:35:36:19:19:faucet1.ogg
+tile:146:149:44:49:15:17:wallcardboard
+tile:146:149:44:49:18:18:hardwood1
+zone:146:149:44:49:18:50:near a microwave
+tile:147:149:45:45:19:22:wallmetal8
+tile:147:149:45:48:18:18:wallmetal8
+tile:147:149:48:48:19:22:wallmetal8
+tile:149:149:46:47:19:22:wallmetal8
+tile:148:148:46:47:19:19:glass4
+tile:147:149:45:48:23:23:metal13
+tile:147:147:46:47:19:22:wallglass
+zone:147:149:45:48:19:50:microwave
+src:147:149:45:48:19:23:microwave.ogg
+tile:131:131:45:45:15:50:wallmetal9
+tile:131:131:49:49:15:50:wallmetal9
+tile:140:140:49:49:15:50:wallmetal9
+tile:140:140:45:45:15:50:wallmetal9
+tile:131:131:46:48:20:20:wallmetal9
+tile:140:140:46:48:20:20:wallmetal9
+tile:131:140:46:48:21:21:hardwood3
+tile:131:131:46:48:26:26:wallmetal9
+tile:140:140:46:48:26:26:wallmetal9
+tile:131:140:46:48:27:27:hardwood3
+tile:131:131:46:48:32:32:wallmetal9
+tile:140:140:46:48:32:32:wallmetal9
+tile:131:140:46:48:33:33:hardwood3
+tile:131:131:46:48:38:38:wallmetal9
+tile:140:140:46:48:38:38:wallmetal9
+tile:131:140:46:48:39:39:hardwood3
+zone:132:139:49:49:15:50:behind the shelves
+zone:131:140:43:48:15:20:near the shelves
+zone:131:140:46:48:21:26:shelf 1
+zone:131:140:46:48:27:32:shelf 2
+zone:131:140:46:48:33:38:shelf 3
+zone:131:140:46:48:39:50:shelf 4
+tile:131:134:34:40:19:19:wood4
+tile:131:131:34:34:15:18:walltable
+tile:134:134:34:34:15:18:walltable
+tile:131:131:40:40:15:18:walltable
+tile:134:134:40:40:15:18:walltable
+zone:131:134:34:40:15:18:under the pizza table
+zone:131:134:34:40:19:19:pizza table
+tile:131:133:38:40:19:22:wallmetal8
+tile:131:133:38:40:23:23:metal13
+zone:131:133:38:40:20:50:pizza oven
+tile:69:82:15:15:0:15:smallwood
+tile:0:65:51:99:15:15:wood1
+tile:0:0:51:99:15:50:wall2
+tile:65:65:51:99:15:50:wall2
+tile:1:64:99:99:15:50:wall2
+zone:1:64:51:99:15:50:sport club
+tile:65:65:70:75:15:30:walldoor
+zone:64:64:70:75:15:30:main exit
+zone:66:66:70:75:15:30:door to the sport club:trackme
+travelpoint:64:64:70:75:15:30:hotel:66:72:15:you leave the sport club
+travelpoint:66:66:70:75:15:30:hotel:64:72:15:you enter the sport club
+tile:22:27:50:50:15:30:walldoor
+zone:22:27:49:49:15:30:door to the sport club
+zone:22:27:51:51:15:30:door to the club, which is locked
+travelpoint:22:27:49:49:15:30:hotel:25:51:15:you leave the club and enter the sport club
+tile:69:82:90:90:0:15:smallwood
+zone:69:82:90:90:0:30:stairs
+tile:66:67:98:99:0:65:carpet6
+tile:68:68:98:99:0:64:wallrail
+zone:66:67:98:99:0:64:stairs to the second floor:trackme
+tile:84:85:98:99:0:65:carpet6
+tile:83:83:98:99:0:64:wallrail
+zone:84:85:98:99:0:64:stairs to the second floor:trackme
+tile:71:80:100:100:0:30:wallglass
+zone:71:80:99:99:0:30:door that leads outside:trackme
+travelpoint:71:80:99:99:0:30:hotel:75:101:0:now you are at the hotel's outside area
+tile:86:94:51:99:15:15:tile4
+tile:131:150:51:99:15:15:tile4
+tile:86:150:51:54:15:15:tile4
+tile:86:150:76:99:15:15:tile4
+tile:150:150:51:99:15:50:wall2
+tile:86:149:99:99:15:50:wall2
+tile:86:86:51:98:15:50:wall2
+tile:86:86:70:75:15:30:walldoor
+zone:85:85:70:75:15:40:door to the relax area:trackme
+zone:87:87:70:75:15:30:exit
+zone:87:149:51:98:15:50:relax area
+zone:87:87:70:75:15:30:exit
+travelpoint:85:85:70:75:15:30:hotel:87:72:15:here you can have a great time!
+travelpoint:87:87:70:75:15:30:hotel:85:72:15:you left
+tile:42:50:101:150:0:14:wallgrass
+tile:51:51:101:150:0:15:grass3
+tile:42:50:101:150:15:15:grass3
+tile:0:8:101:150:0:14:wallgrass
+tile:0:8:101:150:15:15:grass3
+tile:9:41:101:109:0:14:wallgrass
+tile:9:41:101:109:15:15:grass3
+tile:9:41:142:150:0:14:wallgrass
+tile:9:41:142:150:15:15:grass3
+zone:0:50:101:150:0:100:near a small lake
+tile:41:41:110:141:0:7:rocks1
+tile:41:41:110:141:8:15:grass3
+tile:38:40:110:141:0:3:rocks1
+tile:9:9:110:141:0:7:rocks1
+tile:9:9:110:141:8:15:grass3
+tile:10:37:110:113:0:3:rocks1
+tile:10:12:114:141:0:3:rocks1
+tile:13:37:138:141:0:3:rocks1
+tile:13:37:114:137:0:0:swimming
+src:13:37:114:137:0:0:lake.ogg
+amb:0:120:101:150:0:100:birds14.ogg
+tile:13:37:114:137:-20:-1:underwater
+tile:12:12:113:138:-20:-1:wallunderwater
+tile:38:38:113:138:-20:-1:wallunderwater
+tile:13:37:113:113:-20:-1:wallunderwater
+tile:13:37:138:138:-20:-1:wallunderwater
+amb:12:38:113:138:-20:-1:underwater.ogg
+zone:12:38:113:138:-20:-1:under the water
+tile:13:37:114:137:-20:-20:rocks2
+tile:0:0:122:129:15:51:wood6
+tile:0:0:121:121:15:55:wallrail
+tile:0:0:130:130:15:55:wallrail
+tile:1:14:122:129:51:51:wood6
+tile:1:14:121:121:51:55:wallrail
+tile:1:14:130:130:51:55:wallrail
+tile:0:14:121:121:56:56:wood6
+tile:0:14:130:130:56:56:wood6
+zone:1:14:122:129:51:100:near the entrance of the garden house
+zone:0:0:122:129:15:80:wooden stairs
+zone:0:14:121:121:51:100:railings
+zone:0:14:130:130:51:100:railings
+tile:15:34:116:135:51:51:wood5
+zone:15:34:116:135:51:100:a small garden house
+tile:15:15:116:123:51:55:wallwoodcrate
+tile:15:15:128:135:51:55:wallwoodcrate
+tile:16:34:135:135:51:55:wallwoodcrate
+tile:16:34:116:116:51:55:wallwoodcrate
+tile:34:34:117:134:51:55:wallwoodcrate
+tile:15:15:116:123:56:56:wood6
+tile:15:15:128:135:56:56:wood6
+tile:16:34:116:116:56:56:wood6
+tile:16:16:135:135:56:56:wood6
+tile:34:34:117:134:56:56:wood6
+zone:15:15:116:123:56:100:railings
+zone:15:15:128:135:56:100:railings
+zone:16:34:116:116:56:100:railings
+zone:16:34:135:135:56:100:railings
+zone:34:34:117:134:56:100:railings
+tile:15:15:116:116:56:79:wallwoodcrate
+tile:15:15:135:135:56:79:wallwoodcrate
+tile:34:34:116:116:56:79:wallwoodcrate
+tile:34:34:135:135:56:79:wallwoodcrate
+tile:15:34:116:135:80:80:roof1
+zone:15:34:116:135:80:100:on the roof of the garden house
+tile:27:27:130:130:51:53:walltable
+tile:30:30:130:130:51:53:walltable
+tile:27:27:121:121:51:53:walltable
+tile:30:30:121:121:51:53:walltable
+tile:27:30:121:130:54:54:hardwood4
+zone:27:30:121:130:51:53:under a wooden table
+zone:27:30:121:130:54:70:on the wooden table
+tile:26:26:127:127:51:52:chair
+zone:26:26:127:127:51:70:chair
+tile:26:26:124:124:51:52:chair
+zone:26:26:124:124:51:70:chair
+tile:31:31:124:124:51:52:chair
+zone:31:31:124:124:51:70:chair
+tile:31:31:127:127:51:52:chair
+zone:31:31:127:127:51:70:chair
+zone:52:150:101:150:0:100:in the garden
+zone:51:51:101:150:0:80:steps to the lake
+zone:71:80:101:101:0:30:door back to the hotel
+travelpoint:71:80:101:101:0:30:hotel:75:99:0:you go back to the hotel
+tile:52:55:101:150:0:0:grass3
+tile:56:80:126:150:0:0:stone2
+tile:59:77:129:130:0:4:wallstone
+tile:59:77:146:147:0:4:wallstone
+tile:59:60:131:145:0:4:wallstone
+tile:76:77:131:145:0:4:wallstone
+zone:56:80:126:150:0:100:near the fountain
+tile:59:77:129:130:5:5:stone1
+tile:59:77:146:147:5:5:stone1
+tile:59:60:131:145:5:5:stone1
+tile:76:77:131:145:5:5:stone1
+tile:15:15:116:116:-20:50:wallwoodcrate
+tile:34:34:116:116:-20:50:wallwoodcrate
+tile:15:15:135:135:-20:50:wallwoodcrate
+tile:34:34:135:135:-20:50:wallwoodcrate
+tile:16:33:135:135:56:56:wood6
+zone:61:75:131:145:0:100:in the fountain
+tile:61:75:131:145:0:3:water
+src:67:69:137:139:0:25:fountain.ogg
+tile:67:69:137:139:0:20:wetconcrete
+zone:41:41:110:141:0:80:steps down to the lake
+zone:9:9:110:141:0:50:steps down to the lake
+tile:56:70:101:125:0:0:grass3
+tile:81:150:101:150:0:0:grass3
+tile:71:80:101:125:0:0:concrete25
+zone:71:80:102:125:0:80:path to the hotel
+tile:12:38:91:112:-20:-20:wetconcrete
+tile:12:12:91:112:-20:-1:wallstone
+tile:13:38:91:91:-20:-1:wallstone
+tile:38:38:92:112:-20:-1:wallstone
+tile:13:37:112:112:-20:-1:wallstone
+zone:12:38:91:112:-20:-1:underwater cave
+amb:13:37:92:111:-20:-1:chasm1.ogg
+amb:13:37:92:111:-20:-1:cave4.ogg
+zone:13:14:110:111:-20:-1:exit, press enter to leave here
+travelpoint:13:14:110:111:-20:-1:hotel:15:114:-20:you left the underwater cave
+zone:13:14:114:115:-20:-20:to enter the underwater cave, press enter
+travelpoint:13:14:114:115:-20:-20:hotel:14:110:-20:you enter a dark, cold underwater cave
+tile:101:150:101:150:0:19:wallrockdirt
+tile:106:150:101:150:20:39:wallrockdirt
+tile:111:150:101:150:40:59:wallrocks
+tile:101:104:101:150:20:20:rocks3
+tile:100:100:101:150:0:20:rocks3
+tile:105:105:101:150:20:40:rocks1
+tile:106:109:101:150:40:40:rocks1
+tile:110:110:101:150:40:60:rocks
+tile:111:150:101:150:60:60:rocks
+zone:13:37:114:137:0:20:in the lake
+zone:96:99:101:150:0:60:near a small hill
+tile:0:150:100:100:51:100:wallbrick
+zone:100:110:101:150:0:100:the hill
+zone:110:150:101:150:60:100:top of the hill
+tile:121:121:101:125:60:100:wallbrick
+tile:122:150:125:125:60:100:wallbrick
+tile:150:150:101:124:60:100:wallbrick
+tile:122:149:101:124:60:60:plywood
+tile:121:121:111:115:60:85:wallwood2
+zone:120:120:111:115:60:85:door to the house
+travelpoint:120:120:111:115:60:85:hotel:122:113:60:you enter a small, warm house
+zone:122:150:101:125:60:100:small house
+zone:122:122:111:115:60:85:door out of the house
+travelpoint:122:122:111:115:60:85:hotel:120:113:60:you leave a small house
+tile:132:137:110:116:60:62:wallstone
+tile:132:137:110:110:63:64:wallstone
+tile:132:137:116:116:63:64:wallstone
+tile:137:137:111:115:63:64:wallstone
+tile:132:136:111:115:63:63:fire
+tile:132:137:110:116:65:65:stone1
+zone:130:139:108:118:60:100:near a big fireplace
+zone:132:137:110:116:60:100:fireplace
+src:132:137:110:116:60:65:fire1.ogg
+amb:121:150:126:150:0:100:birds14.ogg
+tile:146:149:109:117:60:63:wallsofa
+tile:146:149:109:117:64:64:mat
+zone:146:149:109:117:60:100:a large soft sofa
+tile:146:146:124:124:60:64:walltable
+tile:149:149:124:124:60:64:walltable
+tile:146:146:120:120:60:64:walltable
+tile:149:149:120:120:60:64:walltable
+tile:146:149:120:124:65:65:plank
+zone:146:149:120:124:65:100:on the table
+zone:146:149:120:124:60:64:under the table
+src:149:149:117:117:64:64:pur.ogg
+zone:69:82:15:15:0:50:stairs
+tile:66:85:0:99:65:65:carpet4
+tile:0:65:0:99:65:65:wood1
+tile:86:150:0:99:65:65:wood1
+tile:0:150:0:0:51:100:wall3
+tile:0:65:99:99:51:100:wall3
+tile:86:150:99:99:51:100:wall3
+tile:1:98:0:0:51:100:wall3
+tile:150:150:1:98:51:100:wall3
+tile:0:0:1:98:51:100:wall3
+tile:1:65:40:40:65:100:wall3
+tile:65:65:1:39:65:100:wall3
+tile:1:65:59:59:65:100:wall3
+tile:65:65:60:98:65:100:wall3
+tile:86:86:1:40:65:100:wall3
+tile:87:149:40:40:65:100:wall3
+tile:86:149:59:59:65:100:wall3
+tile:86:86:60:98:65:100:wall3
+tile:1:65:41:58:65:65:carpet4
+tile:86:149:41:58:65:65:carpet4
+zone:66:85:1:98:65:100:corridor
+zone:1:65:41:58:65:100:corridor
+zone:86:149:41:58:65:100:corridor
+tile:33:34:1:39:65:100:wall3
+tile:33:34:60:98:65:100:wall3
+tile:117:118:1:39:65:100:wall3
+tile:117:118:60:98:65:100:wall3
+tile:65:65:18:23:65:85:walldoor2
+tile:86:86:18:23:65:85:walldoor2
+tile:66:68:16:16:15:64:wall2
+tile:83:85:16:16:15:64:wall2
+tile:66:68:89:89:15:64:wall2
+tile:83:85:89:89:15:64:wall2
+tile:115:147:92:96:15:15:wetconcrete
+tile:113:149:97:98:15:50:wallglass
+tile:148:149:91:96:15:50:wallglass
+tile:141:142:91:96:15:50:wallglass
+tile:134:135:91:96:15:50:wallglass
+tile:127:128:91:96:15:50:wallglass
+tile:120:121:91:96:15:50:wallglass
+tile:113:114:91:96:15:50:wallglass
+zone:113:149:93:96:15:50:in the shower
+zone:113:149:92:92:15:50:exit
+tile:115:119:91:91:15:50:wallglass2
+amb:115:147:92:96:15:50:shower.ogg
+tile:122:126:91:91:15:50:wallglass2
+tile:129:133:91:91:15:50:wallglass2
+tile:136:140:91:91:15:50:wallglass2
+tile:143:147:91:91:15:50:wallglass2
+tile:113:149:91:98:51:51:glass3
+tile:149:149:51:75:15:50:wallwood
+tile:136:148:51:51:15:50:wallwood
+tile:136:148:75:75:15:50:wallwood
+tile:136:136:52:60:15:50:wallwood
+tile:136:136:66:74:15:50:wallwood
+tile:136:136:61:65:15:50:wallwood2
+zone:135:135:61:65:15:50:door to the sauna
+travelpoint:135:135:61:65:15:50:hotel:137:63:15:you enter the sauna
+zone:137:148:52:74:15:50:in the sauna
+zone:137:137:61:65:15:50:exit
+travelpoint:137:137:61:65:15:50:hotel:135:63:15:you left
+tile:137:148:52:74:15:15:wood5
+tile:140:140:52:74:15:19:wallwood4
+tile:140:142:52:74:20:20:plank
+tile:143:143:52:74:20:24:wallwood4
+tile:143:145:52:74:25:25:plank
+tile:146:146:52:74:25:29:wallwood4
+tile:146:148:52:74:30:30:plank
+amb:137:148:52:74:15:50:fireplace.ogg
+src:146:148:52:74:30:35:fire.ogg
+tile:136:149:51:75:51:51:plywood
+zone:115:119:90:90:15:50:shower door
+travelpoint:115:119:90:90:15:50:hotel:117:92:15:you get into a small shower
+travelpoint:115:119:92:92:15:50:hotel:117:90:15:now you look better
+zone:122:126:90:90:15:50:shower door
+travelpoint:122:126:90:90:15:50:hotel:124:92:15:you get into a small shower
+travelpoint:122:126:92:92:15:50:hotel:124:90:15:now you look better
+zone:129:133:90:90:15:50:shower door
+travelpoint:129:133:90:90:15:50:hotel:131:92:15:you get into a small shower
+travelpoint:129:133:92:92:15:50:hotel:131:90:15:now you look better
+zone:136:140:90:90:15:50:shower door
+travelpoint:136:140:90:90:15:50:hotel:138:92:15:you get into a small shower
+travelpoint:136:140:92:92:15:50:hotel:138:90:15:now you look better
+zone:143:147:90:90:15:50:shower door
+travelpoint:143:147:90:90:15:50:hotel:145:92:15:you get into a small shower
+travelpoint:143:147:92:92:15:50:hotel:145:90:15:now you look better
+tile:100:100:85:98:15:50:wallglass
+tile:87:99:85:85:15:50:wallglass
+tile:94:94:54:76:-10:16:wallstone
+tile:131:131:54:76:-10:16:wallstone
+tile:95:130:54:54:-10:16:wallstone
+tile:95:130:76:76:-10:16:wallstone
+tile:94:94:54:76:16:16:wetconcrete
+tile:131:131:54:76:16:16:wetconcrete
+tile:95:130:54:54:16:16:wetconcrete
+tile:95:130:76:76:16:16:wetconcrete
+tile:118:122:55:55:8:14:ladder2
+tile:118:122:75:75:8:14:ladder2
+tile:98:102:55:55:8:14:ladder2
+tile:98:102:75:75:8:14:ladder2
+tile:95:130:55:75:-5:5:swimming
+tile:95:130:55:75:-10:-6:underwater
+tile:94:131:54:76:-11:-11:wallstone
+src:95:130:55:75:-5:15:kidpool.ogg
+zone:95:130:55:75:-10:50:in the pool
+tile:138:139:77:78:15:25:ladder2
+zone:98:102:55:55:8:14:steps
+tile:136:137:77:78:25:35:ladder2
+tile:134:135:77:78:35:50:ladder2
+zone:118:122:55:55:8:14:steps
+zone:98:102:75:75:8:14:steps
+tile:120:133:60:78:50:50:metal6
+zone:118:122:75:75:8:14:steps
+tile:119:119:76:78:50:64:wallbarrel
+tile:119:134:79:79:50:64:wallbarrel
+zone:93:132:76:77:15:50:near the pool
+zone:93:94:53:75:15:50:near the pool
+tile:134:134:60:76:50:64:wallbarrel
+zone:95:132:53:54:15:50:near the pool
+tile:120:134:59:59:50:64:wallbarrel
+zone:131:132:55:75:15:50:near the pool
+zone:95:130:55:75:25:64:falling into the pool
+zone:120:133:60:78:50:64:diving board
+zone:138:139:77:78:15:64:steps to the diving board:trackme
+zone:136:137:77:78:25:64:steps to the diving board
+zone:134:135:77:78:35:64:steps to the diving board
+tile:87:87:86:98:15:50:wallglass
+tile:88:99:98:98:15:50:wallglass
+tile:92:95:85:85:15:30:wallglass2
+zone:92:95:84:84:15:30:door to jacuzzi
+tile:88:99:97:97:15:20:wallbarrel
+tile:88:99:88:88:15:20:wallbarrel
+tile:88:88:89:96:15:20:wallbarrel
+tile:99:99:89:96:15:20:wallbarrel
+tile:88:99:88:88:21:21:bathtub2
+tile:88:99:97:97:21:21:bathtub2
+tile:88:88:89:96:21:21:bathtub2
+tile:99:99:89:96:21:21:bathtub2
+tile:89:98:89:89:15:17:wallbarrel
+tile:89:98:96:96:15:17:wallbarrel
+tile:89:89:90:95:15:17:wallbarrel
+tile:98:98:90:95:15:17:wallbarrel
+tile:89:98:89:89:18:18:bathtub2
+tile:89:98:96:96:18:18:bathtub2
+tile:89:89:90:95:18:18:bathtub2
+tile:98:98:90:95:18:18:bathtub2
+tile:90:97:90:95:15:17:deepwater
+zone:88:99:86:97:15:50:jacuzzi
+travelpoint:92:95:84:84:15:30:hotel:93:86:15: 
+zone:92:95:86:86:15:30:exit
+travelpoint:92:95:86:86:15:30:hotel:93:84:15:you left
+amb:88:99:86:97:15:50:bubbles.ogg
+tile:68:68:98:99:65:75:wallrail
+tile:68:68:98:99:76:76:metal5
+tile:83:83:98:99:65:75:wallrail
+tile:83:83:98:99:76:76:metal5
+zone:66:67:98:99:65:76:stairs
+zone:84:85:98:99:65:76:stairs
+tile:69:82:100:100:65:100:wallglass
+tile:66:85:101:116:65:65:concrete5
+tile:66:66:101:116:65:69:wallrail
+tile:85:85:101:116:65:69:wallrail
+tile:67:84:116:116:65:69:wallrail
+tile:66:66:101:116:70:70:metal5
+tile:85:85:101:116:70:70:metal5
+tile:67:84:116:116:70:70:metal5
+zone:69:82:99:99:65:100:a huge door to the balcony
+travelpoint:66:82:99:99:65:100:hotel:76:101:65:you enter an open balcony
+zone:66:85:101:116:65:100:balcony
+zone:69:82:101:101:65:100:door back to the corridor
+travelpoint:69:82:101:101:65:100:hotel:76:99:65:you go back to the corridor
+amb:66:85:1:99:65:100:corridor.ogg
+amb:1:65:41:58:65:101:corridor.ogg
+amb:86:149:41:58:65:100:corridor.ogg
+tile:65:65:75:80:65:85:walldoor2
+tile:86:86:75:80:65:85:walldoor2
+tile:126:131:40:40:65:85:walldoor2
+tile:126:131:59:59:65:85:walldoor2
+tile:20:25:40:40:65:85:walldoor2
+tile:20:25:59:59:65:85:walldoor2
+tile:131:134:24:29:15:18:wallmetal9
+tile:131:134:24:29:19:19:metal14
+src:131:134:24:29:15:19:dishwasher.ogg
+zone:131:134:24:29:15:30:dishwasher
+zone:135:135:24:29:15:30:near the dishwasher
+tile:96:96:12:49:15:64:wall2
+tile:87:95:12:12:15:64:wall2
+tile:87:95:13:49:15:15:tile4
+zone:87:95:13:49:15:64:in the bathroom
+amb:87:95:13:49:15:64:bathroomvent.ogg
+tile:87:95:24:25:15:64:wall2
+tile:87:95:37:38:15:64:wall2
+tile:96:96:16:20:15:30:wallwood2
+tile:96:96:29:33:15:30:wallwood1
+tile:96:96:42:46:15:30:wallwood2
+zone:97:97:16:20:15:30:door to the bathroom
+zone:97:97:29:33:15:30:door to the bathroom
+zone:97:97:42:46:15:30:door to the bathroom
+travelpoint:97:97:16:20:15:30:hotel:95:18:15:you enter the bathroom
+travelpoint:97:97:29:33:15:30:hotel:95:31:15:you enter the bathroom
+travelpoint:97:97:42:46:15:30:hotel:95:44:15:you enter the bathroom
+zone:95:95:16:20:15:30:exit
+travelpoint:95:95:16:20:15:30:hotel:97:18:15:you go back to the restaurant
+zone:95:95:29:33:15:30:exit
+travelpoint:95:95:29:33:15:30:hotel:97:31:15:you go back to the restaurant
+zone:95:95:42:46:15:30:exit
+travelpoint:95:95:42:46:15:30:hotel:97:44:15:you go back to the restaurant
+amb:97:129:1:49:15:64:restaurant.ogg
+amb:91:96:1:11:15:64:restaurant.ogg
+amb:87:95:13:49:15:64:toilet.ogg
+tile:88:88:22:22:15:16:wallcone
+tile:88:88:22:22:17:17:sewer1
+tile:87:89:23:23:17:18:wallcone
+tile:87:89:21:21:17:18:wallcone
+tile:87:87:22:22:17:18:wallcone
+tile:89:89:22:22:17:18:wallcone
+tile:87:89:21:21:19:19:tile2
+tile:87:89:23:23:19:19:tile2
+tile:87:87:22:22:19:19:tile2
+tile:89:89:22:22:19:19:tile2
+zone:87:89:21:23:17:19:toilet seat
+zone:88:88:22:22:17:19:in the toilet
+tile:88:88:35:35:15:16:wallcone
+tile:88:88:35:35:17:17:sewer1
+tile:87:89:36:36:17:18:wallcone
+tile:87:89:34:34:17:18:wallcone
+tile:87:87:35:35:17:18:wallcone
+tile:89:89:35:35:17:18:wallcone
+tile:87:89:34:34:19:19:tile2
+tile:87:89:36:36:19:19:tile2
+tile:87:87:35:35:19:19:tile2
+tile:89:89:35:35:19:19:tile2
+zone:87:89:34:36:17:19:toilet seat
+zone:88:88:35:35:17:19:in the toilet
+tile:88:88:48:48:15:16:wallcone
+tile:88:88:48:48:17:17:sewer1
+tile:87:89:49:49:17:18:wallcone
+tile:87:89:47:47:17:18:wallcone
+tile:87:87:48:48:17:18:wallcone
+tile:89:89:48:48:17:18:wallcone
+tile:87:89:47:47:19:19:tile2
+tile:87:89:49:49:19:19:tile2
+tile:87:87:48:48:19:19:tile2
+tile:89:89:48:48:19:19:tile2
+zone:87:89:47:49:17:19:toilet seat
+zone:88:88:48:48:17:19:in the toilet
+tile:129:129:18:44:15:30:wallmetal6
+tile:126:128:18:18:15:30:wallmetal6
+tile:126:128:44:44:15:30:wallmetal6
+tile:126:128:19:43:15:16:wallmetal6
+tile:126:128:19:43:17:17:glass4
+tile:126:128:19:43:22:22:glass4
+tile:126:128:19:43:27:27:glass4
+tile:126:129:18:44:31:31:metal11
+zone:125:125:18:44:15:30:an open fridge filled with drinks
+zone:126:128:19:43:17:30:in the fridge
+zone:126:129:18:44:31:64:on top of the fridge
+src:126:129:18:44:15:31:fridge1.ogg
+tile:121:125:18:18:15:18:wallwood
+tile:121:121:19:44:15:18:wallwood
+tile:121:122:18:44:19:19:wood4
+zone:121:124:18:44:15:64:the bar
+tile:123:125:18:18:19:19:wood4
+zone:120:120:18:44:15:30:near the bar
+tile:100:120:18:49:15:15:carpet
+tile:116:145:147:148:60:60:mud
+tile:116:145:138:139:60:60:mud
+tile:146:147:138:148:60:60:mud
+tile:114:115:138:148:60:60:mud
+tile:116:145:140:146:60:60:swimming
+src:116:145:140:146:60:60:stream3.ogg
+zone:116:145:140:146:60:100:stream

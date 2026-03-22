@@ -1,0 +1,41 @@
+mapname:kpp
+maxx:100
+maxy:300
+maxz:100
+tile:0:100:0:300:0:0:carpet
+zone:0:100:0:300:0:100:kpp
+tile:0:100:0:0:0:100:wallbank
+tile:0:100:300:300:0:100:wallbank
+tile:0:0:1:299:0:100:wallbank
+tile:100:100:1:299:0:100:wallbank
+tile:45:55:0:0:0:10:walldoor2
+tile:45:55:300:300:0:10:walldoor2
+src:50:50:0:1:0:10:flag.ogg
+src:50:50:299:300:0:10:flag.ogg
+tile:5:47:50:50:0:100:wallbank
+tile:53:99:50:50:0:100:wallbank
+src:1:4:50:50:0:10:alarm1.ogg
+src:48:52:50:50:0:10:alarm1.ogg
+tile:1:27:100:100:0:100:wallbank
+tile:33:67:100:100:0:100:wallbank
+tile:73:99:100:100:0:100:wallbank
+src:28:32:100:100:0:10:alarm1.ogg
+src:68:72:100:100:0:10:alarm1.ogg
+tile:5:47:150:150:0:100:wallbank
+tile:53:99:150:150:0:100:wallbank
+src:1:4:150:150:0:10:alarm1.ogg
+src:48:52:150:150:0:10:alarm1.ogg
+tile:1:27:200:200:0:100:wallbank
+tile:33:67:200:200:0:100:wallbank
+tile:73:99:200:200:0:100:wallbank
+src:28:32:200:200:0:10:alarm1.ogg
+src:68:72:200:200:0:10:alarm1.ogg
+tile:5:47:250:250:0:100:wallbank
+tile:53:99:250:250:0:100:wallbank
+src:1:4:250:250:0:10:alarm1.ogg
+src:48:52:250:250:0:10:alarm1.ogg
+zone:45:55:0:1:0:10:passage to the factory yard:trackme
+zone:45:55:299:300:0:10:passage to the western road:trackme
+travelpoint:45:55:1:1:0:10:factory:450:699:0:You went to the factory yard, here you can see 6 solar battery towers
+travelpoint:45:55:299:300:0:10:road:950:1:1:you are back on the western road
+robots:1:99:1:299:0:0:2:2000:securityguard

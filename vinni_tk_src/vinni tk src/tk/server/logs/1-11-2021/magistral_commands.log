@@ -1,0 +1,430 @@
+
+ramil (magistral) sent /chars 1-11-2021, 9:37:22 AM
+ramil (magistral) sent /admins 1-11-2021, 9:54:58 AM
+ramil (magistral) sent /builders 1-11-2021, 9:55:10 AM
+ramil (magistral) sent /where artem 1-11-2021, 10:02:24 AM
+ramil (magistral) sent /teams 1-11-2021, 10:03:22 AM
+ramil (magistral) sent /s57 1-11-2021, 10:05:53 AM
+ramil (magistral) sent /go 100 60 0 1-11-2021, 10:14:26 AM
+ramil (magistral) sent /inv 1-11-2021, 10:16:05 AM
+ramil (magistral) sent /go 0 0 0 store 1-11-2021, 10:16:10 AM
+ramil (magistral) sent /inv 1-11-2021, 10:16:32 AM
+ramil (magistral) sent /inv 1-11-2021, 10:16:44 AM
+ramil (magistral) sent /gp 0 0 0 store 1-11-2021, 10:16:56 AM
+ramil (magistral) sent /go 0 0 0 store 1-11-2021, 10:17:02 AM
+ramil (magistral) sent /inv 1-11-2021, 10:17:03 AM
+ramil (magistral) sent /go 1 1 1 admin_area 1-11-2021, 10:17:24 AM
+ramil (magistral) sent /go 1 1 1 balls 1-11-2021, 10:18:42 AM
+ramil (magistral) sent /go 1 1 100 1-11-2021, 10:18:49 AM
+ramil (magistral) sent /go 0 0 0 testing 1-11-2021, 10:19:03 AM
+ramil (magistral) sent /rawmap 1-11-2021, 10:19:10 AM
+ramil (magistral) sent /rawdata mapname:testing
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete
+//fightingstate:0
+src:0:100:0:100:0:--25:amb1.ogg
+ispawn:0:100:0:100:0:0:5000:10:pack_of_100_poisoned_small_projectile:small_projectile 1-11-2021, 10:19:43 AM
+ramil (magistral) sent /go 30 30 0 store 1-11-2021, 10:20:30 AM
+ramil (magistral) sent /go 30 30 0 store 1-11-2021, 10:28:11 AM
+ramil (magistral) sent /where artem 1-11-2021, 10:28:17 AM
+ramil (magistral) sent /go 0 0 0 store 1-11-2021, 10:30:03 AM
+ramil (magistral) sent /inv 1-11-2021, 10:31:36 AM
+ramil (magistral) sent /inv 1-11-2021, 10:31:44 AM
+ramil (magistral) sent /inv 1-11-2021, 10:31:49 AM
+ramil (magistral) sent /rawmap 1-11-2021, 10:32:02 AM
+ramil (magistral) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:grass
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+src:0:500:0:500:0:50:wind5.ogg
+tile:0:500:0:500:0:0:snow
+noitems:0:500:0:500:0:1999:guided_missile:concussive_grenade:carrier_missile 1-11-2021, 10:33:26 AM
+ramil (magistral) sent /go 30 0 0 1-11-2021, 10:33:32 AM
+ramil (magistral) sent /inv 1-11-2021, 10:33:37 AM
+ramil (magistral) sent /go 500 0 60 1-11-2021, 10:35:18 AM
+ramil (magistral) sent /gp 10 0 0 1000 1-11-2021, 10:36:30 AM
+ramil (magistral) sent /go 10 0 0 1000 1-11-2021, 10:36:38 AM
+ramil (magistral) sent /go 0 0 0 1-11-2021, 10:37:24 AM
+ramil (magistral) sent /go 0 0 00 store 1-11-2021, 10:37:29 AM
+ramil (magistral) sent /cancelauction 1-11-2021, 10:49:51 AM
+ramil (magistral) sent /go 223 3338 0 1-11-2021, 10:50:32 AM
+ramil (magistral) sent /go 223 225 0 1-11-2021, 10:50:38 AM
+ramil (magistral) sent /ahahaha, stw team has bin creatit 1-11-2021, 10:52:07 AM
+ramil (magistral) sent /lchat die 1-11-2021, 10:53:10 AM
+ramil (magistral) sent /shchhat 0 1-11-2021, 10:53:15 AM
+ramil (magistral) sent /shchat 0 1-11-2021, 10:53:19 AM
+ramil (magistral) sent /me ,,, ramil says: 0 1-11-2021, 10:53:29 AM
+ramil (magistral) sent /members 1-11-2021, 10:54:22 AM
+ramil (magistral) sent /t artin want find shelter, looooooooool 1-11-2021, 10:56:24 AM
+ramil (magistral) sent /t artem***8888888* 1-11-2021, 10:56:34 AM
+ramil (magistral) sent /t hee in rest room 1-11-2021, 10:56:56 AM
+ramil (magistral) sent /inv 1-11-2021, 10:56:58 AM
+ramil (magistral) sent /t ahaaahahah, below, behind and a little ways off to the left (102 tiles away)  in washbasin at 16, 0, 13 1-11-2021, 10:57:10 AM
+ramil (magistral) sent /t он пошел в пищеры 1-11-2021, 10:58:03 AM
+ramil (magistral) sent /t come in tt 1-11-2021, 10:58:26 AM
+ramil (magistral) sent /inv 1-11-2021, 10:58:54 AM
+ramil (magistral) sent /go 27 11 0 1-11-2021, 10:59:19 AM
+ramil (magistral) sent /inv 1-11-2021, 10:59:23 AM
+ramil (magistral) sent /inv 1-11-2021, 11:01:20 AM
+ramil (magistral) sent /chars 1-11-2021, 11:32:06 AM
+ramil (magistral) sent /chars 1-11-2021, 11:55:08 AM
+ramil (magistral) sent /changes 1-11-2021, 11:55:30 AM
+ramil (magistral) sent /adminflag 1-11-2021, 12:02:37 PM
+ramil (magistral) sent /inv 1-11-2021, 12:04:05 PM
+ramil (magistral) sent /robotinfo 1-11-2021, 12:04:13 PM
+ramil (magistral) sent /robotinfo 1-11-2021, 12:04:21 PM
+ramil (magistral) sent /in 1-11-2021, 12:04:55 PM
+ramil (magistral) sent /inv 1-11-2021, 12:04:56 PM
+ramil (magistral) sent /inv 1-11-2021, 12:04:58 PM
+ramil (magistral) sent /inv 1-11-2021, 12:05:05 PM
+ramil (magistral) sent /go 0 0 0 1-11-2021, 12:06:45 PM
+ramil (magistral) sent /inv 1-11-2021, 12:11:55 PM
+ramil (magistral) sent /go1200 100 0 1-11-2021, 12:12:05 PM
+ramil (magistral) sent /go100 100 0 1-11-2021, 12:12:12 PM
+ramil (magistral) sent /go 100 100 0 1-11-2021, 12:12:17 PM
+ramil (magistral) sent /inv 1-11-2021, 12:12:41 PM
+ramil (magistral) sent /sell 1-11-2021, 12:13:08 PM
+ramil (magistral) sent /lchat 1, 2, 11.  1-11-2021, 12:14:11 PM
+ramil (magistral) sent /go 0 0 0  1-11-2021, 12:16:08 PM
+ramil (magistral) sent /go 40 40 60 1-11-2021, 12:16:11 PM
+ramil (magistral) sent /go 0 0 0  1-11-2021, 12:20:28 PM
+ramil (magistral) sent /lchat jump 1-11-2021, 12:21:58 PM
+ramil (magistral) sent /lchat 1 right, 2 front 1-11-2021, 12:22:22 PM
+ramil (magistral) sent /lchat 1, 2, 5.  1-11-2021, 12:22:28 PM
+ramil (magistral) sent /lchat 2 right, 3 front 1-11-2021, 12:22:36 PM
+ramil (magistral) sent /lchat in english artem, if you use fucking russian, i wil ban you 1-11-2021, 12:23:01 PM
+ramil (magistral) sent /lchat front 1-11-2021, 12:23:46 PM
+ramil (magistral) sent /lchat 3, 15, 5.  1-11-2021, 12:23:50 PM
+ramil (magistral) sent /lchat 2 right, 5 front 1-11-2021, 12:24:03 PM
+ramil (magistral) sent /lchat clime 1-11-2021, 12:24:21 PM
+ramil (magistral) sent /lchat 30 30 1-11-2021, 12:24:47 PM
+ramil (magistral) sent /lchat jump 1-11-2021, 12:25:19 PM
+ramil (magistral) sent /lchat 3 right, 4 front 1-11-2021, 12:25:30 PM
+ramil (magistral) sent /lchat clime 1-11-2021, 12:26:15 PM
+ramil (magistral) sent /lchat wait 1-11-2021, 12:26:17 PM
+ramil (magistral) sent /lchat 6 right 1-11-2021, 12:27:28 PM
+ramil (magistral) sent /lchat 1 right, 1 front 1-11-2021, 12:27:41 PM
+ramil (magistral) sent /lchat concrete5 at 40, 35, 45 1-11-2021, 12:27:52 PM
+ramil (magistral) sent /s7 1-11-2021, 12:28:16 PM
+ramil (magistral) sent /go0 0 0  1-11-2021, 12:30:13 PM
+ramil (magistral) sent /go 0 0 0 challengemaps 1-11-2021, 12:32:19 PM
+ramil (magistral) sent /lchat teleport at 25, 215, 0 1-11-2021, 12:33:40 PM
+ramil (magistral) sent /lchat going 1-11-2021, 12:34:16 PM
+ramil (magistral) sent /inv 1-11-2021, 12:34:19 PM
+ramil (magistral) sent /inv 1-11-2021, 12:34:30 PM
+ramil (magistral) sent /lchat press x 1-11-2021, 12:34:58 PM
+ramil (magistral) sent /go200 281 0 1-11-2021, 12:37:35 PM
+ramil (magistral) sent /go 200 281 0 1-11-2021, 12:37:41 PM
+ramil (magistral) sent /rawmap 1-11-2021, 12:38:02 PM
+ramil (magistral) sent /rawdara mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+4zone:21:30:100:110:0:15:door, press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to last level
+tile:125:179:281:281:0:0:stun
+tile:201:1000:281:281:0:15:walldoor2
+tile:185:190:281:281:0:0:teleport
+zone:200:200:281:300:0:15:door, press enter  to go to store
+tile:30:50:281:281:0:0:stun
+tile:55:58:281:281:0:0:teleport
+tile:65:75:281:281:0:0:stun
+tile:88:90:281:281:0:0:teleport
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0 1-11-2021, 12:39:10 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+4zone:21:30:100:110:0:15:door, press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to last level
+tile:125:179:281:281:0:0:stun
+tile:201:1000:281:281:0:15:walldoor2
+tile:185:190:281:281:0:0:teleport
+zone:200:200:281:300:0:15:door, press enter  to go to store
+tile:30:50:281:281:0:0:stun
+tile:55:58:281:281:0:0:teleport
+tile:65:75:281:281:0:0:stun
+tile:88:90:281:281:0:0:teleport
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0 1-11-2021, 12:39:14 PM
+ramil (magistral) sent /lchat press x 1-11-2021, 12:39:31 PM
+ramil (magistral) sent /lchat tu imstim 1-11-2021, 12:39:38 PM
+ramil (magistral) sent /lchat unstun 1-11-2021, 12:39:50 PM
+ramil (magistral) sent /inv 1-11-2021, 12:42:20 PM
+ramil (magistral) sent /go 0 19 0 1-11-2021, 12:42:37 PM
+ramil (magistral) sent /inv 1-11-2021, 12:42:42 PM
+ramil (magistral) sent /lchat Sorry, I can't explain 1-11-2021, 12:43:41 PM
+ramil (magistral) sent /go 0 0 0 arena 1-11-2021, 12:44:14 PM
+ramil (magistral) sent /go 0 0 0 event 1-11-2021, 12:44:17 PM
+ramil (magistral) sent /go 0 0 0 store 1-11-2021, 12:44:21 PM
+ramil (magistral) sent /go 0 0 0 vinni 1-11-2021, 12:44:27 PM
+ramil (magistral) sent /go 15 28 0 vinni 1-11-2021, 12:47:40 PM
+ramil (magistral) sent /gp 0 20 0 vinni 1-11-2021, 12:48:26 PM
+ramil (magistral) sent /go 0 20 0 vinni 1-11-2021, 12:48:32 PM
+ramil (magistral) sent /go 0 40 0 vinni 1-11-2021, 12:48:48 PM
+ramil (magistral) sent /go 0 0 0 just_test 1-11-2021, 12:49:50 PM
+ramil (magistral) sent /inv 1-11-2021, 12:50:52 PM
+ramil (magistral) sent /go 0 0 0 store 1-11-2021, 12:51:35 PM
+ramil (magistral) sent /shteam 1-11-2021, 1:32:34 PM
+ramil (magistral) sent /shteam 1-11-2021, 1:33:03 PM
+ramil (magistral) sent /shteam 1-11-2021, 1:33:18 PM
+ramil (magistral) sent /help 1-11-2021, 1:33:29 PM
+ramil (magistral) sent /shteamremove 1-11-2021, 1:34:12 PM
+ramil (magistral) sent /shteam 1-11-2021, 1:34:15 PM
+ramil (magistral) sent /go 223 449 2 main 1-11-2021, 1:34:45 PM
+ramil (magistral) sent /t its me 1-11-2021, 1:34:54 PM
+ramil (magistral) sent /t fucking womic 1-11-2021, 1:35:04 PM
+ramil (magistral) sent /inv 1-11-2021, 1:35:13 PM
+ramil (magistral) sent /t hee in the wall 1-11-2021, 1:35:32 PM
+ramil (magistral) sent /go 292 472 0 1-11-2021, 1:35:44 PM
+ramil (magistral) sent /inv 1-11-2021, 1:35:55 PM
+ramil (magistral) sent /t sky mine 1-11-2021, 1:36:08 PM
+ramil (magistral) sent /inv 1-11-2021, 1:36:11 PM
+ramil (magistral) sent /t above, in front and very slightly off to the left (9 tiles away)  in main at 292, 471, 21 1-11-2021, 1:36:15 PM
+ramil (magistral) sent /lchat gmm 1-11-2021, 1:36:36 PM
+ramil (magistral) sent /t hmm 1-11-2021, 1:36:38 PM
+ramil (magistral) sent /t vait 1-11-2021, 1:36:41 PM
+ramil (magistral) sent /rawmap 1-11-2021, 1:36:54 PM
+ramil (magistral) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:grass
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+src:0:500:0:500:0:50:wind5.ogg
+tile:0:500:0:500:0:0:snow
+noitems:0:500:0:500:0:1999:guided_missile:concussive_grenade 1-11-2021, 1:37:14 PM
+ramil (magistral) sent /lchat done 1-11-2021, 1:37:17 PM
+ramil (magistral) sent /go 223 449 2 1-11-2021, 1:37:21 PM
+ramil (magistral) sent /t current location: closet door 1-11-2021, 1:37:37 PM
+ramil (magistral) sent /t aha 1-11-2021, 1:37:45 PM
+ramil (magistral) sent /t door out of this shelter 1-11-2021, 1:38:03 PM
+ramil (magistral) sent /inv 1-11-2021, 1:38:05 PM
+ramil (magistral) sent /t da 1-11-2021, 1:38:09 PM
+ramil (magistral) sent /t come in shelter 1-11-2021, 1:39:55 PM
+ramil (magistral) sent /lchat the nuclear_shelter shelter belonging to franklin with 2754287 health is streight in front, 0 feet away.  1-11-2021, 1:41:05 PM
+ramil (magistral) sent /t aha 1-11-2021, 1:41:49 PM
+ramil (magistral) sent /t я хз 1-11-2021, 1:42:05 PM
+ramil (magistral) sent /t чё они не узаются 1-11-2021, 1:42:13 PM
+ramil (magistral) sent /t хотя 1-11-2021, 1:42:19 PM
+ramil (magistral) sent /t если выйдишь из укрытия, узаются 1-11-2021, 1:42:33 PM
+ramil (magistral) sent /teamshelters 1-11-2021, 1:43:57 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:26 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:28 PM
+ramil (magistral) sent /go 0 0 20\ 1-11-2021, 1:44:29 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:30 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:31 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:32 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:33 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:34 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:35 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:36 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:37 PM
+ramil (magistral) sent /go 0 0 20 1-11-2021, 1:44:38 PM
+ramil (magistral) sent /admins 1-11-2021, 1:51:06 PM
+ramil (magistral) sent /inv 1-11-2021, 1:52:46 PM
+ramil (magistral) sent /inv 1-11-2021, 1:53:31 PM
+ramil (magistral) sent /inv 1-11-2021, 1:53:38 PM
+ramil (magistral) sent /inv 1-11-2021, 1:54:21 PM
+ramil (magistral) sent /inv 1-11-2021, 1:55:04 PM
+ramil (magistral) sent /where artem 1-11-2021, 2:05:31 PM
+ramil (magistral) sent /where franklin 1-11-2021, 2:16:46 PM
+ramil (magistral) sent /t 5, 27, 42.  1-11-2021, 2:20:13 PM
+ramil (magistral) sent /t current location: chimney 1-11-2021, 2:20:26 PM
+ramil (magistral) sent /go 0 0 0  1-11-2021, 2:20:56 PM
+ramil (magistral) sent /go 5 27 42 1-11-2021, 2:21:19 PM
+ramil (magistral) sent /rawmap 1-11-2021, 2:22:48 PM
+ramil (magistral) sent /gp 0 0 0  1-11-2021, 2:26:25 PM
+ramil (magistral) sent /go 5 33 47 1-11-2021, 2:26:31 PM
+ramil (magistral) sent /go 5 33 47 1-11-2021, 2:26:38 PM
+ramil (magistral) sent /go 5 33 47 1-11-2021, 2:27:50 PM
+ramil (magistral) sent /go 5 33 47 1-11-2021, 2:28:21 PM
+ramil (magistral) sent /gi 7 25 10 1-11-2021, 2:29:39 PM
+ramil (magistral) sent /go 7 25 10 1-11-2021, 2:29:44 PM
+ramil (magistral) sent /go 1 30 32 1-11-2021, 2:34:34 PM
+ramil (magistral) sent /go 0 0  0 1-11-2021, 2:35:19 PM
+ramil (magistral) sent /go 5 33 47 1-11-2021, 2:35:32 PM
+ramil (magistral) sent /go 5 33 47 1-11-2021, 2:36:18 PM
+ramil (magistral) sent /inv 1-11-2021, 2:37:40 PM
+ramil (magistral) sent /go 15 45 70 1-11-2021, 2:39:03 PM
+ramil (magistral) sent /inv 1-11-2021, 2:39:11 PM
+ramil (magistral) sent /go 0 100 0 1-11-2021, 2:40:16 PM
+ramil (magistral) sent /inb 1-11-2021, 2:40:21 PM
+ramil (magistral) sent /go 1 1 1 store 1-11-2021, 2:40:26 PM

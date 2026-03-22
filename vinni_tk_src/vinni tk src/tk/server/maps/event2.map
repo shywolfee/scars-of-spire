@@ -1,0 +1,29 @@
+mapname:event2
+maxx:200
+maxy:200
+maxz:1000
+tile:0:200:0:200:0:0:snow
+robots:0:200:0:200:0:0:3:5000:mortal,chest
+
+tile:0:200:0:200:0:0:grass3
+tile:50:70:0:200:0:0:mud
+tile:53:67:0:200:0:0:swimming
+src:0:200:0:200:0:30:jungle.ogg
+zone:0:200:0:200:0:50:forest... event
+src:53:67:0:200:0:5:water9.ogg
+zone:53:67:0:200:0:30:river:trackme
+tile:100:150:100:150:0:0:sand
+tile:110:140:110:140:0:0:water
+zone:100:150:100:150:0:30:sand near the pond
+zone:110:140:110:140:0:30:pond:trackme
+src:110:140:110:140:0:5:waves3.ogg
+tile:0:200:0:200:-50:-1:wallunderwater
+tile:110:140:110:140:-50:-1:underwater
+zone:110:140:110:140:-50:-1:under water
+src:110:140:110:140:-50:-25:underwater.ogg
+zone:0:200:0:200:30:1000:you in the aer! you in the sky! fall down and go die!
+src:0:200:0:200:50:100:sky.ogg
+src:0:200:0:200:100:300:wind2.ogg
+src:0:200:0:200:300:600:wind1.ogg
+src:0:200:0:200:600:900:winter.ogg
+src:0:200:0:200:900:1000:winter1.ogg

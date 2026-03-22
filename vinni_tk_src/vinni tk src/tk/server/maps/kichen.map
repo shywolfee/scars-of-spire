@@ -1,0 +1,17 @@
+mapname:kichen
+maxx:20
+maxy:20
+maxz:20
+tile:0:20:0:20:0:0:tile
+tile:0:20:0:20:0:0:linoleum
+zone:0:20:0:20:0:20:kichen
+tile:0:20:17:20:0:2:wallwood4
+tile:18:20:17:20:0:10:wallcar1
+src:18:20:17:20:0:10:fridge2.ogg
+tile:0:17:17:20:3:3:hardwood4
+tile:17:17:17:20:3:3:metal14
+tile:14:14:17:20:3:3:metal14
+tile:14:17:17:20:3:3:metal14
+tile:15:16:18:19:3:3:spring
+src:15:15:19:19:3:3:faucet1.ogg
+zone:14:17:17:20:0:20:sink

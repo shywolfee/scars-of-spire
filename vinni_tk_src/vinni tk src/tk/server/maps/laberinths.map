@@ -1,0 +1,37 @@
+mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to final level
+tile:30:50:281:281:0:0:stun
+tile:55:59:281:281:0:0:teleport
+tile:75:79:281:281:0:2:teleport
+tile:90:93:281:281:0:0:teleport
+tile:125:149:281:281:0:2:stun
+tile:155:165:281:281:0:0:stun
+tile:175:182:281:281:0:0:teleport
+tile:190:192:281:281:0:2:teleport
+tile:201:1000:281:281:0:100:walldoor2
+zone:200:1000:281:281:0:10:dore, press enter to go to store
+noitems:0:3000:0:3000:0:3000:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle:armored_tank:police_car:aircraft:tank
+fightingstate:0
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved

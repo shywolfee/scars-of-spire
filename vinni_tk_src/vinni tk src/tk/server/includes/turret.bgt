@@ -1,0 +1,101 @@
+turret@[] turrets(0);
+class turret
+{
+int x;
+int y;
+int z;
+string map;
+string loop;
+string zone;
+string owner;
+string hitby;
+string teamname;
+timer firetimer;
+timer deadtimer;
+int health=(5000000);
+int id=random(1,1000);
+turret(int sx,int sy,int sz,string smap,string soner)
+{
+x=sx;
+y=sy;
+z=sz;
+map=smap;
+owner=soner;
+loop=spawn_moving_sound("tloop.ogg",x,y,z,map);
+}
+}
+void turretloop()
+{
+for(uint i=0; i<turrets.length(); i++)
+{
+if(turrets[i].deadtimer.elapsed>600000)
+{
+destroy_moving_sound(turrets[i].loop);
+turrets[i].health=-1;
+turrets[i].hitby="dead battery";
+}
+int oindex=get_player_index_from(turrets[i].owner);
+if(oindex<0)
+{
+destroy_moving_sound(turrets[i].loop);
+turrets[i].health=-1;
+turrets[i].hitby="dead battery";
+}
+if(turrets[i].health<0)
+{
+play("texpl",turrets[i].x,turrets[i].y,turrets[i].z,turrets[i].map);
+send_reliable(0,"distsound tbexpl3.ogg "+turrets[i].x+" "+turrets[i].y+" "+turrets[i].z+" "+turrets[i].map,0);
+send_reliable(0,"playerdeath "+killmsg(turrets[i].owner+"'s turret "+turrets[i].id,turrets[i].hitby,turrets[i].map),0);
+destroy_moving_sound(turrets[i].loop);
+turrets.remove_at(i);
+i--;
+continue;
+}
+int index=get_nearest_player(turrets[i].x,turrets[i].y,turrets[i].z,turrets[i].map,oindex);
+if(index>-1)
+{
+if(players[index].newb==1 or players[index].afk or players[index].is_dead or players[index].invinsible or are_teamed(turrets[i].owner,players[index].name)) continue;
+//if(are_teamed(turrets[i].owner,players[index].name)) continue;
+int v=in_vehicle(players[index].name);
+int miss=random(1,10);
+int dist=get_2d_distance(turrets[i].x,turrets[i].y,players[index].x,players[index].y);
+if(dist<15 and turrets[i].firetimer.elapsed>500 and index!=oindex and players[index].z==turrets[i].z)
+{
+turrets[i].firetimer.restart();
+play("tfire",turrets[i].x,turrets[i].y,turrets[i].z,turrets[i].map);
+send_reliable(0,"distsound shotgundist "+turrets[i].x+" "+turrets[i].y+" "+turrets[i].z+" "+turrets[i].map,0);
+if(miss<10)
+{
+if(v>-1) {
+vs[v].hit(random(20000,120000),turrets[i].owner+"'s turret"+turrets[i].id,"turret");
+}
+else
+if(in_vehicle(players[index].name)>-1)
+{
+continue;
+}
+else
+{
+if(players[index].shielded)
+{
+players[index].playsound("shieldhit"+random(1,12));
+players[index].shieldshots-=random(1,300);
+}
+else
+{
+players[index].hit(10000,100000);
+players[index].hitby=turrets[i].owner+"'s turret "+turrets[i].id;
+players[index].playsound("thit"+random(1,3));
+send_reliable(players[oindex].peer_id, "hit "+players[index].name+", health "+players[index].health, 2);
+}
+}
+}
+}
+}
+}
+}
+void spawn_turret(int x,int y,int z,string map,string owner)
+{
+turret s(x,y,z,map,owner);
+turrets.insert_last(s);
+}

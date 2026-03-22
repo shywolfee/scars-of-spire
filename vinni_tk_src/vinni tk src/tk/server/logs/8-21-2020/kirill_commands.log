@@ -1,0 +1,2370 @@
+
+kirill (kirill) sent /inv 8-21-2020, 12:14:21 PM
+kirill (kirill) sent /inv 8-21-2020, 12:14:53 PM
+kirill (kirill) sent /inv 8-21-2020, 12:17:43 PM
+kirill (kirill) sent /inv 8-21-2020, 12:19:09 PM
+kirill (kirill) sent /inv 8-21-2020, 12:26:28 PM
+kirill (kirill) sent /inv 8-21-2020, 12:26:32 PM
+kirill (kirill) sent /inv 8-21-2020, 12:27:10 PM
+kirill (kirill) sent /inv 8-21-2020, 12:55:43 PM
+kirill (kirill) sent /newbie 8-21-2020, 1:02:59 PM
+kirill (kirill) sent /newbie 8-21-2020, 1:03:10 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:-20:-14:kirill's_world.ogg
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+zone:0:0:0:0:0:10:press enter, to exit back to the store:trackme
+travelpoint:0:0:0:0:0:10:store:25:25:0:moved
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4 8-21-2020, 1:06:06 PM
+kirill (kirill) sent /follow ramil 8-21-2020, 1:11:48 PM
+kirill (kirill) sent /INV 8-21-2020, 1:15:38 PM
+kirill (kirill) sent /inv 8-21-2020, 1:15:41 PM
+kirill (kirill) sent /follow ramil 8-21-2020, 1:15:47 PM
+kirill (kirill) sent /inv\ 8-21-2020, 2:00:33 PM
+kirill (kirill) sent /inv 8-21-2020, 2:00:37 PM
+kirill (kirill) sent /inv 8-21-2020, 2:00:42 PM
+kirill (kirill) sent /inv 8-21-2020, 2:01:09 PM
+kirill (kirill) sent /inv 8-21-2020, 2:01:26 PM
+kirill (kirill) sent /inv 8-21-2020, 2:01:32 PM
+kirill (kirill) sent /give kirill hand_grenade 1000000000 8-21-2020, 2:03:32 PM
+kirill (kirill) sent /inv 8-21-2020, 2:03:43 PM
+kirill (kirill) sent /inv 8-21-2020, 2:05:39 PM
+kirill (kirill) sent /inv 8-21-2020, 2:05:52 PM
+kirill (kirill) sent /inv 8-21-2020, 2:11:09 PM
+kirill (kirill) sent /inv 8-21-2020, 2:11:29 PM
+kirill (kirill) sent /inv 8-21-2020, 2:11:49 PM
+kirill (kirill) sent /inv 8-21-2020, 2:13:15 PM
+kirill (kirill) sent /inc 8-21-2020, 2:13:26 PM
+kirill (kirill) sent /inv 8-21-2020, 2:13:28 PM
+kirill (kirill) sent /inv 8-21-2020, 2:14:11 PM
+kirill (kirill) sent /inv 8-21-2020, 2:14:13 PM
+kirill (kirill) sent /inv 8-21-2020, 2:18:17 PM
+kirill (kirill) sent /inv 8-21-2020, 2:18:59 PM
+kirill (kirill) sent /inv 8-21-2020, 2:20:05 PM
+kirill (kirill) sent /inv 8-21-2020, 2:20:13 PM
+kirill (kirill) sent /inv 8-21-2020, 2:33:53 PM
+kirill (kirill) sent /inv 8-21-2020, 2:35:19 PM
+kirill (kirill) sent /inv 8-21-2020, 2:35:36 PM
+kirill (kirill) sent /follow ramil 8-21-2020, 2:36:28 PM
+kirill (kirill) sent /inv 8-21-2020, 2:41:23 PM
+kirill (kirill) sent /follow kirill 8-21-2020, 2:41:31 PM
+kirill (kirill) sent /inv 8-21-2020, 2:42:34 PM
+kirill (kirill) sent /inv 8-21-2020, 2:46:48 PM
+kirill (kirill) sent /inc 8-21-2020, 2:46:52 PM
+kirill (kirill) sent /inv 8-21-2020, 2:53:12 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme 8-21-2020, 2:54:18 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+ 8-21-2020, 2:56:58 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:0:10:kirill's_world.ogg 8-21-2020, 2:58:44 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-15:-10:kirill's_world.ogg 8-21-2020, 2:59:19 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-10:kirill's_world.ogg 8-21-2020, 3:01:25 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg 8-21-2020, 3:01:45 PM
+kirill (kirill) sent /inv 8-21-2020, 3:08:45 PM
+kirill (kirill) sent /follow bloodstorm 8-21-2020, 3:09:09 PM
+kirill (kirill) sent /reboot 8-21-2020, 3:10:52 PM
+kirill (kirill) sent /follow bloodstorm 8-21-2020, 3:11:06 PM
+kirill (kirill) sent /inv 8-21-2020, 3:11:09 PM
+kirill (kirill) sent /follow bloodstorm 8-21-2020, 3:11:17 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 3:11:41 PM
+kirill (kirill) sent /nofollow 8-21-2020, 3:21:37 PM
+kirill (kirill) sent /stopfollow 8-21-2020, 3:21:45 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:8:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg 8-21-2020, 3:22:01 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg 8-21-2020, 3:24:56 PM
+kirill (kirill) sent /follow darkfrent 8-21-2020, 3:25:25 PM
+kirill (kirill) sent /stopfollow 8-21-2020, 3:26:14 PM
+kirill (kirill) sent /kick nikita 8-21-2020, 3:42:50 PM
+kirill (kirill) sent /kick nikita 8-21-2020, 3:42:57 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:hardwood
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:0:30:0:30:0:0:wood
+tile:0:30:0:30:0:0:wood3
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme 8-21-2020, 3:45:43 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:hardwood2
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:0:30:0:30:0:0:wood
+tile:0:30:0:30:0:0:wood3
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme 8-21-2020, 3:46:39 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:concrete
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:0:30:0:30:0:0:wood
+tile:0:30:0:30:0:0:wood3
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme 8-21-2020, 3:47:56 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:0:30:0:30:0:0:wood
+tile:0:30:0:30:0:0:hardwood
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme 8-21-2020, 3:48:54 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:0:30:0:30:0:0:wood
+tile:0:30:0:30:0:0:hardwood
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme 8-21-2020, 3:49:20 PM
+kirill (kirill) sent /suicide 8-21-2020, 3:55:58 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:concrete6
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:56:46 PM
+kirill (kirill) sent /RAWDATA mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:concrete8
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:57:15 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:concrete8
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:57:23 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:concrete9
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:57:37 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:concrete3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:57:52 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:metal
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:58:29 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:metal2
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:58:59 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:underwater
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 3:59:31 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:brokenglass
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:01:08 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:brokenglas
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:01:31 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:mud
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:01:53 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:swamp2
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:02:18 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:swamp
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:02:37 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:mud3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:03:09 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:plywood
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:03:35 PM
+kirill (kirill) sent /ra 8-21-2020, 4:03:47 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:plywood2
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:03:52 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:oldwood
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:04:09 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:old_wood
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:04:22 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:broken_glass
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:05:13 PM
+kirill (kirill) sent /sethealth nikita 1 8-21-2020, 4:05:36 PM
+kirill (kirill) sent /sethealth ballgilo 1 8-21-2020, 4:06:08 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:06:36 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood2
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:06:48 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass7
+src:0:200:0:200:0:10:birds4.ogg
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg 8-21-2020, 4:11:49 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 4:11:58 PM
+kirill (kirill) sent /inv 8-21-2020, 4:12:05 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:grass7
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg 8-21-2020, 4:13:01 PM
+kirill (kirill) sent /shockwave 8-21-2020, 4:13:59 PM
+kirill (kirill) sent /shockwave 8-21-2020, 4:14:16 PM
+kirill (kirill) sent /SHOCKWAVE 8-21-2020, 4:17:07 PM
+kirill (kirill) sent /shockwave 8-21-2020, 4:17:12 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:dirt7
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg 8-21-2020, 4:17:33 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+tile:0:200:50:55:0:0:concrete3
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+tile:0:200:0:200:0:0:stone1
+src:0:200:0:200:0:10:birds16.ogg 8-21-2020, 4:22:33 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+tile:0:200:0:200:0:0:stone1
+src:0:200:0:200:0:10:birds16.ogg
+tile:0:200:50:55:0:0:concrete3
+ 8-21-2020, 4:26:25 PM
+kirill (kirill) sent /inv 8-21-2020, 4:28:56 PM
+kirill (kirill) sent /imv 8-21-2020, 4:29:02 PM
+kirill (kirill) sent /inv 8-21-2020, 4:29:04 PM
+kirill (kirill) sent /changemap darkfrent kirill\s_world 8-21-2020, 4:35:14 PM
+kirill (kirill) sent /changemap rider kirill's_world 8-21-2020, 4:35:30 PM
+kirill (kirill) sent /inv rider 8-21-2020, 4:36:23 PM
+kirill (kirill) sent /inv 8-21-2020, 4:36:25 PM
+kirill (kirill) sent /adminhelp 8-21-2020, 4:37:04 PM
+kirill (kirill) sent /invforce rider 8-21-2020, 4:37:51 PM
+kirill (kirill) sent /changemap darkfrent kirill's_world.map 8-21-2020, 4:38:30 PM
+kirill (kirill) sent /changemap darkfrent kirill's_world 8-21-2020, 4:38:50 PM
+kirill (kirill) sent /invforce darkfrent 8-21-2020, 4:39:02 PM
+kirill (kirill) sent /changemap rider kirill's_world 8-21-2020, 4:39:29 PM
+kirill (kirill) sent /invforce rider 8-21-2020, 4:39:36 PM
+kirill (kirill) sent /invforce rider 8-21-2020, 4:40:12 PM
+kirill (kirill) sent /invforce darkfrent 8-21-2020, 4:40:49 PM
+kirill (kirill) sent /changemap rider kirill's_world 8-21-2020, 4:41:47 PM
+kirill (kirill) sent /INV 8-21-2020, 4:44:06 PM
+kirill (kirill) sent /inv 8-21-2020, 4:44:08 PM
+kirill (kirill) sent /changemap rider kirill's_world 8-21-2020, 4:44:30 PM
+kirill (kirill) sent /changemap darkfrent kirill's_world 8-21-2020, 4:45:50 PM
+kirill (kirill) sent /changemap rider kirill's_world 8-21-2020, 4:46:05 PM
+kirill (kirill) sent /changemap yarina kirill's_world 8-21-2020, 4:46:22 PM
+kirill (kirill) sent /changemap Yarina kirill's_world 8-21-2020, 4:47:34 PM
+kirill (kirill) sent /changemap darkfrent kirill's_world 8-21-2020, 4:48:18 PM
+kirill (kirill) sent /killrobots 8-21-2020, 4:49:54 PM
+kirill (kirill) sent /killall 8-21-2020, 4:50:05 PM
+kirill (kirill) sent /killbots 8-21-2020, 4:50:52 PM
+kirill (kirill) sent /changemap Yarina kirill's_world 8-21-2020, 4:51:17 PM
+kirill (kirill) sent /suicide 8-21-2020, 4:54:05 PM
+kirill (kirill) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-21-2020, 4:54:12 PM
+kirill (kirill) sent /inv 8-21-2020, 4:54:38 PM
+kirill (kirill) sent /inv 8-21-2020, 4:54:43 PM
+kirill (kirill) sent /garbage_collect 8-21-2020, 4:55:55 PM
+kirill (kirill) sent /garbage_collect 8-21-2020, 4:56:04 PM
+kirill (kirill) sent /inv 8-21-2020, 4:56:30 PM
+kirill (kirill) sent /inv 8-21-2020, 4:56:59 PM
+kirill (kirill) sent /inv 8-21-2020, 4:57:06 PM
+kirill (kirill) sent /inv 8-21-2020, 4:57:26 PM
+kirill (kirill) sent /follow rider 8-21-2020, 4:57:46 PM
+kirill (kirill) sent /stopfollow 8-21-2020, 4:59:16 PM
+kirill (kirill) sent /inv 8-21-2020, 5:03:37 PM
+kirill (kirill) sent /reboot 8-21-2020, 5:03:51 PM
+kirill (kirill) sent /inv 8-21-2020, 5:04:13 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 5:05:03 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 5:05:39 PM
+kirill (kirill) sent /newbie 8-21-2020, 5:05:46 PM
+kirill (kirill) sent /inv 8-21-2020, 5:06:36 PM
+kirill (kirill) sent /inv 8-21-2020, 5:07:14 PM
+kirill (kirill) sent /inv 8-21-2020, 5:09:54 PM
+kirill (kirill) sent /inv 8-21-2020, 5:10:40 PM
+kirill (kirill) sent /inv 8-21-2020, 5:11:11 PM
+kirill (kirill) sent /inv 8-21-2020, 5:11:34 PM
+kirill (kirill) sent /inv 8-21-2020, 5:11:39 PM
+kirill (kirill) sent /inv 8-21-2020, 5:11:59 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:3000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+tile:0:200:0:200:0:0:stone1
+src:0:200:0:200:0:10:birds16.ogg
+tile:0:200:50:55:0:0:concrete3
+noitems:0:200:0:200:0:100:suicide_bomb
+ 8-21-2020, 5:12:53 PM
+kirill (kirill) sent /inv 8-21-2020, 5:12:56 PM
+kirill (kirill) sent /inv 8-21-2020, 5:13:11 PM
+kirill (kirill) sent /kill trever 8-21-2020, 5:13:42 PM
+kirill (kirill) sent /sethealth trever 0 8-21-2020, 5:14:12 PM
+kirill (kirill) sent /sethealth trever 0 8-21-2020, 5:14:14 PM
+kirill (kirill) sent /sethealth 2trever 0 8-21-2020, 5:14:21 PM
+kirill (kirill) sent /sethealth Trever  8-21-2020, 5:15:37 PM
+kirill (kirill) sent /sethealth Trever 0 8-21-2020, 5:15:48 PM
+kirill (kirill) sent /sethealth trevor 0 8-21-2020, 5:16:12 PM
+kirill (kirill) sent /sethealth trevor 0 8-21-2020, 5:16:14 PM
+kirill (kirill) sent /sethealth trevor 0 8-21-2020, 5:16:15 PM
+kirill (kirill) sent /sethealth trevor 0 8-21-2020, 5:16:16 PM
+kirill (kirill) sent /sethealth trevor 0 8-21-2020, 5:16:17 PM
+kirill (kirill) sent /sethealth trevor 0 8-21-2020, 5:16:19 PM
+kirill (kirill) sent /inv 8-21-2020, 5:18:51 PM
+kirill (kirill) sent /inv 8-21-2020, 5:19:08 PM
+kirill (kirill) sent /inv 8-21-2020, 5:20:37 PM
+kirill (kirill) sent /inv 8-21-2020, 5:20:42 PM
+kirill (kirill) sent /inv 8-21-2020, 5:20:47 PM
+kirill (kirill) sent /inv 8-21-2020, 5:21:04 PM
+kirill (kirill) sent /inv 8-21-2020, 5:25:25 PM
+kirill (kirill) sent /inv 8-21-2020, 5:25:28 PM
+kirill (kirill) sent /inv 8-21-2020, 5:27:14 PM
+kirill (kirill) sent /inv 8-21-2020, 5:27:18 PM
+kirill (kirill) sent /reboot 8-21-2020, 5:35:00 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 5:35:16 PM
+kirill (kirill) sent /inv 8-21-2020, 5:35:54 PM
+kirill (kirill) sent /3 8-21-2020, 5:39:08 PM
+kirill (kirill) sent /4 8-21-2020, 5:39:10 PM
+kirill (kirill) sent /2 8-21-2020, 5:39:11 PM
+kirill (kirill) sent /1 8-21-2020, 5:39:13 PM
+kirill (kirill) sent /disablerobots 8-21-2020, 5:39:26 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 5:39:30 PM
+kirill (kirill) sent /inv 8-21-2020, 5:40:38 PM
+kirill (kirill) sent /inv 8-21-2020, 5:40:44 PM
+kirill (kirill) sent /inv 8-21-2020, 5:41:18 PM
+kirill (kirill) sent /inv 8-21-2020, 5:41:28 PM
+kirill (kirill) sent /killallrobots 8-21-2020, 5:41:58 PM
+kirill (kirill) sent /killallrobots 8-21-2020, 5:42:04 PM
+kirill (kirill) sent /inv 8-21-2020, 5:42:09 PM
+kirill (kirill) sent /inv 8-21-2020, 5:42:28 PM
+kirill (kirill) sent /inv 8-21-2020, 5:43:12 PM
+kirill (kirill) sent /inv 8-21-2020, 5:43:16 PM
+kirill (kirill) sent /inv 8-21-2020, 5:43:18 PM
+kirill (kirill) sent /inv 8-21-2020, 5:43:47 PM
+kirill (kirill) sent /inv 8-21-2020, 5:44:00 PM
+kirill (kirill) sent /inv 8-21-2020, 5:44:22 PM
+kirill (kirill) sent /inv 8-21-2020, 5:45:03 PM
+kirill (kirill) sent /inv 8-21-2020, 5:45:09 PM
+kirill (kirill) sent /inv 8-21-2020, 5:45:13 PM
+kirill (kirill) sent /reboot 8-21-2020, 5:50:54 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 5:51:04 PM
+kirill (kirill) sent /inv 8-21-2020, 5:51:18 PM
+kirill (kirill) sent /inv 8-21-2020, 5:51:51 PM
+kirill (kirill) sent /inv 8-21-2020, 5:52:31 PM
+kirill (kirill) sent /inv 8-21-2020, 5:52:46 PM
+kirill (kirill) sent /inv 8-21-2020, 5:53:20 PM
+kirill (kirill) sent /inv 8-21-2020, 5:53:53 PM
+kirill (kirill) sent /inv 8-21-2020, 6:02:11 PM
+kirill (kirill) sent /disablerobots 8-21-2020, 6:04:11 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 6:04:15 PM
+kirill (kirill) sent /inv 8-21-2020, 6:05:20 PM
+kirill (kirill) sent /inv 8-21-2020, 6:05:26 PM
+kirill (kirill) sent /follow vlados2005 8-21-2020, 6:05:48 PM
+kirill (kirill) sent /follow Vlados2005 8-21-2020, 6:06:04 PM
+kirill (kirill) sent /reboot 8-21-2020, 6:07:09 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 6:07:24 PM
+kirill (kirill) sent /inv 8-21-2020, 6:07:57 PM
+kirill (kirill) sent /follow vlados 8-21-2020, 6:08:15 PM
+kirill (kirill) sent /follow Vlados 8-21-2020, 6:08:21 PM
+kirill (kirill) sent /garbage_collect 8-21-2020, 6:15:42 PM
+kirill (kirill) sent /bid 1000000 8-21-2020, 6:30:37 PM
+kirill (kirill) sent /stopfollow 8-21-2020, 6:33:09 PM
+kirill (kirill) sent /suicide 8-21-2020, 6:33:19 PM
+kirill (kirill) sent /SUCIDE 8-21-2020, 6:33:24 PM
+kirill (kirill) sent /changemap kirill kirill's_world 8-21-2020, 6:34:13 PM
+kirill (kirill) sent /inc 8-21-2020, 6:34:15 PM
+kirill (kirill) sent /inv 8-21-2020, 6:34:24 PM
+kirill (kirill) sent /disablerobots 8-21-2020, 6:35:31 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 6:35:34 PM
+kirill (kirill) sent /changemap Vlados kirill"s_world 8-21-2020, 6:35:54 PM
+kirill (kirill) sent /changemap Vlados kirill's_world 8-21-2020, 6:36:27 PM
+kirill (kirill) sent /reboot 8-21-2020, 6:37:24 PM
+kirill (kirill) sent /inv 8-21-2020, 6:38:07 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 6:39:36 PM
+kirill (kirill) sent /shockwave 8-21-2020, 6:41:48 PM
+kirill (kirill) sent /suicide_invazion 8-21-2020, 6:41:58 PM
+kirill (kirill) sent /inv 8-21-2020, 6:42:27 PM
+kirill (kirill) sent /inv 8-21-2020, 6:43:19 PM
+kirill (kirill) sent /inv 8-21-2020, 6:49:58 PM
+kirill (kirill) sent /inv 8-21-2020, 6:50:07 PM
+kirill (kirill) sent /inv 8-21-2020, 6:53:24 PM
+kirill (kirill) sent /inv 8-21-2020, 6:54:13 PM
+kirill (kirill) sent /inv 8-21-2020, 6:55:20 PM
+kirill (kirill) sent /inv 8-21-2020, 6:55:30 PM
+kirill (kirill) sent /inv 8-21-2020, 6:55:40 PM
+kirill (kirill) sent /inv 8-21-2020, 7:05:36 PM
+kirill (kirill) sent /inv 8-21-2020, 7:06:56 PM
+kirill (kirill) sent /inv 8-21-2020, 7:07:06 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:100
+zone:0:200:0:200:0:10:Kirill's_wirld
+zone:0:200:50:55:0:10:west-east road:trackme
+robots:0:200:0:200:0:0:4:1000:kirill1,kirill2,kirill3,kirill4
+travelpoint:200:200:200:200:0:0:store:0:0:0:moved
+zone:200:200:200:200:0:10:exit:trackme
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+tile:0:200:0:200:0:0:stone1
+src:0:200:0:200:0:10:birds16.ogg
+tile:0:200:50:55:0:0:concrete3
+noitems:0:200:0:200:0:100:suicide_bomb
+ 8-21-2020, 7:08:32 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:12 PM
+kirill (kirill) sent /sethealth ramol 0 8-21-2020, 7:13:39 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:48 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:49 PM
+kirill (kirill) sent /lchat //sethealth ramil 0 8-21-2020, 7:13:51 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:53 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:55 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:56 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:57 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:13:58 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:00 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:01 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:02 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:03 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:04 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:05 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:14 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:15 PM
+kirill (kirill) sent /sethealth ramil 0 8-21-2020, 7:14:16 PM
+kirill (kirill) sent /inv 8-21-2020, 7:20:50 PM
+kirill (kirill) sent /inv 8-21-2020, 7:21:05 PM
+kirill (kirill) sent /inv 8-21-2020, 7:21:52 PM
+kirill (kirill) sent /inv 8-21-2020, 7:22:00 PM
+kirill (kirill) sent /inv 8-21-2020, 7:23:13 PM
+kirill (kirill) sent /inv 8-21-2020, 7:24:56 PM
+kirill (kirill) sent /inv 8-21-2020, 7:27:54 PM
+kirill (kirill) sent /inv 8-21-2020, 7:28:08 PM
+kirill (kirill) sent /inv 8-21-2020, 7:29:52 PM
+kirill (kirill) sent /inv 8-21-2020, 7:30:00 PM
+kirill (kirill) sent /inv 8-21-2020, 7:30:31 PM
+kirill (kirill) sent /inv 8-21-2020, 7:30:50 PM
+kirill (kirill) sent /sethealth nikita 0 8-21-2020, 7:32:09 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:25 PM
+kirill (kirill) sent //sethealth nikita-k 0 8-21-2020, 7:32:26 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:27 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:28 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:29 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:30 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:31 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:32 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:33 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:34 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:35 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:36 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:37 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:40 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:41 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:42 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:43 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:44 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:45 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:46 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:47 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:48 PM
+kirill (kirill) sent /sethealth nikita-k 0\ 8-21-2020, 7:32:49 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:51 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:52 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:54 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:55 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:32:56 PM
+kirill (kirill) sent /sethealth nikita-k 0 8-21-2020, 7:33:00 PM
+kirill (kirill) sent /enablerobots 8-21-2020, 8:05:06 PM
+kirill (kirill) sent /lchat Ú 8-21-2020, 9:25:37 PM

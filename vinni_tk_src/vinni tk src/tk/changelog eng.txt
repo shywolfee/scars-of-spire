@@ -1,0 +1,189 @@
+New in 2.0.1
+added enable and disable buffer beep option to game settings menu for enabling or disabling buffer beep.
+added /resetnickname playername command for admins to reset someone's name to default
+added /disableaccountcreation and /enableaccountcreation for admins to disable/ enable account creation on the server.
+added /enablelogin and disablelogin for admins to enabling / disabling login to the server.
+added locker system.
+added corpse system.
+
+New in 2.0.0
+Added resurrections! When you reach level 3000, you will be resurrect, you will have the first level again. For resurrection, you will receive a reward
+New items! gift, xp_box, death_free_card!
+Added double experience and super experience! Enabled by administrators
+Fixed some bugs
+
+New in 1.99.9
+Fixed the client side message of the day system
+Added doors and auto moovers
+1 new sound of death
+Jail added!
+Now when you sit down, another sound plays, also, the sound plays when you get up
+Changed the sound of connecting to the game
+2 new welcome sounds
+Changed the auction sounds, online and offline sounds, and the team message sound
+Redesigned the voting system
+Added sounds when you set and remove the admin or builder flag
+Added a sound when you delete the map
+New sounds of animal cutting
+Added map loading sounds
+The new sound of opening and closing inventory
+Added a readme! Note, it is not yet fully ready, as long as only the control keys in the game are written there
+Changed the sounds of falling
+Added other sounds of blood when hitting the character
+Added extra sound when the character dies
+
+New in 1.99.8
+added radio!
+Each builder on the map can put a link that will be played
+also added new hot keys: alt page up, increase the radio volume, alt page down, decrease
+
+New in 1.99.7
+Added kode for the bike, maybe it will be soon
+5 new welcome sounds
+a new sound of getting up, a new sound of raising the level
+now when killing animals you can pick up corpses that can be cut and their meat to fry on the fire
+new items! Fight_inviter, stat_cleaner, music_box, mega_suicider, fire_starter!
+added buffer beeps
+when connecting to the server will play short sound
+added food and drinks!
+now, empty beer bottles and cans from apple juice can be thrown at each other!
+when you buy something in the store, different sounds are played
+new sound of opening and closing inventory
+some phrases have been replaced. For example: enter chat has been replaced with please enter your message
+now, when the character has low health left, additional blood sounds are played when hitting it
+
+New in 1.99.6
+Small update
+as requested, now when holding shift you can still walk
+removed the old readme, when I rewrite it, I will add a new one
+
+New in 1.99.5
+Fixed bugs in new robots
+4 new death sounds!
+The fall sound has been replaced with 7 new sounds
+4 new hit sounds
+
+New in 1.99.3
+The zone tracking menu has been moved to grave
+turns have been moved to q and e
+if you have a cannon or zulfikar weapon in your hands, you can't jump
+now you can't switch weapons in slots when jumping
+
+New in 1.99.2
+fixed bugs with turns
+
+New in 1.99.1
+added sounds for new robots, robots will be a little later
+8 new welcome sounds!
+the jumping system has been redesigned, now the player jumps perfectly!
+removed running with shift
+now in the jump you can not open the team menu and the social menu
+now when the player sits down, an additional sound is played
+Jplayer was removed
+I left only one music in the menu
+new tiles! concussive, hipersound, mine!
+* concussive: puts a concussive grenade,
+* hipersound: puts a hipersound bomb,
+* mine: puts a mine
+added sound on auction cancellation
+
+New in 1.99.0
+added 2 new weapons! Storm_sniper and the_legendary_sword!
+press u to send a message to the team
+press shift u to open the team menu, from which you can see how many teams there are on the server, create a new team, join an existing team, exit the team, see how many members are in your team, change the password of your team
+added socials! Press v to open the social menu!
+1 new welcome sound!
+changed the team message sound
+
+New in 1.98.8
+stun added to tiles menu
+* stun: when a character steps on this tile, a stun grenade appears
+
+New in 1.98.7
+New keyboard shortcuts!
+now, when running the game guess the number, do not enter /gnsubmit, and just press shift-g and enter a number
+when the auction is running, press o to bid
+hit k to cancel bid
+if this is your auction, press shift k to cansle it
+press y to send message to admins in admintell
+when run event, now no need to write /joinevent id, you can simply press shift e and enter the id!
+press shift v to reply to last private message
+
+New in 1.98.6
+Suicide and teleport added to tiles menu
+* suicide: when a character steps on this surface, a suicide bomb appears in that place
+* teleport: when a character steps on this surface, it teleports to coordinates 0, 0, 0
+
+New in 1.98.4
+Added different sounds for closing and opening inventory!
+Several new sounds of moving around the inventory.
+new level-up sound.
+now play different sounds when entering the game!
+1 new sound of getting up
+changed the sounds of feet and fists.
+9 new sounds of receiving a gift!
+
+New in 1.98.3
+you Can now select hazard from the tiles menu!
+Made a challenge maps system! soon there will be maps that you can pass and get any reward!
+
+New in 1.98.2
+now the char will not slow Down when taking any weapon.
+
+New in 1.98.1
+Now the char runs a little faster.
+
+New in 1.98.0
+you Can now press shift l to see how much experience you have left until the next level.
+As requested, I returned the /where command for normal users, but now it displays information only about which map the player is on.
+
+New in 1.97.9
+Added 13 new songs in the jplayer.
+new robots, 4 kirills! Especially for them, the world of Kirillov map will be built, you can go there from the store!
+Changed the sounds of hitting the character.
+
+New in 1.97.8
+Swapped some hot keys: Now, by clicking the left or right brackets, you will move through the buffers, and the dot and comma will move through the buffer messages.
+
+New in 1.97.7
+Deleted unnecessary music from jplayer and added a new one.
+Added new robots
+ Added 10 new level-up sounds, now they will play randomly.
+Replaced the sound of using a fire extinguisher.
+
+New in 1.97.6
+Returned the hipersound bomb!
+
+New in 1.97.5
+Hipersound bomb has been removed for a while
+
+New in 1.97.4
+Added a new type of bomb, Hipersound_bomb!
+* these bombs stun people standing within a radius of 20 tiles for a few seconds.
+
+New in 1.97.3
+now, after updates, the game files will be replaced themselves, and the game will automatically start.
+Reduced the time after skipping the logo and checking the speakers.
+
+New in 1.97.2
+Moving to a new version with bug fixes.
+
+New in 1.97.1
+Added Many new tiles and ambience
+Connection timer has decreased, 
+now the client will connect to the server faster.
+Some sounds have been changed. I also changed the logo and replaced all the music in the menu with a more epic one.
+Added a new weapon: zulfikar!
+Added a new rank of the player. Builder!
+Fixed some bugs
+For admins: reduced the writing of the command /garbage_collect, now /garbage.
+Now, when changing the message of the day, cleaning garbage and cleaning spam characters, the corresponding sounds are played
+When creating a new character, players who at the time of creation are on the server, it will be reported that a new character has been created!
+
+New in 1.97.0
+cleaned the menu
+at the request of players added the ability to disable the playback of the logo.
+deleted a bunch of unnecessary crap.
+deleted the email request when creating the player.
+at the request of the players made, now if you put tile air will fall down!
+I tried to add local chat, errors are possible, now it works crookedly, sucks, but it works!

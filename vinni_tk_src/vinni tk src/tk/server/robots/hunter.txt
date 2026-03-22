@@ -1,0 +1,16 @@
+name hunter
+health 10000
+defence 1000
+speed 700
+damage 1000,10000
+shoot 800
+distance 6
+aggro 1000
+spread 1
+angle 90
+steps 2
+loot coin
+amount 200
+shieldhits 10,45
+shieldchance 10
+xp 200,500

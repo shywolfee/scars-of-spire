@@ -1,0 +1,527 @@
+
+ramil (magistral) sent /go 0 0 0 store 12-27-2020, 5:13:00 PM
+ramil (magistral) sent /where artem 12-27-2020, 5:14:36 PM
+ramil (magistral) sent /builderhelp 12-27-2020, 5:39:24 PM
+ramil (magistral) sent /adminflag 12-27-2020, 5:39:38 PM
+ramil (magistral) sent /adminflag 12-27-2020, 5:39:46 PM
+ramil (magistral) sent /teams 12-27-2020, 5:49:17 PM
+ramil (magistral) sent /s1 12-27-2020, 7:02:10 PM
+ramil (magistral) sent /s6 12-27-2020, 7:02:24 PM
+ramil (magistral) sent /teams 12-27-2020, 7:02:44 PM
+ramil (magistral) sent /s2 12-27-2020, 7:04:14 PM
+ramil (magistral) sent /s4 12-27-2020, 7:04:20 PM
+ramil (magistral) sent /gnsubmit 5 12-27-2020, 7:04:58 PM
+ramil (magistral) sent /go 0 0 0 labyrinths 12-27-2020, 7:05:26 PM
+ramil (magistral) sent /maps 12-27-2020, 7:06:01 PM
+ramil (magistral) sent /go 0 0 0 laberinths 12-27-2020, 7:06:37 PM
+ramil (magistral) sent /gi 0 0 0store 12-27-2020, 7:08:35 PM
+ramil (magistral) sent /go 0 0 0 store 12-27-2020, 7:08:40 PM
+ramil (magistral) sent /go 0 0 0 lern 12-27-2020, 7:10:16 PM
+ramil (magistral) sent /go 0 0 0 lern 12-27-2020, 7:12:19 PM
+ramil (magistral) sent /go 0 0 0 lern 12-27-2020, 7:12:28 PM
+ramil (magistral) sent /se;; 12-27-2020, 7:13:14 PM
+ramil (magistral) sent /sell 12-27-2020, 7:13:18 PM
+ramil (magistral) sent /where nikita-k 12-27-2020, 7:13:43 PM
+ramil (magistral) sent /cancelauction 12-27-2020, 7:13:59 PM
+ramil (magistral) sent /go 0 0 0 lern 12-27-2020, 7:16:42 PM
+ramil (magistral) sent /go 5 50 0 main 12-27-2020, 7:18:21 PM
+ramil (magistral) sent /go 1 10 0 sklad 12-27-2020, 7:20:01 PM
+ramil (magistral) sent /admintell tt 12-27-2020, 7:20:10 PM
+ramil (magistral) sent /go 1 1 25 12-27-2020, 7:20:39 PM
+ramil (magistral) sent /go 0 0 0 12-27-2020, 7:20:41 PM
+ramil (magistral) sent /go 1 1 50 sklad 12-27-2020, 7:20:50 PM
+ramil (magistral) sent /go 1 1 25 sklad 12-27-2020, 7:21:24 PM
+ramil (magistral) sent /rawmap 12-27-2020, 7:22:23 PM
+ramil (magistral) sent /rawdata mapname:sklad
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:metal1
+src:0:50:0:50:0:50:corridor.ogg
+tile:0:0:0:50:0:50:wallmetal9
+tile:0:50:0:0:0:50:wallmetal9
+tile:50:50:0:50:0:50:wallmetal9
+tile:0:50:50:50:0:50:wallmedaldebris
+tile:0:50:50:50:0:50:wallmetal9
+tile:1:49:49:49:0:25:metal2
+tile:1:49:1:48:25:25:metal1
+ispawn:1:49:1:48:25:25:300000:1:fnminimilight:cannon:sky_28_laser:small_dagger:spear:knife:hammer:glock_17_pistol:stp106_long_barreled_pistol:cyanide_pistol:colt_ar_15_assault_rifle:nak_nk1000_decimater:beretta_m1951_machine_pistol:zulfikar:sky_286_laser_pistol:sky_372_laser_machinegun:sky_386_laser_assault_rifle:sky_429_laser_shotgun
+ispawn:1:49:1:48:0:0:15000:5:pack_of_30_ammo_fnminimilight:pack_of_30_ammo_sky_28_laser:pack_of_30_ammo_glock_17_pistol:pack_of_30_ammo_stp106_long_barreled_pistol:pack_of_30_ammo_cyanide_pistol:pack_of_30_ammo_colt_ar_15_assault_rifle:pack_of_30_ammo_nak_nk1000_decimater:pack_of_30_ammo_beretta_m1951_machine_pistol:pack_of_30_ammo_crossbow:pack_of_30_ammo_sniper:pack_of_30_ammo_mlk_207_combat_rifle:pack_of_30_ammo_cop_357_derringer_pistol:pack_of_30_ammo_sig_p226_combat_pistol:pack_of_30_ammo_taser:pack_of_30_ammo_modern_sub_machine_gun_carbine:pack_of_30_ammo_gauss:pack_of_30_ammo_m79_grenade_launcher:pack_of_30_ammo_str_301_long_barreled_machine_pistol:pack_of_30_ammo_shotgun:pack_of_30_ammo_stp21_handgun:pack_of_30_ammo_beretta_nano_pocket_pistol:pack_of_30_ammo_ags30
+travelpoint:20:30:1:1:0:0:cave6:45:24:0:you open the gate and go out into the fresh air
+zone:0:50:0:50:0:50:warehouse
+tile:0:50:0:50:50:50:roof3
+zone:20:30:1:1:0:10:gate
+tile:20:30:0:0:0:10:wallgate
+robots:1:49:1:49:0:0:1:10000:cockroach,dog,hunter,securityguard,rabbit
+noitems:0:50:0:50:0:50:wood
+ 12-27-2020, 7:23:18 PM
+ramil (magistral) sent /where vadimka 12-27-2020, 7:25:31 PM
+ramil (magistral) sent /s57 12-27-2020, 7:56:28 PM
+ramil (magistral) sent /s56 12-27-2020, 7:56:34 PM
+ramil (magistral) sent /pm  bolgelo die 12-27-2020, 7:57:07 PM
+ramil (magistral) sent /jointeam liders suckers 12-27-2020, 7:58:10 PM
+ramil (magistral) sent /jointeam leaders suckers 12-27-2020, 7:58:36 PM
+ramil (magistral) sent /robotinfo 12-27-2020, 7:59:18 PM
+ramil (magistral) sent /go 2 2 0 12-27-2020, 8:02:19 PM
+ramil (magistral) sent /go 0 0 0 just_test 12-27-2020, 8:04:18 PM
+ramil (magistral) sent /go 500 200 0 12-27-2020, 8:06:09 PM
+ramil (magistral) sent /robotinfo 12-27-2020, 8:06:16 PM
+ramil (magistral) sent /robotinfo 12-27-2020, 8:07:34 PM
+ramil (magistral) sent /builderhelp 12-27-2020, 8:08:10 PM
+ramil (magistral) sent /builders 12-27-2020, 8:08:16 PM
+ramil (magistral) sent /go 500 250 0 main 12-27-2020, 8:08:21 PM
+ramil (magistral) sent /robotinfo 12-27-2020, 8:08:38 PM
+ramil (magistral) sent /t shelter at 47, 38, 41 12-27-2020, 8:15:25 PM
+ramil (magistral) sent /t 48, 37, 35.  12-27-2020, 8:15:45 PM
+ramil (magistral) sent /go 0 0 0 store 12-27-2020, 8:23:22 PM
+ramil (magistral) sent /lchat   12-27-2020, 8:23:26 PM
+ramil (magistral) sent /lchat   12-27-2020, 8:23:27 PM
+ramil (magistral) sent /lchat f  12-27-2020, 8:23:28 PM
+ramil (magistral) sent /lchat f\ 12-27-2020, 8:23:29 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:30 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:31 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:31 PM
+ramil (magistral) sent /lchat f\f\f\ 12-27-2020, 8:23:33 PM
+ramil (magistral) sent /lchat \f 12-27-2020, 8:23:33 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:34 PM
+ramil (magistral) sent /lchat f\ 12-27-2020, 8:23:34 PM
+ramil (magistral) sent /lchat f\ 12-27-2020, 8:23:35 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:36 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:36 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:37 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:37 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:37 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:38 PM
+ramil (magistral) sent /lchat f\ 12-27-2020, 8:23:38 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:38 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:38 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:39 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:39 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:39 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:39 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:39 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:39 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:40 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:40 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:40 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:40 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:40 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:41 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:41 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:42 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:51 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:53 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:53 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:53 PM
+ramil (magistral) sent /lchat f\f 12-27-2020, 8:23:54 PM
+ramil (magistral) sent /lchat f\ 12-27-2020, 8:23:54 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:56 PM
+ramil (magistral) sent /lchat f\ 12-27-2020, 8:23:57 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:57 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:57 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:57 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:57 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:57 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:58 PM
+ramil (magistral) sent /lchat f\ 12-27-2020, 8:23:59 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:23:59 PM
+ramil (magistral) sent /lchat f 12-27-2020, 8:24:00 PM
+ramil (magistral) sent /t  \ 12-27-2020, 8:24:03 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:04 PM
+ramil (magistral) sent /t \ 12-27-2020, 8:24:04 PM
+ramil (magistral) sent /t u 12-27-2020, 8:24:05 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:05 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:06 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:06 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:06 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:07 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:07 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:07 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:07 PM
+ramil (magistral) sent /t u 12-27-2020, 8:24:08 PM
+ramil (magistral) sent /t u 12-27-2020, 8:24:09 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:10 PM
+ramil (magistral) sent /t u 12-27-2020, 8:24:10 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:11 PM
+ramil (magistral) sent /t   12-27-2020, 8:24:11 PM
+ramil (magistral) sent /t    12-27-2020, 8:24:12 PM
+ramil (magistral) sent /go 0 0 0 volgilo1 12-27-2020, 8:25:08 PM
+ramil (magistral) sent /go 0 0 0 volgelo1 12-27-2020, 8:25:33 PM
+ramil (magistral) sent /go 5 5  0 12-27-2020, 8:25:38 PM
+ramil (magistral) sent /go 0 0 0 kpp 12-27-2020, 8:26:39 PM
+ramil (magistral) sent /go 0 0 0 laberinths 12-27-2020, 8:30:07 PM
+ramil (magistral) sent /go 0 0 0 laberinths 12-27-2020, 8:31:00 PM
+ramil (magistral) sent /t laberinths 12-27-2020, 8:31:20 PM
+ramil (magistral) sent /go 0 0 0 12-27-2020, 8:31:44 PM
+ramil (magistral) sent /inv 12-27-2020, 8:36:20 PM
+ramil (magistral) sent /go 25 281 0 laberinths 12-27-2020, 8:36:42 PM
+ramil (magistral) sent /rawmap 12-27-2020, 8:36:48 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:230:0:15:door to final level
+tile:125:130:281:281:0:5:stun 12-27-2020, 8:37:23 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:230:0:15:door to final level 12-27-2020, 8:37:56 PM
+ramil (magistral) sent /lchat 8337 health, 0 shielded shots. 12-27-2020, 8:39:37 PM
+ramil (magistral) sent /rawdata 8337 health, 0 shielded shots. 12-27-2020, 8:40:05 PM
+ramil (magistral) sent /rawmap 12-27-2020, 8:40:08 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:230:0:15:door to final level
+tile:25:150:281:281:0:0:stun\ 12-27-2020, 8:40:25 PM
+ramil (magistral) sent /lchat 258 health, 0 shielded shots. 12-27-2020, 8:40:51 PM
+ramil (magistral) sent /go 100 281 0 12-27-2020, 8:41:53 PM
+ramil (magistral) sent /go 0 0 0 ךכאהבטשו 12-27-2020, 8:44:19 PM
+ramil (magistral) sent /robotinfo 12-27-2020, 8:45:07 PM
+ramil (magistral) sent /go 100 281 0 laberinths 12-27-2020, 8:45:31 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:230:0:15:door to final level
+tile:25:99:281:281:0:0:stun 12-27-2020, 8:45:54 PM
+ramil (magistral) sent /go 0 0 0\ 12-27-2020, 8:45:57 PM
+ramil (magistral) sent /go 100 281 0 12-27-2020, 8:46:05 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:230:0:15:door to final level
+tile:125:99:281:281:0:0:stun 12-27-2020, 8:46:43 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:230:0:15:door to final level
+tile:125:179:281:281:0:0:stun 12-27-2020, 8:47:01 PM
+ramil (magistral) sent /rawmap 12-27-2020, 8:49:14 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:230:0:15:door to final level
+tile:125:179:281:281:0:0:stun
+tile:201:201:281:281:0:15:walldoor2 12-27-2020, 8:49:30 PM
+ramil (magistral) sent /go 51 281 12-27-2020, 8:51:37 PM
+ramil (magistral) sent /go 25 281 0 12-27-2020, 8:51:42 PM
+ramil (magistral) sent /go 85 281 0 12-27-2020, 8:53:15 PM
+ramil (magistral) sent /go 100 281 0 12-27-2020, 8:53:43 PM
+ramil (magistral) sent /go 200 281 0 12-27-2020, 8:53:51 PM
+ramil (magistral) sent /go 10 0 0 12-27-2020, 8:57:11 PM
+ramil (magistral) sent /go 25 1 0 smol_houce 12-27-2020, 8:59:25 PM
+ramil (magistral) sent /go 223 449 2 12-27-2020, 8:59:29 PM
+ramil (magistral) sent /go 223 449 0 12-27-2020, 9:03:29 PM
+ramil (magistral) sent /teams 12-27-2020, 9:04:35 PM
+ramil (magistral) sent /go 0 0 0 laberinths 12-27-2020, 9:05:35 PM
+ramil (magistral) sent /go 21 270 0 12-27-2020, 9:06:50 PM
+ramil (magistral) sent /go 25 260 0 12-27-2020, 9:06:58 PM
+ramil (magistral) sent /go 25 250 0 12-27-2020, 9:07:36 PM
+ramil (magistral) sent /go 50 281 0 12-27-2020, 9:07:42 PM
+ramil (magistral) sent /go 50 281 0 12-27-2020, 9:07:55 PM
+ramil (magistral) sent /go 50 281 0 12-27-2020, 9:08:02 PM
+ramil (magistral) sent /go 50 281 0 12-27-2020, 9:08:10 PM
+ramil (magistral) sent /go 50 281 0 12-27-2020, 9:08:15 PM
+ramil (magistral) sent /go 50 281 0 12-27-2020, 9:08:21 PM
+ramil (magistral) sent /go 50 281 0 12-27-2020, 9:08:28 PM
+ramil (magistral) sent /go 25 254 0 12-27-2020, 9:08:38 PM
+ramil (magistral) sent /go 54 282 0 12-27-2020, 9:08:44 PM
+ramil (magistral) sent /go 54 281 0 12-27-2020, 9:08:54 PM
+ramil (magistral) sent /go 54 281 0 12-27-2020, 9:08:58 PM
+ramil (magistral) sent /go 54 281 0 12-27-2020, 9:09:00 PM
+ramil (magistral) sent /go 54 281 0 12-27-2020, 9:09:02 PM
+ramil (magistral) sent /rawmap 12-27-2020, 9:09:28 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to final level
+tile:125:179:281:281:0:0:stun
+tile:201:201:281:281:0:15:walldoor2
+tile:185:190:281:281:0:0:teleport
+zone:200:200:281:300:0:15:door, press enter  to go to store
+tile:30:50:281:281:0:0:stun
+tile:55:58:281:281:0:0:teleport
+tile:65:75:281:281:0:0:stun
+tile:80:83:281:281:0:0:teleport
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved 12-27-2020, 9:11:26 PM
+ramil (magistral) sent /go 69 281 0 12-27-2020, 9:11:44 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to final level
+tile:125:179:281:281:0:0:stun
+tile:201:201:281:281:0:15:walldoor2
+tile:185:190:281:281:0:0:teleport
+zone:200:200:281:300:0:15:door, press enter  to go to store
+tile:30:50:281:281:0:0:stun
+tile:55:58:281:281:0:0:teleport
+tile:65:75:281:281:0:0:stun
+tile:88:90:281:281:0:0:teleport
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved 12-27-2020, 9:12:20 PM
+ramil (magistral) sent /go 69 281 0 12-27-2020, 9:12:28 PM
+ramil (magistral) sent /go 85 281 0 12-27-2020, 9:12:52 PM
+ramil (magistral) sent /go 87 281 0 12-27-2020, 9:13:01 PM
+ramil (magistral) sent /go 176 281 0 12-27-2020, 9:13:35 PM
+ramil (magistral) sent /go 176 281 0 12-27-2020, 9:13:42 PM
+ramil (magistral) sent /admins\ 12-27-2020, 9:14:49 PM
+ramil (magistral) sent /admins 12-27-2020, 9:14:51 PM
+ramil (magistral) sent /builders 12-27-2020, 9:14:56 PM
+ramil (magistral) sent /s57 12-27-2020, 9:15:06 PM
+ramil (magistral) sent /s57 12-27-2020, 9:15:08 PM
+ramil (magistral) sent /s57 12-27-2020, 9:15:09 PM
+ramil (magistral) sent /s57 12-27-2020, 9:15:10 PM
+ramil (magistral) sent /s57 12-27-2020, 9:15:11 PM
+ramil (magistral) sent /s57 12-27-2020, 9:15:17 PM
+ramil (magistral) sent /s31 12-27-2020, 9:15:36 PM
+ramil (magistral) sent /robotinfo 12-27-2020, 9:15:57 PM
+ramil (magistral) sent /go 0 0 0 just_test 12-27-2020, 9:17:44 PM
+ramil (magistral) sent /go 0 0 0 test2 12-27-2020, 9:18:25 PM
+ramil (magistral) sent /go 500 12-27-2020, 9:18:46 PM
+ramil (magistral) sent /go 500 12-27-2020, 9:18:49 PM
+ramil (magistral) sent /go 500 530 505 12-27-2020, 9:19:06 PM
+ramil (magistral) sent /go  0 0 0 0  12-27-2020, 9:19:08 PM
+ramil (magistral) sent /go 0 0 0  0 12-27-2020, 9:19:10 PM
+ramil (magistral) sent /go 0 0 0 12-27-2020, 9:19:12 PM
+ramil (magistral) sent /go 500 530 505 weapon 12-27-2020, 9:19:35 PM
+ramil (magistral) sent /go 500 500 500 12-27-2020, 9:20:06 PM
+ramil (magistral) sent /go 500 530 505 12-27-2020, 9:20:37 PM
+ramil (magistral) sent /go 00 0  12-27-2020, 9:20:40 PM
+ramil (magistral) sent /go 0 0 0 12-27-2020, 9:20:42 PM
+ramil (magistral) sent /go 500 530 505 weapon 12-27-2020, 9:20:53 PM
+ramil (magistral) sent /go 500 530 505 weapon 12-27-2020, 9:24:28 PM
+ramil (magistral) sent /go 500 530 505 weapon 12-27-2020, 9:25:03 PM
+ramil (magistral) sent /go0 0 0  12-27-2020, 9:26:33 PM
+ramil (magistral) sent /go 0 0 0 12-27-2020, 9:26:35 PM
+ramil (magistral) sent /go 534 545 535 weapon 12-27-2020, 9:26:50 PM
+ramil (magistral) sent /go 534 545 535 weapon 12-27-2020, 9:26:58 PM
+ramil (magistral) sent /go 534 545 535 weapon 12-27-2020, 9:28:04 PM
+ramil (magistral) sent /go 0 0 0 store 12-27-2020, 9:29:15 PM
+ramil (magistral) sent /go 0 0 0 laberinths 12-27-2020, 9:31:31 PM
+ramil (magistral) sent /rawdata mapname:laberinths
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:concrete17
+zone:0:1000:0:1000:0:1000:laberinth of def
+src:0:1000:0:1000:0:1000:rumble.ogg
+tile:0:5:20:199:0:15:wallwood4
+tile:1:100:0:18:0:15:wallwood3
+tile:6:20:20:199:0:15:walltile
+tile:22:100:19:199:0:15:wallfurniture
+tile:21:21:101:199:0:20:walldoor2
+zone:21:30:100:110:0:15:door, where? press enter to open this door
+src:21:21:100:100:0:10:flag.ogg
+travelpoint:21:21:100:100:0:0:laberinths:25:200:0:done, you moved to second level
+tile:0:24:200:280:0:15:wallbank
+tile:26:200:200:280:0:15:wallfurniture
+tile:25:25:211:215:0:0:teleport
+tile:25:25:225:228:0:5:stun
+tile:25:25:261:265:0:0:teleport
+tile:0:200:282:350:0:15:wallbank
+tile:101:120:281:281:0:15:wall3
+travelpoint:100:100:281:281:0:0:laberinths:121:281:0:done
+zone:100:115:281:330:0:15:door to final level
+tile:125:179:281:281:0:0:stun
+tile:201:201:281:281:0:15:walldoor2
+tile:185:190:281:281:0:0:teleport
+zone:200:200:281:300:0:15:door, press enter  to go to store
+tile:30:50:281:281:0:0:stun
+tile:55:58:281:281:0:0:teleport
+tile:65:75:281:281:0:0:stun
+tile:88:90:281:281:0:0:teleport
+travelpoint:200:200:281:281:0:0:store:5:5:5:moved
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0 12-27-2020, 9:32:18 PM
+ramil (magistral) sent /peaj 12-27-2020, 9:40:42 PM
+ramil (magistral) sent /peak 12-27-2020, 9:40:44 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:39 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:40 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:40 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:41 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:41 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:42 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:43 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:43 PM
+ramil (magistral) sent /s57 12-27-2020, 9:41:43 PM
+ramil (magistral) sent /s57 12-27-2020, 9:43:17 PM
+ramil (magistral) sent /admintell T 12-27-2020, 9:45:44 PM
+ramil (magistral) sent /where bolgelo 12-27-2020, 9:46:07 PM

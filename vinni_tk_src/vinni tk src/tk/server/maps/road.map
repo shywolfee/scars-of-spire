@@ -1,0 +1,73 @@
+mapname:road
+maxx:1000
+maxy:100
+maxz:100
+tile:0:1000:15:30:0:0:concrete12
+tile:0:1000:31:100:1:1:grass2
+tile:0:1000:0:14:1:1:brush
+src:0:1000:15:30:0:10:birds14.ogg
+tile:11:1000:0:0:0:50:walldirt
+src:0:1000:31:100:0:10:birds7.ogg
+tile:945:955:1:14:1:1:cement2
+tile:945:955:0:0:1:10:walldoor2
+src:950:950:0:1:0:10:flag.ogg
+zone:0:1000:0:100:0:100:road
+zone:0:1000:0:14:0:10:land
+zone:0:1000:31:100:0:10:coniferous forest
+zone:945:955:0:13:0:10:paved walkway
+zone:945:955:0:1:0:10:passage to the kpp:trackme
+travelpoint:945:955:1:1:1:10:kpp:50:299:0:you passed to kpp
+travelpoint:1000:1000:15:30:0:10:h_road:0:922:0:you are back at the beginning of the road
+zone:1000:1000:15:30:0:10:passage to the beginning of the western road:trackme
+tile:0:40:50:80:0:3:wallwood2
+tile:0:40:50:80:3:3:deck
+tile:0:40:50:50:3:50:wallstand
+tile:0:40:80:80:3:50:wallstand
+tile:0:0:50:80:3:50:wallstand
+tile:40:40:50:63:3:50:wallstand
+tile:40:40:70:80:3:50:wallstand
+tile:40:40:64:69:10:50:wallstand
+zone:0:40:50:80:3:50:arbor:trackme
+src:0:40:49:81:3:10:bar.ogg
+tile:0:41:49:81:50:50:roof
+tile:7:7:77:77:3:50:concrete26
+src:0:50:40:90:50:100:wind1.ogg
+zone:0:41:49:81:50:70:roof:trackme
+zone:7:7:77:77:3:70:staircase to the roof of the arbor:trackme
+tile:1:15:51:53:3:5:wallbucket
+tile:1:15:51:53:5:5:plank
+tile:1:15:71:73:3:5:wallbucket
+tile:1:15:71:73:5:5:plank
+tile:3:4:62:62:3:10:walltable
+tile:13:14:62:62:3:10:walltable
+tile:1:15:55:69:10:10:shelter
+zone:1:15:51:53:5:20:bench
+zone:1:15:71:73:5:20:bench:trackme
+zone:1:15:55:69:10:20:table:trackme
+ispawn:1:15:55:69:10:10:90000:1:beer_bottle
+tile:0:10:0:13:1:1:concrete12
+zone:0:10:0:30:0:10:not far from the beach
+zone:0:10:0:0:0:10:entrance to the beach:trackme
+travelpoint:0:10:0:0:0:10:beach:305:700:0:You went to the beach, on the right, there is a resort for vacationers. On the left you can see the market square, and in front of the beautiful emerald sea. To the right of the sea you saw the boat station.
+robots:0:1000:1:100:1:1:4:0:car,cyborg,gangster,fitter,dragon,worm
+src:0:1000:15:30:0:15:townstreet.ogg
+tile:700:800:1:14:1:1:concrete18
+tile:0:1000:1:14:0:0:wallstone
+tile:0:1000:31:100:0:0:wallstone
+tile:0:1000:14:14:1:1:stone2
+zone:0:1000:14:14:0:20:border
+tile:0:1000:31:31:1:1:stone2
+zone:0:1000:31:31:0:20:border
+src:700:800:1:14:1:100:alarm6.ogg
+zone:700:800:0:13:0:20:Parking:trackme
+tile:41:50:32:70:1:1:concrete27
+zone:41:50:32:70:1:15:pavement to the gazebo:trackme
+zone:40:41:64:69:0:20:entrance to the gazebo
+zone:41:50:15:30:0:10:to the right is a gazebo
+tile:0:1000:32:40:1:1:concrete27
+zone:0:1000:32:40:1:20:sidewalk
+travelpoint:945:955:1:1:0:10:kpp:56:66:0:you have passed the checkpoint of the plant, visible to the front wall of the checkpoint.
+travelpoint:750:760:1:1:0:20:test:150:199:0:you come back.
+zone:750:760:1:1:0:20:passage in the transport work shop:trackme
+src:750:760:1:1:0:20:flag.ogg
+tile:750:760:0:0:0:100:wallgate

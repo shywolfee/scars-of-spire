@@ -1,0 +1,655 @@
+
+magistral (magistral) sent /teams 12-25-2020, 3:22:59 PM
+magistral (magistral) sent /admins 12-25-2020, 3:24:11 PM
+magistral (magistral) sent /chhars 12-25-2020, 3:54:11 PM
+magistral (magistral) sent /chars 12-25-2020, 3:54:18 PM
+magistral (magistral) sent /newmap 12-25-2020, 4:03:37 PM
+magistral (magistral) sent /newmap weapon 1000 1000 0 gravel3 12-25-2020, 4:04:26 PM
+magistral (magistral) sent /gnsubmit 50 12-25-2020, 4:05:29 PM
+magistral (magistral) sent /go 0 0 0 weapon 12-25-2020, 4:09:14 PM
+magistral (magistral) sent /go 000weapon 12-25-2020, 4:09:43 PM
+magistral (magistral) sent /go 0 0 0 weapon 12-25-2020, 4:09:49 PM
+magistral (magistral) sent /go 0 0 0 weapon 12-25-2020, 4:10:57 PM
+magistral (magistral) sent /go 0 0 0 weapon 12-25-2020, 4:12:07 PM
+magistral (magistral) sent /rawmap 12-25-2020, 4:12:11 PM
+magistral (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:0
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher 12-25-2020, 4:13:03 PM
+magistral (magistral) sent /go 0 0 0 weaoin 12-25-2020, 4:13:33 PM
+magistral (magistral) sent //go 0 0 0 weapon 12-25-2020, 4:13:41 PM
+magistral (magistral) sent /go 0 0 0 weapon 12-25-2020, 4:13:46 PM
+magistral (magistral) sent /bid 150 12-25-2020, 4:13:59 PM
+magistral (magistral) sent /rawmap 12-25-2020, 4:16:59 PM
+magistral (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5 12-25-2020, 4:17:17 PM
+magistral (magistral) sent /rawmap 12-25-2020, 4:18:33 PM
+magistral (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7 12-25-2020, 4:18:57 PM
+magistral (magistral) sent /go 40 40 60 weapon 12-25-2020, 4:24:02 PM
+magistral (magistral) sent /go 40 40 60 12-25-2020, 4:26:24 PM
+magistral (magistral) sent /go 0 0 0 12-25-2020, 4:26:28 PM
+magistral (magistral) sent /go 40 40 60 weapon 12-25-2020, 4:26:47 PM
+magistral (magistral) sent /go 40 40 60 weapon 12-25-2020, 4:27:14 PM
+magistral (magistral) sent /go 40 40 60 weapon 12-25-2020, 4:27:19 PM
+magistral (magistral) sent /go 40 40 60 weapon 12-25-2020, 4:27:24 PM
+magistral (magistral) sent /rawmap 12-25-2020, 4:27:35 PM
+magistral (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:43:43:60:74:dirt12 12-25-2020, 4:28:03 PM
+magistral (magistral) sent /gnsubmit 50 12-25-2020, 4:28:35 PM
+magistral (magistral) sent /go 40 40 60 weapon 12-25-2020, 4:28:42 PM
+magistral (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12 12-25-2020, 4:28:58 PM
+magistral (magistral) sent /go 41 42 60 weapon 12-25-2020, 4:30:53 PM
+magistral (magistral) sent /rawmap 12-25-2020, 4:31:21 PM
+magistral (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1 12-25-2020, 4:31:55 PM
+magistral (magistral) sent /go 0 0 0 12-25-2020, 4:32:04 PM
+magistral (magistral) sent /go 25 1 0 sklad 12-25-2020, 4:35:12 PM
+magistral (magistral) sent /go 0 0 0 weapon 12-25-2020, 4:36:25 PM
+magistral (magistral) sent /go 40 40 60 weapon 12-25-2020, 4:36:55 PM
+magistral (magistral) sent /rawmap 12-25-2020, 4:38:43 PM
+magistral (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter 12-25-2020, 4:39:04 PM
+magistral (magistral) sent /suicide 12-25-2020, 4:41:22 PM
+magistral (magistral) sent /go 43 45 74 weapon 12-25-2020, 4:41:44 PM
+magistral (magistral) sent /joinevent 6040 12-25-2020, 4:48:14 PM
+magistral (magistral) sent /robotinfo 12-25-2020, 4:55:13 PM
+magistral (magistral) sent /robotinfo 12-25-2020, 4:55:32 PM
+magistral (magistral) sent /nickname ramil 12-25-2020, 4:57:25 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 5:04:53 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 5:05:41 PM
+ramil (magistral) sent /go 96 50 0 12-25-2020, 5:05:51 PM
+ramil (magistral) sent /go 50 50 150 weapon 12-25-2020, 5:07:50 PM
+ramil (magistral) sent /leaveevent 12-25-2020, 5:10:00 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 5:10:06 PM
+ramil (magistral) sent /go 50 50 150 weapon 12-25-2020, 5:26:25 PM
+ramil (magistral) sent /rawmao 12-25-2020, 5:29:32 PM
+ramil (magistral) sent /rawmap 12-25-2020, 5:29:36 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2"trackme 12-25-2020, 5:30:22 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2 12-25-2020, 5:31:15 PM
+ramil (magistral) sent /rawmap 12-25-2020, 5:32:35 PM
+ramil (magistral) sent /rawmap 12-25-2020, 5:38:43 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3 12-25-2020, 5:38:57 PM
+ramil (magistral) sent /pm Lordral in english 12-25-2020, 5:39:49 PM
+ramil (magistral) sent /pm lordral сдесь пиндосы 12-25-2020, 5:40:08 PM
+ramil (magistral) sent /pm Lordral пиндосы сдесь 12-25-2020, 5:40:20 PM
+ramil (magistral) sent /gnsubmit 15 12-25-2020, 5:41:58 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 5:47:38 PM
+ramil (magistral) sent /go 160 180 225 weapon 12-25-2020, 5:48:32 PM
+ramil (magistral) sent /go 0 0 0 store 12-25-2020, 5:50:31 PM
+ramil (magistral) sent /i dont kill 12-25-2020, 5:53:05 PM
+ramil (magistral) sent /lchat ok 12-25-2020, 5:53:55 PM
+ramil (magistral) sent /lchat create team 12-25-2020, 5:53:59 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 5:54:21 PM
+ramil (magistral) sent /lchat ok 12-25-2020, 5:54:30 PM
+ramil (magistral) sent /jointeam alfa1 1234 12-25-2020, 5:54:39 PM
+ramil (magistral) sent /t i m going to event 12-25-2020, 5:54:53 PM
+ramil (magistral) sent /go 0 100 0 12-25-2020, 5:55:10 PM
+ramil (magistral) sent /t ok you can tipe /joinevent 6040 12-25-2020, 5:56:21 PM
+ramil (magistral) sent /joinevent 6040 12-25-2020, 5:56:26 PM
+ramil (magistral) sent /t lets 12-25-2020, 5:56:54 PM
+ramil (magistral) sent /t 0 10 0 12-25-2020, 5:56:57 PM
+ramil (magistral) sent /teamlave 12-25-2020, 5:58:23 PM
+ramil (magistral) sent /t i vil going to build challenge 12-25-2020, 6:01:06 PM
+ramil (magistral) sent /go 160 180 225 12-25-2020, 6:01:17 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 6:01:20 PM
+ramil (magistral) sent /teamleavw 12-25-2020, 6:01:29 PM
+ramil (magistral) sent /teamleave 12-25-2020, 6:01:35 PM
+ramil (magistral) sent /pm filips sory 12-25-2020, 6:01:42 PM
+ramil (magistral) sent /go 160 180 225 weapon 12-25-2020, 6:03:11 PM
+ramil (magistral) sent /go 160 180 225 12-25-2020, 6:04:15 PM
+ramil (magistral) sent /bid 15 12-25-2020, 6:04:21 PM
+ramil (magistral) sent /go 160 180 225 weapon 12-25-2020, 6:04:56 PM
+ramil (magistral) sent /go 160 180 225 weapon 12-25-2020, 6:05:08 PM
+ramil (magistral) sent /go 160 180 225 weapon 12-25-2020, 6:05:19 PM
+ramil (magistral) sent /rawmap 12-25-2020, 6:05:26 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse 12-25-2020, 6:05:44 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse 12-25-2020, 6:05:50 PM
+ramil (magistral) sent /go 160 180 225 12-25-2020, 6:05:59 PM
+ramil (magistral) sent /go 160 180 225 weapon 12-25-2020, 6:06:13 PM
+ramil (magistral) sent /go 500 500 500 12-25-2020, 6:12:55 PM
+ramil (magistral) sent /go 500 500 500 weapon 12-25-2020, 6:13:22 PM
+ramil (magistral) sent /chars 12-25-2020, 6:18:23 PM
+ramil (magistral) sent /go 500 500 500 12-25-2020, 6:19:15 PM
+ramil (magistral) sent /rawmap 12-25-2020, 6:24:42 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter 12-25-2020, 6:27:15 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 6:27:36 PM
+ramil (magistral) sent /go 0 0 0 store 12-25-2020, 6:28:34 PM
+ramil (magistral) sent /go 398 498 0 12-25-2020, 6:30:22 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 6:31:45 PM
+ramil (magistral) sent /go 0 10 0 12-25-2020, 6:34:38 PM
+ramil (magistral) sent /rawmap 12-25-2020, 6:35:15 PM
+ramil (magistral) sent /go 0 0 0 weapon 12-25-2020, 6:36:58 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:7:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0 12-25-2020, 6:37:02 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 6:37:40 PM
+ramil (magistral) sent /go 0 0 0 store 12-25-2020, 6:37:45 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 6:38:10 PM
+ramil (magistral) sent /go 40 35 45 12-25-2020, 6:40:09 PM
+ramil (magistral) sent /go 40 35 50 weapon 12-25-2020, 6:40:23 PM
+ramil (magistral) sent /go 75 75 150 12-25-2020, 6:42:04 PM
+ramil (magistral) sent /go 50 50 150 12-25-2020, 6:42:10 PM
+ramil (magistral) sent /go 50 50 150 weapo 12-25-2020, 6:42:52 PM
+ramil (magistral) sent /go 50 50 150 weapon 12-25-2020, 6:43:03 PM
+ramil (magistral) sent /go 50 50 150 12-25-2020, 6:43:49 PM
+ramil (magistral) sent /go 50 50 150 12-25-2020, 6:44:39 PM
+ramil (magistral) sent /go 500 500 500 12-25-2020, 6:47:25 PM
+ramil (magistral) sent /where rider 12-25-2020, 6:49:36 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 6:57:19 PM
+ramil (magistral) sent /go0 0 0 12-25-2020, 6:58:27 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 6:58:30 PM
+ramil (magistral) sent /chars 12-25-2020, 7:01:29 PM
+ramil (magistral) sent /sell 12-25-2020, 7:03:24 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 7:05:16 PM
+ramil (magistral) sent /go 0 0 0 store 12-25-2020, 7:12:28 PM
+ramil (magistral) sent /go 0 0 0 weapon 12-25-2020, 7:12:33 PM
+ramil (magistral) sent /go 0 0 0 0 12-25-2020, 7:13:01 PM
+ramil (magistral) sent /lchat die 12-25-2020, 7:22:44 PM
+ramil (magistral) sent /builderflag 12-25-2020, 8:25:18 PM
+ramil (magistral) sent /where rider 12-25-2020, 8:27:41 PM
+ramil (magistral) sent /teams 12-25-2020, 8:31:14 PM
+ramil (magistral) sent /lchat lordral, die 12-25-2020, 8:36:01 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 8:46:58 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 8:47:02 PM
+ramil (magistral) sent /bestplayer 12-25-2020, 8:49:07 PM
+ramil (magistral) sent /lchat suchecka, use shield 12-25-2020, 8:51:20 PM
+ramil (magistral) sent /lchat right 12-25-2020, 9:02:51 PM
+ramil (magistral) sent /lchat 30 30 12-25-2020, 9:03:06 PM
+ramil (magistral) sent /go 15 30 0 12-25-2020, 9:03:33 PM
+ramil (magistral) sent /go15 30 15 12-25-2020, 9:03:38 PM
+ramil (magistral) sent /go 15 30 0 12-25-2020, 9:03:41 PM
+ramil (magistral) sent /go 5 5 0 12-25-2020, 9:04:19 PM
+ramil (magistral) sent /go 30 30 20 12-25-2020, 9:04:35 PM
+ramil (magistral) sent /go 0 0 0 weapon 12-25-2020, 9:07:56 PM
+ramil (magistral) sent /go 0 0 0 weapon 12-25-2020, 9:09:14 PM
+ramil (magistral) sent /rawdata mapname:weapon
+maxx:1000
+maxy:1000
+maxz:1000
+zone:0:1000:0:1000:0:1000:weapon_challenge
+tile:0:1000:0:1000:0:0:gravel3
+tile:1:1000:0:1000:0:0:hazard
+tile:0:0:0:0:5:5:beam
+tile:1:1:2:2:5:5:beam
+src:0:1000:0:1000:0:40:fire.ogg
+tile:3:3:5:15:5:5:beam
+tile:5:5:20:20:5:15:branch
+tile:10:30:20:30:15:15:bleacher
+tile:30:30:30:30:20:20:concrete
+tile:33:33:34:34:20:50:beam
+tile:39:39:34:34:50:50:cement3
+tile:40:40:35:35:45:45:concrete5
+tile:40:40:40:40:45:45:concrete7
+tile:40:40:40:40:60:60:concrete33
+travelpoint:40:40:40:40:45:45:weapon:40:40:60:moved
+zone:40:40:40:40:45:45:press enter
+tile:41:41:42:42:60:74:dirt12
+tile:43:43:45:45:74:74:gravel1
+zone:43:43:45:45:74:74:enter
+tile:50:50:50:50:100:150:concrete21
+travelpoint:43:43:45:45:74:74:weapon:50:50:100:moving
+zone:50:50:50:50:150:150:press enter to get steal_warhammer
+tile:50:50:51:51:150:150:concrete5
+zone:50:50:51:51:150:150:if you don't want to get it, that is the second level, press enter to teleport to level2
+tile:150:150:150:150:200:200:dirt
+travelpoint:50:50:51:51:150:150:weapon:150:150:200:you teleportit to level2
+src:0:1000:0:1000:200:350:tunnel.ogg
+tile:150:150:155:170:200:200:concrete3
+tile:150:150:170:170:200:225:concrete3
+tile:155:155:175:175:225:225:bleacher
+tile:160:160:180:180:225:225:vent
+zone:160:160:180:180:225:225:press enter to get modern_sub_machine_gun_carbine
+tile:160:160:181:181:225:225:warehouse
+zone:160:160:181:181:225:225:you don't wanna get it, there is the last level, press enter to teleport to final level
+tile:500:500:500:500:500:500:concrete35
+travelpoint:160:160:181:181:225:225:weapon:500:500:500:you teleportit to final level, try to finich
+src:0:1000:0:1000:500:780:rumble.ogg
+tile:500:500:506:530:500:500:metal15
+tile:500:530:530:530:505:505:metal1
+tile:531:531:531:531:505:515:beam
+tile:534:534:534:534:515:530:bleacher
+tile:534:534:534:534:535:535:dirt1
+tile:534:534:540:560:535:535:cement
+zone:534:534:560:560:535:535:to get hand_cannon, press enter
+noitems:0:3000:0:3000:0:30000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+fightingstate:0 12-25-2020, 9:09:41 PM
+ramil (magistral) sent /teamcreate 12-25-2020, 9:12:14 PM
+ramil (magistral) sent /go 223 449 2 ,aom 12-25-2020, 9:13:33 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 9:14:06 PM
+ramil (magistral) sent /go 0 0 0 store 12-25-2020, 9:14:29 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 9:14:51 PM
+ramil (magistral) sent /go0 0 0 12-25-2020, 9:14:54 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 9:14:56 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 9:15:19 PM
+ramil (magistral) sent /go 11 100 220 12-25-2020, 9:21:32 PM
+ramil (magistral) sent /go 29 1 0 cave3 12-25-2020, 9:22:05 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 9:26:16 PM
+ramil (magistral) sent /allitems 12-25-2020, 9:26:32 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 9:26:51 PM
+ramil (magistral) sent /killall 12-25-2020, 9:27:29 PM
+ramil (magistral) sent /sell 12-25-2020, 9:29:15 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 9:30:27 PM
+ramil (magistral) sent /go 1 340 100 factory 12-25-2020, 9:31:52 PM
+ramil (magistral) sent /go 49 580 55 12-25-2020, 9:31:59 PM
+ramil (magistral) sent /go 199 1199 50 12-25-2020, 9:32:10 PM
+ramil (magistral) sent /go 298 298 16 12-25-2020, 9:32:56 PM
+ramil (magistral) sent /go 0 0  0store 12-25-2020, 9:33:24 PM
+ramil (magistral) sent /go 0 0 0 store 12-25-2020, 9:33:58 PM
+ramil (magistral) sent /wgere rider 12-25-2020, 9:41:09 PM
+ramil (magistral) sent /where rider 12-25-2020, 9:41:13 PM
+ramil (magistral) sent /where mihail 12-25-2020, 9:51:53 PM
+ramil (magistral) sent /bid 15000 12-25-2020, 9:56:19 PM
+ramil (magistral) sent /bid 100000 12-25-2020, 9:56:23 PM
+ramil (magistral) sent /where rider 12-25-2020, 9:56:40 PM
+ramil (magistral) sent /where rider 12-25-2020, 10:00:06 PM
+ramil (magistral) sent /go 1 1 90 12-25-2020, 10:02:29 PM
+ramil (magistral) sent /where rider 12-25-2020, 10:02:36 PM
+ramil (magistral) sent /go 500 250 0 12-25-2020, 10:03:38 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 10:04:01 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 10:04:28 PM
+ramil (magistral) sent /robotinfo 12-25-2020, 10:04:44 PM
+ramil (magistral) sent /go 22 449 2 12-25-2020, 10:04:53 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 10:05:01 PM
+ramil (magistral) sent /go 10 10 0 store 12-25-2020, 10:06:37 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 10:06:48 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 10:07:36 PM
+ramil (magistral) sent /go 1 1 0 sklad 12-25-2020, 10:07:58 PM
+ramil (magistral) sent /go 1 23 50 12-25-2020, 10:08:44 PM
+ramil (magistral) sent /go223 449 2 12-25-2020, 10:12:05 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 10:12:11 PM
+ramil (magistral) sent /go 223 449 2 main 12-25-2020, 10:12:45 PM
+ramil (magistral) sent /go 223 449 100 12-25-2020, 10:18:14 PM
+ramil (magistral) sent /go 223 449 2 12-25-2020, 10:18:47 PM
+ramil (magistral) sent /lchat zuuuuuuuuuuuuuuuz 12-25-2020, 10:24:43 PM
+ramil (magistral) sent /where rider 12-25-2020, 10:29:15 PM
+ramil (magistral) sent /go 300 300 0 12-25-2020, 10:32:57 PM
+ramil (magistral) sent /go 300 1000 0 12-25-2020, 10:34:00 PM
+ramil (magistral) sent /go 1000 1000 0 12-25-2020, 10:34:36 PM
+ramil (magistral) sent /go 0 1000 0 12-25-2020, 10:35:00 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 10:35:04 PM
+ramil (magistral) sent /go 100 100 0 12-25-2020, 10:35:10 PM
+ramil (magistral) sent /go 201 100 0 12-25-2020, 10:36:12 PM
+ramil (magistral) sent /go 201 65 0 12-25-2020, 10:36:18 PM
+ramil (magistral) sent /go 200 99 0 12-25-2020, 10:36:27 PM
+ramil (magistral) sent /go 200 105 0 12-25-2020, 10:36:34 PM
+ramil (magistral) sent /go 0 0 0 12-25-2020, 10:36:49 PM
+ramil (magistral) sent /go 5 5 0 12-25-2020, 10:37:51 PM
+ramil (magistral) sent /go 3 15 5 12-25-2020, 10:37:57 PM
+ramil (magistral) sent /go 5 20 15 weapon 12-25-2020, 10:38:14 PM
+ramil (magistral) sent /canelauctipn 12-25-2020, 10:42:35 PM
+ramil (magistral) sent /cancelauction 12-25-2020, 10:42:40 PM
+ramil (magistral) sent /where rider 12-25-2020, 10:44:04 PM
+ramil (magistral) sent /where rider 12-25-2020, 10:48:14 PM
+ramil (magistral) sent /chars 12-25-2020, 11:06:45 PM

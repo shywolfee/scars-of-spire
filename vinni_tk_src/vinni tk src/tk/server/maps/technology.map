@@ -1,0 +1,28 @@
+mapname:technology
+maxx:200
+maxy:200
+maxz:50
+tile:0:200:0:200:0:0:stone
+zone:0:200:0:200:0:50:hall of forgotten technology
+src:0:200:0:200:0:50:rumble.ogg
+tile:0:0:0:200:0:50:wallbigmetal1
+tile:200:200:0:200:0:50:wallbigmetal1
+tile:1:199:0:0:0:50:wallbigmetal1
+tile:1:199:200:200:0:50:wallbigmetal1
+tile:70:130:1:1:5:5:metal6
+tile:70:130:7:9:10:10:metal6
+tile:70:130:1:1:15:15:metal6
+tile:70:130:7:9:20:20:metal6
+tile:70:130:1:1:25:25:metal6
+tile:20:180:7:193:30:30:bridge
+src:20:180:7:193:30:50:vending.ogg
+tile:99:101:8:8:0:19:wallbigmetal1
+zone:20:180:7:193:30:50:platform
+tile:70:130:199:199:5:5:metal6
+tile:70:130:191:193:10:10:metal6
+tile:70:130:199:199:15:15:metal6
+tile:70:130:191:193:20:20:metal6
+tile:70:130:199:199:25:25:metal6
+tile:99:101:192:192:0:19:wallbigmetal1
+robots:1:199:1:199:0:29:3:100:fly,gun,rocketlauncher,flamethrower,metallurgist
+travelpoint:50:150:50:150:30:30:road:500:50:1:teleport brought you to the middle of the west road

@@ -1,0 +1,10 @@
+mapname:test
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:grass3
+src:0:100:0:100:0:100:baseext9.ogg
+
+
+door:0:0:0:5:5:0:1000:silence.ogg:silence.ogg:silence.ogg:silence.ogg

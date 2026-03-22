@@ -1,0 +1,16 @@
+name grandpa
+health 35000
+defence 500
+speed 500
+damage 100,20000
+shoot 3500
+distance 20
+aggro 1000
+spread 5
+angle 30
+steps 0
+loot coin
+amount 1000
+shieldhits 10,100
+shieldchance 70
+xp 700,900

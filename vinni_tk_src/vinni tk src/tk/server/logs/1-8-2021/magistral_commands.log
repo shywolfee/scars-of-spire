@@ -1,0 +1,174 @@
+
+ramil (magistral) sent /chars 1-8-2021, 10:34:48 AM
+ramil (magistral) sent /bestplayer 1-8-2021, 10:35:27 AM
+ramil (magistral) sent /clearstats 1-8-2021, 10:35:52 AM
+ramil (magistral) sent /clearstats 1-8-2021, 11:27:00 AM
+ramil (magistral) sent /clearstats 1-8-2021, 11:27:38 AM
+ramil (magistral) sent /go 500 500 500 1-8-2021, 11:29:20 AM
+ramil (magistral) sent /clearstats 1-8-2021, 11:29:26 AM
+ramil (magistral) sent /clearstats 1-8-2021, 11:30:05 AM
+ramil (magistral) sent /changes 1-8-2021, 11:45:07 AM
+ramil (magistral) sent /chars 1-8-2021, 11:45:15 AM
+ramil (magistral) sent /clearstats 1-8-2021, 1:42:10 PM
+ramil (magistral) sent /go 0 0 0 1-8-2021, 7:28:09 PM
+ramil (magistral) sent /cancelauction 1-8-2021, 7:29:30 PM
+ramil (magistral) sent /cancelauction 1-8-2021, 7:30:00 PM
+ramil (magistral) sent /sel 1-8-2021, 7:30:09 PM
+ramil (magistral) sent /sell 1-8-2021, 7:30:11 PM
+ramil (magistral) sent /go 1000 1000 0 1-8-2021, 7:31:22 PM
+ramil (magistral) sent /go 1000 1000 -10 1-8-2021, 7:31:33 PM
+ramil (magistral) sent /go 0 1000 0 1-8-2021, 7:33:09 PM
+ramil (magistral) sent /go 0 300 0 1-8-2021, 7:35:14 PM
+ramil (magistral) sent /go 200 149 0 1-8-2021, 7:36:22 PM
+ramil (magistral) sent /go 300 604 0 1-8-2021, 7:36:52 PM
+ramil (magistral) sent /go 0 0 0 1-8-2021, 7:38:54 PM
+ramil (magistral) sent /go 0 0 0 just_test 1-8-2021, 7:41:33 PM
+ramil (magistral) sent /rawmap 1-8-2021, 7:41:58 PM
+ramil (magistral) sent /rawdata mapname:just_test
+maxx:30
+maxy:30
+maxz:100
+tile:0:30:0:30:0:0:grass
+amb:0:100:0:100:0:100:amb2.ogg
+.robots:0:30:0:30:0:0:1:1000:kirill1,kirill2,kirill3,kirill4 1-8-2021, 7:42:08 PM
+ramil (magistral) sent /rawdata mapname:just_test
+maxx:50
+maxy:50
+maxz:100
+tile:0:50:0:50:0:0:metal3 1-8-2021, 7:45:03 PM
+ramil (magistral) sent /go 0 0 0 store 1-8-2021, 7:54:06 PM
+ramil (magistral) sent /go 29 29 40 1-8-2021, 7:55:35 PM
+ramil (magistral) sent /go 2 2 0 1-8-2021, 7:57:27 PM
+ramil (magistral) sent /go 0 0 0 test 1-8-2021, 7:57:30 PM
+ramil (magistral) sent /go 0 500 0 1-8-2021, 7:57:44 PM
+ramil (magistral) sent /go 0 600 0 1-8-2021, 7:57:50 PM
+ramil (magistral) sent /go 0 700 0 1-8-2021, 7:58:26 PM
+ramil (magistral) sent /go 500 500 0 1-8-2021, 7:58:32 PM
+ramil (magistral) sent /go 2 2 0 1-8-2021, 7:58:45 PM
+ramil (magistral) sent /go 2 2 0 battles 1-8-2021, 7:59:07 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:00:14 PM
+ramil (magistral) sent /go 0 0 0 store 1-8-2021, 8:01:35 PM
+ramil (magistral) sent /rawmap 1-8-2021, 8:03:10 PM
+ramil (magistral) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:grass
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+noitems:0:500:0:500:0:199:guided_missile
+src:0:500:0:500:0:50:wind5.ogg
+tile:0:500:0:500:0:0:snow 1-8-2021, 8:03:41 PM
+ramil (magistral) sent /shelters 1-8-2021, 8:10:23 PM
+ramil (magistral) sent /go 0 100 0 1-8-2021, 8:15:11 PM
+ramil (magistral) sent /teamcreate 1-8-2021, 8:22:10 PM
+ramil (magistral) sent /teamcancel 1-8-2021, 8:22:25 PM
+ramil (magistral) sent /teamcreate 1-8-2021, 8:22:31 PM
+ramil (magistral) sent /teampass 5555 1-8-2021, 8:22:47 PM
+ramil (magistral) sent /teampass 1111 1-8-2021, 8:23:16 PM
+ramil (magistral) sent /admintell /jointeam test 1111 1-8-2021, 8:23:30 PM
+ramil (magistral) sent /go 0 0 0 just_test 1-8-2021, 8:26:13 PM
+ramil (magistral) sent /go 0 0 0 zalp 1-8-2021, 8:28:08 PM
+ramil (magistral) sent /rawmap 1-8-2021, 8:28:13 PM
+ramil (magistral) sent /go 0 0 0 just_test 1-8-2021, 8:28:35 PM
+ramil (magistral) sent /lchat dont know 1-8-2021, 8:31:01 PM
+ramil (magistral) sent /lchat fucking wo mic 1-8-2021, 8:31:04 PM
+ramil (magistral) sent /lchat wait 1 minit 1-8-2021, 8:31:10 PM
+ramil (magistral) sent /lchat screader ternd off 1-8-2021, 8:31:20 PM
+ramil (magistral) sent /lchat fdiuhirrer  1-8-2021, 8:31:21 PM
+ramil (magistral) sent /lchat its grenade 1-8-2021, 8:31:34 PM
+ramil (magistral) sent /teams 1-8-2021, 8:31:59 PM
+ramil (magistral) sent /lchat как там? 1-8-2021, 8:32:33 PM
+ramil (magistral) sent /lchat ok 1-8-2021, 8:32:40 PM
+ramil (magistral) sent /lchat aha, i dont can, ahfusdgfgsddufidyhs  f\ 1-8-2021, 8:32:53 PM
+ramil (magistral) sent /lchat аааава, он еще не врубился 1-8-2021, 8:34:18 PM
+ramil (magistral) sent /lchat не могу 1-8-2021, 8:34:47 PM
+ramil (magistral) sent /lchat ебанная прошивка, на 11 miui такого не было 1-8-2021, 8:35:03 PM
+ramil (magistral) sent /lchat ok 1-8-2021, 8:35:33 PM
+ramil (magistral) sent /lchat ubtade 1-8-2021, 8:35:36 PM
+ramil (magistral) sent /lchat make unloding 1-8-2021, 8:36:09 PM
+ramil (magistral) sent /lchat o my fucking miui 12 1-8-2021, 8:36:30 PM
+ramil (magistral) sent /lchat aha 1-8-2021, 8:36:37 PM
+ramil (magistral) sent /lchat go 1-8-2021, 8:36:51 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:37:05 PM
+ramil (magistral) sent /lchat 0 robots are currently spawned,  1-8-2021, 8:37:07 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:37:10 PM
+ramil (magistral) sent /lchat how many spawn time 1-8-2021, 8:37:27 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:37:29 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:37:48 PM
+ramil (magistral) sent /lchat inv to me 1-8-2021, 8:38:07 PM
+ramil (magistral) sent /lchat inv to me 1-8-2021, 8:38:14 PM
+ramil (magistral) sent /lchat yay 1-8-2021, 8:38:20 PM
+ramil (magistral) sent /lchat заговорило 1-8-2021, 8:38:24 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:47:24 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:50:50 PM
+ramil (magistral) sent /robotinfo 1-8-2021, 8:54:39 PM
+ramil (magistral) sent /teamcancel 1-8-2021, 8:57:16 PM
+ramil (magistral) sent /gnsubmit 15 1-8-2021, 8:57:25 PM
+ramil (magistral) sent /lchat a bigdog, health 30000, damage 800 20000, distance 4, speed time 400, is below, in front and a ways off to the left, 19 feet away.  1-8-2021, 8:58:26 PM

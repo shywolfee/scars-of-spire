@@ -1,0 +1,16 @@
+name gun
+health 100000
+defence 10000
+speed 600
+damage 7000,50000
+shoot 2500
+distance 30
+aggro 1000
+spread 3
+angle 10
+steps 2
+loot coin
+amount 6000
+shieldhits 10,200
+shieldchance 50
+xp 2000,2900

@@ -1,0 +1,16 @@
+name dragonfly
+health 15000
+defence 1000
+speed 200
+damage 100,10000
+shoot 300
+distance 15
+aggro 1000
+spread 1
+angle 10
+steps 1
+loot coin
+amount 300
+shieldhits 10,35
+shieldchance 3
+xp 100,500

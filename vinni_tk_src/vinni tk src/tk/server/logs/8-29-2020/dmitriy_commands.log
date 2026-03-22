@@ -1,0 +1,127 @@
+
+dmitriy (dmitriy) sent /jointeam friends 510141 8-29-2020, 10:22:38 AM
+dmitriy (dmitriy) sent /jointeam friends 5101411231 8-29-2020, 10:23:12 AM
+dmitriy (dmitriy) sent /jointeam friends 510141 8-29-2020, 10:23:19 AM
+dmitriy (dmitriy) sent /admins 8-29-2020, 10:23:25 AM
+dmitriy (dmitriy) sent /jointeam friends 510141 8-29-2020, 10:23:40 AM
+dmitriy (dmitriy) sent /jointeam friends 510141 8-29-2020, 10:29:14 AM
+dmitriy (dmitriy) sent /admins 8-29-2020, 10:34:02 AM
+dmitriy (dmitriy) sent /teamleave 8-29-2020, 11:39:20 AM
+dmitriy (dmitriy) sent /suicide 8-29-2020, 11:39:23 AM
+dmitriy (dmitriy) sent /jointeam friends 510141 8-29-2020, 11:39:36 AM
+dmitriy (dmitriy) sent /lchat mapname:store
+maxx:100
+maxy:100
+maxz:100
+zone:0:100:0:100:0:100:store
+zone:10:10:20:20:0:0:press enter to purchase something from the medical store.
+zone:10:10:0:0:0:0:passage to main.
+tile:0:100:0:100:0:0:marble
+src:0:100:0:100:0:30:super_market.ogg:-1
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:0:press enter to purchase something from the weapon store:trackme
+zone:0:0:10:10:0:0:press enter to buy something from the misc store:trackme
+zone:10:10:10:10:0:0:press enter to buy something from the explosive store:trackme
+vending_machine:5:95:0
+tile:0:0:10:10:0:0:beam
+tile:10:10:0:0:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:0:0:0:0:carpet2
+tile:10:10:10:10:0:0:beam
+zone:5:5:95:95:0:0:vending machine:trackme
+zone:15:15:0:0:0:2:to go to boxing ring, press enter:trackme
+tile:15:15:0:0:0:0:carpet2
+travelpoint:15:15:0:0:0:0:boxing_ring:15:1:40:die! 
+tile:25:25:0:0:0:0:carpet2
+zone:25:25:0:0:0:0:kaboom:trackme
+travelpoint:25:25:0:0:0:0:kaboom:0:0:0:kaboom
+zone:35:35:0:0:0:0:passage to common_room:trackme
+tile:35:35:0:0:0:0:carpet2
+travelpoint:35:35:0:0:0:0:store:0:0:100:here you can rest after a hard day! 
+zone:40:40:0:0:0:0:to enter the sediment map, press enter:trackme
+tile:40:40:0:0:0:0:carpet2
+travelpoint:40:40:0:0:0:0:sediment:0:0:1:yese
+tile:45:45:0:0:0:0:carpet2
+tile:30:30:0:0:0:0:carpet2
+zone:30:30:0:0:0:0:to enter the old main map, press enter:trackme
+travelpoint:30:30:0:0:0:0:old_main:0:0:1:yes! old main! 
+tile:50:50:0:0:0:0:carpet2
+zone:50:50:0:0:0:0:to go to zalp map, press enter:trackme
+travelpoint:50:50:0:0:0:0:zalp:0:0:1:survive!
+tile:55:55:0:0:0:0:carpet2
+zone:55:55:0:0:0:0:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:55:55:0:0:0:0:cage:0:0:20:die
+tile:20:20:0:0:0:0:carpet2
+tile:5:5:95:95:0:0:beam
+tile:0:20:0:20:100:100:carpet2
+zone:0:20:0:20:100:801000000:common room
+zone:0:0:0:0:100:100:elevator:trackme
+tile:0:0:0:0:100:100:marble
+travelpoint:0:0:0:0:100:100:store:30:0:2:elevator
+tile:0:20:20:20:100:5000:wallbank
+tile:0:20:20:20:100:140:wallgeneric
+tile:20:20:0:20:100:140:wallgeneric
+zone:45:45:0:0:0:0:enter to the bar:trackme
+travelpoint:45:45:0:0:0:0:bar:0:0:2:you jump to the bar
+zone:20:20:0:0:0:0:to enter the morgue and nafig to die from the cold, press enter:trackme
+travelpoint:20:20:0:0:0:0:morgue:0:0:10:you are very cold, you are thinking about running away
+tile:20:20:10:10:0:0:metal5
+zone:20:20:10:10:0:5:vehicle_store:beam
+noitems:0:500:0:500:-100:400:motion_bomb:robot:stun_dart:security_bomb:remote_gun:timebomb:health_dart:impact_bomb:aircraft:wood:guided_missile:ultrabomb:bullet_bomb:stun_grenade:helicopter:stone:tasing_small_projectile:sky_436_mine:robocop:poisoned_small_projectile:item_grabber:fire_ball:nuclear_bomb:stp429_mini_missile:snowball:wirebomb:poison_dart:remote_timebomb:mine:concussive_grenade:small_projectile:mass_bomb:suicide_bomb:pipe_bomb:bottle_bomb:grenade:throwing_star:warp_box:barricade_bomb:carrier_missile:remote_bomb:hand_grenade
+travelpoint:5:5:0:0:0:10:best:0:50:0:you entered a small arsenal warehouse
+zone:5:5:0:0:0:10:entrance to a small warehouse:trackme
+travelpoint:60:60:0:0:0:0:restoran:0:0:0:you entered a small restaurant
+tile:60:60:0:0:0:0:carpet2
+zone:60:60:0:0:0:100:?? ??????  enter the restaurant:trackme
+tile:5:5:0:0:0:0:carpet2
+travelpoint:65:65:0:0:0:40:sea:0:0:0:ok
+zone:65:65:0:0:0:40:pasage to sea:trackme
+tile:65:65:0:0:0:0:tile
+tile:65:65:0:0:0:0:tile3
+tile:65:65:0:0:0:0:carpet2
+tile:50:50:50:50:0:0:diamond
+zone:50:50:50:50:0:50:put a coin:trackme
+tile:0:0:50:50:0:0:metal5
+tile:0:100:0:100:0:0:piano 8-29-2020, 12:59:42 PM
+dmitriy (dmitriy) sent /staats gamer 8-29-2020, 1:06:15 PM
+dmitriy (dmitriy) sent /shteam set 8-29-2020, 1:36:52 PM
+dmitriy (dmitriy) sent /shteam set 8-29-2020, 1:37:09 PM
+dmitriy (dmitriy) sent /shteam set 8-29-2020, 1:37:16 PM
+dmitriy (dmitriy) sent /lchat f 8-29-2020, 2:34:06 PM
+dmitriy (dmitriy) sent /lchat f 8-29-2020, 2:34:07 PM
+dmitriy (dmitriy) sent /events 8-29-2020, 7:52:06 PM
+dmitriy (dmitriy) sent /joinevent 0856 8-29-2020, 7:52:18 PM
+dmitriy (dmitriy) sent /events 8-29-2020, 7:52:54 PM
+dmitriy (dmitriy) sent /joinevent 0865 8-29-2020, 7:53:14 PM
+dmitriy (dmitriy) sent /inv 8-29-2020, 7:54:40 PM
+dmitriy (dmitriy) sent /sell 8-29-2020, 7:58:33 PM
+dmitriy (dmitriy) sent /suicide 8-29-2020, 8:04:21 PM
+dmitriy (dmitriy) sent /leaveevent 8-29-2020, 8:04:39 PM
+dmitriy (dmitriy) sent /shteam set 8-29-2020, 8:31:33 PM
+dmitriy (dmitriy) sent /teamleave 8-29-2020, 8:37:41 PM
+dmitriy (dmitriy) sent /suicide 8-29-2020, 8:37:45 PM
+dmitriy (dmitriy) sent /jointeam friends 510141 8-29-2020, 8:38:37 PM
+dmitriy (dmitriy) sent /robotinfo 8-29-2020, 8:48:31 PM
+dmitriy (dmitriy) sent /shteam set 8-29-2020, 8:48:37 PM
+dmitriy (dmitriy) sent /shadd pyspil 8-29-2020, 9:18:39 PM
+dmitriy (dmitriy) sent /shteam set 8-29-2020, 9:33:42 PM
+dmitriy (dmitriy) sent /shadd vadim 8-29-2020, 9:37:16 PM
+dmitriy (dmitriy) sent /shadd vadimka 8-29-2020, 9:37:23 PM
+dmitriy (dmitriy) sent /teamcreate 8-29-2020, 9:37:56 PM
+dmitriy (dmitriy) sent /pass 510141 8-29-2020, 9:38:09 PM
+dmitriy (dmitriy) sent /pass 510141 8-29-2020, 9:38:26 PM
+dmitriy (dmitriy) sent /pass 510141 8-29-2020, 9:38:39 PM
+dmitriy (dmitriy) sent /teampass 510141 8-29-2020, 9:38:52 PM
+dmitriy (dmitriy) sent /teamremove vadimka 8-29-2020, 9:41:09 PM
+dmitriy (dmitriy) sent /teamleave 8-29-2020, 9:45:57 PM
+dmitriy (dmitriy) sent /suicide 8-29-2020, 9:46:00 PM
+dmitriy (dmitriy) sent /lchat near the warehouse 8-29-2020, 9:46:42 PM
+dmitriy (dmitriy) sent /teamremove vadimka 8-29-2020, 9:47:33 PM
+dmitriy (dmitriy) sent /stats vadimka 8-29-2020, 10:04:48 PM
+dmitriy (dmitriy) sent /robotinfo 8-29-2020, 10:13:09 PM
+dmitriy (dmitriy) sent /teamremove vadimka 8-29-2020, 10:15:39 PM
+dmitriy (dmitriy) sent /robotinfo 8-29-2020, 10:25:38 PM
+dmitriy (dmitriy) sent /robotinfo 8-29-2020, 10:25:50 PM
+dmitriy (dmitriy) sent /robotinfo 8-29-2020, 10:25:53 PM
+dmitriy (dmitriy) sent /robotinfo 8-29-2020, 10:26:27 PM
+dmitriy (dmitriy) sent /robotinfo 8-29-2020, 10:27:13 PM

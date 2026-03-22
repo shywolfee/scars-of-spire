@@ -1,0 +1,18 @@
+mapname:tower
+maxx:250
+maxy:300
+maxz:1100
+tile:0:250:0:300:0:0:dirt1
+zone:0:250:0:300:0:1100:tower
+tile:20:46:199:199:0:1000:wallbank
+tile:47:48:199:199:0:10:walldoor2
+tile:49:200:199:199:0:1000:wallbank
+tile:47:48:199:199:11:1000:wallbank
+tile:20:20:200:300:0:1000:wallbank
+tile:200:200:200:300:0:1000:wallbank
+tile:21:199:200:300:0:0:cement
+travelpoint:47:48:200:200:0:10:tower:47:198:0:you left the tower
+zone:47:48:198:198:0:10:entrance to the tower
+travelpoint:47:48:198:198:0:10:tower:47:200:0:you entered the tower
+zone:47:48:200:200:0:10:exit from the tower
+tile:21:21:215:215:0:15:metal4

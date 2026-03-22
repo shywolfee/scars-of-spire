@@ -1,0 +1,29 @@
+mapname:sewage
+maxx:100
+maxy:50
+maxz:10
+tile:0:100:0:50:0:0:pipe
+zone:0:100:0:50:0:10:sewage
+tile:0:0:0:19:0:0:tile1
+tile:1:1:0:19:0:10:wallscreen
+tile:0:45:21:21:0:10:wallscreen
+tile:2:55:19:19:0:10:wallscreen
+tile:56:56:19:31:0:10:wallscreen
+tile:57:63:31:31:0:10:wallscreen
+tile:63:63:32:35:0:10:wallscreen
+tile:45:45:22:31:0:10:wallscreen
+tile:41:44:31:31:0:10:wallscreen
+tile:41:41:32:35:0:10:wallscreen
+tile:41:63:36:36:0:10:wallscreen
+tile:46:55:20:35:0:0:sewer
+travelpoint:62:62:32:35:0:10:sewage:64:33:0:you went further through the pipes
+travelpoint:64:64:32:35:0:10:sewage:62:33:0:you come back
+tile:1:1:20:20:4:10:wallscreen
+travelpoint:0:0:0:0:0:0:store:0:0:0:you climbed back to the store
+robots:0:100:0:50:0:0:1:0:rat
+src:46:55:20:35:0:10:sewer.ogg
+src:50:100:0:50:0:10:waterdrip1.ogg
+src:0:100:0:50:0:10:waterdrip.ogg
+travelpoint:42:42:32:35:0:10:c_system:0:0:0:You are now in the cyberdine systems building!
+zone:42:42:32:35:0:10:Here is another door:trackme
+zone:62:64:32:35:0:10:door:trackme

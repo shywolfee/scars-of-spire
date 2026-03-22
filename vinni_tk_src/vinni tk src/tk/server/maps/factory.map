@@ -1,0 +1,66 @@
+mapname:factory
+maxx:500
+maxy:700
+maxz:200
+tile:0:500:0:700:0:0:concrete6
+zone:0:500:0:700:0:200:factory yard
+tile:0:500:0:0:0:200:wallbank
+tile:0:500:700:700:0:200:wallbank
+tile:0:0:1:699:0:200:wallbank
+tile:500:500:1:699:0:200:wallbank
+tile:445:455:700:700:0:10:walldoor2
+src:0:500:0:700:0:15:factory1.ogg
+src:450:450:699:700:0:10:flag.ogg
+zone:445:455:699:700:0:10:return to kpp:trackme
+travelpoint:445:455:699:699:0:10:kpp:50:1:0:you left the factory yard
+tile:497:499:697:699:1:49:wallsheetrock
+tile:494:499:697:699:50:50:plexi
+tile:498:498:698:698:0:50:plywood
+tile:497:499:700:700:50:60:walldoor1
+src:497:499:699:700:50:60:flag.ogg
+tile:148:152:148:152:1:99:wallfence1
+tile:55:245:55:245:100:100:metal4
+tile:150:150:150:150:0:100:metal3
+zone:55:245:55:245:100:150:solar battery tower 1
+zone:150:150:150:150:0:150:solar staircase 1:trackme
+tile:148:152:348:352:1:99:wallfence1
+tile:55:245:255:445:100:100:metal4
+tile:150:150:350:350:0:100:metal3
+zone:55:245:255:445:100:150:solar battery tower 2
+zone:150:150:350:350:0:150:solar staircase 2:trackme
+travelpoint:497:499:699:700:50:60:office:498:1:50:you went to the office, when you met here with smiles and now in bursts
+tile:148:152:548:552:1:99:wallfence1
+tile:55:245:455:645:100:100:metal4
+tile:150:150:550:550:0:100:metal3
+zone:55:245:455:645:100:150:solar battery tower 3
+zone:150:150:550:550:0:150:solar staircase 3:trackme
+tile:348:352:148:152:1:99:wallfence1
+tile:255:445:55:245:100:100:metal4
+tile:350:350:150:150:0:100:metal3
+zone:255:445:55:245:100:150:solar battery tower 4
+zone:350:350:150:150:0:150:solar staircase 4:trackme
+tile:348:352:348:352:1:99:wallfence1
+tile:255:445:255:445:100:100:metal4
+tile:350:350:350:350:0:100:metal3
+zone:255:445:255:445:100:150:solar battery tower 5
+zone:350:350:350:350:0:150:solar staircase 5:trackme
+tile:348:352:548:552:1:99:wallfence1
+tile:255:445:455:645:100:100:metal4
+tile:350:350:550:550:0:100:metal3
+zone:494:499:697:699:50:60:second floor
+zone:498:498:698:698:0:60:staircase to the second floor
+zone:497:499:699:699:50:60:office door:trackme
+zone:255:445:455:645:100:150:solar battery tower 6
+zone:350:350:550:550:0:150:solar staircase 6:trackme
+robots:1:499:1:699:0:99:2:0:securityguard,train,train,fly,mosquito
+tile:1:50:335:375:100:100:metal2
+tile:1:50:334:334:100:105:wallbank
+tile:1:50:334:334:105:105:stone2
+tile:1:50:376:376:100:105:wallbank
+tile:1:50:376:376:105:105:stone2
+tile:0:0:340:360:100:115:wallgate
+src:0:500:0:700:110:150:hospital9.ogg
+src:0:1:350:350:100:110:flag.ogg
+zone:0:50:334:376:100:150:observation platform
+zone:0:1:340:360:100:115:gates to the quarry:trackme
+travelpoint:0:1:340:360:100:115:quarry:499:550:100:you went to a quarry where you get minerals for robots

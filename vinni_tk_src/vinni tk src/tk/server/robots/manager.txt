@@ -1,0 +1,16 @@
+name manager
+health 35000
+defence 1000
+speed 500
+damage 300,15000
+shoot 1000
+distance 6
+aggro 1000
+spread 3
+angle 90
+steps 0
+loot coin
+amount 500
+shieldhits 10,50
+shieldchance 30
+xp 150,300

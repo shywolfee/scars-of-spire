@@ -1,0 +1,16 @@
+name fly
+health 7000
+defence 300
+speed 100
+damage 200,3000
+shoot 700
+distance 4
+aggro 1000
+spread 1
+angle 90
+steps 1
+loot coin
+amount 30
+shieldhits 10,25
+shieldchance 10
+xp 50,70

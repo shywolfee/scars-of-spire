@@ -1,0 +1,414 @@
+
+Lordral (Lordral) sent /rawmamap 8-10-2020, 1:11:32 PM
+Lordral (Lordral) sent /ravmap 8-10-2020, 1:11:58 PM
+Lordral (Lordral) sent /rawmap 8-10-2020, 1:12:03 PM
+Lordral (Lordral) sent /rawdata 8-10-2020, 1:13:37 PM
+Lordral (Lordral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:13:43 PM
+Lordral (Lordral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:14:42 PM
+Lordral (Lordral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:14:55 PM
+Lordral (Lordral) sent /admingun 8-10-2020, 1:17:26 PM
+Lordral (Lordral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:20:31 PM
+Lordral (Lordral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:20:56 PM
+Lordral (Lordral) sent /rawmap  8-10-2020, 1:21:08 PM
+Lordral (Lordral) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+fightingstate:1
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok 8-10-2020, 1:22:08 PM
+Lordral (Lordral) sent /afk 8-10-2020, 1:26:31 PM
+Lordral (Lordral) sent /afk 8-10-2020, 1:26:37 PM
+Lordral (Lordral) sent /afk 8-10-2020, 1:27:32 PM
+Lordral (Lordral) sent /afk 8-10-2020, 1:27:43 PM
+Lordral (Lordral) sent /afk 8-10-2020, 1:27:52 PM
+Lordral (Lordral) sent /adminhelp 8-10-2020, 1:42:03 PM
+Lordral (Lordral) sent /garbage_collect 8-10-2020, 1:46:55 PM
+Lordral (Lordral) sent /garbage_collect 8-10-2020, 1:46:57 PM
+Lordral (Lordral) sent /garbage_collect 8-10-2020, 1:46:57 PM
+Lordral (Lordral) sent /garbage_collect 8-10-2020, 1:46:58 PM
+Lordral (Lordral) sent /garbage_collect 8-10-2020, 1:46:59 PM
+Lordral (Lordral) sent /mineclear
+ 8-10-2020, 1:47:04 PM
+Lordral (Lordral) sent /mineclear 8-10-2020, 1:47:09 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:47:20 PM
+Lordral (Lordral) sent /shockwave
+ 8-10-2020, 1:47:23 PM
+Lordral (Lordral) sent /shockwave
+ 8-10-2020, 1:47:24 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:47:27 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:47:28 PM
+Lordral (Lordral) sent /shockwave. 8-10-2020, 1:47:30 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:47:31 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:47:32 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:47:33 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:47:33 PM
+Lordral (Lordral) sent /countbombs 8-10-2020, 1:47:38 PM
+Lordral (Lordral) sent /fireoutall
+ 8-10-2020, 1:47:44 PM
+Lordral (Lordral) sent /fireoutall 8-10-2020, 1:47:46 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 1:48:30 PM
+Lordral (Lordral) sent /garbege_collect 8-10-2020, 1:48:42 PM
+Lordral (Lordral) sent /garbage_collect 8-10-2020, 1:49:07 PM
+Lordral (Lordral) sent /adminkill 8-10-2020, 1:49:24 PM
+Lordral (Lordral) sent /adminhelp 8-10-2020, 1:49:31 PM
+Lordral (Lordral) sent /newmotd Добрый день. Примерно через ниделю выйдет новая версия. Что в ней?: 1. зульфикар, оружие нового поколения. Характеристики не скажу, пусть пока будет тайной. Уверен, что новая снайперка вам понравиться, а ведь потом попрут пулимёты на 400, 500 патронов! 2 Изменено и добавленно много звуков. ждём релиз! 8-10-2020, 1:54:31 PM
+Lordral (Lordral) sent /sethealth Ramil 0 8-10-2020, 1:55:34 PM
+Lordral (Lordral) sent /sethealth ramil 0 8-10-2020, 1:55:42 PM
+Lordral (Lordral) sent /lchat || 8-10-2020, 2:09:04 PM
+Lordral (Lordral) sent /i/inv 8-10-2020, 4:27:38 PM
+Lordral (Lordral) sent /inv 8-10-2020, 4:27:41 PM
+Lordral (Lordral) sent /inv 8-10-2020, 4:28:24 PM
+Lordral (Lordral) sent /afk 8-10-2020, 4:28:25 PM
+Lordral (Lordral) sent //afk 8-10-2020, 4:28:34 PM
+Lordral (Lordral) sent /move Lordral 00 222222222222  8-10-2020, 4:29:11 PM
+Lordral (Lordral) sent /inv 8-10-2020, 4:29:27 PM
+Lordral (Lordral) sent /inv 8-10-2020, 4:29:51 PM
+Lordral (Lordral) sent /give Lordral coin 222222223333 8-10-2020, 4:36:13 PM
+Lordral (Lordral) sent /give Lordral coin 3939393333 8-10-2020, 4:36:48 PM
+Lordral (Lordral) sent /give Lordral coin 9999999999 8-10-2020, 4:37:35 PM
+Lordral (Lordral) sent /afk 8-10-2020, 4:39:36 PM
+Lordral (Lordral) sent /afk 8-10-2020, 4:39:52 PM
+Lordral (Lordral) sent /shockwave 8-10-2020, 7:42:09 PM
+Lordral (Lordral) sent /adminhelp 8-10-2020, 7:42:29 PM
+Lordral (Lordral) sent /garbage_collect 8-10-2020, 7:43:15 PM
+Lordral (Lordral) sent /inv 8-10-2020, 7:58:40 PM
+Lordral (Lordral) sent /inv 8-10-2020, 7:59:23 PM
+Lordral (Lordral) sent /reboot 8-10-2020, 8:05:48 PM
+Lordral (Lordral) sent /inv 8-10-2020, 8:14:35 PM
+Lordral (Lordral) sent /inv 8-10-2020, 8:16:04 PM

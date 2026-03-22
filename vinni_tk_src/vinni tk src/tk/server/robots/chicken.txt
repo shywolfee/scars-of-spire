@@ -1,0 +1,16 @@
+name chicken
+health 5000
+defence 100
+speed 300
+damage 400,4000
+shoot 500
+distance 4
+aggro 1000
+spread 1
+angle 90
+steps 1
+loot coin
+amount 50
+kills 4
+voices 5
+pains 4

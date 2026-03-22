@@ -1,0 +1,212 @@
+
+ramil (magistral) sent /joinevent 0476 12-30-2020, 1:39:53 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 1:42:27 PM
+ramil (magistral) sent /jointeam leaders admin 12-30-2020, 1:46:00 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 1:46:47 PM
+ramil (magistral) sent /joinevent 0476 12-30-2020, 1:51:05 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 1:51:29 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 1:52:30 PM
+ramil (magistral) sent /gnsubmit 15 12-30-2020, 1:54:59 PM
+ramil (magistral) sent /s57 12-30-2020, 2:00:49 PM
+ramil (magistral) sent /robotinfi 12-30-2020, 2:05:38 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 2:05:41 PM
+ramil (magistral) sent /gnsubmit 1 12-30-2020, 2:05:42 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 2:06:27 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 2:06:35 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 2:08:23 PM
+ramil (magistral) sent /robotinfo 12-30-2020, 2:09:27 PM
+ramil (magistral) sent /suicide 12-30-2020, 2:09:39 PM
+ramil (magistral) sent /s56 12-30-2020, 2:09:57 PM
+ramil (magistral) sent /s57 12-30-2020, 2:10:04 PM
+ramil (magistral) sent /leaveevent 12-30-2020, 2:11:13 PM
+ramil (magistral) sent /s44 12-30-2020, 2:11:57 PM
+ramil (magistral) sent /events 12-30-2020, 3:37:54 PM
+ramil (magistral) sent /joinevent 0476 12-30-2020, 3:38:06 PM
+ramil (magistral) sent /go 0 100 0 12-30-2020, 3:45:22 PM
+ramil (magistral) sent /where nikita-k 12-30-2020, 3:45:38 PM
+ramil (magistral) sent /go 150 40 0 12-30-2020, 3:46:15 PM
+ramil (magistral) sent /go 0 0 0 12-30-2020, 3:46:19 PM
+ramil (magistral) sent /go 100 50 49 12-30-2020, 3:46:32 PM
+ramil (magistral) sent /beacon 12-30-2020, 3:49:26 PM
+ramil (magistral) sent /lchat 0, 40, 11.  12-30-2020, 3:51:54 PM
+ramil (magistral) sent /rawmap 12-30-2020, 4:00:05 PM
+ramil (magistral) sent /go 5 5 0 12-30-2020, 4:04:32 PM
+ramil (magistral) sent /rawdata mapname:dangerous_place
+maxx:100
+maxy:100
+maxz:20000
+tile:0:100:0:100:0:0:tile
+zone:0:100:0:100:0:100:dangerous place
+tile:0:100:0:100:0:0:concrete34
+tile:1:99:0:99:0:100:wallstone1
+tile:0:0:10:10:0:4:teleport
+tile:0:0:12:12:0:4:teleport
+tile:0:0:14:15:0:3:teleport
+tile:0:0:20:24:0:0:hazard
+tile:0:0:30:49:0:10:hazard
+tile:1:1:29:29:6:6:hardwood
+tile:1:1:30:32:6:6:hardwood
+tile:0:0:32:32:6:6:hardwood
+tile:0:0:32:32:7:10:blank
+tile:0:0:33:33:11:11:hardwood
+tile:0:0:35:35:15:15:hardwood
+tile:0:0:40:40:11:11:hardwood
+tile:1:1:40:40:16:16:hardwood
+tile:1:1:40:40:17:23:blank
+tile:0:0:41:41:21:21:hardwood
+tile:0:0:47:47:15:15:hardwood
+tile:0:0:51:51:11:11:hardwood
+tile:0:0:51:51:7:7:hardwood
+tile:0:0:60:60:0:2:hazard
+tile:0:0:65:69:0:0:hazard
+tile:0:0:75:99:0:100:hazard
+tile:0:0:75:75:5:5:hardwood
+tile:0:0:75:75:6:7:blank
+tile:0:0:76:77:6:6:hardwood
+tile:0:0:75:75:6:6:hardwood
+tile:0:0:78:80:5:5:hardwood
+tile:0:0:77:77:5:5:hardwood
+tile:0:0:80:82:4:4:hardwood
+tile:0:0:82:84:3:3:hardwood
+tile:0:0:84:86:2:2:hardwood
+tile:0:0:86:88:1:1:hardwood
+
+tile:0:0:88:90:0:0:hardwood
+tile:1:1:90:90:0:0:hardwoodmapname:bolgelo
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:tile
+zone:0:100:0:100:0:100:dangerous place
+tile:0:100:0:100:0:0:concrete34
+tile:1:99:0:99:0:100:wallstone1
+tile:0:0:10:10:0:4:teleport
+tile:0:0:12:12:0:4:teleport
+tile:0:0:14:15:0:3:teleport
+tile:0:0:20:24:0:0:hazard
+tile:0:0:30:49:0:10:hazard
+tile:1:1:29:29:6:6:hardwood
+tile:1:1:30:32:6:6:hardwood
+tile:0:0:32:32:6:6:hardwood
+tile:0:0:32:32:7:10:blank
+tile:0:0:33:33:11:11:hardwood
+tile:0:0:35:35:15:15:hardwood
+tile:0:0:40:40:11:11:hardwood
+tile:1:1:40:40:16:16:hardwood
+tile:1:1:40:40:17:23:blank
+tile:0:0:41:41:21:21:hardwood
+tile:0:0:47:47:15:15:hardwood
+tile:0:0:51:51:11:11:hardwood
+tile:0:0:51:51:7:7:hardwood
+tile:0:0:60:60:0:4:hazard
+tile:0:0:65:69:0:0:hazard
+tile:0:0:75:99:0:100:hazard
+tile:0:0:75:75:5:5:hardwood
+tile:0:0:75:75:6:7:blank
+tile:0:0:76:77:6:6:hardwood
+tile:0:0:75:75:6:6:hardwood
+tile:0:0:78:80:5:5:hardwood
+tile:0:0:77:77:5:5:hardwood
+tile:0:0:80:82:4:4:hardwood
+tile:0:0:82:84:3:3:hardwood
+tile:0:0:84:86:2:2:hardwood
+tile:0:0:86:88:1:1:hardwood
+
+tile:0:0:88:90:0:0:hardwood
+
+tile:1:1:91:91:0:0:hardwood
+
+tile:1:1:92:92:0:0:hardwood
+tile:0:0:92:92:0:0:hardwood
+tile:0:0:93:93:0:0:hardwood
+tile:1:1:94:94:0:0:hardwood
+tile:1:1:95:95:0:0:hardwood
+tile:0:0:95:96:0:0:hardwood
+tile:1:1:97:97:0:0:hardwood
+tile:1:1:98:98:0:0:hardwood
+tile:0:0:98:99:0:0:hardwood
+zone:0:0:100:100:0:100:well done, you completed the first part, I'll tell you a secret, there will be two more, good luck!!!
+
+
+src:5:80:100:100:0:0:oven.ogg
+zone:1:80:100:100:0:100:under you is a huge cauldron of boiling water, it is better not to fall into it
+tile:5:5:100:100:0:4:wallmedal1
+tile:5:5:100:100:5:5:metal7
+tile:6:79:100:100:0:0:hazard
+tile:10:10:100:100:5:5:metal7
+tile:14:14:100:100:5:5:metal7
+tile:15:15:100:100:10:10:metal7
+tile:17:17:100:100:15:15:metal7
+tile:20:20:100:100:20:20:metal7
+tile:30:30:100:100:10:10:metal7
+tile:35:35:100:100:10:10:metal
+tile:35:36:100:100:11:11:metal7
+tile:36:37:100:100:12:12:metal7
+tile:37:38:100:100:13:13:metal7
+tile:38:39:100:100:14:14:metal7
+tile:39:39:100:100:15:15:metal7
+tile:39:39:100:100:15:30:metal7
+tile:40:60:100:100:30:30:metal7
+tile:41:45:100:100:30:30:blank
+tile:50:50:100:100:30:30:hazard
+tile:51:51:100:100:30:30:teleport
+tile:52:52:100:100:30:30:stun
+tile:63:63:100:100:27:27:metal7
+tile:64:64:100:100:26:26:metal7
+tile:65:65:100:100:25:25:metal7
+tile:66:66:100:100:24:24:metal7
+tile:67:67:100:100:23:23:metal7
+tile:68:68:100:100:22:22:metal7
+tile:69:69:100:100:21:21:teleport
+tile:70:70:100:100:20:20:metal7
+tile:75:75:100:100:20:20:metal7
+tile:75:80:100:100:25:25:hazard
+tile:80:80:100:100:10:10:metal7
+tile:80:80:100:100:0:5:wallmedal1
+tile:81:81:100:100:5:5:metal7
+zone:100:100:100:100:0:10:almost over! just a little more!
+tile:100:100:90:90:0:10:hazard
+tile:100:100:90:90:2:4:blank
+tile:100:100:85:85:0:10:hazard
+tile:100:100:85:85:2:3:blank
+zone:100:100:81:84:0:100:just one advice, dont jump!
+tile:100:100:60:80:6:6:hazard
+tile:100:100:60:80:0:0:stun
+tile:100:100:56:56:0:4:teleport
+travelpoint:100:100:50:50:49:49:store:5:5:0:you opened the hatch and went up
+zone:100:100:50:50:49:49:press enter to open the hatch.
+tile:100:100:49:51:10:50:wallstone1
+tile:100:100:50:50:0:50:metal7
+tile:0:100:0:100:50:50:wallstone
+tile:100:100:50:50:50:50:wallmetal9
+
+tile:0:100:0:100:100:100:short_grass
+src:0:100:0:100:100:150:background1.ogg
+zone:0:100:0:100:100:150:forest
+tile:0:100:0:100:99:99:walldirt
+zone:100:100:50:50:100:150:and so, you got out... now go to the West
+tile:75:80:100:100:25:25:blank
+noitems:0:100:0:100:0:100000:warp_box:concussive_grenade:frequency_scrambler:tank:police_car:armored_tank:aircraft
+fightingstate:0
+noitems:0:300:0:300:0:1000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+tile:1:1:96:96:0:0:hardwood
+tile:1:1:93:93:0:0:hardwood
+tile:100:100:85:85:1:1:blank
+tile:0:100:0:100:51:51:hazard 12-30-2020, 4:04:39 PM
+ramil (magistral) sent /go 0 19 0 12-30-2020, 4:04:43 PM
+ramil (magistral) sent /sell 12-30-2020, 4:10:18 PM
+ramil (magistral) sent /sucidie 12-30-2020, 4:11:00 PM
+ramil (magistral) sent /siocode 12-30-2020, 4:11:21 PM
+ramil (magistral) sent /siocode 12-30-2020, 4:11:23 PM
+ramil (magistral) sent /suicide 12-30-2020, 4:11:27 PM
+ramil (magistral) sent /gnsubmit 1 12-30-2020, 4:56:35 PM
+ramil (magistral) sent /gnsubmit 2 12-30-2020, 4:56:37 PM
+ramil (magistral) sent /go 0 0 0 12-30-2020, 7:13:33 PM
+ramil (magistral) sent /event 12-30-2020, 7:17:53 PM
+ramil (magistral) sent /events 12-30-2020, 7:17:55 PM
+ramil (magistral) sent /lchat 7 times frant 12-30-2020, 7:28:16 PM
+ramil (magistral) sent /lchat front 12-30-2020, 7:28:21 PM
+ramil (magistral) sent /where krokodailtop 12-30-2020, 10:48:00 PM
+ramil (magistral) sent /s57 12-30-2020, 10:49:09 PM
+ramil (magistral) sent /where krokodailtop 12-30-2020, 10:49:22 PM
+ramil (magistral) sent /where krokodailtop 12-30-2020, 10:49:54 PM

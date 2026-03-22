@@ -1,0 +1,45 @@
+mapname:the_lost_city
+maxx:500
+maxy:500
+maxz:100
+tile:0:500:0:500:0:0:tile:concrite
+tile:0:500:0:500:0:0:concrete12
+zone:0:0:40:50:0:50:passage to the road
+zone:1:500:0:500:0:100:the lost city
+zone:0:0:0:39:0:100:the lost city
+zone:0:0:51:500:0:100:the lost city
+tile:246:252:48:48:1:50:wallborder
+tile:246:246:49:54:1:50:wallborder
+tile:252:252:49:54:1:50:wallborder
+tile:246:252:55:55:1:30:wallborder
+tile:247:251:49:54:0:30:ladder2
+src:0:500:0:500:0:100:birds36.ogg
+tile:246:246:56:151:0:50:wallstone
+tile:301:301:56:151:0:50:wallstone
+tile:247:300:151:151:0:50:wallstone
+tile:247:300:56:150:30:30:stone
+tile:253:300:55:55:0:50:wallstone
+tile:247:251:55:55:30:30:stone
+zone:247:251:49:55:0:50:staircase to the ruined house
+zone:247:300:56:150:30:50:ruined house
+tile:301:301:55:55:0:50:wallstone
+tile:303:303:0:55:0:50:wallstone
+tile:403:403:0:55:0:50:wallstone
+tile:203:203:0:55:0:50:wallstone
+tile:346:348:299:299:0:10:walldoor2
+tile:345:345:299:500:0:50:wallplastic
+tile:349:401:299:299:0:50:wallplastic
+tile:401:401:300:500:0:50:wallplastic
+zone:346:400:300:500:0:50:hunting paradise store
+tile:346:400:300:500:0:0:stone
+zone:346:348:300:300:0:10:door leading to the street
+travelpoint:346:348:300:300:0:10:the_lost_city:347:298:0:after successfully collecting weapons in this wonderful store, you go out with a smile on your face.
+travelpoint:346:348:298:298:0:10:the_lost_city:347:300:0:you enter the arms store. On the floor are various weapons that we think you should collect.
+zone:346:348:298:298:0:10:door to the store hunting paradise
+travelpoint:0:0:40:50:0:10:road_to_the_lost_city:300:45:0:you are back on the road leading to the lost city
+zone:500:500:0:20:0:50:passage to the hospital
+travelpoint:500:500:0:20:0:10:hospital:1:10:0:You entered the hospital. Instead of the usual smell of medicines. the smell of a bullet and lead hit you in the nose. Perhaps these are new treatments.
+tile:246:252:55:55:0:0:wallstone
+tile:247:300:56:150:0:29:wallstone
+tile:252:252:48:54:0:0:wallborder
+tile:246:246:48:54:0:0:wallborder

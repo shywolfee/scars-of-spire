@@ -1,0 +1,1 @@
+Hey guys, sorry for the unexpected downtime. The box was running but somehow our servers weren't. Things have been restarted, and we will examine the machine to make sure our startup scripts are working, in case linode drops is what's causing this.

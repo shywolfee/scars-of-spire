@@ -1,0 +1,252 @@
+
+nikita-k (nikita-k) sent /chars 1-17-2021, 10:29:46 AM
+nikita-k (nikita-k) sent /peak 1-17-2021, 10:31:06 AM
+nikita-k (nikita-k) sent /admr kaunghtet where 1-17-2021, 10:32:23 AM
+nikita-k (nikita-k) sent /lchat wa 1-17-2021, 10:37:27 AM
+nikita-k (nikita-k) sent /gnsubmit 20 1-17-2021, 10:39:25 AM
+nikita-k (nikita-k) sent /r ok 1-17-2021, 10:41:17 AM
+nikita-k (nikita-k) sent /go 5 5 0 1-17-2021, 11:04:22 AM
+nikita-k (nikita-k) sent /changemap nikita-k lern 1-17-2021, 11:51:57 AM
+nikita-k (nikita-k) sent /rawmap 1-17-2021, 11:52:17 AM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge
+tile:10:10:10:10:10:10:ash
+url:http://ep128.streamr.ru 1-17-2021, 11:52:42 AM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge
+tile:10:10:10:10:10:10:ash 1-17-2021, 11:53:38 AM
+nikita-k (nikita-k) sent /rawmap 1-17-2021, 12:03:59 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+amb:0:100:0:100:0:13:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:100:0:100:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+src:0:0:0:0:0:0:bighall.ogg
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+tile:10:10:10:10:0:17:branch
+tile:100:100:10:100:0:50:bridge
+tile:10:10:10:10:10:10:ash
+url:http://ep128.streamr.ru 1-17-2021, 12:04:37 PM
+nikita-k (nikita-k) sent /update 1-17-2021, 12:30:50 PM
+nikita-k (nikita-k) sent /newmotd New in 1.99.8
+added radio!
+Each builder on the map can put a link that will be played
+also added new hot keys: alt page up, increase the radio volume, alt page down, decrease
+
+we added a bar where you can only fight with empty bottles of beer and juice! you can find it in the store! enjoy!
+you can get a storm sniper, and the legendary sword by finish the dangerous place challenge this is at 5 5 0 in challenge maps, and dont ask game staff to give items, we will not do this!
+afk area has been added! you can find in at 15 15 0 in the store!
+welcome to the killer! we hope you like the game, and we advise you to invite your friends! good luck and enjoy!
+ link for the game below!
+http://darkserver.ru/tk2/tk.zip 1-17-2021, 12:32:05 PM
+nikita-k (nikita-k) sent /suicide 1-17-2021, 12:32:29 PM
+nikita-k (nikita-k) sent /rawmap 1-17-2021, 12:32:42 PM
+nikita-k (nikita-k) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:300:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+noitems:0:300:0:300:0:300:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+zone:15:15:15:15:0:100:press enter to enter in the afk area:trackme
+travelpoint:15:15:15:15:0:0:afk_area:0:0:0:welcome to the silent
+tile:30:30:14:16:0:29:wallwoodcrate
+tile:30:30:15:15:0:29:stairs2
+zone:30:30:15:15:0:29:stairs to the bar:trackme
+zone:30:30:15:15:29:50:press enter to enter to the bar
+travelpoint:30:30:15:15:29:29:bar:49:15:0:moved
+url:http://ep128.streamr.ru 1-17-2021, 12:33:05 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 12:37:17 PM
+nikita-k (nikita-k) sent /t admintell message from athee: the haha shelter belonging to minzaw with 100000 health is streight in front, 0 feet away. the hehehehehe shelter belonging to krish with 100000 health is streight behind, 1 feet away.  1-17-2021, 12:38:36 PM
+nikita-k (nikita-k) sent /shelters 1-17-2021, 12:39:45 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k bolgelo 1-17-2021, 12:43:04 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k bolgelo 1-17-2021, 12:43:15 PM
+nikita-k (nikita-k) sent /bid 3 1-17-2021, 12:54:46 PM
+nikita-k (nikita-k) sent /bid 4 1-17-2021, 12:54:47 PM
+nikita-k (nikita-k) sent /gnsubmit 10 1-17-2021, 12:59:02 PM
+nikita-k (nikita-k) sent /t what r you duing 1-17-2021, 12:59:57 PM
+nikita-k (nikita-k) sent /go 5 0 0 store 1-17-2021, 1:05:58 PM
+nikita-k (nikita-k) sent /events 1-17-2021, 1:06:28 PM
+nikita-k (nikita-k) sent / notify laberint of death has been fixed 1-17-2021, 1:09:11 PM
+nikita-k (nikita-k) sent /notify laberint of death has been fixed 1-17-2021, 1:09:15 PM
+nikita-k (nikita-k) sent /t np 1-17-2021, 1:25:29 PM
+nikita-k (nikita-k) sent /go 1 1 1 admin_area 1-17-2021, 1:39:23 PM
+nikita-k (nikita-k) sent /rawmap 1-17-2021, 1:44:10 PM
+nikita-k (nikita-k) sent /rawmap 1-17-2021, 1:45:43 PM
+nikita-k (nikita-k) sent /rawdata mapname:admin_area
+maxx:20
+maxy:20
+maxz:22
+tile:0:20:0:20:0:0:carpet2
+zone:0:20:0:20:0:20:admin area
+tile:0:20:0:0:0:20:walldoor2
+tile:0:20:20:20:0:20:walldoor2
+tile:0:0:1:19:0:20:walldoor2
+tile:20:20:1:29:0:20:walldoor2
+tile:10:12:10:10:0:0:stone1
+tile:10:12:11:12:0:2:wallstone
+tile:11:11:11:11:1:1:wallbrushtangle
+tile:10:12:11:12:2:2:stone1
+tile:11:11:11:11:2:2:fire
+zone:10:12:10:12:0:15:fireplace
+tile:1:1:1:1:0:1:wallchain
+tile:1:1:1:1:1:1:deck
+zone:1:1:1:1:0:10:an old clock
+tile:6:6:6:6:0:1:wallbank
+tile:6:6:6:6:1:1:chair
+zone:6:6:6:6:1:10:a nice old chair
+tile:4:5:5:7:0:1:walltable
+tile:4:5:5:7:1:1:plank
+zone:4:5:5:7:1:10:an old wooden table
+tile:1:2:19:19:0:0:water
+zone:1:2:19:19:0:10:some clean water to wash in
+tile:17:17:19:19:0:0:walltable
+tile:17:17:19:19:1:1:hardwood1
+zone:17:17:19:19:1:10:a nightstand
+tile:18:19:17:19:0:2:wallcloth
+tile:18:19:17:19:2:2:plexi
+zone:18:19:17:19:2:10:a bed
+src:1:1:1:1:0:10:clock.ogg
+/fightingstate:1
+
+tile:1:19:1:1:15:15:stone1
+
+tile:0:20:0:20:20:20:wallcar2
+tile:0:20:0:20:21:21:roof1
+travelpoint:10:10:1:1:0:10:store:15:15:0:moved
+zone:10:10:1:1:0:10:press enter to go to the store:trackme
+tile:20:20:15:16:2:5:wallglass
+src:30:30:15:16:2:5:birds15.ogg
+/robots:0:20:0:20:0:0:1:10000:Amphibian,bear,boxer,car,cat,cockroach,coyote,cyborg,dentist,doctor,dog,dragon,dragonfly,excavator,fitter,flamethrower,fly,gangster,glider,grandpa,gun,harvester,helicopter,horse,lion,manager,metallurgist,mosquito,moth,nurse,patient,polarbear,psychiatrist,psycho,rabbit,rat,robocop,rocketlauncher,securityguard,snake,sniper,soldier,storekeeper,surgeon,tank,train,trainer,tushkano,welder,wolf,worm,zombie,pan,robot,fireball,hunter
+//jplayer:5:5:7
+tile:5:5:5:5:20:20:metal13
+zone:5:5:5:5:20:20:music player:trackme 1-17-2021, 1:45:57 PM
+nikita-k (nikita-k) sent /go 5 0 0 store 1-17-2021, 1:46:04 PM
+nikita-k (nikita-k) sent /t nuclear? 1-17-2021, 1:47:40 PM
+nikita-k (nikita-k) sent /t gogogog 1-17-2021, 1:47:47 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 1:49:10 PM
+nikita-k (nikita-k) sent /gnsubmit 30 1-17-2021, 1:49:26 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 2:06:43 PM
+nikita-k (nikita-k) sent /lchat hi 1-17-2021, 2:08:58 PM
+nikita-k (nikita-k) sent /where golden_ball 1-17-2021, 2:09:44 PM
+nikita-k (nikita-k) sent /gnsubmit 10 1-17-2021, 2:14:27 PM
+nikita-k (nikita-k) sent /bid 3 1-17-2021, 2:20:34 PM
+nikita-k (nikita-k) sent /bid 12 1-17-2021, 2:20:37 PM
+nikita-k (nikita-k) sent /bid 1000 1-17-2021, 2:20:43 PM
+nikita-k (nikita-k) sent /cancelbid y 1-17-2021, 2:20:48 PM
+nikita-k (nikita-k) sent /kick SuperFighter 1-17-2021, 2:25:45 PM
+nikita-k (nikita-k) sent /chardelete jemsel 1-17-2021, 2:27:18 PM
+nikita-k (nikita-k) sent /r ok, but later 1-17-2021, 2:29:07 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 5:18:48 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 5:19:15 PM
+nikita-k (nikita-k) sent /gnstart 1-17-2021, 5:38:51 PM
+nikita-k (nikita-k) sent /gnsubmit 10 1-17-2021, 5:39:03 PM
+nikita-k (nikita-k) sent /admr rathee hello hello and dont spam in admintell please 1-17-2021, 5:42:26 PM
+nikita-k (nikita-k) sent /pm vinni give meh the link fucking please? 1-17-2021, 6:21:51 PM
+nikita-k (nikita-k) sent /t pm to vinni sent: give meh the link fucking please? 1-17-2021, 6:21:53 PM
+nikita-k (nikita-k) sent /pm vinni duraduraduuuuura! 1-17-2021, 6:23:45 PM
+nikita-k (nikita-k) sent /shelters 1-17-2021, 6:24:12 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 6:25:06 PM
+nikita-k (nikita-k) sent /warnpublic minzaw's hahah shelter was just destroyed by grand father's the_legendary_sword! 1-17-2021, 6:25:56 PM
+nikita-k (nikita-k) sent /gnsubmit 20 1-17-2021, 6:26:40 PM
+nikita-k (nikita-k) sent /update 1-17-2021, 7:27:23 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 7:32:21 PM
+nikita-k (nikita-k) sent /plays ban 1-17-2021, 7:46:05 PM
+nikita-k (nikita-k) sent /jointeam leaders boar 1-17-2021, 7:57:56 PM
+nikita-k (nikita-k) sent /builderkill magistral 1-17-2021, 8:05:51 PM
+nikita-k (nikita-k) sent /newbuilder magistral 1-17-2021, 8:05:55 PM
+nikita-k (nikita-k) sent /cancelauction 1-17-2021, 8:10:50 PM
+nikita-k (nikita-k) sent /newadmin franklin 1-17-2021, 9:15:02 PM
+nikita-k (nikita-k) sent /adminkill franklin 1-17-2021, 9:15:06 PM
+nikita-k (nikita-k) sent /newadmin franklin 1-17-2021, 9:15:22 PM
+nikita-k (nikita-k) sent /adminkill franklin 1-17-2021, 9:15:39 PM
+nikita-k (nikita-k) sent /kick franklin 1-17-2021, 9:17:45 PM
+nikita-k (nikita-k) sent /kickboss 1-17-2021, 9:18:03 PM
+nikita-k (nikita-k) sent /chars 1-17-2021, 9:18:23 PM

@@ -1,0 +1,368 @@
+
+grand father (bolgelo) sent /megagift 1-18-2021, 10:43:22 AM
+grand father (bolgelo) sent /gnstart 1-18-2021, 10:43:28 AM
+grand father (bolgelo) sent /gnsubmit 12 1-18-2021, 10:43:29 AM
+grand father (bolgelo) sent /s45 1-18-2021, 10:46:54 AM
+grand father (bolgelo) sent /go 15 15 0  1-18-2021, 10:48:28 AM
+grand father (bolgelo) sent /inv 1-18-2021, 11:39:13 AM
+grand father (bolgelo) sent /where anil 1-18-2021, 11:39:34 AM
+grand father (bolgelo) sent /gnstart 1-18-2021, 11:48:44 AM
+grand father (bolgelo) sent /gnsubmit 15 1-18-2021, 11:48:45 AM
+grand father (bolgelo) sent /where sgamer 1-18-2021, 11:49:02 AM
+grand father (bolgelo) sent /megagift 1-18-2021, 11:49:16 AM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:21 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:21 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:22 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:22 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:23 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:24 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:24 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 2:40:25 PM
+grand father (bolgelo) sent /go 15 0 0  1-18-2021, 4:18:21 PM
+grand father (bolgelo) sent /pm weten stop better 1-18-2021, 4:18:40 PM
+grand father (bolgelo) sent /lchat hmm and 1-18-2021, 4:19:25 PM
+grand father (bolgelo) sent /lchat with? 1-18-2021, 4:19:57 PM
+grand father (bolgelo) sent /lchat hahah 1-18-2021, 4:20:11 PM
+grand father (bolgelo) sent /give bolgelo stat_cleaner 10000 1-18-2021, 4:20:19 PM
+grand father (bolgelo) sent /pm Thamizhan then kill this shelter, lol 1-18-2021, 4:21:57 PM
+grand father (bolgelo) sent /giveall empty_beer_bottle 100 1-18-2021, 4:22:28 PM
+grand father (bolgelo) sent /r with this 1-18-2021, 4:22:35 PM
+grand father (bolgelo) sent /s57 1-18-2021, 4:23:42 PM
+grand father (bolgelo) sent /lchat lol 1-18-2021, 4:23:50 PM
+grand father (bolgelo) sent /killall 1-18-2021, 4:44:32 PM
+grand father (bolgelo) sent /garbage 1-18-2021, 4:44:35 PM
+grand father (bolgelo) sent /chartrash 1-18-2021, 4:44:38 PM
+grand father (bolgelo) sent /shelterlist 1-18-2021, 4:45:50 PM
+grand father (bolgelo) sent /inv 1-18-2021, 4:54:18 PM
+grand father (bolgelo) sent /rawmap 1-18-2021, 4:54:24 PM
+grand father (bolgelo) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:snow
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+src:0:500:0:500:0:50:wind5.ogg
+noitems:0:229:0:500:0:10000:guided_missile
+noitems:271:500:0:500:0:10000:guided_missile
+noitems:0:500:271:500:0:10000:guided_missile
+noitems:0:500:0:229:0:10000:guided_missile
+noitems:230:270:230:270:0:199:guided_missile
+noitems:230:270:230:270:220:1999:guided_missile 1-18-2021, 4:55:22 PM
+grand father (bolgelo) sent /inv 1-18-2021, 4:55:30 PM
+grand father (bolgelo) sent /go 250 250 0  1-18-2021, 4:59:12 PM
+grand father (bolgelo) sent /gnstart 1-18-2021, 5:00:50 PM
+grand father (bolgelo) sent /gnsubmit 22 1-18-2021, 5:00:53 PM
+grand father (bolgelo) sent /adminflag 1-18-2021, 5:01:31 PM
+grand father (bolgelo) sent /compinfo Rey 1-18-2021, 5:59:33 PM
+grand father (bolgelo) sent /go 0 0 0 store 1-18-2021, 6:00:08 PM
+grand father (bolgelo) sent /where Rey 1-18-2021, 6:00:13 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:00:18 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:00:39 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:00:43 PM
+grand father (bolgelo) sent /lchat hmmm 1-18-2021, 6:02:01 PM
+grand father (bolgelo) sent /lchat what more 1-18-2021, 6:02:03 PM
+grand father (bolgelo) sent /lchat die 1-18-2021, 6:02:27 PM
+grand father (bolgelo) sent /lchat did 1-18-2021, 6:02:38 PM
+grand father (bolgelo) sent /lchat coins 1-18-2021, 6:02:40 PM
+grand father (bolgelo) sent /lchat and go try to finish dangerous place lool 1-18-2021, 6:02:56 PM
+grand father (bolgelo) sent /lchat you can get storm sniper and the legendary sword there 1-18-2021, 6:03:08 PM
+grand father (bolgelo) sent /lchat what abaut link? what link 1-18-2021, 6:03:21 PM
+grand father (bolgelo) sent /lchat you cant 1-18-2021, 6:03:31 PM
+grand father (bolgelo) sent /lchat ican change it 1-18-2021, 6:03:36 PM
+grand father (bolgelo) sent /lchat give me link 1-18-2021, 6:03:41 PM
+grand father (bolgelo) sent /lchat dont know 1-18-2021, 6:04:06 PM
+grand father (bolgelo) sent /lchat wait sec 1-18-2021, 6:04:10 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:04:17 PM
+grand father (bolgelo) sent /lchat that was /inv 1-18-2021, 6:04:32 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:04:35 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:04:36 PM
+grand father (bolgelo) sent /lchat you can kill with this 1-18-2021, 6:04:51 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:04:54 PM
+grand father (bolgelo) sent /lchat 3 2 1 1-18-2021, 6:05:02 PM
+grand father (bolgelo) sent /lchat kill me rofl 1-18-2021, 6:05:07 PM
+grand father (bolgelo) sent /lchat 36872 health, 500 shielded shots. 1-18-2021, 6:05:30 PM
+grand father (bolgelo) sent /lchat and that stanningme 1-18-2021, 6:05:44 PM
+grand father (bolgelo) sent /lchat go buy it in the store 1-18-2021, 6:06:02 PM
+grand father (bolgelo) sent /lchat nikitak 1-18-2021, 6:06:39 PM
+grand father (bolgelo) sent /lchat nikita k 1-18-2021, 6:06:42 PM
+grand father (bolgelo) sent /lchat du you know what you told now? 1-18-2021, 6:07:11 PM
+grand father (bolgelo) sent /lchat you mean you want donate or what 1-18-2021, 6:07:30 PM
+grand father (bolgelo) sent /lchat or store in shelters? 1-18-2021, 6:07:37 PM
+grand father (bolgelo) sent /lchat hmmm 1-18-2021, 6:08:06 PM
+grand father (bolgelo) sent /giveall tk_donation_pack 1 1-18-2021, 6:08:14 PM
+grand father (bolgelo) sent /lchat roooofl 1-18-2021, 6:08:16 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:08:22 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:08:24 PM
+grand father (bolgelo) sent /lchat open 1-18-2021, 6:08:31 PM
+grand father (bolgelo) sent /lchat what you got 1-18-2021, 6:09:05 PM
+grand father (bolgelo) sent /lchat me 1-18-2021, 6:09:08 PM
+grand father (bolgelo) sent /lchat i gived to all server 1-18-2021, 6:09:12 PM
+grand father (bolgelo) sent /lchat bro 1-18-2021, 6:09:44 PM
+grand father (bolgelo) sent /lchat use health drinks better 1-18-2021, 6:09:49 PM
+grand father (bolgelo) sent /lchat you can use it in the fights 1-18-2021, 6:09:54 PM
+grand father (bolgelo) sent /lchat that have just 3 sec timer 1-18-2021, 6:10:02 PM
+grand father (bolgelo) sent /lchat 5 sec 1-18-2021, 6:10:07 PM
+grand father (bolgelo) sent /give bolgelo tk_deluxe_pack 1 1-18-2021, 6:10:35 PM
+grand father (bolgelo) sent /lchat buy rpg7 that will be good for you 1-18-2021, 6:11:15 PM
+grand father (bolgelo) sent /lchat and we can go to the warehouse 1-18-2021, 6:11:23 PM
+grand father (bolgelo) sent /lchat who du you nmean? 1-18-2021, 6:11:56 PM
+grand father (bolgelo) sent /lchat mean* 1-18-2021, 6:11:59 PM
+grand father (bolgelo) sent /lchat who du you mean? 1-18-2021, 6:12:06 PM
+grand father (bolgelo) sent /lchat haha 1-18-2021, 6:12:29 PM
+grand father (bolgelo) sent /lchat you will get loot and you will get xp 1-18-2021, 6:12:36 PM
+grand father (bolgelo) sent /lchat if you want, you can join my team 1-18-2021, 6:12:56 PM
+grand father (bolgelo) sent /lchat for me, yes 1-18-2021, 6:13:01 PM
+grand father (bolgelo) sent /lchat wait, i wil lchange pass 1-18-2021, 6:13:10 PM
+grand father (bolgelo) sent /teampass mortezadura 1-18-2021, 6:13:17 PM
+grand father (bolgelo) sent /pm ray your team password has been updated to mortezadura 1-18-2021, 6:13:23 PM
+grand father (bolgelo) sent /lchat tipe me something in pm 1-18-2021, 6:13:28 PM
+grand father (bolgelo) sent /r your team password has been updated to mortezadura 1-18-2021, 6:13:35 PM
+grand father (bolgelo) sent /help 1-18-2021, 6:13:42 PM
+grand father (bolgelo) sent /lchat press shift u 1-18-2021, 6:13:56 PM
+grand father (bolgelo) sent /lchat leaders 1-18-2021, 6:14:32 PM
+grand father (bolgelo) sent /lchat l, e, a, d, e, r, s 1-18-2021, 6:14:55 PM
+grand father (bolgelo) sent /t press u 1-18-2021, 6:15:33 PM
+grand father (bolgelo) sent /admr Rey die 1-18-2021, 6:16:03 PM
+grand father (bolgelo) sent /t rpg7 1-18-2021, 6:16:26 PM
+grand father (bolgelo) sent /t hand cannon 1-18-2021, 6:16:30 PM
+grand father (bolgelo) sent /t stp429 minimisiles 1-18-2021, 6:16:38 PM
+grand father (bolgelo) sent /t hand grenades and snowball 1-18-2021, 6:16:43 PM
+grand father (bolgelo) sent /t snowballs 1-18-2021, 6:16:46 PM
+grand father (bolgelo) sent /t coin, 74292072 1-18-2021, 6:16:55 PM
+grand father (bolgelo) sent /gnstart 1-18-2021, 6:17:11 PM
+grand father (bolgelo) sent /t press shift g and submit 1-18-2021, 6:17:16 PM
+grand father (bolgelo) sent /t coin, 69000069 1-18-2021, 6:18:09 PM
+grand father (bolgelo) sent /notify press shift g and tipe your number please 1-18-2021, 6:18:30 PM
+grand father (bolgelo) sent /gnsubmit 15 1-18-2021, 6:18:59 PM
+grand father (bolgelo) sent /giveall robocop 2 1-18-2021, 6:19:39 PM
+grand father (bolgelo) sent /t a mosquito, health 100, damage 100 1000, distance 3, speed time 100, is slightly in front and a fair distance off to the right, 24 feet away.  1-18-2021, 6:21:24 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:23:14 PM
+grand father (bolgelo) sent /t current location: zalp 1-18-2021, 6:23:20 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:23:43 PM
+grand father (bolgelo) sent /garbage 1-18-2021, 6:24:02 PM
+grand father (bolgelo) sent /killall 1-18-2021, 6:24:04 PM
+grand father (bolgelo) sent /chartrash 1-18-2021, 6:24:13 PM
+grand father (bolgelo) sent /t in boxing you can get a lot of coins 1-18-2021, 6:25:32 PM
+grand father (bolgelo) sent /t 32618 coins 1-18-2021, 6:26:23 PM
+grand father (bolgelo) sent /t kill 1-18-2021, 6:26:41 PM
+grand father (bolgelo) sent /t zulfikar 1-18-2021, 6:29:35 PM
+grand father (bolgelo) sent /t zulfikar 1-18-2021, 6:29:43 PM
+grand father (bolgelo) sent /t storm_sniper 1-18-2021, 6:29:44 PM
+grand father (bolgelo) sent /t what du you opening 1-18-2021, 6:30:03 PM
+grand father (bolgelo) sent /t stooooop baaaaaaalllllllls 1-18-2021, 6:30:15 PM
+grand father (bolgelo) sent /t i mean hand grenades is good baaaaaaaals 1-18-2021, 6:30:22 PM
+grand father (bolgelo) sent /go 15 0 0  1-18-2021, 6:31:04 PM
+grand father (bolgelo) sent /go 15 30 0  1-18-2021, 6:31:14 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:35:05 PM
+grand father (bolgelo) sent /follow killer3000 1-18-2021, 6:35:07 PM
+grand father (bolgelo) sent /unfollow 1-18-2021, 6:36:18 PM
+grand father (bolgelo) sent /stopfollow 1-18-2021, 6:36:20 PM
+grand father (bolgelo) sent /go 15 0 0  1-18-2021, 6:36:23 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:36:24 PM
+grand father (bolgelo) sent /go 15 30 0  1-18-2021, 6:36:38 PM
+grand father (bolgelo) sent /t rooofl 1-18-2021, 6:36:45 PM
+grand father (bolgelo) sent /t dont use rpg in small rooms 1-18-2021, 6:38:50 PM
+grand father (bolgelo) sent /t if you want we can go to the warehouse 1-18-2021, 6:40:04 PM
+grand father (bolgelo) sent /t and there we can get much of weapons 1-18-2021, 6:40:11 PM
+grand father (bolgelo) sent /t for example cannon 1-18-2021, 6:40:17 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:40:57 PM
+grand father (bolgelo) sent /go 000 1-18-2021, 6:40:59 PM
+grand father (bolgelo) sent /go 0 0 0  1-18-2021, 6:41:02 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:41:12 PM
+grand father (bolgelo) sent /where Rey 1-18-2021, 6:41:20 PM
+grand father (bolgelo) sent /megagift 1-18-2021, 6:43:04 PM
+grand father (bolgelo) sent /inv 1-18-2021, 6:45:47 PM
+grand father (bolgelo) sent /follow killer3000 1-18-2021, 6:45:52 PM
+grand father (bolgelo) sent /stopfollow killer3000 1-18-2021, 6:45:57 PM
+grand father (bolgelo) sent /lchat 0, 20, 0.  1-18-2021, 6:46:03 PM
+grand father (bolgelo) sent /t 0, 20, 0.  1-18-2021, 6:46:05 PM
+grand father (bolgelo) sent /t tc 1-18-2021, 6:46:11 PM
+grand father (bolgelo) sent /where sgamer 1-18-2021, 9:05:51 PM
+grand father (bolgelo) sent /garbage 1-18-2021, 9:06:00 PM
+grand father (bolgelo) sent /chartrash 1-18-2021, 9:06:01 PM
+grand father (bolgelo) sent /killall 1-18-2021, 9:06:03 PM
+grand father (bolgelo) sent /disablerobots 1-18-2021, 9:06:08 PM
+grand father (bolgelo) sent /enablerobots 1-18-2021, 9:06:11 PM
+grand father (bolgelo) sent /where pandey 1-18-2021, 9:06:28 PM
+grand father (bolgelo) sent /inv 1-18-2021, 9:06:55 PM
+grand father (bolgelo) sent /rawmap 1-18-2021, 9:07:07 PM
+grand father (bolgelo) sent /go 0 0 0 main 1-18-2021, 9:07:26 PM
+grand father (bolgelo) sent /rawmap 1-18-2021, 9:07:27 PM
+grand father (bolgelo) sent /go 0 0 0 bar 1-18-2021, 9:07:56 PM
+grand father (bolgelo) sent /rawmap 1-18-2021, 9:08:02 PM
+grand father (bolgelo) sent /go 30 30 1 1-18-2021, 9:09:02 PM
+grand father (bolgelo) sent /rawdata mapname:bar
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:carpet4
+tile:0:0:0:50:0:20:wallwoodcrate
+tile:0:50:0:0:0:20:wallwoodcrate
+tile:50:50:0:50:0:20:wallwoodcrate
+tile:0:50:50:50:0:20:wallwoodcrate
+tile:0:50:0:50:20:20:wallwoodcrate
+tile:30:49:30:49:0:0:wallwoodcrate
+tile:30:49:30:49:1:1:hardwood
+zone:0:50:0:50:0:100:bar
+zone:30:49:30:49:1:19:dance area:trackme
+noitems:0:50:0:50:0:100:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:fire_starter:
+fightingstate:0
+travelpoint:49:50:15:15:0:10:store:30:15:29:moved
+tile:50:50:15:15:0:10:walldoor2
+zone:49:50:15:15:0:10:exit:trackme
+vending_machine:25:25:0
+zone:25:25:25:25:0:10:vending_machine:trackme
+tile:25:25:25:25:0:0:beam
+url:http://ep256.streamr.ru/
+ispawn:1:49:1:49:0:1:10000:5:empty_beer_bottle 1-18-2021, 9:09:55 PM
+grand father (bolgelo) sent /lchat move 1-18-2021, 9:10:30 PM
+grand father (bolgelo) sent /lchat go collect 1-18-2021, 9:10:39 PM
+grand father (bolgelo) sent /lchat rofl 1-18-2021, 9:10:40 PM
+grand father (bolgelo) sent /rawdata mapname:bar
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:carpet4
+tile:0:0:0:50:0:20:wallwoodcrate
+tile:0:50:0:0:0:20:wallwoodcrate
+tile:50:50:0:50:0:20:wallwoodcrate
+tile:0:50:50:50:0:20:wallwoodcrate
+tile:0:50:0:50:20:20:wallwoodcrate
+tile:30:49:30:49:0:0:wallwoodcrate
+tile:30:49:30:49:1:1:hardwood
+zone:0:50:0:50:0:100:bar
+zone:30:49:30:49:1:19:dance area:trackme
+noitems:0:50:0:50:0:100:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:fire_starter:
+fightingstate:0
+travelpoint:49:50:15:15:0:10:store:30:15:29:moved
+tile:50:50:15:15:0:10:walldoor2
+zone:49:50:15:15:0:10:exit:trackme
+vending_machine:25:25:0
+zone:25:25:25:25:0:10:vending_machine:trackme
+tile:25:25:25:25:0:0:beam
+url:http://ep256.streamr.ru/
+ispawn:1:49:1:49:0:1:10000:3:empty_beer_bottle 1-18-2021, 9:11:19 PM
+grand father (bolgelo) sent /inv 1-18-2021, 9:50:48 PM
+grand father (bolgelo) sent /garbage 1-18-2021, 9:51:15 PM
+grand father (bolgelo) sent /lchat קמממממממ ‎עממממממממ בûûûכמממממממממממממ 1-18-2021, 9:51:31 PM
+grand father (bolgelo) sent /lchat ובאאאאאאאעüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüü 1-18-2021, 9:51:37 PM
+grand father (bolgelo) sent /inv 1-18-2021, 9:51:50 PM
+grand father (bolgelo) sent /go 15 15 0  1-18-2021, 9:51:58 PM
+grand father (bolgelo) sent /inv 1-18-2021, 9:52:15 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:49 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:51 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:52 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:52 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:52 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:53 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:53 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:53 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:54 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:54 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:55 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:55 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:55 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:56 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:56 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:56 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:57 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:57 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:57 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:58 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:58 PM
+grand father (bolgelo) sent /s57 1-18-2021, 9:53:59 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 9:54:08 PM
+grand father (bolgelo) sent /kick nikita-k 1-18-2021, 9:55:14 PM
+grand father (bolgelo) sent /lchat sorry, can't kick a developer 1-18-2021, 9:55:18 PM
+grand father (bolgelo) sent /ban nikita-k 1-18-2021, 9:55:25 PM
+grand father (bolgelo) sent /lchat why would you ban someone who made the game...who does that 1-18-2021, 9:55:27 PM
+grand father (bolgelo) sent /sky_mine_sweper 1-18-2021, 9:58:05 PM
+grand father (bolgelo) sent /skymine_sweeper 1-18-2021, 9:58:56 PM
+grand father (bolgelo) sent /skyminesweeper 1-18-2021, 9:59:16 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:01:33 PM
+grand father (bolgelo) sent /minesweeper 1-18-2021, 10:02:54 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:03:50 PM
+grand father (bolgelo) sent /shockvave 1-18-2021, 10:11:23 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:11:35 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:11:43 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:11:57 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:12:01 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:12:02 PM
+grand father (bolgelo) sent /shockwave 1-18-2021, 10:12:03 PM
+grand father (bolgelo) sent /kickall 1-18-2021, 10:13:10 PM
+grand father (bolgelo) sent /kick 1 1-18-2021, 10:13:24 PM
+grand father (bolgelo) sent /kick brab 1-18-2021, 10:13:29 PM
+grand father (bolgelo) sent /kick brub 1-18-2021, 10:13:31 PM
+grand father (bolgelo) sent /inv 1-18-2021, 10:14:04 PM
+grand father (bolgelo) sent /inv 1-18-2021, 10:14:05 PM
+grand father (bolgelo) sent /nv 1-18-2021, 10:21:22 PM
+grand father (bolgelo) sent /inv 1-18-2021, 10:21:24 PM
+grand father (bolgelo) sent /chardelete fabian 1-18-2021, 10:21:38 PM
+grand father (bolgelo) sent /chardelete fabian 1-18-2021, 10:21:42 PM
+grand father (bolgelo) sent /char_delete fabian 1-18-2021, 10:21:47 PM

@@ -1,0 +1,45 @@
+
+mapname:shelter
+maxx:16
+maxy:16
+maxz:21
+tile:0:16:0:16:0:0:hardwood
+tile:0:0:0:16:0:20:walldoor2
+tile:16:16:0:16:0:20:walldoor2
+tile:1:15:0:0:0:20:walldoor2
+tile:1:15:16:16:0:20:walldoor2
+tile:5:11:0:0:0:10:walldoor1
+tile:5:11:1:1:0:0:carpet2
+tile:5:11:5:11:0:0:carpet1
+tile:8:8:5:5:0:1:chair
+tile:8:8:11:11:0:1:chair
+tile:5:5:8:8:0:1:chair
+tile:11:11:8:8:0:1:chair
+tile:6:6:6:6:0:1:walltable
+tile:6:6:10:10:0:1:walltable
+tile:10:10:6:6:0:1:walltable
+tile:10:10:10:10:0:1:walltable
+tile:6:10:6:10:1:1:walltable
+tile:6:10:6:10:2:2:hardwood1
+tile:0:0:7:9:1:10:wallglass
+tile:16:16:7:9:1:10:wallglass
+tile:7:9:16:16:1:10:wallglass
+tile:0:16:0:16:19:20:walldoor2
+tile:0:16:0:16:20:20:stone2
+zone:0:16:0:16:0:20:shelter
+zone:5:11:0:1:0:10:door from the shelter
+zone:8:8:5:5:0:15:chair
+zone:6:10:6:10:0:2:under the table
+zone:6:10:6:10:2:15:table
+zone:5:5:8:8:0:15:chair
+zone:11:11:8:8:0:15:chair
+zone:8:8:11:11:0:15:chair
+zone:0:1:7:9:0:10:window
+zone:15:16:7:9:0:10:window
+zone:7:9:15:16:0:10:window
+/src:0:16:0:16:-30:-25:jloop12.ogg
+travelpoint:5:11:1:1:0:10:stwml:250:275:0:!
+zone:0:16:0:16:0:50:jotes's fancy_block_shelter
+zone:5:11:1:1:0:10:to exit the shelter press enter :trackme
+fightingstate:0
+noitems:0:300:0:300:0:300:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle

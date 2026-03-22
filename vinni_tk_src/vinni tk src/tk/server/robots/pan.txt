@@ -1,0 +1,16 @@
+name pan
+health 30000
+defence 0
+speed 400
+damage 500,15000
+shoot 400
+distance 5
+aggro 1000
+spread 3
+angle 90
+steps 2
+loot coin
+amount 200
+shieldhits 10,30
+shieldchance 10
+xp 150,200

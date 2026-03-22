@@ -1,0 +1,13 @@
+mapname:c_system
+maxx:70
+maxy:70
+maxz:50
+tile:0:70:0:70:0:0:concrete17
+zone:0:70:0:70:0:50:cyberdine system
+src:0:70:0:70:0:50:rumble1.ogg
+tile:30:40:40:40:0:15:concrete16
+src:70:70:70:70:0:10:stairwood.ogg
+travelpoint:30:40:40:40:15:15:boxing_ring:0:0:12:you jump into the boxing ring
+travelpoint:0:0:0:0:0:0:sewage:42:35:0:you return to the sewers, where it still smells like shit.
+robots:0:70:0:70:0:0:2:0:cyborg
+travelpoint:70:70:70:70:0:10:secret_house:0:0:0:you went into a secret safe, not far you noticed a small staircase, and then some kind of tunnel

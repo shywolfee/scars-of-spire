@@ -1,0 +1,408 @@
+
+nikita-k (nikita-k) sent /chars 8-17-2020, 9:07:49 AM
+nikita-k (nikita-k) sent /move spay 0 0 100 store 8-17-2020, 9:09:02 AM
+nikita-k (nikita-k) sent /maps 8-17-2020, 9:16:37 AM
+nikita-k (nikita-k) sent /builderhelp 8-17-2020, 9:17:20 AM
+nikita-k (nikita-k) sent /changemymap пиздец 8-17-2020, 9:18:54 AM
+nikita-k (nikita-k) sent /admingun 8-17-2020, 9:58:23 AM
+nikita-k (nikita-k) sent /move nikita-k 0 0 0 пиздец 8-17-2020, 9:58:52 AM
+nikita-k (nikita-k) sent /inv 8-17-2020, 9:58:57 AM
+nikita-k (nikita-k) sent /builders 8-17-2020, 9:59:10 AM
+nikita-k (nikita-k) sent /builders 8-17-2020, 9:59:20 AM
+nikita-k (nikita-k) sent /builderhelp 8-17-2020, 9:59:47 AM
+nikita-k (nikita-k) sent /inv 8-17-2020, 10:00:43 AM
+nikita-k (nikita-k) sent /chars 8-17-2020, 10:53:44 AM
+nikita-k (nikita-k) sent /changemymap пиздец 8-17-2020, 11:19:23 AM
+nikita-k (nikita-k) sent /inv 8-17-2020, 11:19:54 AM
+nikita-k (nikita-k) sent /changemymap пиздец 8-17-2020, 11:20:04 AM
+nikita-k (nikita-k) sent /chars 8-17-2020, 11:44:19 AM
+nikita-k (nikita-k) sent /chars 8-17-2020, 12:17:34 PM
+nikita-k (nikita-k) sent /lchat looser 8-17-2020, 12:30:17 PM
+nikita-k (nikita-k) sent /suicide 8-17-2020, 12:36:50 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 12:37:17 PM
+nikita-k (nikita-k) sent /changemymap пиздец 8-17-2020, 12:37:27 PM
+nikita-k (nikita-k) sent /rawmap 8-17-2020, 12:38:04 PM
+nikita-k (nikita-k) sent /rawmap 8-17-2020, 12:38:23 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:30
+maxy:50
+maxz:100
+tile:0:30:0:50:0:0:grass
+amb:0:30:0:50:0:0:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:30:0:50:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+
+src:0:0:0:0:0:0:bighall.ogg
+
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme 8-17-2020, 12:38:41 PM
+nikita-k (nikita-k) sent /rawmap 8-17-2020, 12:39:46 PM
+nikita-k (nikita-k) sent /delmap пиздец 8-17-2020, 12:39:57 PM
+nikita-k (nikita-k) sent /newmap lern 30 50 100 grass 8-17-2020, 12:40:24 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:30
+maxy:50
+maxz:100
+tile:0:30:0:50:0:0:grass
+amb:0:30:0:50:0:0:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:30:0:50:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+
+src:0:0:0:0:0:0:bighall.ogg
+
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme 8-17-2020, 12:40:39 PM
+nikita-k (nikita-k) sent /gnstart 8-17-2020, 12:50:32 PM
+nikita-k (nikita-k) sent /gnsubmit 30 8-17-2020, 12:50:39 PM
+nikita-k (nikita-k) sent /where stalker 8-17-2020, 12:51:52 PM
+nikita-k (nikita-k) sent /garbage 8-17-2020, 1:00:21 PM
+nikita-k (nikita-k) sent /killall 8-17-2020, 1:00:30 PM
+nikita-k (nikita-k) sent /killobjs 8-17-2020, 1:00:38 PM
+nikita-k (nikita-k) sent /rtparty 8-17-2020, 1:00:54 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 1:01:06 PM
+nikita-k (nikita-k) sent /killall 8-17-2020, 1:02:43 PM
+nikita-k (nikita-k) sent /invforce spay 8-17-2020, 1:03:48 PM
+nikita-k (nikita-k) sent /rtparty 8-17-2020, 1:04:14 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 1:04:44 PM
+nikita-k (nikita-k) sent /invforce spay 8-17-2020, 1:05:09 PM
+nikita-k (nikita-k) sent /killall 8-17-2020, 1:06:19 PM
+nikita-k (nikita-k) sent /impact_onvasion 8-17-2020, 1:06:37 PM
+nikita-k (nikita-k) sent /impactinvasion 8-17-2020, 1:06:42 PM
+nikita-k (nikita-k) sent /bullet_dotty 8-17-2020, 1:06:54 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 1:06:57 PM
+nikita-k (nikita-k) sent /impact_invasion 8-17-2020, 1:09:44 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 1:10:01 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:11:59 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:12:01 PM
+nikita-k (nikita-k) sent /changemymap lern 8-17-2020, 1:12:18 PM
+nikita-k (nikita-k) sent /minesweeper 8-17-2020, 1:12:37 PM
+nikita-k (nikita-k) sent /countbombs 8-17-2020, 1:12:52 PM
+nikita-k (nikita-k) sent /suicide 8-17-2020, 1:13:02 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 1:13:11 PM
+nikita-k (nikita-k) sent /changemymap lern 8-17-2020, 1:13:35 PM
+nikita-k (nikita-k) sent /minesweeper 8-17-2020, 1:13:43 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 1:13:51 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 1:21:31 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:21:40 PM
+nikita-k (nikita-k) sent /mass_invasion 8-17-2020, 1:21:51 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 1:24:06 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:24:16 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 1:26:28 PM
+nikita-k (nikita-k) sent /inv' 8-17-2020, 1:26:36 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:26:41 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 1:45:15 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:45:25 PM
+nikita-k (nikita-k) sent /suicide_invasion 8-17-2020, 1:45:39 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:46:21 PM
+nikita-k (nikita-k) sent /suicide_invasion 8-17-2020, 1:46:49 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 1:47:55 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:48:26 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 1:48:41 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:48:58 PM
+nikita-k (nikita-k) sent /rawmap 8-17-2020, 1:49:03 PM
+nikita-k (nikita-k) sent /rawdata mapname:lern
+maxx:30
+maxy:50
+maxz:100
+tile:0:30:0:50:0:0:grass
+amb:0:30:0:50:0:0:amb2.ogg
+src:0:6:0:8:5:5:amb3.ogg
+zone:0:0:0:0:0:0:to enter the store press enter:trackme
+travelpoint:0:0:0:0:0:0:store:0:0:5:to enter the store press enter
+zone:0:30:0:50:0:100:fun lawn
+tile:0:50:0:0:0:0:dirt
+tile:15:30:15:50:0:0:swimming
+amb:15:30:15:50:0:0:birds29.ogg
+zone:15:30:15:50:0:0:small pond
+src:15:30:15:50:0:0:birds31.ogg
+
+src:0:0:0:0:0:0:bighall.ogg
+
+src:0:0:50:50:0:0:entrance.ogg
+travelpoint:0:0:50:50:0:0:zalp:5:10:0:to die and press enter
+zone:0:0:50:50:0:0:to die and press enter:trackme
+
+tile:10:10:10:10:0:17:branch
+robots:15:50:15:50:0:0:4:5000:robocop 8-17-2020, 1:49:59 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 1:50:04 PM
+nikita-k (nikita-k) sent /robotinfo 8-17-2020, 1:50:16 PM
+nikita-k (nikita-k) sent /killall 8-17-2020, 1:50:34 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 1:51:49 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:51:58 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 1:52:01 PM
+nikita-k (nikita-k) sent /invforce spay 8-17-2020, 1:52:16 PM
+nikita-k (nikita-k) sent /admingun 8-17-2020, 1:52:29 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:52:31 PM
+nikita-k (nikita-k) sent /invforce spay 8-17-2020, 1:54:40 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 1:54:43 PM
+nikita-k (nikita-k) sent /rtparty 8-17-2020, 1:55:06 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 1:55:15 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 1:57:07 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 1:57:17 PM
+nikita-k (nikita-k) sent /plays dev2 8-17-2020, 1:59:15 PM
+nikita-k (nikita-k) sent /killall 8-17-2020, 1:59:50 PM
+nikita-k (nikita-k) sent /shelters 8-17-2020, 2:01:16 PM
+nikita-k (nikita-k) sent /teams 8-17-2020, 2:01:19 PM
+nikita-k (nikita-k) sent /suicide_invasion 8-17-2020, 2:04:36 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 2:14:43 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 2:14:51 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 2:14:57 PM
+nikita-k (nikita-k) sent /barricade_invasion 8-17-2020, 2:16:45 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 2:17:07 PM
+nikita-k (nikita-k) sent /barricade_invasion 8-17-2020, 2:18:07 PM
+nikita-k (nikita-k) sent /changemymap lern 8-17-2020, 2:19:12 PM
+nikita-k (nikita-k) sent /where bloodstorm 8-17-2020, 2:19:41 PM
+nikita-k (nikita-k) sent /changemymap just_test 8-17-2020, 2:20:49 PM
+nikita-k (nikita-k) sent /barricade_invasion 8-17-2020, 2:21:08 PM
+nikita-k (nikita-k) sent /shockwave 8-17-2020, 2:21:25 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 2:38:29 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 3:22:04 PM
+nikita-k (nikita-k) sent /give nikita-k sound_grenade 100000 8-17-2020, 3:22:29 PM
+nikita-k (nikita-k) sent /suicide 8-17-2020, 5:44:19 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 5:44:31 PM
+nikita-k (nikita-k) sent /changemymap just_test 8-17-2020, 6:25:37 PM
+nikita-k (nikita-k) sent /give nikita-k sound_grenade 99989 8-17-2020, 6:26:05 PM
+nikita-k (nikita-k) sent /give nikita-k sound_grenade -2000000000 8-17-2020, 6:26:18 PM
+nikita-k (nikita-k) sent /give nikita-k hipersound_bomb 100000 8-17-2020, 6:26:36 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 6:27:28 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 6:35:28 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 6:43:27 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 6:49:43 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 6:49:56 PM
+nikita-k (nikita-k) sent /newmotd Новая версия The killer, 1.97.4! Изменения и обновления: Добавлен новый тип бомб, Hipersound_bomb!
+*данные бомбы оглушают стоящих в радиусе 20 клеток людей, на несколько секунд.
+ 8-17-2020, 6:52:53 PM
+nikita-k (nikita-k) sent /lchat test 8-17-2020, 7:19:45 PM
+nikita-k (nikita-k) sent /rawmap 8-17-2020, 7:20:42 PM
+nikita-k (nikita-k) sent /compinfo oleg91 8-17-2020, 7:22:08 PM
+nikita-k (nikita-k) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:0:30:0:30:0:0:wood
+tile:0:30:0:30:0:0:wood3
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1 8-17-2020, 7:22:55 PM
+nikita-k (nikita-k) sent /builders 8-17-2020, 7:25:37 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 8:08:50 PM
+nikita-k (nikita-k) sent /newmotd Новая версия The killer, 1.97.5! Hiper sound бомбы были заменены на sound гранаты. Возможно пока что они будут багнутые. 8-17-2020, 8:10:11 PM
+nikita-k (nikita-k) sent /chats 8-17-2020, 8:10:47 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 8:10:50 PM
+nikita-k (nikita-k) sent /give nikita-k sound_grenade 100000 8-17-2020, 8:11:12 PM
+nikita-k (nikita-k) sent /suicide 8-17-2020, 8:15:18 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 8:15:49 PM
+nikita-k (nikita-k) sent /conpinfo kitti 8-17-2020, 8:22:46 PM
+nikita-k (nikita-k) sent /compinfo kitti 8-17-2020, 8:22:51 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 8:25:36 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 8:32:25 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 8:48:46 PM
+nikita-k (nikita-k) sent /chats 8-17-2020, 8:54:24 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 8:54:26 PM
+nikita-k (nikita-k) sent /reboot 8-17-2020, 8:55:15 PM
+nikita-k (nikita-k) sent /builders 8-17-2020, 9:01:45 PM
+nikita-k (nikita-k) sent /admins 8-17-2020, 9:02:00 PM
+nikita-k (nikita-k) sent /newmotd Welcome to the killer! 8-17-2020, 9:02:53 PM
+nikita-k (nikita-k) sent /newbuilder bolgelo 8-17-2020, 9:12:05 PM
+nikita-k (nikita-k) sent /enablerobots 8-17-2020, 9:12:15 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 9:13:49 PM
+nikita-k (nikita-k) sent /suicide_invasion 8-17-2020, 9:13:50 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 9:14:24 PM
+nikita-k (nikita-k) sent /compinfo darkfrent 8-17-2020, 9:15:44 PM
+nikita-k (nikita-k) sent /pm bolgelo die 8-17-2020, 9:16:24 PM
+nikita-k (nikita-k) sent /builderkill bolgelo 8-17-2020, 9:16:45 PM
+nikita-k (nikita-k) sent /newbuilder bolgelo 8-17-2020, 9:16:51 PM
+nikita-k (nikita-k) sent /garbage 8-17-2020, 9:18:33 PM
+nikita-k (nikita-k) sent /shelters 8-17-2020, 9:19:45 PM
+nikita-k (nikita-k) sent /rawmap 8-17-2020, 9:20:29 PM
+nikita-k (nikita-k) sent /r ша приду 8-17-2020, 9:40:16 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 9:46:08 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 9:46:44 PM
+nikita-k (nikita-k) sent /lchat rofl 8-17-2020, 9:50:11 PM
+nikita-k (nikita-k) sent /help 8-17-2020, 9:50:52 PM
+nikita-k (nikita-k) sent /gnstart 8-17-2020, 9:52:14 PM
+nikita-k (nikita-k) sent /gnsubmit 10 8-17-2020, 9:52:22 PM
+nikita-k (nikita-k) sent /maps 8-17-2020, 10:00:39 PM
+nikita-k (nikita-k) sent /bid 666 8-17-2020, 10:10:28 PM
+nikita-k (nikita-k) sent /bid 900 8-17-2020, 10:10:43 PM
+nikita-k (nikita-k) sent /bid 69000 8-17-2020, 10:10:52 PM
+nikita-k (nikita-k) sent /cancelbid 8-17-2020, 10:11:06 PM
+nikita-k (nikita-k) sent /bid 2000 8-17-2020, 10:11:11 PM
+nikita-k (nikita-k) sent /bid 690000000 8-17-2020, 10:11:35 PM
+nikita-k (nikita-k) sent /cancelbid 8-17-2020, 10:11:47 PM
+nikita-k (nikita-k) sent /cancelauction 8-17-2020, 10:12:52 PM
+nikita-k (nikita-k) sent /giveall nuclear_bomb 10 8-17-2020, 10:13:49 PM
+nikita-k (nikita-k) sent /notify you have given 10 nuclear bombs to everyone! 8-17-2020, 10:13:54 PM
+nikita-k (nikita-k) sent /giveall barricade_bomb 20 8-17-2020, 10:14:52 PM
+nikita-k (nikita-k) sent /notify you have given 20 barricade bombs to everyone! 8-17-2020, 10:14:56 PM
+nikita-k (nikita-k) sent /lchat xd 8-17-2020, 10:17:01 PM
+nikita-k (nikita-k) sent /lchat nothing 8-17-2020, 10:17:17 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 10:23:26 PM
+nikita-k (nikita-k) sent /admingun 8-17-2020, 10:24:02 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 10:24:07 PM
+nikita-k (nikita-k) sent /changemymap just_test 8-17-2020, 10:24:48 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 10:26:45 PM
+nikita-k (nikita-k) sent /changemap bolgelo just_test 8-17-2020, 10:27:58 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 10:28:17 PM
+nikita-k (nikita-k) sent /suicide 8-17-2020, 10:28:28 PM
+nikita-k (nikita-k) sent /rawmap 8-17-2020, 10:31:06 PM
+nikita-k (nikita-k) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood3
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+tile:10:10:0:0:0:0:plywood
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:20:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+/travelpoint:30:30:11:11:0:10:balls:0:150:100:moved
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+jplayer:15:15:0
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:0:30:0:30:0:0:bare
+tile:0:30:0:30:0:0:stone2
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:0:30:0:30:0:0:wood
+tile:0:30:0:30:0:0:wood3
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1 8-17-2020, 10:31:29 PM
+nikita-k (nikita-k) sent /chars 8-17-2020, 11:00:25 PM
+nikita-k (nikita-k) sent /where darkfrent 8-17-2020, 11:01:06 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 11:01:57 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k darkfrent 8-17-2020, 11:02:06 PM
+nikita-k (nikita-k) sent /inv 8-17-2020, 11:02:18 PM
+nikita-k (nikita-k) sent /move nikita-k 0 0 0 8-17-2020, 11:02:29 PM
+nikita-k (nikita-k) sent /move darkfrent 0 0 0 8-17-2020, 11:03:40 PM
+nikita-k (nikita-k) sent /sethealth darkfrent 0 8-17-2020, 11:03:49 PM
+nikita-k (nikita-k) sent /sethealth Yarina 0 8-17-2020, 11:04:00 PM

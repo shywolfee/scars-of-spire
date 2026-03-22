@@ -1,0 +1,118 @@
+
+maxgamer (maxgamer) sent /where nikita-k 8-25-2020, 10:37:38 AM
+maxgamer (maxgamer) sent /where nikita-k 8-25-2020, 11:10:47 AM
+maxgamer (maxgamer) sent /inv 8-25-2020, 2:46:15 PM
+maxgamer (maxgamer) sent /follow vlados 8-25-2020, 2:46:21 PM
+maxgamer (maxgamer) sent /follow Vlados 8-25-2020, 2:46:32 PM
+maxgamer (maxgamer) sent /stopfollow 8-25-2020, 2:49:06 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 2:49:46 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 2:49:47 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 2:49:57 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 2:49:58 PM
+maxgamer (maxgamer) sent /move max 0 0 0 store 8-25-2020, 2:50:07 PM
+maxgamer (maxgamer) sent /move maxgamer 0 0 0 store 8-25-2020, 2:50:14 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 2:50:27 PM
+maxgamer (maxgamer) sent /notify здрасти 8-25-2020, 2:53:11 PM
+maxgamer (maxgamer) sent /garbage 8-25-2020, 2:53:20 PM
+maxgamer (maxgamer) sent /go 0 0 0 store 8-25-2020, 2:55:20 PM
+maxgamer (maxgamer) sent /rawmap 8-25-2020, 2:55:28 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 2:57:00 PM
+maxgamer (maxgamer) sent /folow rider 8-25-2020, 2:57:10 PM
+maxgamer (maxgamer) sent /follow rider 8-25-2020, 2:57:18 PM
+maxgamer (maxgamer) sent /maplist 8-25-2020, 2:57:32 PM
+maxgamer (maxgamer) sent /map_list 8-25-2020, 2:57:39 PM
+maxgamer (maxgamer) sent /maps 8-25-2020, 2:57:45 PM
+maxgamer (maxgamer) sent /move rider kirill'smain_room.map 1 1 0 8-25-2020, 2:59:34 PM
+maxgamer (maxgamer) sent /move rider kirill'smain_room 1 1 2 8-25-2020, 2:59:58 PM
+maxgamer (maxgamer) sent /move rider 1 1 2 kirill'smain_room 8-25-2020, 3:00:19 PM
+maxgamer (maxgamer) sent /move rider 1 1 5 kirill'smain_room 8-25-2020, 3:01:44 PM
+maxgamer (maxgamer) sent /stopfollow 8-25-2020, 3:05:20 PM
+maxgamer (maxgamer) sent /follow david 8-25-2020, 3:05:30 PM
+maxgamer (maxgamer) sent /move david 1 1 5 kirill'smain_room 8-25-2020, 3:05:49 PM
+maxgamer (maxgamer) sent /sethealth 0 8-25-2020, 3:07:27 PM
+maxgamer (maxgamer) sent /sethealth david 0 8-25-2020, 3:07:36 PM
+maxgamer (maxgamer) sent /stopfollow 8-25-2020, 3:08:09 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 3:08:23 PM
+maxgamer (maxgamer) sent /titleset admins 8-25-2020, 3:09:06 PM
+maxgamer (maxgamer) sent /settitle admin 8-25-2020, 3:09:11 PM
+maxgamer (maxgamer) sent /settitle maxgamer admin 8-25-2020, 3:09:24 PM
+maxgamer (maxgamer) sent /lchat f 8-25-2020, 3:09:33 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 3:11:03 PM
+maxgamer (maxgamer) sent /move shoma 1 1 5 kirill's_main 8-25-2020, 3:11:48 PM
+maxgamer (maxgamer) sent /maps 8-25-2020, 3:11:53 PM
+maxgamer (maxgamer) sent /follow shoma 8-25-2020, 3:12:48 PM
+maxgamer (maxgamer) sent /move shoma 1 1 5 kirill'smain_room 8-25-2020, 3:13:04 PM
+maxgamer (maxgamer) sent /move shoma 1 1 5 kirill'smain_room 8-25-2020, 3:16:06 PM
+maxgamer (maxgamer) sent /move shoma 1 1 5 kirill'smain_room 8-25-2020, 3:20:05 PM
+maxgamer (maxgamer) sent /stop 8-25-2020, 3:20:59 PM
+maxgamer (maxgamer) sent /stopfolow 8-25-2020, 3:21:05 PM
+maxgamer (maxgamer) sent /stopfollow 8-25-2020, 3:21:11 PM
+maxgamer (maxgamer) sent /inv 8-25-2020, 3:21:15 PM
+maxgamer (maxgamer) sent /chars 8-25-2020, 4:06:32 PM
+maxgamer (maxgamer) sent /where nikita-k 8-25-2020, 4:07:24 PM
+maxgamer (maxgamer) sent /warnpublic dickdickdie 8-25-2020, 4:08:11 PM
+maxgamer (maxgamer) sent /adminflag 8-25-2020, 4:08:27 PM
+maxgamer (maxgamer) sent /go 5 5 5 admin_aria 8-25-2020, 4:08:43 PM
+maxgamer (maxgamer) sent /go 5 5 5 admin_area 8-25-2020, 4:09:15 PM
+maxgamer (maxgamer) sent /go 5 5 20 8-25-2020, 4:09:37 PM
+maxgamer (maxgamer) sent /go 4 4 4 8-25-2020, 4:09:52 PM
+maxgamer (maxgamer) sent /rawmap 8-25-2020, 4:11:08 PM
+maxgamer (maxgamer) sent /rawdata mapname:admin_area
+maxx:20
+maxy:20
+maxz:22
+tile:0:20:0:20:0:0:carpet2
+zone:0:20:0:20:0:20:admin area
+tile:0:20:0:0:0:20:walldoor2
+tile:0:20:20:20:0:20:walldoor2
+tile:0:0:1:19:0:20:walldoor2
+tile:20:20:1:29:0:20:walldoor2
+tile:10:12:10:10:0:0:stone1
+tile:10:12:11:12:0:2:wallstone
+tile:11:11:11:11:1:1:wallbrushtangle
+tile:10:12:11:12:2:2:stone1
+tile:11:11:11:11:2:2:fire
+zone:10:12:10:12:0:15:fireplace
+tile:1:1:1:1:0:1:wallchain
+tile:1:1:1:1:1:1:deck
+zone:1:1:1:1:0:10:an old clock
+tile:6:6:6:6:0:1:wallbank
+tile:6:6:6:6:1:1:chair
+zone:6:6:6:6:1:10:a nice old chair
+tile:4:5:5:7:0:1:walltable
+tile:4:5:5:7:1:1:plank
+zone:4:5:5:7:1:10:an old wooden table
+tile:1:2:19:19:0:0:water
+zone:1:2:19:19:0:10:some clean water to wash in
+tile:17:17:19:19:0:0:walltable
+tile:17:17:19:19:1:1:hardwood1
+zone:17:17:19:19:1:10:a nightstand
+tile:18:19:17:19:0:2:wallcloth
+tile:18:19:17:19:2:2:plexi
+zone:18:19:17:19:2:10:a bed
+src:1:1:1:1:0:10:clock.ogg
+/fightingstate:1
+
+tile:1:19:1:1:15:15:stone1
+
+tile:0:20:0:20:20:20:wallcar2
+tile:0:20:0:20:21:21:roof1
+travelpoint:10:10:1:1:0:10:store:15:15:0:moved
+zone:10:10:1:1:0:10:press enter to go to the store:trackme
+tile:20:20:15:16:2:5:wallglass
+src:30:30:15:16:2:5:birds15.ogg
+/robots:0:20:0:20:0:0:1:10000:Amphibian,bear,boxer,car,cat,cockroach,coyote,cyborg,dentist,doctor,dog,dragon,dragonfly,excavator,fitter,flamethrower,fly,gangster,glider,grandpa,gun,harvester,helicopter,horse,lion,manager,metallurgist,mosquito,moth,nurse,patient,polarbear,psychiatrist,psycho,rabbit,rat,robocop,rocketlauncher,securityguard,snake,sniper,soldier,storekeeper,surgeon,tank,train,trainer,tushkano,welder,wolf,worm,zombie,pan,robot,fireball,hunter
+jplayer:5:5:20
+tile:5:5:5:5:20:20:metal13
+zone:5:5:5:5:20:20:music player:trackme
+ 8-25-2020, 4:12:16 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:14 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:22 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:23 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:23 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:23 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:24 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:24 PM
+maxgamer (maxgamer) sent /plays kick 8-25-2020, 4:13:24 PM
+maxgamer (maxgamer) sent /go 5 5 20 admin_area 8-25-2020, 4:13:39 PM
+maxgamer (maxgamer) sent /go 1 1 1 8-25-2020, 4:14:26 PM

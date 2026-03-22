@@ -1,0 +1,74 @@
+mapname:hospital2
+maxx:320
+maxy:210
+maxz:200
+tile:0:320:0:210:0:0:air
+tile:0:320:0:99:100:100:carpet2
+tile:0:199:100:150:100:100:carpet2
+tile:0:320:151:320:100:100:carpet2
+tile:251:320:100:150:100:100:carpet2
+zone:0:320:0:210:100:200:second floor of the hospital
+tile:0:0:0:210:100:200:wallsheetrock
+tile:320:320:0:210:100:200:wallsheetrock
+tile:0:320:0:0:100:200:wallsheetrock
+tile:0:320:210:210:100:200:wallsheetrock
+src:0:320:0:210:100:200:rumble1.ogg
+tile:299:299:99:209:100:200:wallsheetrock
+tile:300:305:200:200:100:110:walldoor
+tile:306:319:200:200:100:200:wallscreen1
+zone:300:305:199:199:100:110:elevator:trackme
+travelpoint:300:305:199:199:100:110:hospital:303:199:0:you went down to the first floor
+tile:300:305:200:200:111:200:wallscreen1
+tile:150:299:99:99:100:200:wallsheetrock
+tile:199:199:100:150:100:200:wallsheetrock
+tile:200:205:99:99:100:110:walldoor2
+zone:200:250:100:150:100:150:ward
+zone:200:205:98:98:100:110:ward door:trackme
+travelpoint:200:205:98:98:100:110:hospital2:203:100:100:you went to the ward
+zone:200:205:100:100:100:110:exit of ward:trackme
+tile:251:251:100:150:100:200:wallsheetrock
+tile:199:251:151:151:100:200:wallsheetrock
+travelpoint:200:205:100:100:100:110:hospital2:203:98:100:you left ward
+tile:200:249:100:150:100:100:hardwood
+tile:250:250:100:149:100:100:hardwood
+tile:240:250:140:140:100:200:wallsheetrock
+tile:240:240:141:150:100:200:wallsheetrock
+tile:240:240:144:146:100:110:wallwood1
+tile:241:249:141:150:100:100:concrete13
+tile:250:250:141:149:100:100:concrete13
+zone:241:250:141:150:100:130:restroom
+zone:239:241:144:146:100:110:door:trackme
+travelpoint:239:239:144:146:100:110:hospital2:241:145:100:you went to the toilet
+travelpoint:241:241:144:146:100:110:hospital2:239:145:100:you left the toilet
+tile:249:249:149:150:100:101:wallglass
+tile:249:249:149:150:101:101:glass3
+tile:250:250:149:149:100:101:wallglass
+tile:250:250:149:149:101:101:glass3
+tile:249:249:99:151:0:99:wallrail
+tile:251:251:99:151:0:99:wallrail
+zone:249:250:149:150:100:120:toilet:trackme
+tile:250:250:151:151:0:99:wallrail
+tile:250:250:149:149:8:99:wallrail
+tile:250:250:99:99:0:99:wallrail
+zone:248:252:100:152:0:48:sewage pipe
+tile:250:250:100:150:0:0:sewer
+src:250:250:150:150:100:100:waterdrip.ogg
+src:250:250:100:150:0:20:waterdrip1.ogg
+tile:250:250:102:148:49:49:concrete14
+travelpoint:250:250:150:150:0:10:hospital2:249:149:105:Climbing further down the pipes, you return to the toilet.
+tile:249:249:99:151:49:60:wallsheetrock
+tile:251:251:99:151:49:60:wallsheetrock
+tile:250:250:99:99:49:60:wallsheetrock
+tile:250:250:100:100:50:50:glass3
+tile:250:250:102:102:30:50:wallglass
+tile:250:250:102:102:50:50:glass3
+tile:250:250:148:148:49:60:walldoor1
+travelpoint:250:250:100:100:0:0:hospital2:250:100:50:you climbed back to the toilet
+zone:249:251:99:102:50:70:toilet
+zone:250:250:147:147:49:59:door:trackme
+zone:50:50:1:1:100:120:elevator:trackme
+tile:50:50:1:1:100:100:metal10
+travelpoint:50:50:1:1:100:110:hospital3:50:0:0:you climbed to the final floor of the hospital
+zone:248:252:103:146:48:70:restroom
+zone:248:252:100:103:0:48:sewage pipe
+robots:250:250:140:140:0:0:1:60000:mutated_mosquito

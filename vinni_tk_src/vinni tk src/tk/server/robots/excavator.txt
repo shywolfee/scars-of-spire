@@ -1,0 +1,16 @@
+name excavator
+health 70000
+defence 10000
+speed 700
+damage 200,20000
+shoot 2000
+distance 7
+aggro 1000
+spread 5
+angle 90
+steps 2
+loot coin,ammo,stone,robot,helicopter,grenade
+amount 10
+shieldhits 300,300
+shieldchance 100
+xp 2000,2500

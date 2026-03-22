@@ -1,0 +1,36 @@
+void main()
+{
+sound s;
+string name=input_box("Имя звука.", "Введите имя звука без расширения, длину которого требуется найти.");
+if(name=="")
+{
+alert("Ошибка.", "Это поле необходимо заполнить.");
+exit();
+}
+if(!file_exists(name+".ogg"))
+{
+alert("Ошибка.", "Файл не найден.");
+exit();
+}
+bool result=s.load(name+".ogg");
+if(!result)
+{
+alert("Ошибка.", "неудалось загрузить звук.");
+exit();
+}
+string ln="неизвестно.";
+string channels="неизвестно";
+string sample="неизвестно";
+string bt="неизвестно";
+if(s.length>-1)
+ln=s.length+" миллисекунд";
+if(s.channels==1)
+channels="моно";
+if(s.channels==2)
+channels="стерео";
+if(s.sample_rate>-1)
+sample=s.sample_rate;
+if(s.bits>-1)
+bt=s.bits;
+alert("Информация.", "Длина звука: "+ln+", каналы: "+channels+", частота дискретизации: "+sample+", bits: "+bt);
+}

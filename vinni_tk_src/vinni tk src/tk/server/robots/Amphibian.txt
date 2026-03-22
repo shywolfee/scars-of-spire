@@ -1,0 +1,16 @@
+name Amphibian
+health 1000000,10000000
+defence 50000
+speed 700
+damage 100,100000
+shoot 1000
+distance 30
+aggro 1000
+spread 1
+angle 10
+steps 2
+shieldhits 10,250
+shieldchance 30
+loot ammo,suicide_bomb,coin_pack
+amount 100
+xp 100000,200000

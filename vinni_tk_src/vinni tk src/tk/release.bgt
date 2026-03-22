@@ -1,0 +1,109 @@
+#include"server_updater/dll_terlark.bgt"
+terlark tl;
+tts_voice r;
+string projname="tk2";
+void main()
+{
+tl.reload("server_updater/terlark.dll");
+speak("initializing");
+wait(1000);
+show_game_window("Releaser");
+if(file_exists("tk.exe")==false)
+{
+run("bgt.exe", "-Ctk.bgt", true,false);
+}
+file_delete("tk.zip");
+directory_delete("tk");
+directory_create("tk");
+file_copy("tk.exe","tk/tk.exe",true);
+file_copy("bass.dll","tk/bass.dll",true);
+file_copy("changelog eng.txt","tk/changelog eng.txt",true);
+file_copy("changelog ru.txt","tk/changelog ru.txt",true);
+file_copy("!rules.txt","tk/!rules.txt",true);
+file_copy("readme eng.txt","tk/readme eng.txt",true);
+file_copy("readme ru.txt","tk/readme ru.txt",true);
+file_copy("nvdaControllerClient32.dll","tk/nvdaControllerClient32.dll",true);
+file_copy("replacer.exe","tk/replacer.exe",true);
+file_copy("unzip.exe","tk/unzip.exe",true);
+//file_copy("sounds.dat","tk/sounds.dat",true);
+directory_delete("tk/lang");
+directory_create("tk/lang");
+file_copy("lang/english.lng","tk/lang/english.lng",true);
+file_copy("lang/german.lng","tk/lang/german.lng",true);
+file_copy("lang/persian.lng","tk/lang/persian.lng",true);
+file_copy("lang/PTBR.lng","tk/lang/PTBR.lng",true);
+file_copy("lang/russian.lng","tk/lang/russian.lng",true);
+speak("Created directory");
+run("zip.exe", "-rqq -1 tk.zip tk",true,true);
+directory_delete("tk");
+file_delete("tk.exe");
+int u=question("tk version updater","Would you like to update the copy of the game online?");
+if(u==1)
+update_online();
+else
+exit();
+}
+void update_online()
+{
+int confirm=question("updating!","I am about to start uploading the release.zip file. Continue?");
+if(confirm==2)
+exit();
+bool cont=tl.ftp_connect("darkserver.ru","www-data","2121",21);
+if(cont==false)
+{
+alert("error","can't connect");
+exit();
+}
+bool u=tl.ftp_upload("tk.zip","html/tk2/tk.zip");
+if(u==false)
+{
+alert("error","Couldn't upload release");
+exit();
+}
+string v=input_box("tk version updater","Enter the version of tk");
+if(v=="")
+{
+alert("Error","could not continue");
+exit();
+}
+string d=input_box("tk version updater","Enter the description of update");
+if(d=="")
+exit();
+int c=question("Confirmation","Version: "+v+"\r\nDescription: "+d+"\r\nCorrect?");
+if(c==1)
+alert("Release",url_post("http://darkserver.ru/tk2/release.php","game="+projname+"&version="+v+"&description="+d));
+else
+exit();
+}
+tts_voice tts;
+int found_reader=0;
+bool speak(string text, bool interrupt=true)
+{
+if(found_reader==0)
+found_reader=auto_select_screen_reader();
+if(found_reader==0)
+{
+
+// We cannot find a running screen reader, so we use a global tts_voice object.
+if(interrupt)
+tts.speak_interrupt(text);
+else
+tts.speak(text);
+}
+
+if(interrupt)
+screen_reader_speak_interrupt(found_reader, text);
+else
+screen_reader_speak(found_reader, text);
+return true;
+}
+
+//now we do this because yeah, we hate sapi.
+int auto_select_screen_reader()
+{
+for(int i=1;i<=4;i++)
+{
+if(screen_reader_is_running(i)) return i;
+}
+return 0;
+}

@@ -1,0 +1,15 @@
+name mutated_mosquito
+health 800000
+defence 30000
+speed 500
+damage 30000,100000
+shoot 600
+distance 3
+aggro 1000
+spread 2
+angle 10
+steps 2
+shieldhits 50,200
+shieldchance 20
+loot ammo,suicide_bomb,coin_pack
+amount 10

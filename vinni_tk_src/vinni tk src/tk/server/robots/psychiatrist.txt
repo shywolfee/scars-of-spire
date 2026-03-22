@@ -1,0 +1,16 @@
+name psychiatrist
+health 50000
+defence 5000
+speed 250
+damage 100,15000
+shoot 420
+distance 5
+aggro 1000
+spread 1
+angle 90
+steps 0
+loot coin
+amount 400
+shieldhits 10,100
+shieldchance 30
+xp 4000,5500

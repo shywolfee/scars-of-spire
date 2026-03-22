@@ -1,0 +1,151 @@
+awp=75000=a very strong sniper rifle, gives a lot of dammage=weapon_store
+health_dart=20=Throwing dart, takes the health of the player, and gives you a little health!=weapon_store
+stun_dart=10=a throwing dart that will stun a player for five seconds if hit=weapon_store
+poison_dart=25=Poison your opponent=weapon_store
+stone=100=throw the stone of your enemy, break his head!=weapon_store
+throwing_star=200=throw the star of your enemy, break his head!=weapon_store
+remote_gun=30=a gun that can be placed and remote controlled from a distance, good for protection of a certain area.=weapon_store
+snowball=30=snowball paralyzing the player=weapon_store
+robot=300=Your ground defender will always help in trouble=weapon_store
+turret=3000=Your turret=weapon_store
+helicopter=450=Helicopter, air assistant, will keep a peaceful sky above your head=weapon_store
+hand_cannon=700000=good hand cannon!=weapon_store
+stp21_handgun=3000=stp21_handgun=weapon_store
+crt43_automatic_shotgun=200000=crt43 automatic shotgun=weapon_store
+beretta_nano_pocket_pistol=7500=beretta nano pocket pistol=weapon_store
+beretta_m1951_machine_pistol=30000=beretta_m1951_machine_pistol=weapon_store
+glock_17_pistol=3500=glock_17_pistol=weapon_store
+sig_p226_combat_pistol=80000=sig_p226_combat_pistol=weapon_store
+modern_sub_machine_gun_carbine=120000=modern_sub_machine_gun_carbine=weapon_store
+cop_357_derringer_pistol=150000=cop_357_derringer_pistol=weapon_store
+crossbow=15000=crossbow=weapon_store
+taser=50000=taser, able to stop the player for a while=weapon_store
+gauss=120000=gauss=weapon_store
+sniper=5000=good sniper!=weapon_store
+str_301_long_barreled_machine_pistol=35000=str 301 long barreled machine pistol=weapon_store
+ags30=400000=a very heavy grenade launcher, can fastly destroy any armored target from the good distance=weapon_store
+gp30=200000=gp30=weapon_store
+m79_grenade_launcher=50000=m79 grenade launcher=weapon_store
+rpg7=600000=rpg7=weapon_store
+fnminimilight=125000=fnminimilight=weapon_store
+stp106_long_barreled_pistol=50000=stp106 long barreled pistol=weapon_store
+colt_ar_15_assault_rifle=100000=colt ar 15 assault rifle=weapon_store
+mlk_207_combat_rifle=120350=mlk 207 combat rifle=weapon_store
+str_32_pump_action_shotgun=7500=good shotgun!=weapon_store
+pistol=400=pistol=weapon_store
+shotgun=15000=powerful shotgun, deals huge damage=weapon_store
+m16_assault_rifle=1500=m16 assault rifle=weapon_store
+barrett_m82_sniper_rifle=50000=powerful sniper rifle, good range, good damage.=weapon_store
+stp429_mini_missile=50=good mini missile, kill the players and yourself!=weapon_store
+rocket_launcher=400000=rocket launcher=weapon_store
+throwing_knives=450=wonderful throwing knives=weapon_store
+carrier_missile=600=A missile that can send items and deploy them if possible=misc_store
+warp_box=90=a smart little device that will allow you to fly ahead an catch a running coward=misc_store
+bomb_defuser=50=no description=misc_store
+missile_interceptor=60=A device you can use to intercept incoming missiles=misc_store
+fire_extinguisher=15=Fire extinguisher, to extinguish a fire anywhere=misc_store
+invisibility_shield=50=A shield that keeps you invisible for other players=misc_store
+shield=60=a good layer of protection. Not fool proof though!=misc_store
+wood_pack=100=A pack of wood for shelters=misc_store
+ultrabomb_silencer=70=a device used to remove the noticeable buzzing from an active ultrabomb=misc_store
+team_member_booster=5000=These devices will open 1 slot for a member in your team=misc_store
+fire_starter=100=just a fire starter=misc_store
+flair=60=just a flair=misc_store
+locker_pack=80000=locker_pack=misc_store
+locker_security_booster=20000=security booster for lockers=misc_store
+mini_antibiotic_pack=20=A pack of 15 antibiotics=medical_store
+antibiotic_pack=120=A normal pack of 30 antibiotics=medical_store
+ultra_antibiotic_pack=800=A pack of antibiotics containing 60 antibiotics=medical_store
+tk_ultra_health_potion=5000=restore your health by 50 percent!=medical_store
+health_drink=3000=restore your health at randomly!=medical_store
+health_orb=100=Restore the health of themselves and the players, who are nearby.=medical_store
+poison_drink=70=Helps to cure poison=medical_store
+hand_grenade=90=the really strong grenade, it can give a great dammage=explosive_store
+wirebomb=300=A bomb with wires sticking out of them. Good for trapping!=explosive_store
+timebomb=15=a bomb with a beeping timer on it.=explosive_store
+guided_missile=600=A powerful missile that you can send after a player or to a set of coordinates=explosive_store
+mass_bomb=500=good device, deals damage to 80, 100 cells to kill people, robots, and more!=explosive_store
+mine=75=A bomb that activates if a player steps on it=explosive_store
+remote_timebomb=30=a remote controlled timebomb that can be detinated from anywhere with a keystroke. Packs a decent range and damage, as well as a very short time pre explosion.=explosive_store
+remote_bomb=150=good remote_bomb=explosive_store
+bullet_bomb=300=To detonate the bullet bomb, shoot it with a long ranged weapon and it will explode.=explosive_store
+security_bomb=450=A bomb that detects players and vehicles and can inflict some serious damage. Good for shelter protection!=explosive_store
+barricade_bomb=900=A bomb that detects players and vehicles and can inflict some serious damage. Good for shelter protection!=explosive_store
+sky_436_mine=300=set this mine and enjoy looking at how your enemy jumps near this mine and dies because of this!=explosive_store
+motion_bomb=100=A powerful bomb that detects motion=explosive_store
+pipe_bomb=75=pipe_bomb=explosive_store
+concussive_grenade=200=Throws you and players near by up=explosive_store
+stun_grenade=130=stunns your enemy for 15 seconds, making him an easy target!=explosive_store
+grenade_pack=200=a pack of 10 grenades=explosive_store
+impact_bomb=75=a bomb that will explode if hit enough, great in chains!=explosive_store
+suicide_bomb=1000=it can help if you need to die quickly!=explosive_store
+hipersound_bomb=2500=This bomb stuns and paralyzes people standing within 15 squares for 12 seconds=explosive_store
+ultrabomb=350=A very poweful bomb that can be detinated with coins. Packs lots of range=explosive_store
+bottle_bomb=150=Throw these bombs at your enemies, robots. good range, good damage!=explosive_store
+aircraft=500=An airborn vehicle with a high powered lazer and capable of very high speeds=vehicle_store
+tank=700=A massive ground vehicle equipped with a very powerful cannon=vehicle_store
+armored_tank=10000=powerful machine, equipped with a good brane, as well as a strong gun. Good luck, tankman!=vehicle_store
+police_car=500=police car, with built-in laser!=vehicle_store
+fuel_tank=120=A fuel tank for both the aircraft and tank=vehicle_store
+toolbox=1000=A very useful item needed for repairing vehicles=vehicle_store
+metal_pack=150=a pack full of metal for vehicle repairs=vehicle_store
+sniper_ammo_pack=120=a pack of ammo for a sniper=ammo_store
+rpg7_ammo_pack=1000=a pack of grenades for a rpg7=ammo_store
+cannon_ammo_pack=500=a pack of ammo for a cannon=ammo_store
+fnminimilight_ammo_pack=200=a pack of ammo for a fnminimilight=ammo_store
+crossbow_ammo_pack=50=A pack of ammo for a crossbow=ammo_store
+pack_of_30_ammo_crt43_automatic_shotgun=70=a pack of ammo for a crt43 automatic shotgun=ammo_store
+pack_of_100_ammo_colt_ar_15_assault_rifle=150=a pack of ammo for a colt ar 15 assault rifle=ammo_store
+pack_of_60_ammo_mlk_207_combat_rifle=90=a pack of ammo for a mlk 207 combat rifle=ammo_store
+pack_of_100_ammo_m16_assault_rifle=50=a pack of ammo for a m16 assault rifle=ammo_store
+pack_of_20_ammo_beretta_m1951_machine_pistol=80=a pack of ammo for the beretta m1951 machine pistol=ammo_store
+pack_of_30_ammo_glock_17_pistol=70=a pack of ammo for the glock 17 pistol=ammo_store
+pack_of_20_ammo_sig_p226_combat_pistol=150=a pack of ammo for the sig p226 combat pistol=ammo_store
+pack_of_100_ammo_modern_sub_machine_gun_carbine=250=a pack of ammo for the modern sub machine gun carbine=ammo_store
+pack_of_20_ammo_cop_357_derringer_pistol=150=a pack of ammo for the cop 357 derringer pistol=ammo_store
+pack_of_80_ammo_str_301_long_barreled_machine_pistol=80=a pack of ammo for a str 301 long barreled machine pistol=ammo_store
+pack_of_20_ammo_ags30=200=a pack of grenades for the aggs30=ammo_store
+pack_of_20_ammo_m79_grenade_launcher=600=a pack of grenades for a m79 grenade launcher=ammo_store
+pack_of_36_ammo_stp106_long_barreled_pistol=45=a pack of ammo for a stp106 long barreled pistol=ammo_store
+pack_of_50_ammo_beretta_nano_pocket_pistol=130=a pack of ammo for a beretta nano pocket pistol=ammo_store
+pack_of_80_ammo_stp21_handgun=230=a pack of ammo for a stp21 handgun=ammo_store
+pack_of_300_ammo_nak_nk1000_decimater=1500=a pack of ammo for a nak nk1000 decimater=ammo_store
+pack_of_100_ammo_throwing_knives=50=a pack of knifes for a throwing knifes=ammo_store
+pack_of_10_ammo_barrett_m82_sniper_rifle=700=a pack of ammo for a barrett m82 sniper rifle=ammo_store
+pack_of_10_ammo_rocket_launcher=1000=a pack of rockets for a rocket launcher=ammo_store
+pack_of_10_ammo_str_32_pump_action_shotgun=35=a pack of ammo for a str 32 pump action shotgun=ammo_store
+pack_of_30_ammo_cyanide_pistol=60=a pack of ammo for a cyanide pistol=ammo_store
+pack_of_4_ammo_hand_cannon=400=a pack of balls for a hand cannon=ammo_store
+pack_of_6_ammo_gp30=300=a pack of grenades for a gp30=ammo_store
+pack_of_20_ammo_zulfikar=30000=a pack of ammo for a zulfikar=ammo_store
+pack_of_10_ammo_storm_sniper=5000=a pack of ammo for a storm_sniper=ammo_store
+pistol_ammo_pack=15=ammo for pistol=ammo_store
+shotgun_ammo_pack=150=ammo for shotgun=ammo_store
+gauss_ammo_pack=350=A pack of ammo for an gauss rifle=ammo_store
+awp_ammo_pack=300=ammo for awp=ammo_store
+taser_ammo_pack=100=batteries for taser=ammo_store
+knife=200=a small knife=melee_weapon_store
+spear=2000=good spear=melee_weapon_store
+brass_knuckles=5000=brass_knuckles=melee_weapon_store
+broken_rifle=500=broken_rifle=melee_weapon_store
+garden_spade=4000=garden_spade=melee_weapon_store
+golden_war_axe=7000=golden_war_axe=melee_weapon_store
+hammer=1500=hammer=melee_weapon_store
+iron_shovel=800=iron_shovel=melee_weapon_store
+large_iron_club=500=large_iron_club=melee_weapon_store
+long_sword=8500=good long sword=melee_weapon_store
+machete=4700=machete=melee_weapon_store
+nunchaku=6000=nunchaku=melee_weapon_store
+rusty_axe=3500=rusty_axe=melee_weapon_store
+rusty_scalpel=1200=rusty_scalpel=melee_weapon_store
+scissor_blade=200=scissor_blade=melee_weapon_store
+short_sword=3300=short_sword=melee_weapon_store
+small_dagger=9500=small_dagger=melee_weapon_store
+small_hammer=1200=small_hammer=melee_weapon_store
+small_iron_club=300=small_iron_club=melee_weapon_store
+small_sabre=7500=small_sabre=melee_weapon_store
+spiked_bat=150=spiked_bat=melee_weapon_store
+spiked_chain_mace=15000=spiked_chain_mace=melee_weapon_store
+steal_warhammer=25000=steal_warhammer=melee_weapon_store
+stp_m4_combat_knife=600=stp_m4_combat_knife=melee_weapon_store
+studded_boots=2000=studded_boots=melee_weapon_store

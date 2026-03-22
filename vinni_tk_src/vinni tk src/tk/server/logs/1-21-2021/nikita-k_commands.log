@@ -1,0 +1,97 @@
+
+nikita-k (nikita-k) sent /chars 1-21-2021, 7:25:07 PM
+nikita-k (nikita-k) sent /reboot 1-21-2021, 8:15:37 PM
+nikita-k (nikita-k) sent /requests 1-21-2021, 8:16:47 PM
+nikita-k (nikita-k) sent /r nope sorry 1-21-2021, 8:18:53 PM
+nikita-k (nikita-k) sent /notify rebooting... 1-21-2021, 8:21:32 PM
+nikita-k (nikita-k) sent /reboot 1-21-2021, 8:21:38 PM
+nikita-k (nikita-k) sent /notify Storm Sniper's damage has been reduced! 1-21-2021, 8:22:18 PM
+nikita-k (nikita-k) sent /chars 1-21-2021, 8:22:35 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 1-21-2021, 8:22:51 PM
+nikita-k (nikita-k) sent /changemap nikita-k store 1-21-2021, 8:23:17 PM
+nikita-k (nikita-k) sent /rawmap 1-21-2021, 8:23:25 PM
+nikita-k (nikita-k) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:300:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+noitems:0:300:0:300:0:300:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:empty_apple_juice:fire_starter:empty_beer_bottle
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:10:10:0:0:0:0:marble1
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+zone:15:15:15:15:0:100:press enter to enter in the afk area:trackme
+travelpoint:15:15:15:15:0:0:afk_area:0:0:0:welcome to the silent
+tile:30:30:14:16:0:29:wallwoodcrate
+tile:30:30:15:15:0:29:stairs2
+zone:30:30:15:15:0:29:stairs to the bar:trackme
+zone:30:30:15:15:29:50:press enter to enter to the bar
+travelpoint:30:30:15:15:29:29:bar:49:15:0:moved
+url:http://ep128.streamr.ru 1-21-2021, 8:24:31 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 1-21-2021, 8:25:54 PM
+nikita-k (nikita-k) sent /changemap franklin lern 1-21-2021, 8:28:14 PM
+nikita-k (nikita-k) sent /countbombs 1-21-2021, 8:29:36 PM
+nikita-k (nikita-k) sent /admingun 1-21-2021, 8:29:41 PM
+nikita-k (nikita-k) sent /changemap nikita-k lern 1-21-2021, 8:30:12 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:54 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:54 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:54 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:55 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:55 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:55 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:56 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:56 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:56 PM
+nikita-k (nikita-k) sent /sethealth franklin 0 1-21-2021, 8:30:56 PM
+nikita-k (nikita-k) sent /sethealth franklin 0v 1-21-2021, 8:30:57 PM
+nikita-k (nikita-k) sent /go 5 0 0 store 1-21-2021, 9:06:18 PM
+nikita-k (nikita-k) sent /votes 1-21-2021, 9:50:45 PM
+nikita-k (nikita-k) sent /votlist 1-21-2021, 9:50:51 PM
+nikita-k (nikita-k) sent /votelist 1-21-2021, 9:50:55 PM
+nikita-k (nikita-k) sent /vote yes 1-21-2021, 9:51:01 PM
+nikita-k (nikita-k) sent /votes 1-21-2021, 9:51:12 PM
+nikita-k (nikita-k) sent /clearvotes 1-21-2021, 9:51:18 PM
+nikita-k (nikita-k) sent /votes 1-21-2021, 9:51:22 PM
+nikita-k (nikita-k) sent /chars 1-21-2021, 9:51:35 PM
+nikita-k (nikita-k) sent /chars 1-21-2021, 9:59:27 PM
+nikita-k (nikita-k) sent /admins 1-21-2021, 10:02:03 PM
+nikita-k (nikita-k) sent /gnsubmit 10 1-21-2021, 10:02:36 PM
+nikita-k (nikita-k) sent /r for what? 1-21-2021, 10:10:49 PM
+nikita-k (nikita-k) sent /r heh i want dl sorce 1-21-2021, 10:11:14 PM
+nikita-k (nikita-k) sent /r deyli life 1-21-2021, 10:11:28 PM
+nikita-k (nikita-k) sent /r Yeah but there's some cool stuff in there 1-21-2021, 10:12:35 PM
+nikita-k (nikita-k) sent /objgrab 1-21-2021, 10:21:08 PM

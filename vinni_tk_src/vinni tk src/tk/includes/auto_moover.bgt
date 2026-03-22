@@ -1,0 +1,104 @@
+bool amoving;
+auto_moover@[] auto_moovers(0);
+class auto_moover
+{
+string ds, ds2, ds3, ds4;
+int doorsound, doorsound2;
+int dx;
+int dy;
+int dz;
+int finishx;
+int finishy;
+int finishz;
+int movetime=150;
+bool moving;
+bool aimoving;
+timer movetimer;
+auto_moover(int doorx, int doory, int doorz,int doorfinishx, int doorfinishy, int doorfinishz,int speed, string doorsnd, string doorsnd2, string doorsnd3, string doorsnd4)
+{
+ds=doorsnd;
+ds2=doorsnd2;
+ds3=doorsnd3;
+ds4=doorsnd4;
+dx=doorx;
+dy=doory;
+dz=doorz;
+finishx=doorfinishx;
+finishy=doorfinishy;
+finishz=doorfinishz;
+movetime=speed;
+doorsound=p.play_3d(ds, me.x, me.y, me.z,dx, dy, dz,calculate_theta(facing),true);
+}
+}
+void auto_moovercheckloop()
+{
+for (uint i=0; i<auto_moovers.length(); i++)
+{
+p.update_sound_3d(auto_moovers[i].doorsound, auto_moovers[i].dx, auto_moovers[i].dy,auto_moovers[i].dz);
+if (auto_moovers[i].moving==true and auto_moovers[i].movetimer.elapsed>=auto_moovers[i].movetime)
+{
+auto_moovers[i].movetimer.restart();
+if (me.x>auto_moovers[i].finishx)
+{
+me.x-=1;
+send_reliable(0,"move_to "+me.x+" "+me.y+" "+me.z,0);
+}
+else if (me.x<auto_moovers[i].finishx)
+{
+me.x+=1;
+send_reliable(0,"move_to "+me.x+" "+me.y+" "+me.z,0);
+}
+if (me.y>auto_moovers[i].finishy)
+{
+me.y-=1;
+send_reliable(0,"move_to "+me.x+" "+me.y+" "+me.z,0);
+}
+else if (me.y<auto_moovers[i].finishy)
+{
+me.y+=1;
+send_reliable(0,"move_to "+me.x+" "+me.y+" "+me.z,0);
+}
+if (me.z>auto_moovers[i].finishz)
+{
+me.z-=1;
+send_reliable(0,"move_to "+me.x+" "+me.y+" "+me.z,0);
+}
+else if (me.z<auto_moovers[i].finishz)
+{
+me.z+=1;
+send_reliable(0,"move_to "+me.x+" "+me.y+" "+me.z,0);
+}
+}
+if (auto_moovers[i].finishx==me.x and auto_moovers[i].finishy==me.y and auto_moovers[i].finishz==me.z and auto_moovers[i].moving==true)
+{
+if (auto_moovers[i].ds2!="none")
+{
+p.destroy_sound(auto_moovers[i].doorsound2);
+}
+send_reliable(0,"xplay "+auto_moovers[i].ds4,0);
+p.play_stationary(auto_moovers[i].ds4, false);
+can_move=true;
+amoving=false;
+auto_moovers[i].moving=false;
+send_reliable(0,"iamnotdmoving",0);
+}
+}
+}
+void destroy_auto_moover(int d)
+{
+p.destroy_sound(auto_moovers[d].doorsound);
+auto_moovers.remove_at(d);
+}
+void destroy_all_auto_moovers()
+{
+for(uint i=0; i<auto_moovers.length(); i++)
+{
+p.destroy_sound(auto_moovers[i].doorsound);
+}
+auto_moovers.resize(0);
+}
+void spawn_auto_moover(int doorx, int doory, int doorz, int finishx, int finishy, int finishz, int speed, string doorsnd, string doorsnd2, string doorsnd3, string doorsnd4)
+{
+auto_moover auto_moover1(doorx, doory, doorz,finishx, finishy, finishz,speed, doorsnd, doorsnd2, doorsnd3, doorsnd4);
+auto_moovers.insert_last(auto_moover1);
+}

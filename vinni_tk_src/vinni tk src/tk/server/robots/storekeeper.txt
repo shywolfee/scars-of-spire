@@ -1,0 +1,16 @@
+name storekeeper
+health 15000
+defence 300
+speed 500
+damage 800,8000
+shoot 1000
+distance 5
+aggro 1000
+spread 1
+angle 90
+steps 2
+loot coin
+amount 150
+shieldhits 10,35
+shieldchance 30
+xp 300,500

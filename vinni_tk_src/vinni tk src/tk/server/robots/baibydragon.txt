@@ -1,0 +1,16 @@
+name baibydragon
+health 1400000
+defence 1000
+speed 700
+damage 1000,15000
+shoot 1000
+distance 8
+aggro 1000
+spread 1
+angle 10
+steps 2
+shieldhits 10,50
+shieldchance 30
+loot coin
+amount 50000
+xp 30000,45000

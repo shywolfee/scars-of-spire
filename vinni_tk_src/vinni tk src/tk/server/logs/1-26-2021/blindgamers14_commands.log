@@ -1,0 +1,783 @@
+
+roflgamer (blindgamers14) sent /teamshelters 1-26-2021, 4:11:56 AM
+roflgamer (blindgamers14) sent /shchat scann 1-26-2021, 4:19:09 AM
+roflgamer (blindgamers14) sent /where Igrok 1-26-2021, 5:27:15 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 5:30:06 AM
+roflgamer (blindgamers14) sent /teams 1-26-2021, 5:48:34 AM
+roflgamer (blindgamers14) sent /bestplayer 1-26-2021, 5:51:02 AM
+roflgamer (blindgamers14) sent /where Igrok 1-26-2021, 5:55:29 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 6:08:00 AM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 6:11:12 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:15:17 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:15:17 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:15:19 AM
+roflgamer (blindgamers14) sent /t uu 1-26-2021, 6:15:19 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 6:48:35 AM
+roflgamer (blindgamers14) sent /lchat asdfkjasdflkjadklfjlkjasdf 1-26-2021, 6:53:51 AM
+roflgamer (blindgamers14) sent /t   1-26-2021, 6:54:01 AM
+roflgamer (blindgamers14) sent /t   1-26-2021, 6:54:02 AM
+roflgamer (blindgamers14) sent /t   1-26-2021, 6:54:02 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:04 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:06 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:06 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:07 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:07 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:08 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:08 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:09 AM
+roflgamer (blindgamers14) sent /t u 1-26-2021, 6:54:09 AM
+roflgamer (blindgamers14) sent /lchat the v shelter belonging to blindgamers14 with 5631000 health is streight behind, 7 feet away. 1-26-2021, 7:00:03 AM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 7:01:00 AM
+roflgamer (blindgamers14) sent /lchat come 1-26-2021, 7:03:42 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 7:07:23 AM
+roflgamer (blindgamers14) sent /admins 1-26-2021, 7:10:49 AM
+roflgamer (blindgamers14) sent /joinevent ejejlkajdsf 1-26-2021, 7:13:23 AM
+roflgamer (blindgamers14) sent /lchat Loading sounds... please wait 1-26-2021, 7:17:28 AM
+roflgamer (blindgamers14) sent /lchat The killer version 7.2 (Not Responding) 1-26-2021, 7:17:42 AM
+roflgamer (blindgamers14) sent /lchat my tk 1-26-2021, 7:18:00 AM
+roflgamer (blindgamers14) sent /lchat yeah, i already se thtt 1-26-2021, 7:18:23 AM
+roflgamer (blindgamers14) sent /lchat now i jsut need server to run it 1-26-2021, 7:18:32 AM
+roflgamer (blindgamers14) sent /lchat not on this tk 1-26-2021, 7:19:08 AM
+roflgamer (blindgamers14) sent /lchat asdfasdf 1-26-2021, 7:19:11 AM
+roflgamer (blindgamers14) sent /t hi want get this tk sourcecode 1-26-2021, 7:19:27 AM
+roflgamer (blindgamers14) sent /t hope i find it 1-26-2021, 7:19:41 AM
+roflgamer (blindgamers14) sent /lchat dont kno 1-26-2021, 7:19:43 AM
+roflgamer (blindgamers14) sent /t k, but no with sounds 1-26-2021, 7:19:56 AM
+roflgamer (blindgamers14) sent /t its so biiiig 1-26-2021, 7:20:00 AM
+roflgamer (blindgamers14) sent /lchat roflgamer-productions.tr.ht server v7.1 1-26-2021, 7:20:28 AM
+roflgamer (blindgamers14) sent /lchat asdfasfd 1-26-2021, 7:20:46 AM
+roflgamer (blindgamers14) sent /t ha! 1-26-2021, 7:20:53 AM
+roflgamer (blindgamers14) sent /lchat i like this music 1-26-2021, 7:21:23 AM
+roflgamer (blindgamers14) sent /t ha ha 1-26-2021, 7:21:47 AM
+roflgamer (blindgamers14) sent /me \ 1-26-2021, 7:23:11 AM
+roflgamer (blindgamers14) sent /me \ 1-26-2021, 7:23:15 AM
+roflgamer (blindgamers14) sent /lchat #include"i.bgt"
+int collecttime=100000;
+timer collecttimer;
+int mx,my;
+int playx=0;
+int cameraspeed=80;
+int canjump=1;
+int lastruns=0;
+int translator=0;
+int hbanned=0;
+int rules=0;
+int playmusic=0;
+bool walkmod=false;
+int sent_packets=0,received_packets=0;
+string packetlog;
+string gamever;
+double musicvolume;
+bool engexp;
+bool isupdating;
+bool net_debug=false;
+bool profiler=false;
+bool inbox=false;
+bool ereboot=false;
+string mapstring;
+const string decryption_key="blind_developers";
+joystick jstick;
+//sound music;
+string musicsound;
+int importbufferlogs=0;
+string musictrack="menumus1";
+int registered=0;
+string windowtext;
+string focuseditem;
+string regname, regkey;
+ 1-26-2021, 7:23:58 AM
+roflgamer (blindgamers14) sent /lchat that not all scripts 1-26-2021, 7:24:27 AM
+roflgamer (blindgamers14) sent /lchat dont kno 1-26-2021, 7:24:43 AM
+roflgamer (blindgamers14) sent /lchat pinging 1-26-2021, 7:26:54 AM
+roflgamer (blindgamers14) sent /lchat The ping took 18 ms 1-26-2021, 7:26:59 AM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 7:27:44 AM
+roflgamer (blindgamers14) sent /teamshelters 1-26-2021, 7:28:15 AM
+roflgamer (blindgamers14) sent /t your team owns 1 shelter: major, on battles at 400, 400, -51, owned by teja. 1-26-2021, 7:28:17 AM
+roflgamer (blindgamers14) sent /t sgamer shelter get distroy by a fire 1-26-2021, 7:28:30 AM
+roflgamer (blindgamers14) sent /help 1-26-2021, 7:29:00 AM
+roflgamer (blindgamers14) sent /help 1-26-2021, 7:29:13 AM
+roflgamer (blindgamers14) sent /h 1-26-2021, 7:29:35 AM
+roflgamer (blindgamers14) sent /members 1-26-2021, 7:29:46 AM
+roflgamer (blindgamers14) sent /changes 1-26-2021, 7:30:15 AM
+roflgamer (blindgamers14) sent /lchat who want come to my shelters 1-26-2021, 7:31:11 AM
+roflgamer (blindgamers14) sent /lchat uh 1-26-2021, 7:31:48 AM
+roflgamer (blindgamers14) sent /lchat what code 1-26-2021, 7:31:57 AM
+roflgamer (blindgamers14) sent /lchat ha 1-26-2021, 7:32:33 AM
+roflgamer (blindgamers14) sent /lchat go 1-26-2021, 7:32:40 AM
+roflgamer (blindgamers14) sent /lchat pyton 1-26-2021, 7:32:48 AM
+roflgamer (blindgamers14) sent /admintell yeah 1-26-2021, 7:33:07 AM
+roflgamer (blindgamers14) sent /admintell sorry rong press 1-26-2021, 7:33:20 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 7:43:51 AM
+roflgamer (blindgamers14) sent /lchat no 1-26-2021, 7:44:46 AM
+roflgamer (blindgamers14) sent /lchat 0 1-26-2021, 7:44:48 AM
+roflgamer (blindgamers14) sent /lchat you have 6650 air. this should last you about 6 hours, 27 minutes and 55 seconds 1-26-2021, 7:44:59 AM
+roflgamer (blindgamers14) sent /lchat o k 1-26-2021, 7:45:04 AM
+roflgamer (blindgamers14) sent /lchat kk 1-26-2021, 7:45:30 AM
+roflgamer (blindgamers14) sent /lchat bye 1-26-2021, 7:45:39 AM
+roflgamer (blindgamers14) sent /t k 1-26-2021, 7:45:51 AM
+roflgamer (blindgamers14) sent /lchat how many air 1-26-2021, 7:46:32 AM
+roflgamer (blindgamers14) sent /lchat o k 1-26-2021, 7:46:40 AM
+roflgamer (blindgamers14) sent /lchat come/ 1-26-2021, 7:47:57 AM
+roflgamer (blindgamers14) sent /lchat k 1-26-2021, 7:48:47 AM
+roflgamer (blindgamers14) sent /t wait 1-26-2021, 7:49:41 AM
+roflgamer (blindgamers14) sent /t i stuck on wall 1-26-2021, 7:50:00 AM
+roflgamer (blindgamers14) sent /t ok 1-26-2021, 7:50:06 AM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 7:51:26 AM
+roflgamer (blindgamers14) sent /lchat enter? 1-26-2021, 7:51:35 AM
+roflgamer (blindgamers14) sent /lchat go where 1-26-2021, 7:52:10 AM
+roflgamer (blindgamers14) sent /lchat lag 1-26-2021, 7:53:23 AM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 7:54:46 AM
+roflgamer (blindgamers14) sent /t what 1-26-2021, 7:55:35 AM
+roflgamer (blindgamers14) sent /t lag 1-26-2021, 7:55:51 AM
+roflgamer (blindgamers14) sent /t can you wait? 1-26-2021, 7:56:32 AM
+roflgamer (blindgamers14) sent /t can you wait 1-26-2021, 7:56:41 AM
+roflgamer (blindgamers14) sent /t lag 1-26-2021, 7:56:46 AM
+roflgamer (blindgamers14) sent /lchat hi 1-26-2021, 7:58:32 AM
+roflgamer (blindgamers14) sent /lchat here? 1-26-2021, 8:00:43 AM
+roflgamer (blindgamers14) sent /lchat 27, 100, -100. 1-26-2021, 8:00:48 AM
+roflgamer (blindgamers14) sent /lchat 3 back? 1-26-2021, 8:05:04 AM
+roflgamer (blindgamers14) sent /lchat i on up 1-26-2021, 8:05:15 AM
+roflgamer (blindgamers14) sent /lchat jump agian 1-26-2021, 8:05:21 AM
+roflgamer (blindgamers14) sent /lchat front? 1-26-2021, 8:05:38 AM
+roflgamer (blindgamers14) sent /lchat on this? 1-26-2021, 8:05:51 AM
+roflgamer (blindgamers14) sent /lchat 10, 100, 220.? 1-26-2021, 8:05:58 AM
+roflgamer (blindgamers14) sent /lchat armer tank 1-26-2021, 8:06:13 AM
+roflgamer (blindgamers14) sent /lchat dont no 1-26-2021, 8:06:23 AM
+roflgamer (blindgamers14) sent /lchat land 1-26-2021, 8:07:17 AM
+roflgamer (blindgamers14) sent /lchat now go where/ 1-26-2021, 8:07:36 AM
+roflgamer (blindgamers14) sent /lchat where 1-26-2021, 8:08:35 AM
+roflgamer (blindgamers14) sent /lchat wee! 1-26-2021, 8:12:39 AM
+roflgamer (blindgamers14) sent /lchat corpse at 27, 1, 0 1-26-2021, 8:13:45 AM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 8:13:58 AM
+roflgamer (blindgamers14) sent /lchat this corpse 1-26-2021, 8:14:07 AM
+roflgamer (blindgamers14) sent /lchat ehh where 1-26-2021, 8:14:55 AM
+roflgamer (blindgamers14) sent /lchat wher 1-26-2021, 8:15:10 AM
+roflgamer (blindgamers14) sent /lchat how do you go right 1-26-2021, 8:16:18 AM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 8:16:30 AM
+roflgamer (blindgamers14) sent /bid 2 1-26-2021, 8:17:18 AM
+roflgamer (blindgamers14) sent /bid 1000000 1-26-2021, 8:17:30 AM
+roflgamer (blindgamers14) sent /cancelbid y 1-26-2021, 8:17:35 AM
+roflgamer (blindgamers14) sent /lchat tankman 1-26-2021, 8:17:53 AM
+roflgamer (blindgamers14) sent /lchat come 1-26-2021, 8:18:09 AM
+roflgamer (blindgamers14) sent /lchat wall 1-26-2021, 8:18:41 AM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 8:18:53 AM
+roflgamer (blindgamers14) sent /lchat use tank and go front 1-26-2021, 8:19:14 AM
+roflgamer (blindgamers14) sent /lchat still same, 1-26-2021, 8:19:59 AM
+roflgamer (blindgamers14) sent /lchat try go up 1-26-2021, 8:20:06 AM
+roflgamer (blindgamers14) sent /lchat keep go up 1-26-2021, 8:21:04 AM
+roflgamer (blindgamers14) sent /lchat uh 1-26-2021, 8:21:35 AM
+roflgamer (blindgamers14) sent /lchat stuck 1-26-2021, 8:21:45 AM
+roflgamer (blindgamers14) sent /lchat go south? 1-26-2021, 8:22:02 AM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 8:22:11 AM
+roflgamer (blindgamers14) sent /lchat where is this 1-26-2021, 8:22:40 AM
+roflgamer (blindgamers14) sent /t wait trynto restart net 1-26-2021, 8:24:08 AM
+roflgamer (blindgamers14) sent /stats blindgamers14 1-26-2021, 8:29:45 AM
+roflgamer (blindgamers14) sent /cancelauction 1-26-2021, 8:35:17 AM
+roflgamer (blindgamers14) sent /shteam set 1-26-2021, 8:35:26 AM
+roflgamer (blindgamers14) sent /stheam set 1-26-2021, 8:35:33 AM
+roflgamer (blindgamers14) sent /t what 1-26-2021, 8:35:37 AM
+roflgamer (blindgamers14) sent /shteam set 1-26-2021, 8:35:39 AM
+roflgamer (blindgamers14) sent /shteam se 1-26-2021, 8:35:41 AM
+roflgamer (blindgamers14) sent /shteam set 1-26-2021, 8:35:44 AM
+roflgamer (blindgamers14) sent /shteam set 1-26-2021, 8:35:47 AM
+roflgamer (blindgamers14) sent /t o k 1-26-2021, 8:35:52 AM
+roflgamer (blindgamers14) sent /shteam remove 1-26-2021, 8:35:57 AM
+roflgamer (blindgamers14) sent /t ha 1-26-2021, 8:36:12 AM
+roflgamer (blindgamers14) sent /shteam 1-26-2021, 8:36:31 AM
+roflgamer (blindgamers14) sent /myshetlers 1-26-2021, 8:37:56 AM
+roflgamer (blindgamers14) sent /cancelauction 1-26-2021, 8:37:57 AM
+roflgamer (blindgamers14) sent /shteam set 1-26-2021, 8:38:01 AM
+roflgamer (blindgamers14) sent /t ehh 1-26-2021, 8:38:02 AM
+roflgamer (blindgamers14) sent /t rong 1-26-2021, 8:38:04 AM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 8:38:07 AM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 8:38:24 AM
+roflgamer (blindgamers14) sent /shelters 1-26-2021, 8:38:27 AM
+roflgamer (blindgamers14) sent /t there are 14 shelters 1-26-2021, 8:38:29 AM
+roflgamer (blindgamers14) sent /lchat \ 1-26-2021, 9:30:50 AM
+roflgamer (blindgamers14) sent /sucide 1-26-2021, 9:36:58 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 9:36:59 AM
+roflgamer (blindgamers14) sent /lchat ha ha ha ha 1-26-2021, 10:04:37 AM
+roflgamer (blindgamers14) sent /t yw 1-26-2021, 10:05:14 AM
+roflgamer (blindgamers14) sent /lchat oi 1-26-2021, 10:07:37 AM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 10:08:19 AM
+roflgamer (blindgamers14) sent /stats sgamer 1-26-2021, 10:11:22 AM
+roflgamer (blindgamers14) sent /stats blindgamers14 1-26-2021, 10:11:30 AM
+roflgamer (blindgamers14) sent /bid 44 1-26-2021, 10:12:35 AM
+roflgamer (blindgamers14) sent /t the major shelter belonging to teja with 8773643 health is behind and a fair distance off to the left, 0 feet away. 1-26-2021, 10:13:05 AM
+roflgamer (blindgamers14) sent /teamshelters 1-26-2021, 10:19:29 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 10:19:41 AM
+roflgamer (blindgamers14) sent /lchat wait there 1-26-2021, 10:20:02 AM
+roflgamer (blindgamers14) sent /shadd sgamer 1-26-2021, 10:20:53 AM
+roflgamer (blindgamers14) sent /lchat transfer 1-26-2021, 10:23:09 AM
+roflgamer (blindgamers14) sent /lchat press b to see available balance. press c to check and copy your shelter code to the 	clipboard(requires owner permitions). press t to transfer money to another shelter. press o to withdraw coins. press i to copy the shelter's id.
+what would you like to do 1-26-2021, 10:23:16 AM
+roflgamer (blindgamers14) sent /lchat 4636 1-26-2021, 10:23:47 AM
+roflgamer (blindgamers14) sent /lchat this shelter has 3872 fuel, enough to last about 2 days and 24 minutes.  1-26-2021, 10:27:38 AM
+roflgamer (blindgamers14) sent /lchat out of fual tank 1-26-2021, 10:30:06 AM
+roflgamer (blindgamers14) sent /lchat this shelter has 7139 fuel, enough to last about 3 days, 17 hours, 14 minutes 1-26-2021, 10:30:35 AM
+roflgamer (blindgamers14) sent /lchat press f to fire this remgun. press h to access this message. press i to access information. press p for a scan of players and hittable objects. press s to overload the remote gun's batteries and explode 1-26-2021, 10:32:22 AM
+roflgamer (blindgamers14) sent /lchat information for remgun 39: owner blindgamers14. this remgun has been fired 0 times, and has 4 minutes and 35 seconds of uptime remaining. it is located on zz at 0, 0, 30, and has 20000 health left 1-26-2021, 10:32:37 AM
+roflgamer (blindgamers14) sent /lchat shielded masters roflgamer is below, streight off to the right, 30 feet away.  divine 59 is below, streight off to the right, 30 feet away. 1-26-2021, 10:33:03 AM
+roflgamer (blindgamers14) sent /lchat nothing 1-26-2021, 10:33:42 AM
+roflgamer (blindgamers14) sent /lchat you don't have any remote guns to connect to 1-26-2021, 10:33:45 AM
+roflgamer (blindgamers14) sent /lchat want make a new one 1-26-2021, 10:34:19 AM
+roflgamer (blindgamers14) sent /lchat item 1-26-2021, 10:38:50 AM
+roflgamer (blindgamers14) sent /lchat this keyboard clisk sound is nice 1-26-2021, 10:39:38 AM
+roflgamer (blindgamers14) sent /lchat haehh, hope my sky mine still activ 1-26-2021, 10:40:33 AM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 10:41:51 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 10:41:53 AM
+roflgamer (blindgamers14) sent /lchat go enter 1-26-2021, 10:42:57 AM
+roflgamer (blindgamers14) sent /lchat try you jump 1-26-2021, 10:43:37 AM
+roflgamer (blindgamers14) sent /sell 1-26-2021, 10:45:10 AM
+roflgamer (blindgamers14) sent /sell 1-26-2021, 10:45:17 AM
+roflgamer (blindgamers14) sent /lchat go 1-26-2021, 10:46:15 AM
+roflgamer (blindgamers14) sent /r test with turret instead 1-26-2021, 10:47:30 AM
+roflgamer (blindgamers14) sent /r why 1-26-2021, 10:47:40 AM
+roflgamer (blindgamers14) sent /r how many you have 1-26-2021, 10:48:19 AM
+roflgamer (blindgamers14) sent /r i want one 1-26-2021, 10:48:35 AM
+roflgamer (blindgamers14) sent /t o k 1-26-2021, 10:49:06 AM
+roflgamer (blindgamers14) sent /lchat down 1-26-2021, 10:49:20 AM
+roflgamer (blindgamers14) sent /r give me i want also 1-26-2021, 10:49:43 AM
+roflgamer (blindgamers14) sent /r i want try 1-26-2021, 10:49:51 AM
+roflgamer (blindgamers14) sent /r i will give back, just want try it 1-26-2021, 10:50:13 AM
+roflgamer (blindgamers14) sent /t coem 1-26-2021, 10:50:38 AM
+roflgamer (blindgamers14) sent /r come 1-26-2021, 10:50:40 AM
+roflgamer (blindgamers14) sent /lchat you can't move wiht this? 1-26-2021, 10:51:51 AM
+roflgamer (blindgamers14) sent /lchat so long time rloading 1-26-2021, 10:52:04 AM
+roflgamer (blindgamers14) sent /t wah 1-26-2021, 10:52:26 AM
+roflgamer (blindgamers14) sent /r ok here 1-26-2021, 10:52:32 AM
+roflgamer (blindgamers14) sent /r i give back 1-26-2021, 10:52:36 AM
+roflgamer (blindgamers14) sent /lchat ehehh 1-26-2021, 10:53:40 AM
+roflgamer (blindgamers14) sent /lchat you have 4 of 5 ammo in your zulfikar, and you have 175 bullets remaining 1-26-2021, 10:53:49 AM
+roflgamer (blindgamers14) sent /lchat i just press numer row 1-26-2021, 10:54:06 AM
+roflgamer (blindgamers14) sent /lchat number 1-26-2021, 10:54:10 AM
+roflgamer (blindgamers14) sent /lchat but, if i oflyne, this will gone 1-26-2021, 10:54:20 AM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 10:54:55 AM
+roflgamer (blindgamers14) sent /members 1-26-2021, 11:03:49 AM
+roflgamer (blindgamers14) sent /lchat you are at max health and you can't go any higher! 1-26-2021, 11:05:35 AM
+roflgamer (blindgamers14) sent /lchat yo 1-26-2021, 11:08:25 AM
+roflgamer (blindgamers14) sent /lchat coming 1-26-2021, 11:08:45 AM
+roflgamer (blindgamers14) sent /lchat huh 1-26-2021, 11:13:25 AM
+roflgamer (blindgamers14) sent /lchat ll 1-26-2021, 11:13:37 AM
+roflgamer (blindgamers14) sent /lchat who sending suicide bomb 1-26-2021, 11:14:27 AM
+roflgamer (blindgamers14) sent /lchat lol 1-26-2021, 11:15:43 AM
+roflgamer (blindgamers14) sent /t that copter broke 1-26-2021, 11:16:01 AM
+roflgamer (blindgamers14) sent /lchat lol it going to who 1-26-2021, 11:16:40 AM
+roflgamer (blindgamers14) sent /lchat now dont 1-26-2021, 11:18:02 AM
+roflgamer (blindgamers14) sent /lchat you can't launch the helicopter 1-26-2021, 11:18:27 AM
+roflgamer (blindgamers14) sent /lchat get ready for nex attack 1-26-2021, 11:19:37 AM
+roflgamer (blindgamers14) sent /lchat see 1-26-2021, 11:19:54 AM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 11:20:13 AM
+roflgamer (blindgamers14) sent /lchat that helicopter attacking closes player 1-26-2021, 11:20:30 AM
+roflgamer (blindgamers14) sent /lchat you on tower 1-26-2021, 11:20:48 AM
+roflgamer (blindgamers14) sent /lchat here teja 1-26-2021, 11:21:05 AM
+roflgamer (blindgamers14) sent /lchat dont go up hh 1-26-2021, 11:22:23 AM
+roflgamer (blindgamers14) sent /lchat bye bye 1-26-2021, 11:23:52 AM
+roflgamer (blindgamers14) sent /lchat easy 1-26-2021, 11:24:18 AM
+roflgamer (blindgamers14) sent /lchat say bye to your micils 1-26-2021, 11:25:15 AM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 11:25:36 AM
+roflgamer (blindgamers14) sent /t ok ok mot do tat again 1-26-2021, 11:25:47 AM
+roflgamer (blindgamers14) sent /t suicidebomb 1-26-2021, 11:26:01 AM
+roflgamer (blindgamers14) sent /s57 1-26-2021, 11:26:09 AM
+roflgamer (blindgamers14) sent /lchat here 1-26-2021, 11:26:43 AM
+roflgamer (blindgamers14) sent /lchat see 1-26-2021, 11:26:45 AM
+roflgamer (blindgamers14) sent /lchat ll 1-26-2021, 11:27:07 AM
+roflgamer (blindgamers14) sent /lchat hit this turret 1-26-2021, 11:28:12 AM
+roflgamer (blindgamers14) sent /r what? 1-26-2021, 11:28:41 AM
+roflgamer (blindgamers14) sent /r hey can you give me zulficar again 1-26-2021, 11:29:08 AM
+roflgamer (blindgamers14) sent /lchat give me throuing stars 1-26-2021, 11:30:00 AM
+roflgamer (blindgamers14) sent /r what? 1-26-2021, 11:30:30 AM
+roflgamer (blindgamers14) sent /lchat -91585 1-26-2021, 11:31:25 AM
+roflgamer (blindgamers14) sent /lchat keyboard bomb 1-26-2021, 11:32:09 AM
+roflgamer (blindgamers14) sent /t what? 1-26-2021, 11:34:25 AM
+roflgamer (blindgamers14) sent /lchat why 1-26-2021, 11:34:42 AM
+roflgamer (blindgamers14) sent /t whyi 1-26-2021, 11:34:44 AM
+roflgamer (blindgamers14) sent /t why 1-26-2021, 11:34:46 AM
+roflgamer (blindgamers14) sent /t ah yeah 1-26-2021, 11:35:19 AM
+roflgamer (blindgamers14) sent /t i add much fual on your shelter 1-26-2021, 11:35:26 AM
+roflgamer (blindgamers14) sent /t i want we can build map inside the shelter, like silac tk 1-26-2021, 11:35:54 AM
+roflgamer (blindgamers14) sent /t you can,t in here 1-26-2021, 11:36:08 AM
+roflgamer (blindgamers14) sent /t lets play someone music 1-26-2021, 11:38:00 AM
+roflgamer (blindgamers14) sent /t ehh, i mean some music 1-26-2021, 11:38:09 AM
+roflgamer (blindgamers14) sent /t on my pc 1-26-2021, 11:38:19 AM
+roflgamer (blindgamers14) sent /t dont kon 1-26-2021, 11:38:56 AM
+roflgamer (blindgamers14) sent /t dont kno 1-26-2021, 11:38:59 AM
+roflgamer (blindgamers14) sent /t i will search a good song to play 1-26-2021, 11:39:06 AM
+roflgamer (blindgamers14) sent /t ehh 1-26-2021, 11:39:39 AM
+roflgamer (blindgamers14) sent /t Set output device.  button 1-26-2021, 11:41:55 AM
+roflgamer (blindgamers14) sent /lchat ha? 1-26-2021, 11:52:39 AM
+roflgamer (blindgamers14) sent /t uz 1-26-2021, 11:52:44 AM
+roflgamer (blindgamers14) sent /t transfer to my shetler 1-26-2021, 12:21:45 PM
+roflgamer (blindgamers14) sent /t wait 1-26-2021, 12:22:11 PM
+roflgamer (blindgamers14) sent /t id is rqzd5859 1-26-2021, 12:22:34 PM
+roflgamer (blindgamers14) sent /t rqzd5859 1-26-2021, 12:22:36 PM
+roflgamer (blindgamers14) sent /t this shelter has 10000000 health, and you have 10000 health, with 500 shielded shots 1-26-2021, 12:23:26 PM
+roflgamer (blindgamers14) sent /t current balance: 0 coins.
+what would you like to do 1-26-2021, 12:24:17 PM
+roflgamer (blindgamers14) sent /t your computer key is 1305 1-26-2021, 12:24:39 PM
+roflgamer (blindgamers14) sent /where teja 1-26-2021, 12:24:51 PM
+roflgamer (blindgamers14) sent /bid uh, give your shelter id 1-26-2021, 12:25:30 PM
+roflgamer (blindgamers14) sent /t give your shelter id 1-26-2021, 12:25:34 PM
+roflgamer (blindgamers14) sent /t i will transfer first 1-26-2021, 12:25:40 PM
+roflgamer (blindgamers14) sent /t give your ID 1-26-2021, 12:26:46 PM
+roflgamer (blindgamers14) sent /t    i  d 1-26-2021, 12:26:50 PM
+roflgamer (blindgamers14) sent /t transaction completed! thank you for using sh pay 0.2.4!
+what would you like to do 1-26-2021, 12:28:08 PM
+roflgamer (blindgamers14) sent /t 10000 1-26-2021, 12:28:27 PM
+roflgamer (blindgamers14) sent /t enter code 1305 1-26-2021, 12:29:03 PM
+roflgamer (blindgamers14) sent /t after that, enter id rqzd5859 1-26-2021, 12:29:20 PM
+roflgamer (blindgamers14) sent /t rqzd5859 1-26-2021, 12:29:27 PM
+roflgamer (blindgamers14) sent /t done 1-26-2021, 12:30:38 PM
+roflgamer (blindgamers14) sent /t yes, i receave 1-26-2021, 12:30:46 PM
+roflgamer (blindgamers14) sent /t current balance: 35000 coins.
+what would you like to do 1-26-2021, 12:30:55 PM
+roflgamer (blindgamers14) sent /t transfer 1-26-2021, 12:31:44 PM
+roflgamer (blindgamers14) sent /t 30000 1-26-2021, 12:32:12 PM
+roflgamer (blindgamers14) sent /t i add that fual 1-26-2021, 12:32:30 PM
+roflgamer (blindgamers14) sent /t generator 1-26-2021, 12:33:09 PM
+roflgamer (blindgamers14) sent /t it called generator 1-26-2021, 12:33:14 PM
+roflgamer (blindgamers14) sent /scadd teja 1-26-2021, 12:33:31 PM
+roflgamer (blindgamers14) sent /t hah, fire 1-26-2021, 12:33:44 PM
+roflgamer (blindgamers14) sent /shadd teja 1-26-2021, 12:33:51 PM
+roflgamer (blindgamers14) sent /t com blb 1-26-2021, 12:34:04 PM
+roflgamer (blindgamers14) sent /t current balance: 31037 coins.
+what would you like to do 1-26-2021, 12:35:17 PM
+roflgamer (blindgamers14) sent /t 30000? 1-26-2021, 12:35:21 PM
+roflgamer (blindgamers14) sent /t old main 1-26-2021, 12:35:53 PM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 12:36:00 PM
+roflgamer (blindgamers14) sent /pm teja oi 1-26-2021, 12:36:11 PM
+roflgamer (blindgamers14) sent /r oh 1-26-2021, 12:36:34 PM
+roflgamer (blindgamers14) sent /lchat come 1-26-2021, 12:37:04 PM
+roflgamer (blindgamers14) sent /lchat this main like silac tk 1-26-2021, 12:37:43 PM
+roflgamer (blindgamers14) sent /lchat come hey 1-26-2021, 12:38:03 PM
+roflgamer (blindgamers14) sent /lchat ohh, 1-26-2021, 12:38:16 PM
+roflgamer (blindgamers14) sent /lchat 415, 374, 0. 1-26-2021, 12:38:27 PM
+roflgamer (blindgamers14) sent /lchat chek fual 1-26-2021, 12:39:21 PM
+roflgamer (blindgamers14) sent /t yeah 1-26-2021, 12:39:45 PM
+roflgamer (blindgamers14) sent /t luckely the generator can hold it 1-26-2021, 12:40:05 PM
+roflgamer (blindgamers14) sent /t not explode 1-26-2021, 12:40:11 PM
+roflgamer (blindgamers14) sent /t dont kno 1-26-2021, 12:40:30 PM
+roflgamer (blindgamers14) sent /t go  1-26-2021, 12:40:51 PM
+roflgamer (blindgamers14) sent /t great 1-26-2021, 12:42:38 PM
+roflgamer (blindgamers14) sent /t go buy 1-26-2021, 12:43:01 PM
+roflgamer (blindgamers14) sent /t hey do you want come tt 1-26-2021, 12:43:24 PM
+roflgamer (blindgamers14) sent /t fuel_tank, 909 1-26-2021, 12:43:39 PM
+roflgamer (blindgamers14) sent /t 2300 fuel_tanks have been added to the shopping cart
+what would you like to do now? 1-26-2021, 12:44:13 PM
+roflgamer (blindgamers14) sent /t gret 1-26-2021, 12:45:53 PM
+roflgamer (blindgamers14) sent /t great 1-26-2021, 12:45:56 PM
+roflgamer (blindgamers14) sent /t open it 1-26-2021, 12:46:22 PM
+roflgamer (blindgamers14) sent /t this is mine 1-26-2021, 12:46:29 PM
+roflgamer (blindgamers14) sent /t shipment contains 2300 fuel_tank 1-26-2021, 12:46:54 PM
+roflgamer (blindgamers14) sent /t lag 1-26-2021, 12:47:04 PM
+roflgamer (blindgamers14) sent /t suck game 1-26-2021, 12:49:56 PM
+roflgamer (blindgamers14) sent /t the oi shelter belonging to laid with 100000 health is streight in front, 9 feet away. 1-26-2021, 12:50:41 PM
+roflgamer (blindgamers14) sent /t dont ko, mey be on 10 0 0 1-26-2021, 12:51:03 PM
+roflgamer (blindgamers14) sent /t you wait there 1-26-2021, 12:51:29 PM
+roflgamer (blindgamers14) sent /t 10 0 0? 1-26-2021, 12:51:34 PM
+roflgamer (blindgamers14) sent /t find it? 1-26-2021, 12:52:33 PM
+roflgamer (blindgamers14) sent /t i stuck at worp space 1-26-2021, 12:52:42 PM
+roflgamer (blindgamers14) sent /t worp! 1-26-2021, 12:53:10 PM
+roflgamer (blindgamers14) sent /t my prediction right 1-26-2021, 12:53:38 PM
+roflgamer (blindgamers14) sent /t it on 10 0 0 1-26-2021, 12:53:43 PM
+roflgamer (blindgamers14) sent /t uh  1-26-2021, 12:54:22 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 12:54:58 PM
+roflgamer (blindgamers14) sent /lchat go enter 1-26-2021, 12:55:27 PM
+roflgamer (blindgamers14) sent /t hey I have an idea 1-26-2021, 12:56:07 PM
+roflgamer (blindgamers14) sent /t i will create shelter, you will distroy it 1-26-2021, 12:56:27 PM
+roflgamer (blindgamers14) sent /t i leavve tema first 1-26-2021, 12:56:40 PM
+roflgamer (blindgamers14) sent /t so are team get points 1-26-2021, 12:56:47 PM
+roflgamer (blindgamers14) sent /t no 1-26-2021, 12:56:52 PM
+roflgamer (blindgamers14) sent /t i just leave, if you kill my shelter, this team will get points 1-26-2021, 12:57:07 PM
+roflgamer (blindgamers14) sent /t no don 1-26-2021, 12:57:14 PM
+roflgamer (blindgamers14) sent /lchat come 1-26-2021, 12:57:38 PM
+roflgamer (blindgamers14) sent /lchat this 1-26-2021, 12:57:45 PM
+roflgamer (blindgamers14) sent /t ready? 1-26-2021, 12:57:56 PM
+roflgamer (blindgamers14) sent /t go! 1-26-2021, 12:58:05 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 12:58:09 PM
+roflgamer (blindgamers14) sent /lchat again 1-26-2021, 12:58:11 PM
+roflgamer (blindgamers14) sent /lchat this 1-26-2021, 12:58:24 PM
+roflgamer (blindgamers14) sent /lchat no 1-26-2021, 12:58:33 PM
+roflgamer (blindgamers14) sent /lchat distroy this 1-26-2021, 12:58:36 PM
+roflgamer (blindgamers14) sent /lchat o k 1-26-2021, 12:59:01 PM
+roflgamer (blindgamers14) sent /lchat wait lag 1-26-2021, 12:59:14 PM
+roflgamer (blindgamers14) sent /lchat ok go 1-26-2021, 12:59:23 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 12:59:30 PM
+roflgamer (blindgamers14) sent /lchat great 1-26-2021, 12:59:41 PM
+roflgamer (blindgamers14) sent /lchat now here 1-26-2021, 12:59:51 PM
+roflgamer (blindgamers14) sent /lchat shot now 1-26-2021, 1:00:08 PM
+roflgamer (blindgamers14) sent /lchat here 1-26-2021, 1:00:30 PM
+roflgamer (blindgamers14) sent /lchat just shoot from far 1-26-2021, 1:00:42 PM
+roflgamer (blindgamers14) sent /lchat not hit? 1-26-2021, 1:01:05 PM
+roflgamer (blindgamers14) sent /lchat shoot 1-26-2021, 1:01:44 PM
+roflgamer (blindgamers14) sent /lchat again or what? 1-26-2021, 1:02:20 PM
+roflgamer (blindgamers14) sent /lchat eejejj 1-26-2021, 1:02:27 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 1:02:49 PM
+roflgamer (blindgamers14) sent /t ss 1-26-2021, 1:02:58 PM
+roflgamer (blindgamers14) sent /t hwo many health 1-26-2021, 1:03:02 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 1:03:51 PM
+roflgamer (blindgamers14) sent /lchat ok  1-26-2021, 1:04:02 PM
+roflgamer (blindgamers14) sent /lchat shelter? 1-26-2021, 1:04:16 PM
+roflgamer (blindgamers14) sent /lchat you can't launch the helicopter 1-26-2021, 1:04:50 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 1:05:01 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 1:05:05 PM
+roflgamer (blindgamers14) sent /lchat dont move 1-26-2021, 1:05:29 PM
+roflgamer (blindgamers14) sent /lchat full health 1-26-2021, 1:05:50 PM
+roflgamer (blindgamers14) sent /lchat come closer 1-26-2021, 1:06:11 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 1:06:35 PM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 1:06:36 PM
+roflgamer (blindgamers14) sent /lchat hit teja, health 58673 1-26-2021, 1:06:41 PM
+roflgamer (blindgamers14) sent /lchat try kill this turret 1-26-2021, 1:06:53 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 1:07:40 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 1:08:05 PM
+roflgamer (blindgamers14) sent /r uh ok 1-26-2021, 1:08:16 PM
+roflgamer (blindgamers14) sent /r o k 1-26-2021, 1:08:26 PM
+roflgamer (blindgamers14) sent /lchat wait coming 1-26-2021, 1:08:42 PM
+roflgamer (blindgamers14) sent /lchat lets worp 1-26-2021, 1:08:56 PM
+roflgamer (blindgamers14) sent /lchat r? 1-26-2021, 1:09:16 PM
+roflgamer (blindgamers14) sent /lchat what? 1-26-2021, 1:09:29 PM
+roflgamer (blindgamers14) sent /lchat turret? 1-26-2021, 1:09:32 PM
+roflgamer (blindgamers14) sent /t what is r 1-26-2021, 1:09:41 PM
+roflgamer (blindgamers14) sent /lchat oh wah 1-26-2021, 1:09:45 PM
+roflgamer (blindgamers14) sent /lchat dont distroy my robot now 1-26-2021, 1:10:14 PM
+roflgamer (blindgamers14) sent /lchat what is that 1-26-2021, 1:10:20 PM
+roflgamer (blindgamers14) sent /lchat you can't launch the robot 1-26-2021, 1:10:31 PM
+roflgamer (blindgamers14) sent /r let me get it also 1-26-2021, 1:11:04 PM
+roflgamer (blindgamers14) sent /lchat time to worp 1-26-2021, 1:11:22 PM
+roflgamer (blindgamers14) sent /lchat o k 1-26-2021, 1:11:34 PM
+roflgamer (blindgamers14) sent /lchat worp again 1-26-2021, 1:11:49 PM
+roflgamer (blindgamers14) sent /lchat come you worp  1-26-2021, 1:12:03 PM
+roflgamer (blindgamers14) sent /memers 1-26-2021, 1:15:15 PM
+roflgamer (blindgamers14) sent /members 1-26-2021, 1:15:17 PM
+roflgamer (blindgamers14) sent /r try come here, i want test snowball 1-26-2021, 1:15:35 PM
+roflgamer (blindgamers14) sent /r 2255 health, 500 shielded shots. 1-26-2021, 1:15:50 PM
+roflgamer (blindgamers14) sent /lchat use worp box 1-26-2021, 1:16:01 PM
+roflgamer (blindgamers14) sent /r fiuh, i have poizen drink 1-26-2021, 1:16:13 PM
+roflgamer (blindgamers14) sent /lchat aha! 1-26-2021, 1:16:19 PM
+roflgamer (blindgamers14) sent /lchat that is old command 1-26-2021, 1:16:33 PM
+roflgamer (blindgamers14) sent /r transfer item, like pressing alt space 1-26-2021, 1:16:52 PM
+roflgamer (blindgamers14) sent /r that is old command 1-26-2021, 1:17:00 PM
+roflgamer (blindgamers14) sent /lchat come here! 1-26-2021, 1:17:09 PM
+roflgamer (blindgamers14) sent /lchat worp! 1-26-2021, 1:17:23 PM
+roflgamer (blindgamers14) sent /lchat iw ant test something 1-26-2021, 1:17:34 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 1:17:58 PM
+roflgamer (blindgamers14) sent /lchat oh its work 1-26-2021, 1:18:07 PM
+roflgamer (blindgamers14) sent /bid w 1-26-2021, 1:18:11 PM
+roflgamer (blindgamers14) sent /lchat snow 1-26-2021, 1:18:14 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 1:19:00 PM
+roflgamer (blindgamers14) sent /lchat np 1-26-2021, 1:19:17 PM
+roflgamer (blindgamers14) sent /lchat oi teja jion team 1-26-2021, 1:19:32 PM
+roflgamer (blindgamers14) sent /lchat join 1-26-2021, 1:19:35 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 1:19:47 PM
+roflgamer (blindgamers14) sent /lchat i kno 1-26-2021, 1:20:00 PM
+roflgamer (blindgamers14) sent /lchat hey wait 1-26-2021, 1:20:28 PM
+roflgamer (blindgamers14) sent /t dont tell? 1-26-2021, 1:21:04 PM
+roflgamer (blindgamers14) sent /t come tt 1-26-2021, 1:21:24 PM
+roflgamer (blindgamers14) sent /lchat ets 1-26-2021, 1:21:28 PM
+roflgamer (blindgamers14) sent /lchat lets 1-26-2021, 1:21:31 PM
+roflgamer (blindgamers14) sent /lchat come ah 1-26-2021, 1:21:56 PM
+roflgamer (blindgamers14) sent /lchat do not what 1-26-2021, 1:22:42 PM
+roflgamer (blindgamers14) sent /lchat no 1-26-2021, 1:22:49 PM
+roflgamer (blindgamers14) sent /lchat just flowowing 1-26-2021, 1:22:53 PM
+roflgamer (blindgamers14) sent /lchat ha 1-26-2021, 1:23:21 PM
+roflgamer (blindgamers14) sent /lchat your armored_tank has 851489 health, and 97.2% fuel. last hit by tsunami's hand_cannon 1-26-2021, 1:23:41 PM
+roflgamer (blindgamers14) sent /lchat yes 1-26-2021, 1:24:15 PM
+roflgamer (blindgamers14) sent /lchat 6872 1-26-2021, 1:24:22 PM
+roflgamer (blindgamers14) sent /lchat heal 1-26-2021, 1:24:26 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 1:25:01 PM
+roflgamer (blindgamers14) sent /lchat you left the team! 1-26-2021, 1:25:03 PM
+roflgamer (blindgamers14) sent /teamjoin masters 2021 1-26-2021, 1:25:13 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 1:25:19 PM
+roflgamer (blindgamers14) sent /lchat right? 1-26-2021, 1:25:56 PM
+roflgamer (blindgamers14) sent /t wait want leave team to suicide 1-26-2021, 1:27:19 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 1:27:22 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 1:27:38 PM
+roflgamer (blindgamers14) sent /members 1-26-2021, 1:27:41 PM
+roflgamer (blindgamers14) sent /lchat playing music 1-26-2021, 1:30:14 PM
+roflgamer (blindgamers14) sent /t go 1-26-2021, 1:31:18 PM
+roflgamer (blindgamers14) sent /lchat ah, snowball not working in here 1-26-2021, 1:31:44 PM
+roflgamer (blindgamers14) sent /t find great music 1-26-2021, 1:32:53 PM
+roflgamer (blindgamers14) sent /lchat enter 1-26-2021, 1:34:32 PM
+roflgamer (blindgamers14) sent /lchat ah 1-26-2021, 1:35:01 PM
+roflgamer (blindgamers14) sent /lchat go zalp 1-26-2021, 1:35:04 PM
+roflgamer (blindgamers14) sent /lchat Calliope Version 3.2. By Nathan Tech (paused) 1-26-2021, 1:35:17 PM
+roflgamer (blindgamers14) sent /t hey 1-26-2021, 2:01:30 PM
+roflgamer (blindgamers14) sent /t nothing 1-26-2021, 2:01:54 PM
+roflgamer (blindgamers14) sent /cancelauction 1-26-2021, 2:02:03 PM
+roflgamer (blindgamers14) sent /lchat i first 1-26-2021, 2:02:24 PM
+roflgamer (blindgamers14) sent /lchat want listen music? 1-26-2021, 2:02:42 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 2:02:46 PM
+roflgamer (blindgamers14) sent /bid 2 1-26-2021, 2:03:09 PM
+roflgamer (blindgamers14) sent /bid 3 1-26-2021, 2:03:10 PM
+roflgamer (blindgamers14) sent /bid 4 1-26-2021, 2:03:11 PM
+roflgamer (blindgamers14) sent /bid 4 1-26-2021, 2:03:14 PM
+roflgamer (blindgamers14) sent /bid 5 1-26-2021, 2:03:14 PM
+roflgamer (blindgamers14) sent /bid 2 1-26-2021, 2:03:27 PM
+roflgamer (blindgamers14) sent /bid 3 1-26-2021, 2:03:27 PM
+roflgamer (blindgamers14) sent /t Calliope Version 3.2. By Nathan Tech (playing music2.ogg) 1-26-2021, 2:03:57 PM
+roflgamer (blindgamers14) sent /bid 222 1-26-2021, 2:04:04 PM
+roflgamer (blindgamers14) sent /cancelauction 1-26-2021, 2:04:16 PM
+roflgamer (blindgamers14) sent /t haha 1-26-2021, 2:04:18 PM
+roflgamer (blindgamers14) sent /bid 3 1-26-2021, 2:05:29 PM
+roflgamer (blindgamers14) sent /t Warning.  dialog  Something went wrong and I could not find a URL. 1-26-2021, 2:05:38 PM
+roflgamer (blindgamers14) sent /t dont no 1-26-2021, 2:05:52 PM
+roflgamer (blindgamers14) sent /t this calliop 1-26-2021, 2:05:55 PM
+roflgamer (blindgamers14) sent /t trying to playing youtube 1-26-2021, 2:06:13 PM
+roflgamer (blindgamers14) sent /t id online? 1-26-2021, 2:06:29 PM
+roflgamer (blindgamers14) sent /t go register your profile 1-26-2021, 2:06:38 PM
+roflgamer (blindgamers14) sent /t yes, go 1-26-2021, 2:06:46 PM
+roflgamer (blindgamers14) sent /t oh, you need  anew launcher.exe 1-26-2021, 2:07:04 PM
+roflgamer (blindgamers14) sent /t yes, that launcher.exe its buggy 1-26-2021, 2:07:21 PM
+roflgamer (blindgamers14) sent /t wah? 1-26-2021, 2:07:31 PM
+roflgamer (blindgamers14) sent /t i have  1-26-2021, 2:07:34 PM
+roflgamer (blindgamers14) sent /t um 1-26-2021, 2:07:51 PM
+roflgamer (blindgamers14) sent /t how, i dont kno how to give 1-26-2021, 2:07:57 PM
+roflgamer (blindgamers14) sent /t id, wait 1-26-2021, 2:08:13 PM
+roflgamer (blindgamers14) sent /t id is 1-26-2021, 2:08:26 PM
+roflgamer (blindgamers14) sent /t 114 1-26-2021, 2:08:33 PM
+roflgamer (blindgamers14) sent /t Eurofly  26 of 31 1-26-2021, 2:08:54 PM
+roflgamer (blindgamers14) sent /t 114 1-26-2021, 2:09:08 PM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 2:10:04 PM
+roflgamer (blindgamers14) sent /teams 1-26-2021, 2:10:07 PM
+roflgamer (blindgamers14) sent /shteam set 1-26-2021, 2:10:42 PM
+roflgamer (blindgamers14) sent /t come 1-26-2021, 2:10:46 PM
+roflgamer (blindgamers14) sent /t hey, do you want come tt? 1-26-2021, 2:11:48 PM
+roflgamer (blindgamers14) sent /t i am bored 1-26-2021, 2:11:59 PM
+roflgamer (blindgamers14) sent /t with what 1-26-2021, 2:12:13 PM
+roflgamer (blindgamers14) sent /t just press yes  1-26-2021, 2:12:33 PM
+roflgamer (blindgamers14) sent /t English (American Samoa) - US keyboard  US keyboard 1-26-2021, 2:13:08 PM
+roflgamer (blindgamers14) sent /t tab 1-26-2021, 2:13:49 PM
+roflgamer (blindgamers14) sent /t tab again 1-26-2021, 2:14:06 PM
+roflgamer (blindgamers14) sent /t type your nickname 1-26-2021, 2:14:18 PM
+roflgamer (blindgamers14) sent /t contry 1-26-2021, 2:14:51 PM
+roflgamer (blindgamers14) sent /t select yoru contry 1-26-2021, 2:14:57 PM
+roflgamer (blindgamers14) sent /t wait dont send mesages 1-26-2021, 2:15:51 PM
+roflgamer (blindgamers14) sent /teams 1-26-2021, 2:15:54 PM
+roflgamer (blindgamers14) sent /t ha 1-26-2021, 2:16:24 PM
+roflgamer (blindgamers14) sent /t what is that 1-26-2021, 2:16:27 PM
+roflgamer (blindgamers14) sent /lchat what is that selected item things 1-26-2021, 2:16:51 PM
+roflgamer (blindgamers14) sent /t staff_sergeant roflgamer:   what is that selected item things 1-26-2021, 2:16:54 PM
+roflgamer (blindgamers14) sent /t oi come new's shelter 1-26-2021, 2:17:03 PM
+roflgamer (blindgamers14) sent /t old main 1-26-2021, 2:18:27 PM
+roflgamer (blindgamers14) sent /t Away  radio button  checked  Alt+a 1-26-2021, 2:18:50 PM
+roflgamer (blindgamers14) sent /t haha 1-26-2021, 2:19:07 PM
+roflgamer (blindgamers14) sent /t away status 1-26-2021, 2:19:17 PM
+roflgamer (blindgamers14) sent /t where what 1-26-2021, 2:20:15 PM
+roflgamer (blindgamers14) sent /t ok 1-26-2021, 2:20:34 PM
+roflgamer (blindgamers14) sent /lchat yoi 1-26-2021, 2:21:16 PM
+roflgamer (blindgamers14) sent /lchat comee 1-26-2021, 2:23:05 PM
+roflgamer (blindgamers14) sent /lchat dont go out 1-26-2021, 2:23:40 PM
+roflgamer (blindgamers14) sent /lchat enter again 1-26-2021, 2:23:46 PM
+roflgamer (blindgamers14) sent /lchat police car 1-26-2021, 2:23:54 PM
+roflgamer (blindgamers14) sent /lchat ha! i 2005 1-26-2021, 2:27:04 PM
+roflgamer (blindgamers14) sent /lchat press tab 1-26-2021, 2:27:09 PM
+roflgamer (blindgamers14) sent /lchat ss 1-26-2021, 2:29:04 PM
+roflgamer (blindgamers14) sent /where Alfina 1-26-2021, 2:29:37 PM
+roflgamer (blindgamers14) sent /teams 1-26-2021, 2:30:28 PM
+roflgamer (blindgamers14) sent /teamshelters 1-26-2021, 2:30:53 PM
+roflgamer (blindgamers14) sent /myshlters 1-26-2021, 2:30:59 PM
+roflgamer (blindgamers14) sent /myshleters 1-26-2021, 2:31:02 PM
+roflgamer (blindgamers14) sent /lchat lag 1-26-2021, 2:31:12 PM
+roflgamer (blindgamers14) sent /myshelters 1-26-2021, 2:31:17 PM
+roflgamer (blindgamers14) sent /lchat thats your description 1-26-2021, 2:31:27 PM
+roflgamer (blindgamers14) sent /lchat skip that 1-26-2021, 2:31:50 PM
+roflgamer (blindgamers14) sent /lchat you can't change it 1-26-2021, 2:31:55 PM
+roflgamer (blindgamers14) sent /lchat skyp! 1-26-2021, 2:32:48 PM
+roflgamer (blindgamers14) sent /t enter 1-26-2021, 2:33:00 PM
+roflgamer (blindgamers14) sent /lchat ente 1-26-2021, 2:33:02 PM
+roflgamer (blindgamers14) sent /lchat yeaht bug 1-26-2021, 2:33:31 PM
+roflgamer (blindgamers14) sent /lchat download the new launcher from website 1-26-2021, 2:33:39 PM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 2:34:01 PM
+roflgamer (blindgamers14) sent /lchat how can i get sounds 1-26-2021, 2:35:44 PM
+roflgamer (blindgamers14) sent /lchat just type contry  1-26-2021, 2:36:54 PM
+roflgamer (blindgamers14) sent /lchat no sounds 1-26-2021, 2:38:02 PM
+roflgamer (blindgamers14) sent /lchat can't here the game sounds 1-26-2021, 2:38:28 PM
+roflgamer (blindgamers14) sent /lchat i closer 1-26-2021, 2:39:14 PM
+roflgamer (blindgamers14) sent /lchat i close it 1-26-2021, 2:39:19 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 2:39:33 PM
+roflgamer (blindgamers14) sent /lchat let i donwload 1-26-2021, 2:39:38 PM
+roflgamer (blindgamers14) sent /lchat let me control 1-26-2021, 2:42:46 PM
+roflgamer (blindgamers14) sent /lchat oi 1-26-2021, 2:42:51 PM
+roflgamer (blindgamers14) sent /lchat wait wait 1-26-2021, 2:43:49 PM
+roflgamer (blindgamers14) sent /lchat i want extrack that to eurofly folder 1-26-2021, 2:44:04 PM
+roflgamer (blindgamers14) sent /lchat now try 1-26-2021, 2:45:10 PM
+roflgamer (blindgamers14) sent /lchat wait it is loading 1-26-2021, 2:45:41 PM
+roflgamer (blindgamers14) sent /lchat ehh 1-26-2021, 2:46:35 PM
+roflgamer (blindgamers14) sent /lchat that mesage form server read 1-26-2021, 2:46:49 PM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 2:47:07 PM
+roflgamer (blindgamers14) sent /lchat why you have so much microsoft edg tab open 1-26-2021, 2:47:48 PM
+roflgamer (blindgamers14) sent /lchat microsof what 1-26-2021, 2:48:18 PM
+roflgamer (blindgamers14) sent /lchat write what 1-26-2021, 2:49:22 PM
+roflgamer (blindgamers14) sent /lchat heheh 1-26-2021, 2:49:30 PM
+roflgamer (blindgamers14) sent /lchat delet that 1-26-2021, 2:49:38 PM
+roflgamer (blindgamers14) sent /lchat delete 1-26-2021, 2:49:43 PM
+roflgamer (blindgamers14) sent /lchat hm 1-26-2021, 2:50:11 PM
+roflgamer (blindgamers14) sent /lchat try write something 1-26-2021, 2:50:17 PM
+roflgamer (blindgamers14) sent /lchat why you have much microsoft edg open 1-26-2021, 2:50:46 PM
+roflgamer (blindgamers14) sent /lchat you already login? 1-26-2021, 2:51:39 PM
+roflgamer (blindgamers14) sent /lchat wait me 1-26-2021, 2:51:42 PM
+roflgamer (blindgamers14) sent /lchat great 1-26-2021, 2:52:00 PM
+roflgamer (blindgamers14) sent /lchat where are you now 1-26-2021, 2:52:05 PM
+roflgamer (blindgamers14) sent /lchat press 1 to chek contry 1-26-2021, 2:52:23 PM
+roflgamer (blindgamers14) sent /lchat ok  ait 1-26-2021, 2:52:40 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 2:52:42 PM
+roflgamer (blindgamers14) sent /lchat press 1? 1-26-2021, 2:52:56 PM
+roflgamer (blindgamers14) sent /t press 2? 1-26-2021, 2:53:25 PM
+roflgamer (blindgamers14) sent /lchat press2 1-26-2021, 2:53:28 PM
+roflgamer (blindgamers14) sent /lchat wait, open remote, 1-26-2021, 2:53:58 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 2:55:16 PM
+roflgamer (blindgamers14) sent /lchat can't contrl 1-26-2021, 2:55:19 PM
+roflgamer (blindgamers14) sent /lchat can't control 1-26-2021, 2:55:30 PM
+roflgamer (blindgamers14) sent /lchat rong radio button? 1-26-2021, 2:55:45 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 2:57:19 PM
+roflgamer (blindgamers14) sent /lchat dont take off now 1-26-2021, 2:57:24 PM
+roflgamer (blindgamers14) sent /lchat cancel 1-26-2021, 2:57:28 PM
+roflgamer (blindgamers14) sent /lchat press alt g to sned mesages 1-26-2021, 2:58:07 PM
+roflgamer (blindgamers14) sent /lchat tab to mesages panel 1-26-2021, 2:58:42 PM
+roflgamer (blindgamers14) sent /lchat wait i coming 1-26-2021, 2:58:59 PM
+roflgamer (blindgamers14) sent /lchat my profile name is mridho 1-26-2021, 2:59:22 PM
+roflgamer (blindgamers14) sent /lchat try send mesages 1-26-2021, 3:00:04 PM
+roflgamer (blindgamers14) sent /lchat there 1-26-2021, 3:00:26 PM
+roflgamer (blindgamers14) sent /lchat mridho (Slovakia): hello 1-26-2021, 3:00:51 PM
+roflgamer (blindgamers14) sent /lchat mridho thats me 1-26-2021, 3:02:04 PM
+roflgamer (blindgamers14) sent /lchat Janqi (Indian Ocean): tejastar: hey stop spam please 1-26-2021, 3:02:25 PM
+roflgamer (blindgamers14) sent /lchat 1 english 1-26-2021, 3:03:01 PM
+roflgamer (blindgamers14) sent /lchat seeing other pylot profliles 1-26-2021, 3:03:33 PM
+roflgamer (blindgamers14) sent /lchat if you need help, just ask they 1-26-2021, 3:04:03 PM
+roflgamer (blindgamers14) sent /lchat say if you new 1-26-2021, 3:04:11 PM
+roflgamer (blindgamers14) sent /lchat ll, you spamming 1-26-2021, 3:04:45 PM
+roflgamer (blindgamers14) sent /lchat what is this, OK
+520954,4435,31684,1,49,1,12,9261,alba,hi all
+520953,48996,18178,3,188,1,12,14858,mridho,hello
+520952,50131,14526,3,153,1,12,14946,namdelo,hello hello helloo!
+520951,48355,17356,3,188,1,12,14982,tejastar,hello
+520950,48355,17356,3,188,1,12,14982,tejastar,hello 1-26-2021, 3:05:30 PM
+roflgamer (blindgamers14) sent /lchat dont forget to tur non computer and comunicator to start chatting onlyne 1-26-2021, 3:06:41 PM
+roflgamer (blindgamers14) sent /lchat comunicator toggle, shift ctrl g 1-26-2021, 3:07:02 PM
+roflgamer (blindgamers14) sent /lchat staff_sergeant roflgamer:   comunicator toggle, shift ctrl g 1-26-2021, 3:07:07 PM
+roflgamer (blindgamers14) sent /t hm 1-26-2021, 3:08:21 PM
+roflgamer (blindgamers14) sent /t lets do a free flight 1-26-2021, 3:08:35 PM
+roflgamer (blindgamers14) sent /t Airbus A300 (Category 2) 1-26-2021, 3:08:49 PM
+roflgamer (blindgamers14) sent /t i like this engin sound 1-26-2021, 3:08:56 PM
+roflgamer (blindgamers14) sent /t airbas a300 1-26-2021, 3:09:05 PM
+roflgamer (blindgamers14) sent /t i have 1-26-2021, 3:09:42 PM
+roflgamer (blindgamers14) sent /t but that is litel aircraft 1-26-2021, 3:09:50 PM
+roflgamer (blindgamers14) sent /t ehh 1-26-2021, 3:10:02 PM
+roflgamer (blindgamers14) sent /t wait 1-26-2021, 3:10:04 PM
+roflgamer (blindgamers14) sent /t Airbus A310 (Jakarta-Soekarno-Hatta) 1-26-2021, 3:10:58 PM
+roflgamer (blindgamers14) sent /lchat this is category 2 aircraft 1-26-2021, 3:11:17 PM
+roflgamer (blindgamers14) sent /lchat Hyderabad (4040 km 40 right ) 4 hr 36 min/ 1-26-2021, 3:12:13 PM
+roflgamer (blindgamers14) sent /lchat Pilot: mrido - novice (3) 1-26-2021, 3:12:40 PM
+roflgamer (blindgamers14) sent /lchat o k 1-26-2021, 3:12:51 PM
+roflgamer (blindgamers14) sent /lchat already enter? 1-26-2021, 3:13:04 PM
+roflgamer (blindgamers14) sent /lchat turn on computer and comunicator 1-26-2021, 3:13:16 PM
+roflgamer (blindgamers14) sent /lchat No pilots have an aircraft currently parked at this airport 1-26-2021, 3:13:33 PM
+roflgamer (blindgamers14) sent /lchat wah 1-26-2021, 3:13:50 PM
+roflgamer (blindgamers14) sent /lchat you need level up to get more 1-26-2021, 3:13:58 PM
+roflgamer (blindgamers14) sent /lchat lets do a free flight first 1-26-2021, 3:14:11 PM
+roflgamer (blindgamers14) sent /lchat take what you want 1-26-2021, 3:14:26 PM
+roflgamer (blindgamers14) sent /lchat take all 1-26-2021, 3:14:58 PM
+roflgamer (blindgamers14) sent /lchat No pilots have an aircraft currently parked at this airport 1-26-2021, 3:15:46 PM
+roflgamer (blindgamers14) sent /lchat where 1-26-2021, 3:15:49 PM
+roflgamer (blindgamers14) sent /lchat where you 1-26-2021, 3:15:51 PM
+roflgamer (blindgamers14) sent /lchat airport? 1-26-2021, 3:16:16 PM
+roflgamer (blindgamers14) sent /lchat what airport you are in 1-26-2021, 3:17:01 PM
+roflgamer (blindgamers14) sent /lchat where 1-26-2021, 3:17:12 PM
+roflgamer (blindgamers14) sent /lchat 0 / 2971 1-26-2021, 3:17:32 PM
+roflgamer (blindgamers14) sent /lchat i also on that airport 1-26-2021, 3:17:46 PM
+roflgamer (blindgamers14) sent /lchat i select 1-26-2021, 3:17:58 PM
+roflgamer (blindgamers14) sent /lchat chek, on trafic 1-26-2021, 3:18:07 PM
+roflgamer (blindgamers14) sent /lchat turn on computer, and press shift tab to trafic pannel 1-26-2021, 3:18:23 PM
+roflgamer (blindgamers14) sent /lchat i already park 1-26-2021, 3:18:49 PM
+roflgamer (blindgamers14) sent /lchat Boeing 737 (Category 2) 1-26-2021, 3:19:37 PM
+roflgamer (blindgamers14) sent /lchat Pilot: mrido - novice (3) 1-26-2021, 3:19:58 PM
+roflgamer (blindgamers14) sent /lchat yeah, i not take off yet 1-26-2021, 3:20:07 PM
+roflgamer (blindgamers14) sent /lchat whats good destination in india 1-26-2021, 3:20:25 PM
+roflgamer (blindgamers14) sent /lchat Added to navigation 1-26-2021, 3:20:56 PM
+roflgamer (blindgamers14) sent /lchat kk 1-26-2021, 3:20:59 PM
+roflgamer (blindgamers14) sent /lchat lets 1-26-2021, 3:21:11 PM
+roflgamer (blindgamers14) sent /lchat uh yeah 1-26-2021, 3:21:40 PM
+roflgamer (blindgamers14) sent /lchat Added to navigation 1-26-2021, 3:22:11 PM
+roflgamer (blindgamers14) sent /lchat conttact ground first 1-26-2021, 3:22:33 PM
+roflgamer (blindgamers14) sent /lchat Ground  active 116,0 Aproach 118,9 1-26-2021, 3:22:45 PM
+roflgamer (blindgamers14) sent /lchat runway 1 1-26-2021, 3:23:45 PM
+roflgamer (blindgamers14) sent /lchat Maximum airspeed: 876 km per hour 1-26-2021, 3:23:57 PM
+roflgamer (blindgamers14) sent /lchat boing 1-26-2021, 3:24:21 PM
+roflgamer (blindgamers14) sent /lchat Takeoff speed: 234 km per hour 1-26-2021, 3:24:45 PM
+roflgamer (blindgamers14) sent /lchat 19:26 SK 737 - Vijayavada 1-26-2021, 3:25:29 PM
+roflgamer (blindgamers14) sent /lchat NOW I TAKING OFF 1-26-2021, 3:25:56 PM
+roflgamer (blindgamers14) sent /lchat NOW CHEK 1-26-2021, 3:26:39 PM
+roflgamer (blindgamers14) sent /lchat TRAFIC 1-26-2021, 3:26:42 PM
+roflgamer (blindgamers14) sent /lchat 1 pilots in range of this airport now: 1-26-2021, 3:26:55 PM
+roflgamer (blindgamers14) sent /lchat IN RANGE 1-26-2021, 3:27:23 PM
+roflgamer (blindgamers14) sent /lchat CHEK IN RHANGE 1-26-2021, 3:27:28 PM
+roflgamer (blindgamers14) sent /lchat mridho (518.) (Boeing 737) 1-26-2021, 3:28:12 PM
+roflgamer (blindgamers14) sent /lchat EHH? 1-26-2021, 3:29:03 PM
+roflgamer (blindgamers14) sent /lchat WHERE YOU 1-26-2021, 3:29:10 PM
+roflgamer (blindgamers14) sent /t LETS DO A EMERGENSY LAND 1-26-2021, 3:29:39 PM
+roflgamer (blindgamers14) sent /lchat 6,3 km Hyderabad 1 min 1-26-2021, 3:29:49 PM
+roflgamer (blindgamers14) sent /lchat 1 pilots in range of this airport now: 1-26-2021, 3:30:25 PM
+roflgamer (blindgamers14) sent /lchat NOW I WANT LAND 1-26-2021, 3:31:09 PM
+roflgamer (blindgamers14) sent /lchat LANDING SUCESSFULL 1-26-2021, 3:31:40 PM
+roflgamer (blindgamers14) sent /lchat I ALND ON YOUR AIRPORT 1-26-2021, 3:31:55 PM
+roflgamer (blindgamers14) sent /lchat Blackbox.txt - Notepad 1-26-2021, 3:32:18 PM
+roflgamer (blindgamers14) sent /lchat Cause of the accident:: Damaged gear due to braking at high speed 1-26-2021, 3:32:29 PM
+roflgamer (blindgamers14) sent /lchat LL 1-26-2021, 3:32:39 PM
+roflgamer (blindgamers14) sent /lchat I TURN ON BRAKE AND IT EXPLODE 1-26-2021, 3:32:57 PM
+roflgamer (blindgamers14) sent /lchat WAH 1-26-2021, 3:33:19 PM
+roflgamer (blindgamers14) sent /t team chat 1-26-2021, 3:33:36 PM
+roflgamer (blindgamers14) sent /where hamidali 1-26-2021, 3:33:42 PM
+roflgamer (blindgamers14) sent /t let me kill him 1-26-2021, 3:34:56 PM
+roflgamer (blindgamers14) sent /t haha 1-26-2021, 3:35:15 PM
+roflgamer (blindgamers14) sent /t haha 1-26-2021, 3:36:03 PM
+roflgamer (blindgamers14) sent /t do you ko what is that other attack 1-26-2021, 3:36:36 PM
+roflgamer (blindgamers14) sent /lchat ha ha 1-26-2021, 3:37:00 PM
+roflgamer (blindgamers14) sent /lchat lolol 1-26-2021, 3:37:06 PM
+roflgamer (blindgamers14) sent /lchat dont make that up if not taking off 1-26-2021, 3:37:17 PM
+roflgamer (blindgamers14) sent /lchat poor tank 1-26-2021, 3:37:52 PM
+roflgamer (blindgamers14) sent /t kill this tak 1-26-2021, 3:38:31 PM
+roflgamer (blindgamers14) sent /lchat haha, run away 1-26-2021, 3:38:50 PM
+roflgamer (blindgamers14) sent /t what its that mean 1-26-2021, 3:40:03 PM
+roflgamer (blindgamers14) sent /t adsfsdf 1-26-2021, 3:40:07 PM
+roflgamer (blindgamers14) sent /t now you fight him 1-26-2021, 3:40:40 PM
+roflgamer (blindgamers14) sent /t use your rocket 1-26-2021, 3:40:48 PM
+roflgamer (blindgamers14) sent /t snow ball 1-26-2021, 3:40:57 PM
+roflgamer (blindgamers14) sent /t he say no cannon 1-26-2021, 3:41:07 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 3:41:24 PM
+roflgamer (blindgamers14) sent /lchat die die die 1-26-2021, 3:41:36 PM
+roflgamer (blindgamers14) sent /lchat haha 1-26-2021, 3:41:49 PM
+roflgamer (blindgamers14) sent /t yeah 1-26-2021, 3:43:29 PM
+roflgamer (blindgamers14) sent /t lets we fight? 1-26-2021, 3:43:56 PM
+roflgamer (blindgamers14) sent /t ok 1-26-2021, 3:44:03 PM
+roflgamer (blindgamers14) sent /lchat where 1-26-2021, 3:44:11 PM
+roflgamer (blindgamers14) sent /t o k 1-26-2021, 3:44:24 PM
+roflgamer (blindgamers14) sent /t ehh? 1-26-2021, 3:44:33 PM
+roflgamer (blindgamers14) sent /t i also going to dinner 1-26-2021, 3:44:40 PM
+roflgamer (blindgamers14) sent /t what? 1-26-2021, 3:44:50 PM
+roflgamer (blindgamers14) sent /t food 1-26-2021, 3:45:21 PM
+roflgamer (blindgamers14) sent /t no 1-26-2021, 3:45:49 PM
+roflgamer (blindgamers14) sent /t ehehh 1-26-2021, 3:45:52 PM
+roflgamer (blindgamers14) sent /t something 1-26-2021, 3:46:09 PM
+roflgamer (blindgamers14) sent /t like, um 1-26-2021, 3:46:17 PM
+roflgamer (blindgamers14) sent /lchat asdfsafd 1-26-2021, 3:46:24 PM
+roflgamer (blindgamers14) sent /lchat oh 1-26-2021, 3:46:38 PM
+roflgamer (blindgamers14) sent /lchat ss 1-26-2021, 3:46:50 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 3:47:17 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 3:47:19 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 3:47:23 PM
+roflgamer (blindgamers14) sent /lchat wait 1-26-2021, 3:47:25 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 3:47:41 PM
+roflgamer (blindgamers14) sent /lchat what 1-26-2021, 3:47:48 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 3:47:58 PM
+roflgamer (blindgamers14) sent /lchat yeah 1-26-2021, 3:48:05 PM
+roflgamer (blindgamers14) sent /lchat where turret 1-26-2021, 3:48:24 PM
+roflgamer (blindgamers14) sent /lchat try come here 1-26-2021, 3:49:01 PM
+roflgamer (blindgamers14) sent /lchat i want test turret 1-26-2021, 3:49:05 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 3:49:23 PM
+roflgamer (blindgamers14) sent /lchat ok 1-26-2021, 3:49:29 PM
+roflgamer (blindgamers14) sent /teamleave 1-26-2021, 3:49:42 PM
+roflgamer (blindgamers14) sent /lchat where your turret 1-26-2021, 3:49:56 PM
+roflgamer (blindgamers14) sent /jointeam masters 2021 1-26-2021, 3:50:33 PM
+roflgamer (blindgamers14) sent /suicide 1-26-2021, 5:27:38 PM
+roflgamer (blindgamers14) sent /t oi? 1-26-2021, 5:27:56 PM
+roflgamer (blindgamers14) sent /lchat helllo 1-26-2021, 5:28:05 PM

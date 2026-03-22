@@ -1,0 +1,186 @@
+
+maxgamer (maxgamer) sent /s52 12-31-2020, 6:49:11 AM
+maxgamer (maxgamer) sent /t kk 12-31-2020, 6:49:21 AM
+maxgamer (maxgamer) sent /teams 12-31-2020, 6:49:25 AM
+maxgamer (maxgamer) sent /teamcreate 12-31-2020, 6:49:37 AM
+maxgamer (maxgamer) sent /t d 12-31-2020, 6:49:43 AM
+maxgamer (maxgamer) sent /teamcancel 12-31-2020, 6:49:48 AM
+maxgamer (maxgamer) sent /joinevent 0863 12-31-2020, 6:51:14 AM
+maxgamer (maxgamer) sent /cancelbid y 12-31-2020, 8:43:07 AM
+maxgamer (maxgamer) sent /gnsubmit GGGGG 12-31-2020, 9:16:25 AM
+maxgamer (maxgamer) sent /suicide 12-31-2020, 9:43:42 AM
+maxgamer (maxgamer) sent /suicide 12-31-2020, 9:44:12 AM
+maxgamer (maxgamer) sent /suicide 12-31-2020, 9:44:14 AM
+maxgamer (maxgamer) sent /lchat  W 12-31-2020, 9:55:22 AM
+maxgamer (maxgamer) sent /gnsubmit 22 12-31-2020, 12:46:36 PM
+maxgamer (maxgamer) sent /gnsubmit 22 12-31-2020, 12:46:46 PM
+maxgamer (maxgamer) sent /gnsubmit 27 12-31-2020, 12:46:56 PM
+maxgamer (maxgamer) sent /gnsubmit 16 12-31-2020, 12:47:06 PM
+maxgamer (maxgamer) sent /gnsubmit 30 12-31-2020, 12:47:26 PM
+maxgamer (maxgamer) sent /gnsubmit 23 12-31-2020, 12:47:47 PM
+maxgamer (maxgamer) sent /gnsubmit 25 12-31-2020, 12:48:04 PM
+maxgamer (maxgamer) sent /suicide 12-31-2020, 12:52:38 PM
+maxgamer (maxgamer) sent /move max ch4 0 0 0 12-31-2020, 12:58:40 PM
+maxgamer (maxgamer) sent /go ch4 0 0 0 12-31-2020, 12:58:52 PM
+maxgamer (maxgamer) sent /go 0 0 0 ch4 12-31-2020, 12:58:58 PM
+maxgamer (maxgamer) sent /go 0 0 0 ch4 12-31-2020, 1:27:02 PM
+maxgamer (maxgamer) sent /rawmap 12-31-2020, 1:31:08 PM
+maxgamer (maxgamer) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme
+ 12-31-2020, 1:31:40 PM
+maxgamer (maxgamer) sent /rawmap 12-31-2020, 1:32:52 PM
+maxgamer (maxgamer) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+
+tile:0:0:19:19:-2:-1:wallglass
+src:0:30:0:30:0:30:corridor.ogg
+travelpoint:5:5:5:5:0:0:challengemaps:0:0:0:moved
+zone:5:5:5:5:0:10:challenge maps:trackme
+fightingstate:0
+travelpoint:10:10:5:5:0:0:stun:0:0:0:go!
+zone:10:10:5:5:0:10:to get to a map full of stun grenades, press enter! Attention! At coordinates 100, 100, 0 there will be a reward, 30000 coins! Good luck!:trackme 12-31-2020, 1:33:27 PM
+maxgamer (maxgamer) sent /s2 12-31-2020, 1:35:48 PM
+maxgamer (maxgamer) sent /s52 12-31-2020, 1:35:52 PM
+maxgamer (maxgamer) sent /cancelbid y 12-31-2020, 1:36:03 PM
+maxgamer (maxgamer) sent /lchat }} 12-31-2020, 1:40:43 PM
+maxgamer (maxgamer) sent /me nnn 12-31-2020, 1:45:38 PM
+maxgamer (maxgamer) sent /me maxgamer kill nikita-k 12-31-2020, 1:46:00 PM
+maxgamer (maxgamer) sent /me kill nikita-k 12-31-2020, 1:46:14 PM
+maxgamer (maxgamer) sent /me fucking stupid idiot, asshol 12-31-2020, 1:46:41 PM
+maxgamer (maxgamer) sent /warned 12-31-2020, 1:48:35 PM
+maxgamer (maxgamer) sent /me wil ban maxgamer 12-31-2020, 1:48:56 PM
+maxgamer (maxgamer) sent /suicide 12-31-2020, 1:55:41 PM

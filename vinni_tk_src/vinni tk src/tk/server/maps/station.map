@@ -1,0 +1,17 @@
+mapname:station
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:concrete6
+zone:0:50:0:50:0:50:boat station
+src:0:50:0:50:0:50:rumble2.ogg
+tile:0:0:0:50:0:50:wallgrass
+tile:50:50:0:50:0:50:wallgrass
+tile:1:49:0:0:0:50:wallgrass
+tile:1:49:50:50:0:50:wallgrass
+tile:22:26:0:0:0:10:walldoor2
+src:22:26:0:1:0:10:flag.ogg
+zone:22:26:0:1:0:10:door:trackme
+noitems:0:50:0:50:0:50:suicide_bomb:police_car:tank:aircraft:guided_missile
+travelpoint:22:26:0:1:0:10:beach:24:520:0:you went to the sea
+robots:1:49:1:49:0:0:3:5000:cockroach,rat,nurse,moth,storekeeper,welder

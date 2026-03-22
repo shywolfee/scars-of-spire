@@ -1,0 +1,317 @@
+
+nikita-k (nikita-k) sent /chars 8-19-2020, 9:46:33 AM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 11:52:55 AM
+nikita-k (nikita-k) sent /newmotd Новая версия the killer, 1.97.7! Поудалял ненужную музыку из jplayer и добавил новую.
+Добавил новых мобов
+ Добавил 10 новых звуков поднятия уровня, теперь они будут играть рандомно.
+Заменил звук использования огнетушителя.
+Приятной игры! 8-19-2020, 11:54:25 AM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 12:00:06 PM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 12:07:11 PM
+nikita-k (nikita-k) sent /robots 8-19-2020, 12:09:13 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 12:14:34 PM
+nikita-k (nikita-k) sent /enablerobots 8-19-2020, 12:15:01 PM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 12:36:26 PM
+nikita-k (nikita-k) sent /enablerobots 8-19-2020, 12:37:07 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 12:37:31 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 12:37:37 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 12:37:41 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 12:40:07 PM
+nikita-k (nikita-k) sent /admingun 8-19-2020, 12:40:21 PM
+nikita-k (nikita-k) sent /rawdata mapname:test2
+maxx:50
+maxy:50
+maxz:0
+tile:0:50:0:50:0:0:grass
+robots:0:50:0:50:0:0:1:1000:baibydragon,bluedragon,boar,chest,goat,gorilla,leopard,metalbox,minitank,monster,mortal,person1,person2,person3,person4,person5,woodbox 8-19-2020, 12:40:55 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 12:43:18 PM
+nikita-k (nikita-k) sent /rawdata mapname:test2
+maxx:10
+maxy:10
+maxz:0
+tile:0:50:0:50:0:0:grass
+robots:0:50:0:50:0:0:1:1000:baibydragon,bluedragon,boar,chest,goat,gorilla,leopard,metalbox,minitank,monster,mortal,person1,person2,person3,person4,person5,woodbox 8-19-2020, 12:43:29 PM
+nikita-k (nikita-k) sent /move nikita-k 10 10 0 8-19-2020, 12:43:40 PM
+nikita-k (nikita-k) sent /rawdata mapname:test2
+maxx:10
+maxy:10
+maxz:0
+tile:0:50:0:50:0:0:grass
+robots:0:10:0:10:0:0:1:1000:baibydragon,bluedragon,boar,chest,goat,gorilla,leopard,metalbox,minitank,monster,mortal,person1,person2,person3,person4,person5,woodbox 8-19-2020, 12:43:58 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 12:46:52 PM
+nikita-k (nikita-k) sent /r motd 8-19-2020, 12:47:45 PM
+nikita-k (nikita-k) sent /rawdata 8-19-2020, 12:48:50 PM
+nikita-k (nikita-k) sent /rawdata mapname:test2
+maxx:10
+maxy:10
+maxz:0
+tile:0:50:0:50:0:0:grass
+robots:0:10:0:10:0:0:1:1000:baibydragon,bluedragon,boar,minitank,monster,mortal 8-19-2020, 12:48:53 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 12:49:41 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 12:50:08 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 12:50:33 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 12:51:24 PM
+nikita-k (nikita-k) sent /admingun 8-19-2020, 12:51:29 PM
+nikita-k (nikita-k) sent /newevent robots 8-19-2020, 12:52:01 PM
+nikita-k (nikita-k) sent /eventset 3632 map=test2 8-19-2020, 12:52:14 PM
+nikita-k (nikita-k) sent /eventset 36 32 can_leave=1 8-19-2020, 12:52:28 PM
+nikita-k (nikita-k) sent /eventset 3632 can_leave=1 8-19-2020, 12:52:38 PM
+nikita-k (nikita-k) sent /eventset 3632 can_keep_inventory=1 8-19-2020, 12:53:28 PM
+nikita-k (nikita-k) sent /launchevent 3632 8-19-2020, 12:53:39 PM
+nikita-k (nikita-k) sent /joinevent 3632 8-19-2020, 12:53:46 PM
+nikita-k (nikita-k) sent /joinevent 3632' 8-19-2020, 12:54:07 PM
+nikita-k (nikita-k) sent /joinevent 3632 8-19-2020, 12:54:15 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 12:55:14 PM
+nikita-k (nikita-k) sent /admingun 8-19-2020, 12:55:22 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 12:55:24 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 12:57:14 PM
+nikita-k (nikita-k) sent /endevent 3632 8-19-2020, 12:57:18 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 12:57:22 PM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 1:06:55 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:07:37 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:31:15 PM
+nikita-k (nikita-k) sent /admingun 8-19-2020, 1:31:22 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:31:27 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:31:43 PM
+nikita-k (nikita-k) sent /admingun 8-19-2020, 1:31:48 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:31:57 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:32:07 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:32:11 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:32:29 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:32:43 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 1:32:58 PM
+nikita-k (nikita-k) sent //chars 8-19-2020, 1:36:28 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 1:36:33 PM
+nikita-k (nikita-k) sent /builders 8-19-2020, 1:39:12 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 1:43:19 PM
+nikita-k (nikita-k) sent /changemymap zalp 8-19-2020, 1:43:23 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 1:43:32 PM
+nikita-k (nikita-k) sent /rawdata mapname:zalp
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:metal1
+zone:0:50:0:50:0:50:zalp
+robots:0:50:0:50:0:0:1:5000:Amphibian,bear,boxer,car,cat,cockroach,coyote,cyborg,dentist,doctor,dog,dragon,dragonfly,excavator,fitter,flamethrower,fly,gangster,glider,grandpa,gun,harvester,helicopter,horse,lion,manager,metallurgist,mosquito,moth,nurse,patient,polarbear,psychiatrist,psycho,rabbit,rat,robocop,rocketlauncher,securityguard,snake,sniper,soldier,storekeeper,surgeon,tank,train,trainer,tushkano,welder,wolf,worm,zombie,pan,robot,fireball,hunter,baibydragon,bluedragon,boar,goat,gorilla,leopard,monster,mortal
+zone:0:0:0:0:0:0:exit:trackme
+travelpoint:0:0:0:0:0:0:store:15:30:0:store
+zone:0:0:0:0:0:10:exit
+zone:4:4:4:4:0:0:2312321321
+zone:4:4:4:4:0:0:zalp:
+zone:4:4:4:4:0:0:zalp
+src:0:50:0:50:0:10:war2.ogg
+tile:0:50:0:50:0:0:deepsand
+src:0:50:0:50:0:10:wind2.ogg 8-19-2020, 1:48:30 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 1:48:49 PM
+nikita-k (nikita-k) sent /killobjs 8-19-2020, 1:48:59 PM
+nikita-k (nikita-k) sent /suicide 8-19-2020, 1:49:12 PM
+nikita-k (nikita-k) sent /teams 8-19-2020, 1:52:49 PM
+nikita-k (nikita-k) sent /bid 69000 8-19-2020, 1:53:15 PM
+nikita-k (nikita-k) sent /lchat balls 8-19-2020, 1:54:11 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:15 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:15 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:15 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:15 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:22 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:22 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:22 PM
+nikita-k (nikita-k) sent /lchat   8-19-2020, 1:54:23 PM
+nikita-k (nikita-k) sent /moveplayer nikita-k bolgelo 8-19-2020, 2:00:27 PM
+nikita-k (nikita-k) sent /gnstart 8-19-2020, 2:02:36 PM
+nikita-k (nikita-k) sent /gnsubmit 20 8-19-2020, 2:02:43 PM
+nikita-k (nikita-k) sent /maps 8-19-2020, 2:03:29 PM
+nikita-k (nikita-k) sent /teams 8-19-2020, 2:29:08 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 2:29:12 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 2:30:49 PM
+nikita-k (nikita-k) sent /changemymap кладбище 8-19-2020, 2:31:00 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 2:32:20 PM
+nikita-k (nikita-k) sent /suicide 8-19-2020, 2:32:25 PM
+nikita-k (nikita-k) sent /move 0 0 0 store 8-19-2020, 2:33:03 PM
+nikita-k (nikita-k) sent /shelters 8-19-2020, 2:34:18 PM
+nikita-k (nikita-k) sent /disablerobots 8-19-2020, 2:39:31 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 2:39:37 PM
+nikita-k (nikita-k) sent /suicide 8-19-2020, 2:40:21 PM
+nikita-k (nikita-k) sent /enablerobots 8-19-2020, 2:42:55 PM
+nikita-k (nikita-k) sent /garbage 8-19-2020, 2:43:10 PM
+nikita-k (nikita-k) sent /changemymap just_test 8-19-2020, 2:48:49 PM
+nikita-k (nikita-k) sent /suicide 8-19-2020, 2:50:00 PM
+nikita-k (nikita-k) sent /r бомбу исправляю 8-19-2020, 3:00:19 PM
+nikita-k (nikita-k) sent /r hipersound 8-19-2020, 3:00:39 PM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 3:19:49 PM
+nikita-k (nikita-k) sent /changemymap test2 8-19-2020, 3:20:08 PM
+nikita-k (nikita-k) sent /chingemymap just_test 8-19-2020, 3:20:21 PM
+nikita-k (nikita-k) sent /changemymap just_test 8-19-2020, 3:20:34 PM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 3:23:02 PM
+nikita-k (nikita-k) sent /suicide 8-19-2020, 3:23:43 PM
+nikita-k (nikita-k) sent /enablerobots 8-19-2020, 3:24:39 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 3:24:53 PM
+nikita-k (nikita-k) sent /changemymap sklad 8-19-2020, 3:25:06 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 3:25:17 PM
+nikita-k (nikita-k) sent /rawdata mapname:sklad
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:metal1
+src:0:50:0:50:0:50:corridor.ogg
+tile:0:0:0:50:0:50:wallmetal9
+tile:0:50:0:0:0:50:wallmetal9
+tile:50:50:0:50:0:50:wallmetal9
+tile:0:50:50:50:0:50:wallmedaldebris
+tile:0:50:50:50:0:50:wallmetal9
+tile:1:49:49:49:0:25:metal2
+tile:1:49:1:48:25:25:metal1
+ispawn:1:49:1:48:25:25:180000:3:fnminimilight:cannon:sky_28_laser:small_dagger:spear:knife:hammer:glock_17_pistol:stp106_long_barreled_pistol:cyanide_pistol:colt_ar_15_assault_rifle:nak_nk1000_decimater:beretta_m1951_machine_pistol:zulfikar:sky_127_laser_handgun:sky_286_laser_pistol:sky_372_laser_machinegun:sky_386_laser_assault_rifle:sky_429_laser_shotgun
+ispawn:1:49:1:48:0:0:120000:5:pack_of_30_ammo_fnminimilight:pack_of_30_ammo_sky_28_laser:pack_of_30_ammo_glock_17_pistol:pack_of_30_ammo_stp106_long_barreled_pistol:pack_of_30_ammo_cyanide_pistol:pack_of_30_ammo_colt_ar_15_assault_rifle:pack_of_30_ammo_nak_nk1000_decimater:pack_of_30_ammo_beretta_m1951_machine_pistol:pack_of_30_ammo_crossbow:pack_of_30_ammo_sniper:pack_of_30_ammo_mlk_207_combat_rifle:pack_of_30_ammo_cop_357_derringer_pistol:pack_of_30_ammo_sig_p226_combat_pistol:pack_of_30_ammo_taser:pack_of_30_ammo_modern_sub_machine_gun_carbine:pack_of_30_ammo_gauss:pack_of_30_ammo_m79_grenade_launcher:pack_of_30_ammo_str_301_long_barreled_machine_pistol:pack_of_30_ammo_shotgun:pack_of_30_ammo_stp21_handgun:pack_of_30_ammo_beretta_nano_pocket_pistol:pack_of_30_ammo_ags30
+travelpoint:20:30:1:1:0:0:cave6:45:24:0:you open the gate and go out into the fresh air
+zone:0:50:0:50:0:50:warehouse
+tile:0:50:0:50:50:50:roof3
+zone:20:30:1:1:0:10:gate
+tile:20:30:0:0:0:10:wallgate
+robots:1:49:1:49:0:0:1:10000:cockroach,dog,hunter,securityguard,rabbit
+ 8-19-2020, 3:26:49 PM
+nikita-k (nikita-k) sent /inv 8-19-2020, 3:26:57 PM
+nikita-k (nikita-k) sent /suicide 8-19-2020, 3:26:59 PM
+nikita-k (nikita-k) sent /addtomotd На склад было добавлено новое оружие: sky_127_laser_handgun, sky_286_laser_pistol, sky_372_laser_machinegun, sky_386_laser_assault_rifle, sky_429_laser_shotgun. 8-19-2020, 3:28:20 PM
+nikita-k (nikita-k) sent /bid 10 8-19-2020, 3:34:28 PM
+nikita-k (nikita-k) sent /bid 69 8-19-2020, 3:34:32 PM
+nikita-k (nikita-k) sent /gnstart 8-19-2020, 3:36:50 PM
+nikita-k (nikita-k) sent /gnsubmit 15 8-19-2020, 3:37:00 PM
+nikita-k (nikita-k) sent /changemymap event2 8-19-2020, 3:43:18 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 3:43:55 PM
+nikita-k (nikita-k) sent /rawdata mapname:event2
+maxx:200
+maxy:200
+maxz:200
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:metal5
+robots:0:1000:0:1000:0:0:1:10000:Amphibian,bear,boxer,car,cat,cockroach,coyote,cyborg,dentist,doctor,dog,dragon,dragonfly,excavator,fitter,flamethrower,fly,gangster,glider,grandpa,gun,harvester,helicopter,horse,lion,manager,metallurgist,mosquito,moth,nurse,patient,polarbear,psychiatrist,psycho,rabbit,rat,robocop,rocketlauncher,securityguard,snake,sniper,soldier,storekeeper,surgeon,tank,train,trainer,tushkano,welder,wolf,worm,zombie,pan,robot,fireball,hunter
+zone:0:1000:0:1000:0:100:arena 8-19-2020, 3:44:15 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 3:46:09 PM
+nikita-k (nikita-k) sent /rawdata mapname:event2
+maxx:200
+maxy:200
+maxz:200
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:metal5
+zone:0:1000:0:1000:0:100:arena
+tile:0:200:0:200:0:0:grass3
+src:0:200:0:200:0:10:birds15.ogg
+robots:0:200:0:200:0:200:3:5000:mortal,chest,metalbox,woodbox 8-19-2020, 3:48:06 PM
+nikita-k (nikita-k) sent /enablerobots 8-19-2020, 3:48:11 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 3:48:39 PM
+nikita-k (nikita-k) sent /rawdata mapname:event2
+maxx:200
+maxy:200
+maxz:200
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:metal5
+zone:0:1000:0:1000:0:100:arena
+tile:0:200:0:200:0:0:grass3
+src:0:200:0:200:0:10:birds15.ogg
+robots:0:200:0:200:0:0:3:5000:mortal,chest,metalbox,woodbox 8-19-2020, 3:49:14 PM
+nikita-k (nikita-k) sent /rawdata mapname:event2
+maxx:200
+maxy:200
+maxz:200
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:metal5
+zone:0:1000:0:1000:0:100:arena
+tile:0:200:0:200:0:0:grass3
+src:0:200:0:200:0:10:birds15.ogg
+robots:0:200:0:200:0:0:3:5000:mortal,chest,metalbox,woodbox
+src:0:200:0:200:-3:-3:jloop24.ogg 8-19-2020, 3:49:47 PM
+nikita-k (nikita-k) sent /rawdata mapname:event2
+maxx:200
+maxy:200
+maxz:200
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:metal5
+zone:0:1000:0:1000:0:100:arena
+tile:0:200:0:200:0:0:grass3
+src:0:200:0:200:0:10:birds15.ogg
+robots:0:200:0:200:0:0:3:5000:mortal,chest,metalbox,woodbox
+src:0:200:0:200:-10:-10:jloop24.ogg 8-19-2020, 3:50:07 PM
+nikita-k (nikita-k) sent /rawdata mapname:event2
+maxx:200
+maxy:200
+maxz:200
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:metal5
+zone:0:1000:0:1000:0:100:arena
+tile:0:200:0:200:0:0:grass3
+src:0:200:0:200:0:10:birds15.ogg
+robots:0:200:0:200:0:0:3:5000:mortal,chest,metalbox,woodbox
+src:0:200:0:200:-15:-15:jloop24.ogg 8-19-2020, 3:50:27 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 3:51:23 PM
+nikita-k (nikita-k) sent /rawdata mapname:event2
+maxx:200
+maxy:200
+maxz:200
+tile:0:100:0:100:0:0:tile
+tile:0:100:0:100:0:0:metal5
+zone:0:1000:0:1000:0:100:arena
+tile:0:200:0:200:0:0:grass3
+src:0:200:0:200:0:10:birds15.ogg
+robots:0:200:0:200:0:0:3:5000:mortal,chest,metalbox,woodbox
+src:0:200:0:200:-20:-20:jloop24.ogg 8-19-2020, 3:51:36 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 3:52:18 PM
+nikita-k (nikita-k) sent /r no 8-19-2020, 3:55:04 PM
+nikita-k (nikita-k) sent /newevent fighting_for_box's 8-19-2020, 3:57:11 PM
+nikita-k (nikita-k) sent /warnpublic Мы решили на чуть чуть запустить event! ваша цель: бегать по карте 200 на 200, разбивать сундуки и коробки, получать монеты и опыт и наслаждаться! 8-19-2020, 3:58:37 PM
+nikita-k (nikita-k) sent /warnpublic event начнёться через 2 минуты 8-19-2020, 3:59:14 PM
+nikita-k (nikita-k) sent /eventset map=event2 8-19-2020, 3:59:48 PM
+nikita-k (nikita-k) sent /eventset 7603 map=event2 8-19-2020, 4:00:00 PM
+nikita-k (nikita-k) sent /eventset 7603 can_keep_invintory=1 8-19-2020, 4:00:25 PM
+nikita-k (nikita-k) sent /eventset 7603 can_keep_inventory 8-19-2020, 4:00:44 PM
+nikita-k (nikita-k) sent /newevent fighting_for_box's 8-19-2020, 4:01:34 PM
+nikita-k (nikita-k) sent /eventset 4056 map=event2 8-19-2020, 4:01:48 PM
+nikita-k (nikita-k) sent /eventset 4056 can_keep_inventory=1 8-19-2020, 4:02:07 PM
+nikita-k (nikita-k) sent /eventset 4056 can_leave=1 8-19-2020, 4:02:19 PM
+nikita-k (nikita-k) sent /launchevent 4056 8-19-2020, 4:02:50 PM
+nikita-k (nikita-k) sent /joinevent 4056 8-19-2020, 4:09:27 PM
+nikita-k (nikita-k) sent /rawmap 8-19-2020, 4:14:38 PM
+nikita-k (nikita-k) sent /warnpublic до конца осталось 10 минут 8-19-2020, 4:23:28 PM
+nikita-k (nikita-k) sent /warnpublic осталось 5 минут 8-19-2020, 4:27:48 PM
+nikita-k (nikita-k) sent /endevent 4056 8-19-2020, 4:33:07 PM
+nikita-k (nikita-k) sent /killall 8-19-2020, 4:33:19 PM
+nikita-k (nikita-k) sent /garbage 8-19-2020, 4:33:23 PM
+nikita-k (nikita-k) sent /giveall coin 15000000 8-19-2020, 4:35:23 PM
+nikita-k (nikita-k) sent /notify you have given 15000000 coins to everyone! 8-19-2020, 4:35:27 PM
+nikita-k (nikita-k) sent /killall 8-19-2020, 4:41:59 PM
+nikita-k (nikita-k) sent /disablerobots 8-19-2020, 4:43:41 PM
+nikita-k (nikita-k) sent /enablerobots 8-19-2020, 4:44:09 PM
+nikita-k (nikita-k) sent /changemymap sklad 8-19-2020, 4:44:30 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 5:21:12 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 5:52:54 PM
+nikita-k (nikita-k) sent /giveall nuclear_bomb 3 8-19-2020, 5:56:41 PM
+nikita-k (nikita-k) sent /notify you have given 3 nuclear bombs to everyone! 8-19-2020, 5:56:45 PM
+nikita-k (nikita-k) sent /compinfo Zurik 8-19-2020, 5:58:35 PM
+nikita-k (nikita-k) sent /cdata trevor inv 8-19-2020, 6:09:44 PM
+nikita-k (nikita-k) sent /bid 400000 8-19-2020, 6:16:10 PM
+nikita-k (nikita-k) sent /changemymap кладбище 8-19-2020, 6:22:08 PM
+nikita-k (nikita-k) sent /suicide 8-19-2020, 6:23:54 PM
+nikita-k (nikita-k) sent /shelters 8-19-2020, 6:25:27 PM
+nikita-k (nikita-k) sent /intmaps 8-19-2020, 6:26:33 PM
+nikita-k (nikita-k) sent /teams 8-19-2020, 6:30:12 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 6:33:03 PM
+nikita-k (nikita-k) sent /notify Щяс будет совсем небольшое обновление 8-19-2020, 6:45:38 PM
+nikita-k (nikita-k) sent /reboot 8-19-2020, 6:51:33 PM
+nikita-k (nikita-k) sent /newmotd новая версия the killer, 1.97.8! Поменял местами некоторые горячие клавиши: Теперь, нажимая левую или правую кводратную скобки, вы будете перемещаться по буферам, а точкой и запятой будете перемещаться по сообщениям буфера.
+ 8-19-2020, 6:53:08 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 7:05:58 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 8:31:07 PM
+nikita-k (nikita-k) sent /builders 8-19-2020, 8:31:51 PM
+nikita-k (nikita-k) sent /garbage 8-19-2020, 8:44:05 PM
+nikita-k (nikita-k) sent /suicide_invasion 8-19-2020, 8:45:32 PM
+nikita-k (nikita-k) sent /countbombs 8-19-2020, 9:00:54 PM
+nikita-k (nikita-k) sent /shelters 8-19-2020, 9:00:57 PM
+nikita-k (nikita-k) sent /gnstart 8-19-2020, 9:16:58 PM
+nikita-k (nikita-k) sent /gnsubmit 20 8-19-2020, 9:17:04 PM
+nikita-k (nikita-k) sent /compinfo vlados2005 8-19-2020, 9:53:41 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 9:54:32 PM
+nikita-k (nikita-k) sent /kick vlados2005 8-19-2020, 9:57:12 PM
+nikita-k (nikita-k) sent /warn vlados2005 5 За кражу аккаунта добро пожаловать в бан! 8-19-2020, 10:00:15 PM
+nikita-k (nikita-k) sent /ban vlados2005 8-19-2020, 10:00:19 PM
+nikita-k (nikita-k) sent /banned 8-19-2020, 10:00:31 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 10:01:00 PM
+nikita-k (nikita-k) sent /chars 8-19-2020, 10:03:09 PM

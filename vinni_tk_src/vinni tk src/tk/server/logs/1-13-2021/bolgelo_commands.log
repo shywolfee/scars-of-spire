@@ -1,0 +1,892 @@
+
+grand father (bolgelo) sent /t yo 1-13-2021, 2:48:25 PM
+grand father (bolgelo) sent /shelterlist 1-13-2021, 2:48:48 PM
+grand father (bolgelo) sent /go 0 0 0 store 1-13-2021, 3:11:26 PM
+grand father (bolgelo) sent /rawmap 1-13-2021, 3:13:40 PM
+grand father (bolgelo) sent /where artem 1-13-2021, 3:13:58 PM
+grand father (bolgelo) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:grass
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+src:0:500:0:500:0:50:wind5.ogg
+tile:0:500:0:500:0:0:snow
+noitems:0:500:0:500:0:199:guided_missile:concussive_grenade
+ 1-13-2021, 3:14:33 PM
+grand father (bolgelo) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:grass
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+tile:0:500:0:500:0:0:snow
+noitems:0:500:0:500:0:199:guided_missile:concussive_grenade
+ 1-13-2021, 3:14:46 PM
+grand father (bolgelo) sent /giveall robocop 3 1-13-2021, 3:21:17 PM
+grand father (bolgelo) sent /where krokodailtop 1-13-2021, 4:06:32 PM
+grand father (bolgelo) sent /where artem 1-13-2021, 4:06:36 PM
+grand father (bolgelo) sent /robotinfo 1-13-2021, 4:06:45 PM
+grand father (bolgelo) sent /enablerobots 1-13-2021, 4:06:49 PM
+grand father (bolgelo) sent /cancelauction 1-13-2021, 4:08:11 PM
+grand father (bolgelo) sent /go 20 20 0  1-13-2021, 4:08:30 PM
+grand father (bolgelo) sent /inv 1-13-2021, 4:09:18 PM
+grand father (bolgelo) sent /rawmap 1-13-2021, 4:09:20 PM
+grand father (bolgelo) sent /rawdata mapname:main
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:snow
+zone:0:500:0:500:0:500:main
+/src:0:500:0:500:0:10:birds21.ogg
+ispawn:0:500:0:500:0:100:3500:75:ammo:pack_of_10_antibiotic:pack_of_20_bomb_defuser:pack_of_15_stone:coin_pack:metal_pack:pack_of_15_wirebomb:motion_bomb:pack_of_10_motion_bomb:remote_timebomb_controller:mine:health_dart:remote_timebomb:pack_of_10_remote_timebomb:health_pack:wood_pack:security_bomb:remote_gun:timebomb:pack_of_20_fire_extinguisher:fire_extinguisher:invisibility_shield:missile_interceptor:pack_of_20_missile_interceptor:grenade_pack:shield:pack_of_15_shield:impact_bomb:warp_box:gas_mask:antibiotic_canister:air_canister:remote_gun_controller:ultrabomb_locator:ultrabomb:pack_of_5_barricade_bomb:pack_of_10_security_bomb:ultrabomb_silencer:health_orb:stone:mass_bomb:pack_of_5_mass_bomb:suicide_bomb:concussive_grenade:robot:helicopter:frequency_scrambler:item_grabber
+src:-3:-3:85:115:0:10:supermarket.ogg
+zone:0:0:100:100:0:10:entrance to the store:trackme
+tile:200:300:450:500:-7:100:wallstone
+tile:198:302:448:500:100:100:roof2
+zone:198:302:448:500:100:110:roof of the house
+tile:217:233:444:449:0:2:wallbrick
+tile:217:233:444:449:2:2:smallwood
+zone:217:233:444:450:2:15:porch
+tile:223:226:450:450:2:10:wallwood1
+zone:223:226:449:450:2:15:door to the house:trackme
+src:225:225:450:450:2:10:flag.ogg
+travelpoint:223:226:449:449:2:10:small_house:25:1:0:you entered a warm and comfortable home
+tile:249:251:474:476:100:100:metal
+src:198:302:448:500:115:150:winter.ogg
+zone:249:251:474:476:100:110:back hatch
+travelpoint:249:251:474:476:100:100:small_house:49:49:95:you go back into the attic
+tile:220:230:440:449:40:40:concrete25
+tile:219:219:439:449:40:45:wallglass
+tile:231:231:439:449:40:45:wallglass
+tile:220:230:439:439:40:45:wallglass
+tile:219:219:439:449:45:45:wood5
+tile:231:231:439:449:45:45:wood5
+tile:220:230:439:439:45:45:wood5
+tile:220:227:450:450:40:50:wallglass
+zone:219:231:439:450:40:60:balcony
+zone:221:223:449:450:40:50:balcony door:trickme
+travelpoint:221:223:449:449:40:50:small_house:22:1:40:you go back into the house
+zone:219:219:440:450:45:60:railing
+zone:231:231:440:450:45:60:railing
+zone:219:231:439:439:45:60:railing
+tile:0:10:0:10:0:59:wallstone1
+tile:0:10:0:10:60:60:diamond
+tile:0:5:10:10:0:60:metal12
+tile:490:500:0:10:0:59:wallstone1
+tile:490:500:0:10:60:60:diamond
+tile:495:500:10:10:0:60:metal12
+tile:0:10:490:500:0:59:wallstone1
+tile:0:10:490:500:60:60:diamond
+tile:0:5:490:490:0:60:metal12
+tile:490:500:490:500:0:59:wallstone1
+tile:490:500:490:500:60:60:diamond
+tile:495:500:490:490:0:60:metal12
+tile:230:270:230:270:200:200:metal
+tile:250:250:250:250:0:200:concrete26
+src:230:270:230:270:200:220:desert.ogg
+zone:230:270:230:270:0:200:near the tall tall center tower, wich is going upp to the sky
+zone:230:270:230:270:200:250:top of the tall center tower
+zone:250:250:250:250:0:250:a tall center tower stairs:trackme
+zone:0:10:0:10:60:70:southwest tower
+zone:0:5:10:10:0:70:southwest tower stairs:trackme
+zone:490:500:0:10:60:70:southeast tower
+zone:495:500:10:10:0:70:southeast tower stairs:trackme
+zone:0:10:490:500:60:60:70
+zone:0:10:490:500:60:70:northwest tower
+zone:0:5:490:490:0:70:northwest tower stairs:trackme
+zone:490:500:490:500:60:70:northeast tower
+zone:495:500:490:490:0:70:northeast tower stairs:trackme
+travelpoint:100:100:300:300:0:10:palace_on_the_clouds:0:0:1000:You went to the map of the palace! Successful research.
+zone:100:100:300:300:0:10:passage to the palace in the clouds!:trackme
+tile:50:150:480:500:0:0:grass2
+zone:50:150:480:500:0:20:beginn of the forest
+zone:50:150:500:500:0:10:pass to the forest
+travelpoint:50:150:500:500:0:10:forest:50:0:0:you went to the beautiful forest
+src:50:150:502:505:0:10:birds20.ogg
+tile:0:0:100:100:0:0:marble1
+noitems:0:500:0:500:0:199:guided_missile:concussive_grenade
+
+src:0:500:0:500:0:50:snowwind.ogg 1-13-2021, 4:09:45 PM
+grand father (bolgelo) sent /go 0 00  1-13-2021, 4:09:48 PM
+grand father (bolgelo) sent /go 0 0 0  1-13-2021, 4:09:51 PM
+grand father (bolgelo) sent /go 20 20 0  1-13-2021, 4:10:18 PM
+grand father (bolgelo) sent /inv 1-13-2021, 4:10:32 PM
+grand father (bolgelo) sent /go 1515 0 main 1-13-2021, 4:11:15 PM
+grand father (bolgelo) sent /go 0 0 0 store 1-13-2021, 4:11:22 PM
+grand father (bolgelo) sent /go 15 15 0 main 1-13-2021, 4:11:35 PM
+grand father (bolgelo) sent /go 15 485 0  1-13-2021, 4:11:55 PM
+grand father (bolgelo) sent /go 490 490 0  1-13-2021, 4:12:16 PM
+grand father (bolgelo) sent /go 490 10 0  1-13-2021, 4:12:27 PM
+grand father (bolgelo) sent /t всм 1-13-2021, 4:12:42 PM
+grand father (bolgelo) sent /t я уже исправил 1-13-2021, 4:12:51 PM
+grand father (bolgelo) sent /go 250 250 0  1-13-2021, 4:13:02 PM
+grand father (bolgelo) sent /t всё 1-13-2021, 4:13:08 PM
+grand father (bolgelo) sent /t к башням не иди 1-13-2021, 4:13:13 PM
+grand father (bolgelo) sent /countbombs 1-13-2021, 4:14:31 PM
+grand father (bolgelo) sent /countbomb 1-13-2021, 4:15:23 PM
+grand father (bolgelo) sent /countbombs 1-13-2021, 4:15:25 PM
+grand father (bolgelo) sent /go 0 100 0  1-13-2021, 4:16:20 PM
+grand father (bolgelo) sent /s19 1-13-2021, 4:19:38 PM
+grand father (bolgelo) sent /go 0 0 0 store 1-13-2021, 4:20:15 PM
+grand father (bolgelo) sent /t go you 1-13-2021, 4:22:58 PM
+grand father (bolgelo) sent /where sgamer 1-13-2021, 4:26:29 PM
+grand father (bolgelo) sent /admintell die 1-13-2021, 4:26:43 PM
+grand father (bolgelo) sent /t what 1-13-2021, 4:28:26 PM
+grand father (bolgelo) sent /gnstart 1-13-2021, 4:28:32 PM
+grand father (bolgelo) sent /gnsubmit 1 1-13-2021, 4:28:33 PM
+grand father (bolgelo) sent /where sgamer 1-13-2021, 4:29:15 PM
+grand father (bolgelo) sent /where sgamer 1-13-2021, 4:31:09 PM
+grand father (bolgelo) sent /go 850 850 -50 1-13-2021, 4:33:00 PM
+grand father (bolgelo) sent /rawmap 1-13-2021, 4:34:52 PM
+grand father (bolgelo) sent /go 300 800 -50 1-13-2021, 4:35:31 PM
+grand father (bolgelo) sent /go 300 800 -201 1-13-2021, 4:35:48 PM
+grand father (bolgelo) sent /rawmap 1-13-2021, 4:39:59 PM
+grand father (bolgelo) sent /rawdata mapname:battles
+maxx:1000
+maxy:1000
+maxz:1000
+
+tile:0:1000:0:1000:0:0:grass7
+tile:49:51:0:1000:0:0:dirt3
+zone:0:1000:0:1000:0:50:battlefield
+
+src:0:1000:0:1000:0:50:birds5.ogg
+zone:49:51:0:1000:0:50:first north south road:trackme
+tile:60:60:60:60:0:20:deck
+zone:60:60:60:60:0:20:a sniper tower looking over the road:trackme
+tile:100:200:100:100:0:50:wallbrick
+tile:101:199:101:199:0:0:wood6
+tile:100:100:100:200:0:50:wallbrick
+zone:101:199:101:199:0:50:old and abandoned house
+tile:200:200:100:148:0:50:wallbrick2
+tile:200:200:152:200:0:50:wallbrick1
+tile:200:200:149:151:0:0:debris
+tile:100:200:200:200:0:50:wallbrick2
+zone:200:200:149:151:0:50:entrance to an old and abandoned house:trackme
+tile:150:150:101:120:0:5:wallwoodpile
+tile:101:120:150:150:0:6:wallrocks1
+tile:300:300:300:300:-50:0:grate
+zone:300:300:300:300:-50:0:ladder to, hmmm, it goes down, so who knows:trackme
+amb:100:500:100:500:-100:-30:rumble.ogg
+tile:100:500:100:500:-51:-51:cavegrounds
+zone:100:500:100:500:-51:-30:underground chamber
+zone:300:300:300:300:-50:-30:the ladder goes down in what looks like a strange underground arena sort of thing
+tile:100:500:99:99:-50:-1:wallstone
+tile:99:99:100:500:-50:-1:wallstone
+tile:100:500:101:101:-50:-1:wallstone
+tile:501:501:99:501:-50:-1:wallstone
+tile:0:1000:550:650:-50:0:blank
+zone:0:1000:550:600:0:50:a huge river:trackme
+tile:0:1000:550:550:-100:0:ledge
+zone:0:1000:550:550:0:50: lej  of the canion
+tile:0:1000:549:549:-100:-1:wallrockdirt
+
+
+zone:0:1000:540:549:0:50:nearing an enormous kanion
+zone:0:1000:550:600:-100:-1:under water
+tile:0:1000:550:600:-100:-100:puddle
+tile:0:1000:575:580:-100:-100:marsh
+tile:0:1000:574:574:-100:-100:mud
+tile:0:1000:550:550:-100:-50:rocks
+tile:0:1000:581:581:-100:-100:mud
+zone:0:1000:575:580:-100:-80:some marsh formed here
+tile:0:1000:601:601:-100:-50:gravel3
+zone:0:1000:601:601:-100:-1:other lej of the canion
+tile:0:1000:602:602:-100:-1:wallrockdirt
+tile:0:1000:601:601:-49:0:ledge
+tile:0:1000:602:1000:0:0:grass7
+zone:0:1000:601:601:0:50:lej of the canion
+tile:49:51:602:1000:0:0:dirt3
+zone:99:101:601:601:0:3:other side of the rope bridge
+tile:199:201:550:575:0:0:bridge1
+tile:199:201:580:601:0:0:bridge1
+zone:199:201:550:601:0:50:second bridge:trackme
+tile:97:99:0:549:0:0:dirt3
+zone:97:99:0:549:0:50:second north south road
+tile:99:101:602:1000:0:0:dirt3
+zone:99:101:602:1000:0:50:second north south road
+tile:202:204:0:549:0:0:dirt6
+zone:202:204:0:549:0:50:third north south road
+tile:199:201:602:1000:0:0:dirt6
+zone:199:201:602:1000:0:50:third north south road
+tile:300:300:604:604:0:0:metal8
+zone:300:300:604:604:0:0:a teleporter lies here, enter to activate it:trackme
+door:300:604:0:300:548:0:0:.ogg:.ogg:.igg:move.ogg
+door:300:548:0:300:604:0:0:.ogg:.ogg:.igg:move.ogg
+tile:300:300:548:548:0:0:metal8
+zone:300:300:548:548:0:0:a teleporter, press enter to activate 
+
+tile:400:1000:800:1000:0:0:shallow
+tile:390:399:800:1000:0:0:sand
+tile:390:1000:790:799:0:0:sand
+zone:390:1000:790:1000:0:50:nearing a deep lake
+zone:400:1000:800:1000:0:50:in a deep lake:trackme
+tile:400:1000:795:799:0:0:mud
+tile:395:399:795:1000:0:0:mud
+src:400:1000:800:1000:0:5:lake2.ogg
+tile:400:1000:800:1000:-100:-1:underwater
+zone:400:1000:800:1000:-100:-1:going underwater
+amb:400:1000:800:1000:-100:-1:underwater.ogg
+tile:400:1000:799:799:-100:-1:wallunderwater
+tile:399:399:800:1000:-100:-1:wallunderwater
+tile:399:399:799:799:-100:-1:wallunderwater
+tile:400:400:1000:1000:-100:-100:pipe
+tile:300:400:1000:1000:-100:-100:pipe
+zone:400:400:1000:1000:-100:-100:entrance to a pipe
+zone:300:399:1000:1000:-100:-100:crossing a very small pipe
+tile:301:399:999:999:-100:-99:wallmedal1
+tile:300:399:1000:1000:-99:-99:wallmedal1
+amb:300:399:1000:1000:-100:-99:pipe1.ogg
+tile:299:299:800:1000:-100:-99:wallmedal1
+tile:300:300:800:1000:-100:-100:pipe
+zone:300:300:1000:1000:-100:-100:the pipe turns sharply to the left in a 90 degrees angle
+amb:300:300:800:900:-100:-99:pipe1.ogg
+tile:301:301:800:999:-100:-99:wallmedal1
+zone:300:300:800:999:-100:-99:continuing down in the pipe
+tile:299:301:800:1000:-99:-99:wallmedal1
+
+tile:299:301:799:801:-200:-101:wallmedal1
+tile:299:301:799:799:-100:-99:wallmedal1
+tile:300:300:800:800:-200:-100:pipe
+zone:300:300:800:800:-200:-100:the pipe goes down sharply, where in the fuck will you go?
+amb:300:300:800:800:-200:-101:pipe1.ogg
+tile:250:350:750:850:-215:-215:carpet5
+tile:300:300:800:800:-201:-201:metal5
+zone:250:350:750:850:-250:-201:the underground hotel chamber
+zone:300:300:800:800:-201:-201:you're standing on a metal platform out of the pipe, looking down you see that you're practicly on the ceiling of a nice hotel chamber, wy not drop   down in it?
+tile:250:350:851:851:-215:-200:wallbank
+src:250:350:750:850:-215:-205:room1.ogg
+tile:249:249:749:851:-215:-200:wallbank
+tile:249:351:749:749:-215:-200:wallbank
+tile:351:351:749:851:-215:-200:wallbank
+tile:300:300:800:800:-214:-205:ladder2
+zone:300:300:800:800:-214:-205:a ladder going up to the pipe, it doesn't reach it, but you can jump in to the pipe or drop from it safely
+zone:2:2:2:2:0:0:to leave, press enter:trackme
+
+
+tile:0:1000:551:600:-100:-1:underwater
+
+tile:0:1000:551:600:0:0:swimming
+tile:0:1000:550:550:-100:-1:wallrockdirt
+tile:0:1000:601:601:-100:-1:wallrockdirt
+zone:0:1000:602:610:0:500:border of the river
+
+zone:0:1000:540:549:0:500:border of the river
+
+zone:0:1000:550:550:0:100:near the river
+src:0:1000:551:599:0:10:stream.ogg
+zone:0:1000:601:601:0:100:near the river
+amb:0:1000:550:600:-100:-1:underwater1.ogg
+zone:0:1000:551:599:-100:-85:on the bottom of the river
+tile:400:1000:800:1000:0:0:swimming
+tile:300:300:800:800:-215:-201:ladder
+zone:300 :300 :800 :800 :-215 :-200:continue climbing down to enter what looks like a hotel room
+tile:299:299:799:801:-214:-201:wallmedal1
+tile:299:301:801:801:-214:-201:wallmedal1
+
+tile:301:301:799:801:-214:-201:wallmedal1
+tile:299:301:799:799:-214:-201:wallmedal1
+tile:0:1000:550:550:0:0:mud
+tile:0:1000:601:601:0:0:mud
+travelpoint:2:2:2:2:0:0:store:5:30:0:done
+amb:300:300:901:999:-100:-100:pipe2.ogg 1-13-2021, 4:40:23 PM
+grand father (bolgelo) sent /rawmap 1-13-2021, 4:41:45 PM
+grand father (bolgelo) sent /rawdata mapname:battles
+maxx:1000
+maxy:1000
+maxz:1000
+
+tile:0:1000:0:1000:0:0:grass7
+tile:49:51:0:1000:0:0:dirt3
+zone:0:1000:0:1000:0:50:battlefield
+
+src:0:1000:0:1000:0:50:birds5.ogg
+zone:49:51:0:1000:0:50:first north south road:trackme
+tile:60:60:60:60:0:20:deck
+zone:60:60:60:60:0:20:a sniper tower looking over the road:trackme
+tile:100:200:100:100:0:50:wallbrick
+tile:101:199:101:199:0:0:wood6
+tile:100:100:100:200:0:50:wallbrick
+zone:101:199:101:199:0:50:old and abandoned house
+tile:200:200:100:148:0:50:wallbrick2
+tile:200:200:152:200:0:50:wallbrick1
+tile:200:200:149:151:0:0:debris
+tile:100:200:200:200:0:50:wallbrick2
+zone:200:200:149:151:0:50:entrance to an old and abandoned house:trackme
+tile:150:150:101:120:0:5:wallwoodpile
+tile:101:120:150:150:0:6:wallrocks1
+tile:300:300:300:300:-50:0:grate
+zone:300:300:300:300:-50:0:ladder to, hmmm, it goes down, so who knows:trackme
+amb:100:500:100:500:-100:-30:rumble.ogg
+tile:100:500:100:500:-51:-51:cavegrounds
+zone:100:500:100:500:-51:-30:underground chamber
+zone:300:300:300:300:-50:-30:the ladder goes down in what looks like a strange underground arena sort of thing
+tile:100:500:99:99:-50:-1:wallstone
+tile:99:99:100:500:-50:-1:wallstone
+tile:100:500:101:101:-50:-1:wallstone
+tile:501:501:99:501:-50:-1:wallstone
+tile:0:1000:550:650:-50:0:blank
+zone:0:1000:550:600:0:50:a huge river:trackme
+tile:0:1000:550:550:-100:0:ledge
+zone:0:1000:550:550:0:50: lej  of the canion
+tile:0:1000:549:549:-100:-1:wallrockdirt
+
+
+zone:0:1000:540:549:0:50:nearing an enormous kanion
+zone:0:1000:550:600:-100:-1:under water
+tile:0:1000:550:600:-100:-100:puddle
+tile:0:1000:575:580:-100:-100:marsh
+tile:0:1000:574:574:-100:-100:mud
+tile:0:1000:550:550:-100:-50:rocks
+tile:0:1000:581:581:-100:-100:mud
+zone:0:1000:575:580:-100:-80:some marsh formed here
+tile:0:1000:601:601:-100:-50:gravel3
+zone:0:1000:601:601:-100:-1:other lej of the canion
+tile:0:1000:602:602:-100:-1:wallrockdirt
+tile:0:1000:601:601:-49:0:ledge
+tile:0:1000:602:1000:0:0:grass7
+zone:0:1000:601:601:0:50:lej of the canion
+tile:49:51:602:1000:0:0:dirt3
+zone:99:101:601:601:0:3:other side of the rope bridge
+tile:199:201:550:575:0:0:bridge1
+tile:199:201:580:601:0:0:bridge1
+zone:199:201:550:601:0:50:second bridge:trackme
+tile:97:99:0:549:0:0:dirt3
+zone:97:99:0:549:0:50:second north south road
+tile:99:101:602:1000:0:0:dirt3
+zone:99:101:602:1000:0:50:second north south road
+tile:202:204:0:549:0:0:dirt6
+zone:202:204:0:549:0:50:third north south road
+tile:199:201:602:1000:0:0:dirt6
+zone:199:201:602:1000:0:50:third north south road
+tile:300:300:604:604:0:0:metal8
+zone:300:300:604:604:0:0:a teleporter lies here, enter to activate it:trackme
+door:300:604:0:300:548:0:0:.ogg:.ogg:.igg:move.ogg
+door:300:548:0:300:604:0:0:.ogg:.ogg:.igg:move.ogg
+tile:300:300:548:548:0:0:metal8
+zone:300:300:548:548:0:0:a teleporter, press enter to activate 
+
+tile:400:1000:800:1000:0:0:shallow
+tile:390:399:800:1000:0:0:sand
+tile:390:1000:790:799:0:0:sand
+zone:390:1000:790:1000:0:50:nearing a deep lake
+zone:400:1000:800:1000:0:50:in a deep lake:trackme
+tile:400:1000:795:799:0:0:mud
+tile:395:399:795:1000:0:0:mud
+src:400:1000:800:1000:0:5:lake2.ogg
+tile:400:1000:800:1000:-100:-1:underwater
+zone:400:1000:800:1000:-100:-1:going underwater
+amb:400:1000:800:1000:-100:-1:underwater.ogg
+tile:400:1000:799:799:-100:-1:wallunderwater
+tile:399:399:800:1000:-100:-1:wallunderwater
+tile:399:399:799:799:-100:-1:wallunderwater
+tile:400:400:1000:1000:-100:-100:pipe
+tile:300:400:1000:1000:-100:-100:pipe
+zone:400:400:1000:1000:-100:-100:entrance to a pipe
+zone:300:399:1000:1000:-100:-100:crossing a very small pipe
+tile:301:399:999:999:-100:-99:wallmedal1
+tile:300:399:1000:1000:-99:-99:wallmedal1
+amb:300:399:1000:1000:-100:-99:pipe1.ogg
+tile:299:299:800:1000:-100:-99:wallmedal1
+tile:300:300:800:1000:-100:-100:pipe
+zone:300:300:1000:1000:-100:-100:the pipe turns sharply to the left in a 90 degrees angle
+amb:300:300:800:900:-100:-99:pipe1.ogg
+tile:301:301:800:999:-100:-99:wallmedal1
+zone:300:300:800:999:-100:-99:continuing down in the pipe
+tile:299:301:800:1000:-99:-99:wallmedal1
+
+tile:299:301:799:801:-200:-101:wallmedal1
+tile:299:301:799:799:-100:-99:wallmedal1
+tile:300:300:800:800:-200:-100:pipe
+zone:300:300:800:800:-200:-100:the pipe goes down sharply, where in the fuck will you go?
+amb:300:300:800:800:-200:-101:pipe1.ogg
+tile:250:350:750:850:-215:-215:carpet5
+tile:300:300:800:800:-201:-201:metal5
+zone:250:350:750:850:-250:-201:the underground hotel chamber
+zone:300:300:800:800:-201:-201:you're standing on a metal platform out of the pipe, looking down you see that you're practicly on the ceiling of a nice hotel chamber, wy not drop   down in it?
+tile:250:350:851:851:-215:-200:wallbank
+src:250:350:750:850:-215:-205:room2.ogg
+tile:249:249:749:851:-215:-200:wallbank
+tile:249:351:749:749:-215:-200:wallbank
+tile:351:351:749:851:-215:-200:wallbank
+tile:300:300:800:800:-214:-205:ladder2
+zone:300:300:800:800:-214:-205:a ladder going up to the pipe, it doesn't reach it, but you can jump in to the pipe or drop from it safely
+zone:2:2:2:2:0:0:to leave, press enter:trackme
+
+
+tile:0:1000:551:600:-100:-1:underwater
+
+tile:0:1000:551:600:0:0:swimming
+tile:0:1000:550:550:-100:-1:wallrockdirt
+tile:0:1000:601:601:-100:-1:wallrockdirt
+zone:0:1000:602:610:0:500:border of the river
+
+zone:0:1000:540:549:0:500:border of the river
+
+zone:0:1000:550:550:0:100:near the river
+src:0:1000:551:599:0:10:stream.ogg
+zone:0:1000:601:601:0:100:near the river
+amb:0:1000:550:600:-100:-1:underwater1.ogg
+zone:0:1000:551:599:-100:-85:on the bottom of the river
+tile:400:1000:800:1000:0:0:swimming
+tile:300:300:800:800:-215:-201:ladder
+zone:300 :300 :800 :800 :-215 :-200:continue climbing down to enter what looks like a hotel room
+tile:299:299:799:801:-214:-201:wallmedal1
+tile:299:301:801:801:-214:-201:wallmedal1
+
+tile:301:301:799:801:-214:-201:wallmedal1
+tile:299:301:799:799:-214:-201:wallmedal1
+tile:0:1000:550:550:0:0:mud
+tile:0:1000:601:601:0:0:mud
+travelpoint:2:2:2:2:0:0:store:5:30:0:done
+amb:300:300:901:999:-100:-100:pipe2.ogg 1-13-2021, 4:42:05 PM
+grand father (bolgelo) sent /rawmap 1-13-2021, 4:44:50 PM
+grand father (bolgelo) sent /rawdata mapname:battles
+maxx:1000
+maxy:1000
+maxz:1000
+
+tile:0:1000:0:1000:0:0:grass7
+tile:0:1000:0:1000:-1000:-1:walls
+tile:49:51:0:1000:0:0:dirt3
+zone:0:1000:0:1000:0:50:battlefield
+
+src:0:1000:0:1000:0:50:birds5.ogg
+zone:49:51:0:1000:0:50:first north south road:trackme
+tile:60:60:60:60:0:20:deck
+zone:60:60:60:60:0:20:a sniper tower looking over the road:trackme
+tile:100:200:100:100:0:50:wallbrick
+tile:101:199:101:199:0:0:wood6
+tile:100:100:100:200:0:50:wallbrick
+zone:101:199:101:199:0:50:old and abandoned house
+tile:200:200:100:148:0:50:wallbrick2
+tile:200:200:152:200:0:50:wallbrick1
+tile:200:200:149:151:0:0:debris
+tile:100:200:200:200:0:50:wallbrick2
+zone:200:200:149:151:0:50:entrance to an old and abandoned house:trackme
+tile:150:150:101:120:0:5:wallwoodpile
+tile:101:120:150:150:0:6:wallrocks1
+tile:300:300:300:300:-50:0:grate
+zone:300:300:300:300:-50:0:ladder to, hmmm, it goes down, so who knows:trackme
+amb:100:500:100:500:-100:-30:rumble.ogg
+tile:100:500:100:500:-51:-51:cavegrounds
+zone:100:500:100:500:-51:-30:underground chamber
+zone:300:300:300:300:-50:-30:the ladder goes down in what looks like a strange underground arena sort of thing
+tile:100:500:99:99:-50:-1:wallstone
+tile:99:99:100:500:-50:-1:wallstone
+tile:100:500:101:101:-50:-1:wallstone
+tile:501:501:99:501:-50:-1:wallstone
+tile:0:1000:550:650:-50:0:blank
+zone:0:1000:550:600:0:50:a huge river:trackme
+tile:0:1000:550:550:-100:0:ledge
+zone:0:1000:550:550:0:50: lej  of the canion
+tile:0:1000:549:549:-100:-1:wallrockdirt
+
+
+zone:0:1000:540:549:0:50:nearing an enormous kanion
+zone:0:1000:550:600:-100:-1:under water
+tile:0:1000:550:600:-100:-100:puddle
+tile:0:1000:575:580:-100:-100:marsh
+tile:0:1000:574:574:-100:-100:mud
+tile:0:1000:550:550:-100:-50:rocks
+tile:0:1000:581:581:-100:-100:mud
+zone:0:1000:575:580:-100:-80:some marsh formed here
+tile:0:1000:601:601:-100:-50:gravel3
+zone:0:1000:601:601:-100:-1:other lej of the canion
+tile:0:1000:602:602:-100:-1:wallrockdirt
+tile:0:1000:601:601:-49:0:ledge
+tile:0:1000:602:1000:0:0:grass7
+zone:0:1000:601:601:0:50:lej of the canion
+tile:49:51:602:1000:0:0:dirt3
+zone:99:101:601:601:0:3:other side of the rope bridge
+tile:199:201:550:575:0:0:bridge1
+tile:199:201:580:601:0:0:bridge1
+zone:199:201:550:601:0:50:second bridge:trackme
+tile:97:99:0:549:0:0:dirt3
+zone:97:99:0:549:0:50:second north south road
+tile:99:101:602:1000:0:0:dirt3
+zone:99:101:602:1000:0:50:second north south road
+tile:202:204:0:549:0:0:dirt6
+zone:202:204:0:549:0:50:third north south road
+tile:199:201:602:1000:0:0:dirt6
+zone:199:201:602:1000:0:50:third north south road
+tile:300:300:604:604:0:0:metal8
+zone:300:300:604:604:0:0:a teleporter lies here, enter to activate it:trackme
+door:300:604:0:300:548:0:0:.ogg:.ogg:.igg:move.ogg
+door:300:548:0:300:604:0:0:.ogg:.ogg:.igg:move.ogg
+tile:300:300:548:548:0:0:metal8
+zone:300:300:548:548:0:0:a teleporter, press enter to activate 
+
+tile:400:1000:800:1000:0:0:shallow
+tile:390:399:800:1000:0:0:sand
+tile:390:1000:790:799:0:0:sand
+zone:390:1000:790:1000:0:50:nearing a deep lake
+zone:400:1000:800:1000:0:50:in a deep lake:trackme
+tile:400:1000:795:799:0:0:mud
+tile:395:399:795:1000:0:0:mud
+src:400:1000:800:1000:0:5:lake2.ogg
+tile:400:1000:800:1000:-100:-1:underwater
+zone:400:1000:800:1000:-100:-1:going underwater
+amb:400:1000:800:1000:-100:-1:underwater.ogg
+tile:400:1000:799:799:-100:-1:wallunderwater
+tile:399:399:800:1000:-100:-1:wallunderwater
+tile:399:399:799:799:-100:-1:wallunderwater
+tile:400:400:1000:1000:-100:-100:pipe
+tile:300:400:1000:1000:-100:-100:pipe
+zone:400:400:1000:1000:-100:-100:entrance to a pipe
+zone:300:399:1000:1000:-100:-100:crossing a very small pipe
+tile:301:399:999:999:-100:-99:wallmedal1
+tile:300:399:1000:1000:-99:-99:wallmedal1
+amb:300:399:1000:1000:-100:-99:pipe1.ogg
+tile:299:299:800:1000:-100:-99:wallmedal1
+tile:300:300:800:1000:-100:-100:pipe
+zone:300:300:1000:1000:-100:-100:the pipe turns sharply to the left in a 90 degrees angle
+amb:300:300:800:900:-100:-99:pipe1.ogg
+tile:301:301:800:999:-100:-99:wallmedal1
+zone:300:300:800:999:-100:-99:continuing down in the pipe
+tile:299:301:800:1000:-99:-99:wallmedal1
+
+tile:299:301:799:801:-200:-101:wallmedal1
+tile:299:301:799:799:-100:-99:wallmedal1
+tile:300:300:800:800:-200:-100:pipe
+zone:300:300:800:800:-200:-100:the pipe goes down sharply, where in the fuck will you go?
+amb:300:300:800:800:-200:-101:pipe1.ogg
+tile:250:350:750:850:-215:-215:carpet5
+tile:300:300:800:800:-201:-201:metal5
+zone:250:350:750:850:-250:-201:the underground hotel chamber
+zone:300:300:800:800:-201:-201:you're standing on a metal platform out of the pipe, looking down you see that you're practicly on the ceiling of a nice hotel chamber, wy not drop   down in it?
+tile:250:350:851:851:-215:-200:wallbank
+src:250:350:750:850:-215:-205:room2.ogg
+tile:249:249:749:851:-215:-200:wallbank
+tile:249:351:749:749:-215:-200:wallbank
+tile:351:351:749:851:-215:-200:wallbank
+tile:300:300:800:800:-214:-205:ladder2
+zone:300:300:800:800:-214:-205:a ladder going up to the pipe, it doesn't reach it, but you can jump in to the pipe or drop from it safely
+zone:2:2:2:2:0:0:to leave, press enter:trackme
+
+
+tile:0:1000:551:600:-100:-1:underwater
+
+tile:0:1000:551:600:0:0:swimming
+tile:0:1000:550:550:-100:-1:wallrockdirt
+tile:0:1000:601:601:-100:-1:wallrockdirt
+zone:0:1000:602:610:0:500:border of the river
+
+zone:0:1000:540:549:0:500:border of the river
+
+zone:0:1000:550:550:0:100:near the river
+src:0:1000:551:599:0:10:stream.ogg
+zone:0:1000:601:601:0:100:near the river
+amb:0:1000:550:600:-100:-1:underwater1.ogg
+zone:0:1000:551:599:-100:-85:on the bottom of the river
+tile:400:1000:800:1000:0:0:swimming
+tile:300:300:800:800:-215:-201:ladder
+zone:300 :300 :800 :800 :-215 :-200:continue climbing down to enter what looks like a hotel room
+tile:299:299:799:801:-214:-201:wallmedal1
+tile:299:301:801:801:-214:-201:wallmedal1
+
+tile:301:301:799:801:-214:-201:wallmedal1
+tile:299:301:799:799:-214:-201:wallmedal1
+tile:0:1000:550:550:0:0:mud
+tile:0:1000:601:601:0:0:mud
+travelpoint:2:2:2:2:0:0:store:5:30:0:done
+amb:300:300:901:999:-100:-100:pipe2.ogg 1-13-2021, 4:45:27 PM
+grand father (bolgelo) sent /rawmap 1-13-2021, 4:45:46 PM
+grand father (bolgelo) sent /rawdata mapname:battles
+maxx:1000
+maxy:1000
+maxz:1000
+
+tile:0:1000:0:1000:0:0:grass7
+tile:49:51:0:1000:0:0:dirt3
+zone:0:1000:0:1000:0:50:battlefield
+
+src:0:1000:0:1000:0:50:birds5.ogg
+zone:49:51:0:1000:0:50:first north south road:trackme
+tile:60:60:60:60:0:20:deck
+zone:60:60:60:60:0:20:a sniper tower looking over the road:trackme
+tile:100:200:100:100:0:50:wallbrick
+tile:101:199:101:199:0:0:wood6
+tile:100:100:100:200:0:50:wallbrick
+zone:101:199:101:199:0:50:old and abandoned house
+tile:200:200:100:148:0:50:wallbrick2
+tile:200:200:152:200:0:50:wallbrick1
+tile:200:200:149:151:0:0:debris
+tile:100:200:200:200:0:50:wallbrick2
+zone:200:200:149:151:0:50:entrance to an old and abandoned house:trackme
+tile:150:150:101:120:0:5:wallwoodpile
+tile:101:120:150:150:0:6:wallrocks1
+tile:300:300:300:300:-50:0:grate
+zone:300:300:300:300:-50:0:ladder to, hmmm, it goes down, so who knows:trackme
+amb:100:500:100:500:-100:-30:rumble.ogg
+tile:100:500:100:500:-51:-51:cavegrounds
+zone:100:500:100:500:-51:-30:underground chamber
+zone:300:300:300:300:-50:-30:the ladder goes down in what looks like a strange underground arena sort of thing
+tile:100:500:99:99:-50:-1:wallstone
+tile:99:99:100:500:-50:-1:wallstone
+tile:100:500:101:101:-50:-1:wallstone
+tile:501:501:99:501:-50:-1:wallstone
+tile:0:1000:550:650:-50:0:blank
+zone:0:1000:550:600:0:50:a huge river:trackme
+tile:0:1000:550:550:-100:0:ledge
+zone:0:1000:550:550:0:50: lej  of the canion
+tile:0:1000:549:549:-100:-1:wallrockdirt
+
+
+zone:0:1000:540:549:0:50:nearing an enormous kanion
+zone:0:1000:550:600:-100:-1:under water
+tile:0:1000:550:600:-100:-100:puddle
+tile:0:1000:575:580:-100:-100:marsh
+tile:0:1000:574:574:-100:-100:mud
+tile:0:1000:550:550:-100:-50:rocks
+tile:0:1000:581:581:-100:-100:mud
+zone:0:1000:575:580:-100:-80:some marsh formed here
+tile:0:1000:601:601:-100:-50:gravel3
+zone:0:1000:601:601:-100:-1:other lej of the canion
+tile:0:1000:602:602:-100:-1:wallrockdirt
+tile:0:1000:601:601:-49:0:ledge
+tile:0:1000:602:1000:0:0:grass7
+zone:0:1000:601:601:0:50:lej of the canion
+tile:49:51:602:1000:0:0:dirt3
+zone:99:101:601:601:0:3:other side of the rope bridge
+tile:199:201:550:575:0:0:bridge1
+tile:199:201:580:601:0:0:bridge1
+zone:199:201:550:601:0:50:second bridge:trackme
+tile:97:99:0:549:0:0:dirt3
+zone:97:99:0:549:0:50:second north south road
+tile:99:101:602:1000:0:0:dirt3
+zone:99:101:602:1000:0:50:second north south road
+tile:202:204:0:549:0:0:dirt6
+zone:202:204:0:549:0:50:third north south road
+tile:199:201:602:1000:0:0:dirt6
+zone:199:201:602:1000:0:50:third north south road
+tile:300:300:604:604:0:0:metal8
+zone:300:300:604:604:0:0:a teleporter lies here, enter to activate it:trackme
+door:300:604:0:300:548:0:0:.ogg:.ogg:.igg:move.ogg
+door:300:548:0:300:604:0:0:.ogg:.ogg:.igg:move.ogg
+tile:300:300:548:548:0:0:metal8
+zone:300:300:548:548:0:0:a teleporter, press enter to activate 
+
+tile:400:1000:800:1000:0:0:shallow
+tile:390:399:800:1000:0:0:sand
+tile:390:1000:790:799:0:0:sand
+zone:390:1000:790:1000:0:50:nearing a deep lake
+zone:400:1000:800:1000:0:50:in a deep lake:trackme
+tile:400:1000:795:799:0:0:mud
+tile:395:399:795:1000:0:0:mud
+src:400:1000:800:1000:0:5:lake2.ogg
+tile:400:1000:800:1000:-100:-1:underwater
+zone:400:1000:800:1000:-100:-1:going underwater
+amb:400:1000:800:1000:-100:-1:underwater.ogg
+tile:400:1000:799:799:-100:-1:wallunderwater
+tile:399:399:800:1000:-100:-1:wallunderwater
+tile:399:399:799:799:-100:-1:wallunderwater
+tile:400:400:1000:1000:-100:-100:pipe
+tile:300:400:1000:1000:-100:-100:pipe
+zone:400:400:1000:1000:-100:-100:entrance to a pipe
+zone:300:399:1000:1000:-100:-100:crossing a very small pipe
+tile:301:399:999:999:-100:-99:wallmedal1
+tile:300:399:1000:1000:-99:-99:wallmedal1
+amb:300:399:1000:1000:-100:-99:pipe1.ogg
+tile:299:299:800:1000:-100:-99:wallmedal1
+tile:300:300:800:1000:-100:-100:pipe
+zone:300:300:1000:1000:-100:-100:the pipe turns sharply to the left in a 90 degrees angle
+amb:300:300:800:900:-100:-99:pipe1.ogg
+tile:301:301:800:999:-100:-99:wallmedal1
+zone:300:300:800:999:-100:-99:continuing down in the pipe
+tile:299:301:800:1000:-99:-99:wallmedal1
+
+tile:299:301:799:801:-200:-101:wallmedal1
+tile:299:301:799:799:-100:-99:wallmedal1
+tile:300:300:800:800:-200:-100:pipe
+zone:300:300:800:800:-200:-100:the pipe goes down sharply, where in the fuck will you go?
+amb:300:300:800:800:-200:-101:pipe1.ogg
+tile:250:350:750:850:-215:-215:carpet5
+tile:300:300:800:800:-201:-201:metal5
+zone:250:350:750:850:-250:-201:the underground hotel chamber
+zone:300:300:800:800:-201:-201:you're standing on a metal platform out of the pipe, looking down you see that you're practicly on the ceiling of a nice hotel chamber, wy not drop   down in it?
+tile:250:350:851:851:-215:-200:wallbank
+src:250:350:750:850:-215:-205:room2.ogg
+tile:249:249:749:851:-215:-200:wallbank
+tile:249:351:749:749:-215:-200:wallbank
+tile:351:351:749:851:-215:-200:wallbank
+tile:300:300:800:800:-214:-205:ladder2
+zone:300:300:800:800:-214:-205:a ladder going up to the pipe, it doesn't reach it, but you can jump in to the pipe or drop from it safely
+zone:2:2:2:2:0:0:to leave, press enter:trackme
+
+
+tile:0:1000:551:600:-100:-1:underwater
+
+tile:0:1000:551:600:0:0:swimming
+tile:0:1000:550:550:-100:-1:wallrockdirt
+tile:0:1000:601:601:-100:-1:wallrockdirt
+zone:0:1000:602:610:0:500:border of the river
+
+zone:0:1000:540:549:0:500:border of the river
+
+zone:0:1000:550:550:0:100:near the river
+src:0:1000:551:599:0:10:stream.ogg
+zone:0:1000:601:601:0:100:near the river
+amb:0:1000:550:600:-100:-1:underwater1.ogg
+zone:0:1000:551:599:-100:-85:on the bottom of the river
+tile:400:1000:800:1000:0:0:swimming
+tile:300:300:800:800:-215:-201:ladder
+zone:300 :300 :800 :800 :-215 :-200:continue climbing down to enter what looks like a hotel room
+tile:299:299:799:801:-214:-201:wallmedal1
+tile:299:301:801:801:-214:-201:wallmedal1
+
+tile:301:301:799:801:-214:-201:wallmedal1
+tile:299:301:799:799:-214:-201:wallmedal1
+tile:0:1000:550:550:0:0:mud
+tile:0:1000:601:601:0:0:mud
+travelpoint:2:2:2:2:0:0:store:5:30:0:done
+amb:300:300:901:999:-100:-100:pipe2.ogg 1-13-2021, 4:46:05 PM
+grand father (bolgelo) sent /go 253 800 -215 1-13-2021, 4:46:16 PM
+grand father (bolgelo) sent /stats sgamer 1-13-2021, 4:47:54 PM
+grand father (bolgelo) sent /where artem 1-13-2021, 10:36:16 PM
+grand father (bolgelo) sent /where krokodailtop 1-13-2021, 10:36:21 PM
+grand father (bolgelo) sent /go 0 0 0 store 1-13-2021, 10:36:31 PM
+grand father (bolgelo) sent /garbag 1-13-2021, 10:39:25 PM
+grand father (bolgelo) sent /garbage 1-13-2021, 10:39:28 PM
+grand father (bolgelo) sent /countbombs 1-13-2021, 10:45:54 PM
+grand father (bolgelo) sent /where artem 1-13-2021, 10:46:17 PM
+grand father (bolgelo) sent /where krokodailtop 1-13-2021, 10:46:28 PM
+grand father (bolgelo) sent /admins 1-13-2021, 10:48:15 PM
+grand father (bolgelo) sent /chars 1-13-2021, 10:48:24 PM
+grand father (bolgelo) sent /stats vinni 1-13-2021, 10:48:57 PM
+grand father (bolgelo) sent /go 0 100 0  1-13-2021, 10:49:37 PM

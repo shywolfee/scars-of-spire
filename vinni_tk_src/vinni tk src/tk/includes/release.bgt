@@ -1,0 +1,24 @@
+void release(string scriptname)
+{
+directory_delete("release");
+directory_create("release");
+run("c:\\program files (x86)\\bgt\\bgt.exe", "-C\""+scriptname+"\"", true,false);
+file_copy("GameEngine.dll","release/GameEngine.dll",true);
+file_copy("tk.exe","release/tk.exe",true);
+file_copy("changelog.txt","release/changelog.txt",true);
+file_copy("!rules.txt","release/!rules.txt",true);
+file_copy("readme.txt","release/readme.txt",true);
+file_copy("nvdaControllerClient32.dll","release/nvdaControllerClient32.dll",true);
+file_copy("updater.exe","release/updater.exe",true);
+file_copy("unzip.exe","release/unzip.exe",true);
+//file_copy("sounds.dat","release/sounds.dat",true);
+directory_delete("release/lang");
+directory_create("release/lang");
+file_copy("lang/english.lng","release/lang/english.lng",true);
+file_copy("lang/german.lng","release/lang/german.lng",true);
+file_copy("lang/persian.lng","release/lang/persian.lng",true);
+file_copy("lang/PTBR.lng","release/lang/PTBR.lng",true);
+file_copy("lang/russian.lng","release/lang/russian.lng",true);
+dlg("done");
+file_delete("tk.exe");
+}

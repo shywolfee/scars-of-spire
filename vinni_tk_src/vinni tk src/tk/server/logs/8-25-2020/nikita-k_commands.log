@@ -1,0 +1,70 @@
+
+nikita-k (nikita-k) sent /chars 8-25-2020, 11:20:40 AM
+nikita-k (nikita-k) sent /go 5 5 1 admin_area 8-25-2020, 11:51:42 AM
+nikita-k (nikita-k) sent /chars 8-25-2020, 12:19:45 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 4:06:07 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 4:07:14 PM
+nikita-k (nikita-k) sent /warnpublic   8-25-2020, 4:07:27 PM
+nikita-k (nikita-k) sent /warnpublic - 8-25-2020, 4:07:36 PM
+nikita-k (nikita-k) sent /warnpublic test 8-25-2020, 4:07:54 PM
+nikita-k (nikita-k) sent /admins 8-25-2020, 4:08:43 PM
+nikita-k (nikita-k) sent /move maxgamer 5 5 100 admin_area 8-25-2020, 4:08:59 PM
+nikita-k (nikita-k) sent /teams 8-25-2020, 4:09:11 PM
+nikita-k (nikita-k) sent /rawmap 8-25-2020, 4:11:56 PM
+nikita-k (nikita-k) sent /rawdata mapname:admin_area
+maxx:20
+maxy:20
+maxz:22
+tile:0:20:0:20:0:0:carpet2
+zone:0:20:0:20:0:20:admin area
+tile:0:20:0:0:0:20:walldoor2
+tile:0:20:20:20:0:20:walldoor2
+tile:0:0:1:19:0:20:walldoor2
+tile:20:20:1:29:0:20:walldoor2
+tile:10:12:10:10:0:0:stone1
+tile:10:12:11:12:0:2:wallstone
+tile:11:11:11:11:1:1:wallbrushtangle
+tile:10:12:11:12:2:2:stone1
+tile:11:11:11:11:2:2:fire
+zone:10:12:10:12:0:15:fireplace
+tile:1:1:1:1:0:1:wallchain
+tile:1:1:1:1:1:1:deck
+zone:1:1:1:1:0:10:an old clock
+tile:6:6:6:6:0:1:wallbank
+tile:6:6:6:6:1:1:chair
+zone:6:6:6:6:1:10:a nice old chair
+tile:4:5:5:7:0:1:walltable
+tile:4:5:5:7:1:1:plank
+zone:4:5:5:7:1:10:an old wooden table
+tile:1:2:19:19:0:0:water
+zone:1:2:19:19:0:10:some clean water to wash in
+tile:17:17:19:19:0:0:walltable
+tile:17:17:19:19:1:1:hardwood1
+zone:17:17:19:19:1:10:a nightstand
+tile:18:19:17:19:0:2:wallcloth
+tile:18:19:17:19:2:2:plexi
+zone:18:19:17:19:2:10:a bed
+src:1:1:1:1:0:10:clock.ogg
+/fightingstate:1
+
+tile:1:19:1:1:15:15:stone1
+
+tile:0:20:0:20:20:20:wallcar2
+tile:0:20:0:20:21:21:roof1
+travelpoint:10:10:1:1:0:10:store:15:15:0:moved
+zone:10:10:1:1:0:10:press enter to go to the store:trackme
+tile:20:20:15:16:2:5:wallglass
+src:30:30:15:16:2:5:birds15.ogg
+/robots:0:20:0:20:0:0:1:10000:Amphibian,bear,boxer,car,cat,cockroach,coyote,cyborg,dentist,doctor,dog,dragon,dragonfly,excavator,fitter,flamethrower,fly,gangster,glider,grandpa,gun,harvester,helicopter,horse,lion,manager,metallurgist,mosquito,moth,nurse,patient,polarbear,psychiatrist,psycho,rabbit,rat,robocop,rocketlauncher,securityguard,snake,sniper,soldier,storekeeper,surgeon,tank,train,trainer,tushkano,welder,wolf,worm,zombie,pan,robot,fireball,hunter
+jplayer:5:5:20
+tile:5:5:5:5:20:20:metal13
+zone:5:5:5:5:20:20:music player:trackme 8-25-2020, 4:12:12 PM
+nikita-k (nikita-k) sent /admingun 8-25-2020, 4:12:23 PM
+nikita-k (nikita-k) sent /kickall 8-25-2020, 4:13:04 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 5:14:34 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 5:38:41 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 5:39:32 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 6:24:13 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 7:53:37 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 9:07:52 PM
+nikita-k (nikita-k) sent /chars 8-25-2020, 10:50:15 PM

@@ -1,0 +1,78 @@
+привет друг! я нашёл код уровней от zombie wore
+вроде всё работает хорошо, но по какойто причине не набирается опыт, сможеш посмотреть? исправить?
+
+Hello Friend! I found a level code from zombie wore
+everything seems to be working fine, but for some reason, experience is not gained, can you see it? to fix?
+
+сервер
+server
+chardata.bgt
+void scd(int ie)
+fl.open(charfolder+"/level.usr","w");
+fl.write(players[ie].level);
+fl.close();
+fl.open(charfolder+"/xp.usr","w");
+fl.write(players[ie].xp);
+fl.close;
+fl.open(charfolder+"/xprequired.usr","w");
+fl.write(players[ie].xprequired);
+fl.close();
+void load_char_data(int index, bool forced=false)
+c.open(charfolder+"/level.usr","r");
+players[index].level=stn(c.read());
+c.close;
+c.open(charfolder+"/xp.usr","r");
+players[index].xp=stn(c.read());
+c.close;
+c.open(charfolder+"/xprequired.usr","r");
+players[index].xprequired=stn(c.read());
+c.close;
+players[index].xprequired=(25*(players[index].level*(players[index].level*5)));
+
+
+player.bgt
+int level;
+int xpmaster;
+double xp=0;
+double xprequired;
+
+void playerloop()
+if (players[i].xp>=players[i].xprequired)
+{
+players[i].level+=1;
+int extracoins=20;
+players[i].give("coin",extracoins*players[i].level*players[i].level);
+players[i].xprequired=(25*(players[i].level*(players[i].level*5)));
+send_reliable(0,"play_s levelup.ogg",0);
+send_reliable(0,players[i].name+" has reached to level "+players[i].level,2);
+
+players[k].xp+=random(800,1000);
+
+
+tkserver.bgt
+else if(parsed[0]=="levelcheck")
+{
+int indexx=get_player_index(e.peer_id);
+if(indexx>-1)
+send_reliable(players[indexx].peer_id,"you are level "+players[indexx].level+" with "+players[indexx].xp+" experience. your next level requireds "+(players[indexx].xprequired-players[indexx].xp)+" experience",0);
+
+client
+
+int level=1;
+int xpmaster;
+double xp=0;
+double xprequired=500;
+
+if(key_pressed(KEY_L))
+{
+send_reliable(0, "levelcheck",0);
+
+if (sd.d.exists("level"))
+level=sd.readn("level");
+if (sd.d.exists("xp"))
+xp=sd.readn("xp");
+if (sd.d.exists("xpmaster"))
+xpmaster=sd.readn("xpmaster");
+if (sd.d.exists("xprequired"))
+
+please help me!

@@ -1,0 +1,25 @@
+﻿void main()
+{
+show_game_window("pleas wait");
+run("c:\\windows\\system32\\cmd.exe","/c taskkill /im tk.exe /f",true,true);
+bool result=run("unzip.exe","-o -qq -j tk.zip",true,true);
+//if(file_exists("tk.zip")==false)
+//exit();
+directory_delete("lang");
+directory_create("lang");
+//file_copy("lang/english.lng","qt/lang/english.lng",true);
+//file_copy("lang/german.lng","qt/lang/german.lng",true);
+//file_copy("lang/persian.lng","release/lang/persian.lng",true);
+//file_copy("lang/PTBR.lng","release/lang/PTBR.lng",true);
+file_copy("russian.lng","lang/russian.lng",true);
+file_delete("tk.zip");
+file_delete("russian.lng");
+wait(2000);
+run("tk.exe","",true,true);
+exit();
+if(result==false)
+{
+alert("Error", "unzip.exe could not be run.");
+exit();
+}
+}

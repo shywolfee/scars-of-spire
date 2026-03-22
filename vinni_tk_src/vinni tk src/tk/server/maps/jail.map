@@ -1,0 +1,7 @@
+mapname:jail
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:metal
+tile:0:50:0:50:0:0:wetconcrete
+zone:0:50:0:50:0:100:jail

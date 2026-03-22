@@ -1,0 +1,7 @@
+mapname:bolgelo's_ball_ofice_where_you_can_destroy_your_balls_in_the_fire
+maxx:20
+maxy:20
+maxz:20
+tile:0:20:0:20:0:0:wood
+src:0:20:0:20:0:0:birds.ogg
+door:5:0:0:10:10:0:100:door_loop.ogg:doorloop.ogg:dooropen.ogg:doorclose.ogg

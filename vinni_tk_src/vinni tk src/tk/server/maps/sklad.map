@@ -1,0 +1,24 @@
+mapname:sklad
+maxx:50
+maxy:50
+maxz:150
+tile:0:50:0:50:0:0:metal1
+src:0:50:0:50:0:50:corridor.ogg
+tile:0:0:0:50:0:50:wallmetal9
+tile:0:50:0:0:0:50:wallmetal9
+tile:50:50:0:50:0:50:wallmetal9
+tile:0:50:50:50:0:50:wallmedaldebris
+tile:0:50:50:50:0:50:wallmetal9
+tile:1:49:49:49:0:25:metal2
+tile:1:49:1:48:25:25:metal1
+ispawn:1:49:1:48:25:25:15000:1:fnminimilight:cannon:sky_28_laser:small_dagger:spear:knife:hammer:glock_17_pistol:stp106_long_barreled_pistol:cyanide_pistol:colt_ar_15_assault_rifle:nak_nk1000_decimater:beretta_m1951_machine_pistol:zulfikar:sky_286_laser_pistol:sky_372_laser_machinegun:sky_386_laser_assault_rifle:sky_429_laser_shotgun
+ispawn:1:49:1:48:0:0:10000:5:pack_of_30_ammo_fnminimilight:pack_of_30_ammo_sky_28_laser:pack_of_30_ammo_glock_17_pistol:pack_of_30_ammo_stp106_long_barreled_pistol:pack_of_30_ammo_cyanide_pistol:pack_of_30_ammo_colt_ar_15_assault_rifle:pack_of_30_ammo_nak_nk1000_decimater:pack_of_30_ammo_beretta_m1951_machine_pistol:pack_of_30_ammo_crossbow:pack_of_30_ammo_sniper:pack_of_30_ammo_mlk_207_combat_rifle:pack_of_30_ammo_cop_357_derringer_pistol:pack_of_30_ammo_sig_p226_combat_pistol:pack_of_30_ammo_taser:pack_of_30_ammo_modern_sub_machine_gun_carbine:pack_of_30_ammo_gauss:pack_of_30_ammo_m79_grenade_launcher:pack_of_30_ammo_str_301_long_barreled_machine_pistol:pack_of_30_ammo_shotgun:pack_of_30_ammo_stp21_handgun:pack_of_30_ammo_beretta_nano_pocket_pistol:pack_of_30_ammo_ags30
+travelpoint:20:30:1:1:0:0:cave6:45:24:0:you open the gate and go out into the fresh air
+zone:0:50:0:50:0:50:warehouse
+tile:0:50:0:50:50:50:roof3
+zone:20:30:1:1:0:10:gate
+tile:20:30:0:0:0:10:wallgate
+robots:1:49:1:49:0:0:1:30000:cockroach,dog,hunter,securityguard,rabbit
+noitems:0:50:0:50:0:50:wood
+
+zone:0:50:0:50:50:65:roof of the warehouce

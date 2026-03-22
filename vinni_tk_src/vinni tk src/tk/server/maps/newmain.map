@@ -1,0 +1,22 @@
+mapname:newmain
+maxx:1500
+maxy:1500
+maxz:500
+tile:0:1500:0:1500:0:0:grass
+tile:600:800:600:800:0:49:wallstone
+tile:601:799:601:799:0:20:blank
+tile:601:799:601:799:0:0:concrete4
+zone:590:810:590:810:0:60:near the big hill
+amb:0:1500:0:1500:0:100:calm.ogg
+tile:600:800:600:800:50:50:grass4
+amb:601:799:601:799:0:20:cave1.ogg
+tile:750:750:750:750:0:49:concrete8
+tile:599:599:599:801:0:50:dirt7
+tile:599:801:801:801:0:50:dirt7
+tile:801:801:599:801:0:50:dirt7
+tile:599:801:599:599:0:50:dirt7
+zone:599:801:599:801:0:100:a big hill
+zone:599:801:599:801:50:100:top of the hill
+zone:601:799:601:799:0:45:a large cave under the hill
+
+zone:750:750:750:750:0:49:a hidden staircase

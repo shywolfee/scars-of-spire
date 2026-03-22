@@ -1,0 +1,199 @@
+
+kirill (kirill) sent /give kirill wood 1000000000 8-29-2020, 4:34:09 PM
+kirill (kirill) sent /move kirill 200 200 0 8-29-2020, 4:34:50 PM
+kirill (kirill) sent /move kirill main 0 0 0 8-29-2020, 4:35:07 PM
+kirill (kirill) sent /move kirill main 8-29-2020, 4:35:12 PM
+kirill (kirill) sent /changemap kirill main 8-29-2020, 4:35:18 PM
+kirill (kirill) sent /move kirill 1 1 0 8-29-2020, 4:35:38 PM
+kirill (kirill) sent /move kirill 20 20 0 8-29-2020, 4:35:45 PM
+kirill (kirill) sent /shelterkill test 8-29-2020, 4:38:07 PM
+kirill (kirill) sent /shelterlist 8-29-2020, 9:48:43 PM
+kirill (kirill) sent /changemap kirill cage 8-29-2020, 9:49:58 PM
+kirill (kirill) sent /shelterkill cage 8-29-2020, 9:50:06 PM
+kirill (kirill) sent /changemap kirill cage 8-29-2020, 9:50:18 PM
+kirill (kirill) sent /shelterkill cave4 8-29-2020, 9:50:37 PM
+kirill (kirill) sent /shelterkill cave5 8-29-2020, 9:50:44 PM
+kirill (kirill) sent /shelterkill event 8-29-2020, 9:50:55 PM
+kirill (kirill) sent /changemap kirill field 8-29-2020, 9:51:13 PM
+kirill (kirill) sent /shelterkill field 8-29-2020, 9:51:24 PM
+kirill (kirill) sent /changemap kirill sklad 8-29-2020, 9:51:37 PM
+kirill (kirill) sent /INV 8-29-2020, 9:51:54 PM
+kirill (kirill) sent /changemap kirill toys 8-29-2020, 9:52:17 PM
+kirill (kirill) sent /changemap kirill 1 1 0 8-29-2020, 9:52:31 PM
+kirill (kirill) sent /shelterkill toys 8-29-2020, 9:52:41 PM
+kirill (kirill) sent /changemap kirill sklad 8-29-2020, 9:53:15 PM
+kirill (kirill) sent /inv 8-29-2020, 9:53:18 PM
+kirill (kirill) sent /changemap kirill baza 8-29-2020, 9:54:09 PM
+kirill (kirill) sent /changemap kirill sklad 8-29-2020, 9:56:54 PM
+kirill (kirill) sent /changemap kirill sklad 8-29-2020, 9:57:03 PM
+kirill (kirill) sent /rawdata mapname:sklad
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:metal1
+src:0:50:0:50:0:50:corridor.ogg
+tile:0:0:0:50:0:50:wallmetal9
+tile:0:50:0:0:0:50:wallmetal9
+tile:50:50:0:50:0:50:wallmetal9
+tile:0:50:50:50:0:50:wallmedaldebris
+tile:0:50:50:50:0:50:wallmetal9
+tile:1:49:49:49:0:25:metal2
+tile:1:49:1:48:25:25:metal1
+ispawn:1:49:1:48:25:25:3000:1:fnminimilight:cannon:sky_28_laser:small_dagger:spear:knife:hammer:glock_17_pistol:stp106_long_barreled_pistol:cyanide_pistol:colt_ar_15_assault_rifle:nak_nk1000_decimater:beretta_m1951_machine_pistol:zulfikar:sky_286_laser_pistol:sky_372_laser_machinegun:sky_386_laser_assault_rifle:sky_429_laser_shotgun
+ispawn:1:49:1:48:0:0:15000:5:pack_of_30_ammo_fnminimilight:pack_of_30_ammo_sky_28_laser:pack_of_30_ammo_glock_17_pistol:pack_of_30_ammo_stp106_long_barreled_pistol:pack_of_30_ammo_cyanide_pistol:pack_of_30_ammo_colt_ar_15_assault_rifle:pack_of_30_ammo_nak_nk1000_decimater:pack_of_30_ammo_beretta_m1951_machine_pistol:pack_of_30_ammo_crossbow:pack_of_30_ammo_sniper:pack_of_30_ammo_mlk_207_combat_rifle:pack_of_30_ammo_cop_357_derringer_pistol:pack_of_30_ammo_sig_p226_combat_pistol:pack_of_30_ammo_taser:pack_of_30_ammo_modern_sub_machine_gun_carbine:pack_of_30_ammo_gauss:pack_of_30_ammo_m79_grenade_launcher:pack_of_30_ammo_str_301_long_barreled_machine_pistol:pack_of_30_ammo_shotgun:pack_of_30_ammo_stp21_handgun:pack_of_30_ammo_beretta_nano_pocket_pistol:pack_of_30_ammo_ags30
+travelpoint:20:30:1:1:0:0:cave6:45:24:0:you open the gate and go out into the fresh air
+zone:0:50:0:50:0:50:warehouse
+tile:0:50:0:50:50:50:roof3
+zone:20:30:1:1:0:10:gate
+tile:20:30:0:0:0:10:wallgate
+robots:1:49:1:49:0:0:1:10000:cockroach,dog,hunter,securityguard,rabbit
+noitems:0:50:0:50:0:50:wood
+ 8-29-2020, 9:57:31 PM
+kirill (kirill) sent /inv 8-29-2020, 9:57:56 PM
+kirill (kirill) sent /inv 8-29-2020, 9:57:59 PM
+kirill (kirill) sent /changemap kirill cage 8-29-2020, 10:00:14 PM
+kirill (kirill) sent /rawdata mapname:cage
+maxx:25
+maxy:25
+maxz:200
+tile:0:25:0:25:0:0:clay
+zone:0:25:0:25:0:200:cage
+noitems:0:25:0:25:0:200::guided_missile:aircraft:sticky_bomb:pipe_bomb:warp_box:antibiotic:police_car:gp30:robot:shield:security_bomb:helicopter:throwing_star:tk_ultra_health_potion:rocket_launcher:stp429_mini_missile:hand_cannon:mass_bomb:mine:motion_bomb:suicide_bomb
+robots:0:25:0:25:0:0:1:1000:lion,bear,wolf,polarbear,coyote,hunter,dog,rabbit,boar,goat,gorilla,leopard
+src:0:25:0:25:0:50:birds4.ogg
+tile:0:25:0:25:40:40:cement3
+zone:0:25:0:25:40:50:safe zone
+travelpoint:10:10:10:10:40:40:cage:10:10:0:time started, show me how long you can be a live here!
+zone:10:10:10:10:40:50:door to cage!:trackme
+tile:10:10:10:10:40:40:marble1
+travelpoint:25:25:25:25:40:40:store:0:30:0:store
+noitems:0:25:0:25:0:200:wood
+ 8-29-2020, 10:00:23 PM
+kirill (kirill) sent /inv 8-29-2020, 10:00:30 PM
+kirill (kirill) sent /inv 8-29-2020, 10:00:51 PM
+kirill (kirill) sent /changemap kirill toys 8-29-2020, 10:00:57 PM
+kirill (kirill) sent /changemap kirill event 8-29-2020, 10:02:33 PM
+kirill (kirill) sent /rawdata mapname:event
+maxx:10
+maxy:10
+maxz:100
+tile:0:10:0:10:0:0:tile
+tile:0:10:0:10:0:0:concrete
+zone:0:10:0:10:0:100:start area
+zone:0:0:10:10:0:100:press enter:trackme
+amb:0:10:0:10:0:100:amb6.ogg
+fightingstate:0
+noitems:0:30:0:30:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:hand_grenade:stone:concussive_grenade:turret:hipersound_bomb:zulfikar:turret:wood
+
+travelpoint:0:0:10:10:0:0:event2:50:50:9:die 8-29-2020, 10:02:55 PM
+kirill (kirill) sent /suicide 8-29-2020, 10:02:59 PM
+kirill (kirill) sent /changemap kirill toys 8-29-2020, 10:05:34 PM
+kirill (kirill) sent /rawdata mapname:toys
+maxx:500
+maxy:500
+maxz:50
+tile:0:500:0:500:0:0:stone
+src:0:500:0:500:0:50:rumble.ogg
+zone:0:500:0:500:0:50:hall of dangerous toys
+tile:0:0:0:500:0:50:wallbigmetal1
+tile:500:500:0:500:0:50:wallbigmetal1
+tile:1:499:0:0:0:50:wallbigmetal1
+tile:1:499:500:500:0:50:wallbigmetal1
+tile:200:300:200:300:16:16:bridge
+zone:200:300:200:300:16:30:platform
+tile:200:204:200:204:1:15:wallbigmetal1
+tile:202:202:202:202:0:16:ladder2
+tile:200:204:296:300:1:15:wallbigmetal1
+tile:202:202:298:298:0:16:ladder2
+tile:296:300:200:204:1:15:wallbigmetal1
+tile:298:298:202:202:0:16:ladder2
+tile:296:300:296:300:1:15:wallbigmetal1
+tile:298:298:298:298:0:16:ladder2
+zone:202:202:202:202:0:30:ladder to the platform
+zone:202:202:298:298:0:30:ladder to the platform
+zone:298:298:202:202:0:30:ladder to the platform
+zone:298:298:298:298:0:30:ladder to the platform
+ispawn:200:300:200:300:16:16:30000:2:guided_missile:pack_of_300_guided_missile:rpg7:knife
+robots:1:499:1:499:0:0:2:0:tank,tank,horse,soldier,cat
+src:200:300:200:300:16:30:vending.ogg
+travelpoint:1:1:1:1:0:10:experiment:1:199:0:you moved to the next hall
+zone:0:1:0:1:0:10:teleport:trackme
+tile:1:1:1:1:0:0:metal5
+noitems:0:500:0:500:0:200:wood 8-29-2020, 10:06:56 PM
+kirill (kirill) sent /changemap kirill field 8-29-2020, 10:08:51 PM
+kirill (kirill) sent /move kirill 1 1 0 8-29-2020, 10:08:59 PM
+kirill (kirill) sent /rawdata mapname:field
+maxx:1000
+maxy:200
+maxz:100
+tile:0:1000:0:200:0:0:grass4
+zone:0:1000:0:200:0:100:the last field of humans with robots
+src:440:1000:0:200:0:100:wind1.ogg
+tile:890:900:0:200:5:5:metal
+tile:900:900:1:200:0:4:walldirt
+tile:889:889:1:200:0:40:walldirt
+tile:889:889:0:0:5:40:walldirt
+tile:889:900:0:0:0:0:metal2
+tile:501:800:40:49:0:0:cement2
+zone:501:800:40:49:0:50:ruined road:trackme
+tile:0:500:0:200:0:0:cement2
+zone:0:499:0:200:0:50:bridgehead
+tile:500:500:0:200:0:9:wallbigmetal1
+tile:500:500:40:49:0:9:wallgate
+zone:499:501:40:49:0:7:gates:trackme
+travelpoint:501:501:40:50:0:3:field:499:45:0:you went to the bridgehead
+travelpoint:499:499:40:50:0:3:field:501:45:0:you came back
+tile:495:500:50:54:4:4:metal5
+tile:499:499:51:52:0:4:metal10
+zone:495:500:50:54:4:20:bullet tower
+tile:500:500:0:200:9:9:stone2
+zone:500:500:0:200:9:20:fence
+robots:0:1000:0:200:0:0:2:0:dragon,helicopter,glider,harvester
+tile:400:400:0:50:0:49:wallbigmetal
+tile:440:440:0:50:0:49:wallbigmetal
+tile:401:439:50:50:0:29:walldoor
+tile:401:439:0:49:0:0:shelter
+zone:401:439:0:49:0:29:first floor of the warehouse
+tile:401:439:0:49:30:30:metal4
+tile:419:420:0:0:0:30:plywood
+zone:419:420:0:0:0:29:staircase to the second floor of the warehouse:trackme
+zone:401:439:0:49:30:50:second floor of the warehouse
+zone:419:420:0:0:30:50:stairs down
+tile:401:439:50:50:30:49:wallbigmetal
+tile:400:440:0:50:50:50:roof1
+zone:401:439:49:49:0:20:a big door
+travelpoint:401:439:49:49:0:20:field:420:51:0:you left the warehouse with a heavy backpack
+zone:401:439:51:51:0:20:warehouse door:trackme
+travelpoint:401:439:51:51:0:20:field:420:49:0:you went to the armory
+tile:100:100:0:100:0:50:wallbank
+tile:100:100:101:120:0:10:wallgate
+tile:985:1000:0:150:0:0:sand
+tile:100:100:121:200:0:50:wallbank
+zone:985:1000:0:150:0:20:way out of the desert
+tile:100:100:101:115:11:50:wallbank
+zone:1000:1000:1:150:0:10:return to the desert:trackme
+travelpoint:1000:1000:1:150:0:10:desert:0:1:0:you are back in the hot desert
+tile:61:99:0:200:0:0:metal4
+tile:889:900:200:200:0:0:metal2
+tile:0:49:0:200:0:0:metal4
+zone:0:99:0:200:0:50:hangar
+zone:50:60:0:200:0:50:road:trackme
+zone:99:101:101:120:0:10:hangar gate:trackme
+travelpoint:101:101:101:120:0:10:field:99:110:0:you entered the hangar, there are five tanks here
+travelpoint:99:99:101:120:0:10:field:101:110:0:you left the hangar of military equipment
+tile:0:99:0:0:0:50:wallbank
+tile:0:0:1:199:0:50:wallbank
+tile:0:99:200:200:0:50:wallbank
+tile:50:60:200:200:0:10:wallgate
+zone:50:60:199:200:0:10:exit on the road:trackme
+travelpoint:50:60:199:199:0:10:h_road:55:1:0:You went to the northern road, at the gate you noticed a truck
+tile:1:5:1:199:15:15:metal6
+zone:0:5:0:200:15:30:gallery
+tile:5:5:130:140:0:15:ladder2
+zone:5:5:130:140:0:50:stairway on the gallery:trackme
+ispawn:401:439:0:49:0:0:60000:1:knife:spear:ammo:grenade_pack:brass_knuckles:broken_rifle:crow_bar:crt17_combat_knife:garden_spade:golden_war_axe:hammer:iron_shovel:large_iron_club:long_sword:machete:nunchaku:rusty_axe:rusty_scalpel:scissor_blade:short_sword:small_dagger:small_hammer:small_iron_club:small_sabre:spiked_bat:spiked_chain_mace:steal_warhammer:stp_m4_combat_knife:studded_boots:throwing_knives:tree_branch:wooden_2_by_4
+ispawn:401:439:0:49:30:30:60000:1:crossbow:sniper:gauss:awp:rpg7
+noitems:0:1000:0:200:0:200:wood
+ 8-29-2020, 10:09:07 PM
+kirill (kirill) sent /inv 8-29-2020, 10:09:26 PM
+kirill (kirill) sent /suicide 8-29-2020, 10:09:31 PM

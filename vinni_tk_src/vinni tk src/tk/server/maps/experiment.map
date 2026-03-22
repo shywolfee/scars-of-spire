@@ -1,0 +1,21 @@
+mapname:experiment
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:stone
+tile:0:200:0:0:0:100:wallbigmetal1
+tile:0:0:0:200:0:100:wallbigmetal1
+tile:0:200:200:200:0:100:wallbigmetal1
+tile:200:200:0:200:0:100:wallbigmetal1
+zone:0:200:0:200:0:100:hall not successful experiments
+tile:1:1:50:150:6:6:metal6
+tile:199:199:50:150:6:6:metal6
+tile:8:192:30:170:10:10:bridge
+src:0:200:0:200:0:100:rumble.ogg
+src:8:192:30:170:10:20:vending.ogg
+zone:8:192:30:170:10:20:platform:trackme
+robots:1:199:1:199:0:0:2:0:dog,tushkano,snake
+tile:199:199:1:1:0:0:metal5
+zone:199:200:0:1:0:20:teleport:trackme
+travelpoint:199:199:1:1:0:0:technology:199:1:0:you moved to the next Hall
+ispawn:75:125:75:125:10:10:120000:1:shotgun:stp429_mini_missile:machete:sky_436_mine

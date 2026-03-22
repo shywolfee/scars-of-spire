@@ -1,0 +1,17 @@
+mapname:zalp2
+maxx:60
+maxy:60
+maxz:60
+tile:0:60:0:60:0:0:sand
+tile:0:60:0:60:0:0:concrete2
+tile:10:10:10:50:0:60:wallglass
+tile:50:50:10:50:0:60:wallglass
+tile:10:50:50:50:0:60:wallglass
+tile:10:50:10:10:0:60:wallglass
+tile:11:49:11:49:0:0:deepsand
+tile:28:32:28:32:0:0:sand
+tile:28:32:28:32:7:7:cloth
+tile:30:30:30:30:0:0:cement2
+zone:0:60:0:60:0:60:zalp
+amb:0:60:0:60:0:60:amb13.ogg
+robots:11:49:11:49:0:0:1:5000:Amphibian,bear,boxer,car,cat,cockroach,coyote,cyborg,dentist,doctor,dog,dragon,dragonfly,excavator,fitter,flamethrower,fly,gangster,glider,grandpa,gun,harvester,helicopter,horse,lion,manager,metallurgist,mosquito,moth,nurse,patient,polarbear,psychiatrist,psycho,rabbit,rat,robocop,rocketlauncher,securityguard,snake,sniper,soldier,storekeeper,surgeon,tank,train,trainer,tushkano,welder,wolf,worm,zombie,pan,robot,fireball,hunter,baibydragon,bluedragon,boar,goat,gorilla,leopard,monster,mortal

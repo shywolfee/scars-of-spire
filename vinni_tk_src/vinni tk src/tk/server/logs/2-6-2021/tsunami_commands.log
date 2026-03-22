@@ -1,0 +1,377 @@
+
+JetFighter (tsunami) sent /where phamhoangmih 2-6-2021, 7:26:51 AM
+JetFighter (tsunami) sent /lchat vishnu vishnu vishnu 2-6-2021, 7:55:45 AM
+JetFighter (tsunami) sent /lchat how are you 2-6-2021, 7:56:12 AM
+JetFighter (tsunami) sent /lchat why? what happen? 2-6-2021, 7:56:30 AM
+JetFighter (tsunami) sent /lchat me fine these days 2-6-2021, 7:57:02 AM
+JetFighter (tsunami) sent /lchat lag lag 2-6-2021, 7:57:33 AM
+JetFighter (tsunami) sent /lchat city mass game 2-6-2021, 7:57:56 AM
+JetFighter (tsunami) sent /lchat just wait 2-6-2021, 7:58:06 AM
+JetFighter (tsunami) sent /lchat New in 2.595:
++ Added client side speed hack protection.
++ Added Web URL, a nice little thing for developers and managers to directly upload files to my server. No changes for you, players
+* Now the character repeat should be turned on by default. if not, you can press f2 in the chat window to activate it.
+* Gives your settings file, which is stored in your App Data directory, an use again. Now you dont have to set your old settings and type in your login credentials every startup again!
++ Changed the key to see cords from X to C, and the key to copy buffer items from C to X. That was annoying.
+- Removes the star item from all maps, as its useless currently.
+New in 2.593: 
+* another CM hosting try
+* Bugfixes
+New in 2.592: 
+* Developer switch
++ Added some sounds
+New in 2.591:
+Compatibility for future server side items.
+New in version 2.59:
+Adds language channels, press f5 to access them.
+New in version 2.58:
+Changes encryption keys.
+New in version 2.57:
+The builder menu shouldn't make you disconnect anymore.
+Your buffers will export when kicked or exitted now.
+Voice chat is back! and this time it works!
+The updater no longer requires admin rights to run. If you know anyone who can't update, tell them to download from https://jennios.com/games/cm.zip.
+You can use the p key to use a potion again!
+New in version 2.56:
+Removes some menu options that weren't being used.
+Adds the hell burner item!
+Other misc changes.
+New in version 2.55:
+Adds running shoes to the team store!
+You no longer can fall off the edges of maps.
+adds the shield repair item. (Purchasable from the team store.)
+New in version 2.54:
+Adds back the redownload the game and the restart your client options to the main menu.
+Removed typing sounds.
+Adds the keys for accessing the builder menu to the builder helper.
+New in version 2.53:
+Fixes the zone runtime error, thanks brandon for telling me how it happened.
+Adds back typing sounds.
+New in version 2.52:
+Adds a builder menu for builders.
+New in version 2.51:
+Adds minibombs! Have fun blowing up your enemies!
+New in version 2.5:
+Adds support for server side menu creation.
+Notes play the read sound again.
+exp now appears in the stats category of your inventory.
+New in version 2.49:
+Twitter support has returned, it will tweet when you kill someone if you set it up.
+New in version 2.48:
+Security enhancements
+New in version 2.47:
+Now the game will start logging buffers in the logs folder.
+Messed up versions, so here's notes! these little things are like text squares but have nice little sounds on them, like signs in sbyw. soon i may even make these inventory items but for now they can be built only on maps.
+New in version 2.46:
+Now you don't walk like a snail up and down staircases!
+Adds shields!
+New in version 2.45:
+Fixes the connection has been lost bug when trying to update.
+New in version 2.44
+Bug fix
+Coordinates are back.
+New in version 2.43
+Changes the spyer to right control only, to avoid firing issues.
+Autoupdater is back.
+Security updates.
+Adds builder documentation again.
+Brings back client motd's
+Adds sound updater!
+Adjusts jumptime so no more flying across the map when jumping!
+New in version 2.42:
+*the Jumping key changed to space, And the fireing key changed to control
+*Fixed staircase bug.
+*Added scuffing sounds for some tiles.
+*Fixed the falling speed.
+New in version 2.4.1:
+*Now: You can use  shift 1 , 2 , 3 , etc ETC. To access a lot of weapons.
+*Some bugs have been fixed.
+*Added new sounds.
+*changed the readme file.
+*fixed the desert_eagle.
+*Change the weapons damage
+New in version 2.4:
+*fix the downloader , and now you can redownload the game from the main menu.
+*Finally!: i think the Connection has been lost has been fix it. 
+New in version 2.03:
+*fix some bugs on client.
+*fix the all messages from web.
+New in version 2.02:
+start cm for fun only.
+*deleted the map name if you press B you get only the name for zone.
+*Added some sounds
+New in version 2.01B: 
+it's a small update , So : sorry about this.
+*Added new weapons : UMP45 and uzi.
+*Added new buffer: alerts. Not working.
+*Added a spyer. Press control  with the direction in which you want to spy in.
+*Removed speed! Now you dont need speed to walk & run fast. Enjoy.
+*Fixed the shotgun bug
+*Added new  music 
+*Fixed some bugs
+New in version 2.0B: 
+* Started working on the builder menu, Enjoy
+*Finally!: As we promised you all: Added MultiLanguage support to the game. If you'd like to translate it feel free, also you can send to me your translation, so we can add it on the next versions. 
+*If the server gets restart, Your clients will attempt to restart automaticly.
+*Updated the buffers to support MultiLanguages, But please note: Its currently buggy! So : if you got any bug, feel free to report it, Thanks.
+* Now : When you try to enter to travelpoint that needs item , or amount of that item , and you don't have it, The server will tell you that you don't have that ammount.
+*Added new weapon : Hammer AND REVOLVER.
+*Fixed the stairs bug with camera , Witch is if you press g with your up and down arrow keys! The players moves to that location. 
+*Changed the main menu style 
+*Added food system.
+*Added new music to the main menu and new sounds.
+*Added an improoved level system! Enjoy. Soon it will come useable. 
+New in version 1.33: 
+*If your connection to the server timmed out, The game attempts to restart automaticly. 
+*Updated the registration system!: So now you can make your own account, But it should not contain any spaces like dashes and underlines. Also your name should be in english language to be understandable for everyone!.
+*Now the newbies can't enter to the baddle fields map. Also they can't spawn robots!. 
+*Now the mines can't hurt the newbies. For that, the newbies can't spawn mines. Sorry newbies for that. 
+*Now climbing the staircase with up and down arrows again , Because page up and page down used for sapi mode :wine", Thanks mrsarun , Abdulla dubais , and Florianionascu7 , For figuring out this issue.
+*Started working on twitter support this thing will be useable in the next versions. 
+*Increased robots  health from 7500 to 20000. Good luck.
+* updated the weapons a bit: so now you wil see them better more than past.
+New in version 1.32
+*Now climbing the staircase using the PAGE_UP and PAGE_DOWN.
+*The following command was killed!: /suicide! And some admins commands To make the game harder!. And prevent cheat!.
+*Fixed the moving bug.
+*Now if you create a new account! , And if the server going to restart! , Your client will restarts automaticly! , Do to some issues.
+*Sicurity updates: Now you can't login using old BTB source! , And other things.
+*adds AK47 , Handgun , and Spear!
+*adds a donate option in the main menu.
+* you can press home and end to increase/decrease the game volume, for that: removed the change game volume from the options menu!.
+* you can press SHIFT+R to spawn robot, SHIFT+E opens robot menu!.
+*adds: Press LEFT_Alt+M to spawn mine!.
+* now you can't turn afk on or off while the game is stopped!
+* now the music in the main menu is random, we'll change them later! 
+New in version 1.31
+*added admintell command
+*added new Rules file!
+*added new small arabic readme & rules files , now only on arabic.  sorry , my inglish is bad.
+*fix some bugs
+New in version 1.3
+*Adds Robots!
+New in version 1.25
+*Attempts to fix a bug where the client would instantly announce server unreachable when creating an account. This was due to improper time allocation for connection.
+*adds a bunch of sounds, including more notify sounds, Sounds for bullet of doom spell (Coming soon), And admingun draw sound!.
+*changes some sounds including offline and online.
+New in version 1.2
+*Fixes some annoying bugs with clients losing net events.
+*Fixed a bug in the shot gun.
+New in version 1.1:
+*Adds programmable items!, items that you can spawn and program to do special things!
+New in version 0.1.1:
+*completely killed registration system, enjoy.
+*added 8 more music tracks to the game. 
+*added a redownload the game option in the main menu.
+*Fixes some typos in the game, thanks to Muhammad Hamza. 
+*added more tiles/surfaces. thanks to marro
+*finally: added the logo, thanks to tissman.
+*added enable or disable logo in the options menu. 
+*changed little sounds, thanks tissman and jonut. 
+*changed the dicription key. 
+*everyone got hardban, he got unban, last chans, injoy all.
+*added /afk command back.
+New in v0.1.0:
+* we're started back with beta version so for that we returned to version 0.1.0
+* fixed the shotgun bug injoy all.
+* changed the server hosting to our new vps, thank kirill because he hosted again.
+* added registration system it will fix in the next update, we made this update quickly. 
+* changed some sounds. 
+* removed some files not important to decrease the game size.
+ 2-6-2021, 7:59:37 AM
+JetFighter (tsunami) sent /t come here 2-6-2021, 8:08:06 AM
+JetFighter (tsunami) sent /lchat where is that shelter 2-6-2021, 8:14:08 AM
+JetFighter (tsunami) sent /lchat ok 2-6-2021, 8:14:18 AM
+JetFighter (tsunami) sent /lchat yap, but i could not get the link 2-6-2021, 8:15:00 AM
+JetFighter (tsunami) sent /lchat wait 2-6-2021, 8:15:25 AM
+JetFighter (tsunami) sent /pm mrido New in 2.595:
++ Added client side speed hack protection.
++ Added Web URL, a nice little thing for developers and managers to directly upload files to my server. No changes for you, players
+* Now the character repeat should be turned on by default. if not, you can press f2 in the chat window to activate it.
+* Gives your settings file, which is stored in your App Data directory, an use again. Now you dont have to set your old settings and type in your login credentials every startup again!
++ Changed the key to see cords from X to C, and the key to copy buffer items from C to X. That was annoying.
+- Removes the star item from all maps, as its useless currently.
+New in 2.593: 
+* another CM hosting try
+* Bugfixes
+New in 2.592: 
+* Developer switch
++ Added some sounds
+New in 2.591:
+Compatibility for future server side items.
+New in version 2.59:
+Adds language channels, press f5 to access them.
+New in version 2.58:
+Changes encryption keys.
+New in version 2.57:
+The builder menu shouldn't make you disconnect anymore.
+Your buffers will export when kicked or exitted now.
+Voice chat is back! and this time it works!
+The updater no longer requires admin rights to run. If you know anyone who can't update, tell them to download from https://jennios.com/games/cm.zip.
+You can use the p key to use a potion again!
+New in version 2.56:
+Removes some menu options that weren't being used.
+Adds the hell burner item!
+Other misc changes.
+New in version 2.55:
+Adds running shoes to the team store!
+You no longer can fall off the edges of maps.
+adds the shield repair item. (Purchasable from the team store.)
+New in version 2.54:
+Adds back the redownload the game and the restart your client options to the main menu.
+Removed typing sounds.
+Adds the keys for accessing the builder menu to the builder helper.
+New in version 2.53:
+Fixes the zone runtime error, thanks brandon for telling me how it happened.
+Adds back typing sounds.
+New in version 2.52:
+Adds a builder menu for builders.
+New in version 2.51:
+Adds minibombs! Have fun blowing up your enemies!
+New in version 2.5:
+Adds support for server side menu creation.
+Notes play the read sound again.
+exp now appears in the stats category of your inventory.
+New in version 2.49:
+Twitter support has returned, it will tweet when you kill someone if you set it up.
+New in version 2.48:
+Security enhancements
+New in version 2.47:
+Now the game will start logging buffers in the logs folder.
+Messed up versions, so here's notes! these little things are like text squares but have nice little sounds on them, like signs in sbyw. soon i may even make these inventory items but for now they can be built only on maps.
+New in version 2.46:
+Now you don't walk like a snail up and down staircases!
+Adds shields!
+New in version 2.45:
+Fixes the connection has been lost bug when trying to update.
+New in version 2.44
+Bug fix
+Coordinates are back.
+New in version 2.43
+Changes the spyer to right control only, to avoid firing issues.
+Autoupdater is back.
+Security updates.
+Adds builder documentation again.
+Brings back client motd's
+Adds sound updater!
+Adjusts jumptime so no more flying across the map when jumping!
+New in version 2.42:
+*the Jumping key changed to space, And the fireing key changed to control
+*Fixed staircase bug.
+*Added scuffing sounds for some tiles.
+*Fixed the falling speed.
+New in version 2.4.1:
+*Now: You can use  shift 1 , 2 , 3 , etc ETC. To access a lot of weapons.
+*Some bugs have been fixed.
+*Added new sounds.
+*changed the readme file.
+*fixed the desert_eagle.
+*Change the weapons damage
+New in version 2.4:
+*fix the downloader , and now you can redownload the game from the main menu.
+*Finally!: i think the Connection has been lost has been fix it. 
+New in version 2.03:
+*fix some bugs on client.
+*fix the all messages from web.
+New in version 2.02:
+start cm for fun only.
+*deleted the map name if you press B you get only the name for zone.
+*Added some sounds
+New in version 2.01B: 
+it's a small update , So : sorry about this.
+*Added new weapons : UMP45 and uzi.
+*Added new buffer: alerts. Not working.
+*Added a spyer. Press control  with the direction in which you want to spy in.
+*Removed speed! Now you dont need speed to walk & run fast. Enjoy.
+*Fixed the shotgun bug
+*Added new  music 
+*Fixed some bugs
+New in version 2.0B: 
+* Started working on the builder menu, Enjoy
+*Finally!: As we promised you all: Added MultiLanguage support to the game. If you'd like to translate it feel free, also you can send to me your translation, so we can add it on the next versions. 
+*If the server gets restart, Your clients will attempt to restart automaticly.
+*Updated the buffers to support MultiLanguages, But please note: Its currently buggy! So : if you got any bug, feel free to report it, Thanks.
+* Now : When you try to enter to travelpoint that needs item , or amount of that item , and you don't have it, The server will tell you that you don't have that ammount.
+*Added new weapon : Hammer AND REVOLVER.
+*Fixed the stairs bug with camera , Witch is if you press g with your up and down arrow keys! The players moves to that location. 
+*Changed the main menu style 
+*Added food system.
+*Added new music to the main menu and new sounds.
+*Added an improoved level system! Enjoy. Soon it will come useable. 
+New in version 1.33: 
+*If your connection to the server timmed out, The game attempts to restart automaticly. 
+*Updated the registration system!: So now you can make your own account, But it should not contain any spaces like dashes and underlines. Also your name should be in english language to be understandable for everyone!.
+*Now the newbies can't enter to the baddle fields map. Also they can't spawn robots!. 
+*Now the mines can't hurt the newbies. For that, the newbies can't spawn mines. Sorry newbies for that. 
+*Now climbing the staircase with up and down arrows again , Because page up and page down used for sapi mode :wine", Thanks mrsarun , Abdulla dubais , and Florianionascu7 , For figuring out this issue.
+*Started working on twitter support this thing will be useable in the next versions. 
+*Increased robots  health from 7500 to 20000. Good luck.
+* updated the weapons a bit: so now you wil see them better more than past.
+New in version 1.32
+*Now climbing the staircase using the PAGE_UP and PAGE_DOWN.
+*The following command was killed!: /suicide! And some admins commands To make the game harder!. And prevent cheat!.
+*Fixed the moving bug.
+*Now if you create a new account! , And if the server going to restart! , Your client will restarts automaticly! , Do to some issues.
+*Sicurity updates: Now you can't login using old BTB source! , And other things.
+*adds AK47 , Handgun , and Spear!
+*adds a donate option in the main menu.
+* you can press home and end to increase/decrease the game volume, for that: removed the change game volume from the options menu!.
+* you can press SHIFT+R to spawn robot, SHIFT+E opens robot menu!.
+*adds: Press LEFT_Alt+M to spawn mine!.
+* now you can't turn afk on or off while the game is stopped!
+* now the music in the main menu is random, we'll change them later! 
+New in version 1.31
+*added admintell command
+*added new Rules file!
+*added new small arabic readme & rules files , now only on arabic.  sorry , my inglish is bad.
+*fix some bugs
+New in version 1.3
+*Adds Robots!
+New in version 1.25
+*Attempts to fix a bug where the client would instantly announce server unreachable when creating an account. This was due to improper time allocation for connection.
+*adds a bunch of sounds, including more notify sounds, Sounds for bullet of doom spell (Coming soon), And admingun draw sound!.
+*changes some sounds including offline and online.
+New in version 1.2
+*Fixes some annoying bugs with clients losing net events.
+*Fixed a bug in the shot gun.
+New in version 1.1:
+*Adds programmable items!, items that you can spawn and program to do special things!
+New in version 0.1.1:
+*completely killed registration system, enjoy.
+*added 8 more music tracks to the game. 
+*added a redownload the game option in the main menu.
+*Fixes some typos in the game, thanks to Muhammad Hamza. 
+*added more tiles/surfaces. thanks to marro
+*finally: added the logo, thanks to tissman.
+*added enable or disable logo in the options menu. 
+*changed little sounds, thanks tissman and jonut. 
+*changed the dicription key. 
+*everyone got hardban, he got unban, last chans, injoy all.
+*added /afk command back.
+New in v0.1.0:
+* we're started back with beta version so for that we returned to version 0.1.0
+* fixed the shotgun bug injoy all.
+* changed the server hosting to our new vps, thank kirill because he hosted again.
+* added registration system it will fix in the next update, we made this update quickly. 
+* changed some sounds. 
+* removed some files not important to decrease the game size.
+ 2-6-2021, 8:15:50 AM
+JetFighter (tsunami) sent /lchat form here you can find its link 2-6-2021, 8:16:06 AM
+JetFighter (tsunami) sent /t yap 2-6-2021, 8:16:25 AM
+JetFighter (tsunami) sent /t let us go out 2-6-2021, 8:16:43 AM
+JetFighter (tsunami) sent /suicide 2-6-2021, 8:17:09 AM
+JetFighter (tsunami) sent /t oho, we lost a huge points 2-6-2021, 8:17:27 AM
+JetFighter (tsunami) sent /t wow 2-6-2021, 8:17:51 AM
+JetFighter (tsunami) sent /where killer3000 2-6-2021, 8:17:59 AM
+JetFighter (tsunami) sent /t killer3000, (killer3000), is on map 10 2-6-2021, 8:18:10 AM
+JetFighter (tsunami) sent /t where is it map 10 2-6-2021, 8:18:26 AM
+JetFighter (tsunami) sent /t oho 2-6-2021, 8:19:10 AM
+JetFighter (tsunami) sent /t let us go to bar again 2-6-2021, 8:19:32 AM
+JetFighter (tsunami) sent /t not there? 2-6-2021, 8:19:50 AM
+JetFighter (tsunami) sent /t what to do now 2-6-2021, 8:20:21 AM
+JetFighter (tsunami) sent /t i just deleted that link 2-6-2021, 8:20:34 AM
+JetFighter (tsunami) sent /t oho, not possibel today 2-6-2021, 8:21:01 AM
+JetFighter (tsunami) sent /t now only on monday 2-6-2021, 8:21:09 AM
+JetFighter (tsunami) sent /t yes 2-6-2021, 8:56:43 AM
+JetFighter (tsunami) sent /t for me, it is running 2-6-2021, 8:57:03 AM
+JetFighter (tsunami) sent /t it is 3.5.9.4 something 2-6-2021, 8:58:48 AM

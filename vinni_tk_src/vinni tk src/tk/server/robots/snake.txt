@@ -1,0 +1,16 @@
+name snake
+health 20000
+defence 100
+speed 400
+damage 1000,10000
+shoot 1000
+distance 8
+aggro 1000
+spread 3
+angle 90
+steps 2
+loot coin
+amount 300
+shieldhits 10,40
+shieldchance 10
+xp 200,1000

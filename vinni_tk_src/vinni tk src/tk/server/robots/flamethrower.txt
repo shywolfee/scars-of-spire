@@ -1,0 +1,16 @@
+name flamethrower
+health 25000
+defence 250
+speed 500
+damage 50,25000
+shoot 2000
+distance 10
+aggro 1000
+spread 3
+angle 35
+steps 0
+loot coin
+amount 3000
+shieldhits 20,60
+shieldchance 20
+xp 2000,2700

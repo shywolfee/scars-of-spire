@@ -1,0 +1,26 @@
+mapname:bossevent
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:hardwood
+src:0:50:0:50:0:10:amb7.ogg
+travelpoint:1:1:49:49:0:20:kirill's_world:200:200:0:moved
+travelpoint:49:49:49:49:0:20:store:25:25:0:moved
+noitems:0:50:0:50:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank
+robots:1:49:0:49:0:0:1:30000:kirillboss
+src:0:49:0:49:-15:-20:kirill_boss.ogg
+zone:1:49:1:49:0:20:kirill'smain_room:
+zone:1:1:49:49:0:20:go back to the kirill's_world:trackme
+zone:49:49:49:49:0:20:go back to the store:trackme
+src:15:15:15:15:0:20:desktop3.ogg
+zone:15:15:15:15:0:20:that's a darkserver
+tile:0:0:0:50:0:100:wallwoodcrate
+tile:0:50:50:50:0:100:wallwoodcrate
+tile:50:50:0:50:0:100:wallwoodcrate
+tile:0:50:0:0:0:100:wallwoodcrate
+tile:0:50:0:50:20:20:wallwoodcrate
+tile:25:25:25:25:10:10:metal1
+tile:24:24:25:25:10:20:wallbrick
+tile:26:26:25:25:10:20:wallbrick
+tile:24:26:24:24:10:20:wallbrick
+tile:24:26:26:26:10:20:wallbrick

@@ -1,0 +1,7 @@
+mapname:just_test
+maxx:50
+maxy:50
+maxz:100
+tile:0:50:0:50:0:0:metal3
+zone:0:50:0:50:0:100:Here we will test new robots
+robots:0:50:0:50:0:0:1:30000:bee,behemoth,bigdog,blaster,boar2,bomber,boss,canine,car1,car2,car3,car4,cock,destructor,dire,drone,duckling,enemy1,enemy2,enemy3,enemy4,enemy5,enemy6,enemy7,enemy8,enemyboss,fireman,giant,hen,hulk,laboratory_assistant,lamprey,matriarch,military_guard,military_helicopter,monkey,monsterkiller,mouse,mutated_wolf,poltergeist,professor,psychic,psychokiller,robot_monster,robotkiller,scout,shark,stormtrooper,tank_aftomat,the_strongest_giant,transformer,tyrant,vampire,woman1,woman2,woman3,woman4,x1

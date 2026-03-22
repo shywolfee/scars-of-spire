@@ -1,0 +1,90 @@
+
+kirill (kirill) sent /clearstats 1-8-2021, 8:30:27 AM
+kirill (kirill) sent /inv 1-8-2021, 3:00:11 PM
+kirill (kirill) sent /inv 1-8-2021, 3:00:15 PM
+kirill (kirill) sent /inv 1-8-2021, 3:00:22 PM
+kirill (kirill) sent /inv 1-8-2021, 3:10:10 PM
+kirill (kirill) sent /inv 1-8-2021, 3:10:12 PM
+kirill (kirill) sent /killboss 1-8-2021, 3:12:35 PM
+kirill (kirill) sent /moveplayer dayler kirill 1-8-2021, 3:13:20 PM
+kirill (kirill) sent /follow dayler 1-8-2021, 3:13:56 PM
+kirill (kirill) sent /stopfollow 1-8-2021, 3:14:42 PM
+kirill (kirill) sent /inv 1-8-2021, 3:17:17 PM
+kirill (kirill) sent /changemap kirill kirill'smian_room 1-8-2021, 3:17:54 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 1-8-2021, 3:18:15 PM
+kirill (kirill) sent /move 1 1 0 1-8-2021, 3:18:19 PM
+kirill (kirill) sent /move kirill 1 1 0 1-8-2021, 3:18:23 PM
+kirill (kirill) sent /changemap kirill kirill'smain_room 1-8-2021, 3:19:08 PM
+kirill (kirill) sent /inv 1-8-2021, 3:19:10 PM
+kirill (kirill) sent /move kirill 1 1 0 1-8-2021, 3:19:15 PM
+kirill (kirill) sent /moveplayer dayler kirill 1-8-2021, 3:19:30 PM
+kirill (kirill) sent /inv dayler 1-8-2021, 3:31:12 PM
+kirill (kirill) sent /inv 1-8-2021, 3:31:16 PM
+kirill (kirill) sent /invplayer dayler 1-8-2021, 3:31:31 PM
+kirill (kirill) sent /adminhelp 1-8-2021, 3:31:44 PM
+kirill (kirill) sent /invforce dayler 1-8-2021, 3:33:14 PM
+kirill (kirill) sent /invforce stepman 1-8-2021, 3:37:25 PM
+kirill (kirill) sent /invforce stepman 1-8-2021, 3:39:59 PM
+kirill (kirill) sent /changemap kirill just_test 1-8-2021, 3:47:39 PM
+kirill (kirill) sent /changemap kirill kirill's_world 1-8-2021, 3:49:13 PM
+kirill (kirill) sent /garbage_collect 1-8-2021, 3:49:53 PM
+kirill (kirill) sent /garbage_collect 1-8-2021, 3:50:11 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:200
+tile:0:200:0:200:0:0:tile
+tile:0:200:0:200:0:0:dirt12
+src:0:200:0:200:0:200:birds8.ogg
+tile:75:125:75:125:0:20:wallbrick
+zone:0:200:0:200:0:200:kirill's world
+tile:95:105:0:74:0:0:concrete12
+zone:95:105:0:74:0:100:road to the kirill's house:trackme
+zone:95:105:74:74:0:10:doar, press enter to enter to the kirill's house
+tile:95:105:75:75:0:10:walldoor
+tile:76:124:76:124:0:19:walls
+travelpoint:95:105:74:74:0:0:kirill'smain_room:25:1:0:time to die
+robots:0:200:0:200:0:0:4:1000:kirill1,kirill2,kirill3,kirill4
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+noitems:0:200:0:200:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank:guided_missile
+noitems:0:50:0:50:0:0:turret:mine 1-8-2021, 3:50:33 PM
+kirill (kirill) sent /rawdata mapname:kirill's_world
+maxx:200
+maxy:200
+maxz:200
+tile:0:200:0:200:0:0:dirt12
+src:0:200:0:200:0:200:birds8.ogg
+tile:75:125:75:125:0:20:wallbrick
+zone:0:200:0:200:0:200:kirill's world
+tile:95:105:0:74:0:0:concrete12
+zone:95:105:0:74:0:100:road to the kirill's house:trackme
+zone:95:105:74:74:0:10:doar, press enter to enter to the kirill's house
+tile:95:105:75:75:0:10:walldoor
+tile:76:124:76:124:0:19:walls
+travelpoint:95:105:74:74:0:0:kirill'smain_room:25:1:0:time to die
+robots:0:200:0:200:0:0:4:1000:kirill1,kirill2,kirill3,kirill4
+src:0:200:0:200:-20:-15:kirill's_world.ogg
+noitems:0:200:0:200:0:100:suicide_bomb:frequency_scrambler:wood:armored_tank:aircraft:item_grabber:police_car:tank:guided_missile
+noitems:0:50:0:50:0:0:turret:mine 1-8-2021, 3:52:07 PM
+kirill (kirill) sent /newmap kirilltest 50 50 0 1-8-2021, 3:52:41 PM
+kirill (kirill) sent /changemap kirill road_to_kirill's_leader 1-8-2021, 3:53:20 PM
+kirill (kirill) sent /RAWDATA mapname:road_to_kirill's_leader
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:grass2
+ 1-8-2021, 3:55:11 PM
+kirill (kirill) sent /rawdata mapname:road_to_kirill's_leader
+maxx:50
+maxy:50
+maxz:20
+tile:0:50:0:50:0:0:grass2
+ 1-8-2021, 3:55:16 PM
+kirill (kirill) sent /changemap kirill kirill's_world 1-8-2021, 3:59:21 PM
+kirill (kirill) sent /inv 1-8-2021, 4:05:06 PM
+kirill (kirill) sent /inv 1-8-2021, 4:05:08 PM
+kirill (kirill) sent /inv 1-8-2021, 4:06:12 PM
+kirill (kirill) sent /inv 1-8-2021, 4:06:26 PM
+kirill (kirill) sent /inv 1-8-2021, 4:07:20 PM
+kirill (kirill) sent /inv 1-8-2021, 4:50:02 PM
+kirill (kirill) sent /kickboss 1-8-2021, 6:48:44 PM

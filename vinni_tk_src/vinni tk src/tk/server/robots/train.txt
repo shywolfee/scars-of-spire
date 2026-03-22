@@ -1,0 +1,15 @@
+name train
+health 25000
+defence 1000
+speed 200
+damage 200,100000
+shoot 500
+distance 3
+aggro 1000
+spread 2
+angle 90
+steps 2
+loot coin
+amount 400
+shieldchance 100
+xp 3500,10000

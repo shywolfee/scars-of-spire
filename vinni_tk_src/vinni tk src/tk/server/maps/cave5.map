@@ -1,0 +1,30 @@
+mapname:cave5
+maxx:100
+maxy:500
+maxz:1000
+tile:0:100:0:500:0:0:tile
+tile:0:100:0:500:0:0:grass2
+amb:0:100:0:500:0:1000:skytopia.ogg
+tile:40:60:0:500:0:0:concrete18
+tile:35:39:0:500:0:0:grass
+tile:61:65:0:500:0:0:grass
+zone:0:100:0:500:0:1000:forest
+zone:40:60:0:500:0:1000:abandoned road
+zone:35:39:0:500:0:1000:near the road
+zone:61:65:0:500:0:1000:near the road
+tile:50:50:0:500:0:0:concrete28
+tile:90:100:0:500:0:0:thickforrest
+tile:80:89:0:500:0:0:leaves
+tile:0:10:0:500:0:0:thickforrest
+tile:11:20:0:500:0:0:leaves
+tile:0:0:0:500:0:1000:wallbrush1
+tile:100:100:0:500:0:1000:wallbrush1
+tile:48:52:248:252:0:0:metal10
+zone:48:52:248:252:0:1000:hatch
+tile:40:60:500:500:0:20:wallgate
+zone:40:60:499:499:0:30:gate
+travelpoint:40:60:499:499:0:20:cave6:55:1:0:you entered the military warehouse territory
+robots:1:99:1:99:0:0:3:2000:tank,robocop,Amphibian
+noitems:0:100:0:500:0:100000:warp_box:concussive_grenade:frequency_scrambler:tank:police_car:armored_tank:aircraft:wood
+tile:0:39:500:500:0:20:wallfence2
+tile:61:100:500:500:0:20:wallfence2

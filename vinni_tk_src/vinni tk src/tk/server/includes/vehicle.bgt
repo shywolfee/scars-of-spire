@@ -1,0 +1,124 @@
+#include "vehicle_aircraft.bgt"
+#include "vehicle_armored_tank.bgt"
+#include "vehicle_tank.bgt"
+#include "vehicle_police_car.bgt"
+vehicle@[] vs;
+int aircraftspawn=6130,tankspawn=4510,armored_tankspawn=4310,aircraftstart=2000,aircraftstop=3497,tankstop=1000,armored_tankstop=6000,tankstart=1954,armored_tankstart=6800,aircraftdie=1750,aircraftfire=751,tankfire=686,armored_tankfire=686,repair=5500,pcspawn=4000,pcstart=7250,pcstop=1444,pcweapon=2242;
+void playext(string soundname, int x, int y, int z, string map, string noname)
+{
+int index=get_player_index_from(noname);
+for(uint i=0; i<players.length(); i++)
+{
+if(i!=index) send_reliable(players[i].peer_id,soundname+" "+x+" "+y+" "+z+" "+map,3);
+}
+}
+void playint(string soundname, string name)
+{
+int index=get_player_index_from(name);
+if(index>-1) send_reliable(players[index].peer_id,"play_s "+soundname+".ogg",0);
+}
+void sendint(string packet, string name,int channel=0)
+{
+int index=get_player_index_from(name);
+if(index>-1) send_reliable(players[index].peer_id,packet,channel);
+}
+class vehicle
+{
+double x,y,z,facing,health,fuel=100;
+string type,owner,map,mid,doing,hitby="nothing";
+int speed=0,soundtime=0,fueltime,movetime,firetime,vmovetime,vfueltime,falldist;
+timer firetimer,movetimer,fueltimer,soundtimer,falltimer;
+bool remove=false,lowfuel=false,lowhealth=false,falling=false;
+double pitch;
+vector max;
+vehicle(string vtype,int pind)
+{
+owner=players[pind].name;
+x=players[pind].x;y=players[pind].y;z=players[pind].z;facing=players[pind].facing;map=players[pind].map;
+max=get_max_values(map);
+type=vtype;
+send_reliable(players[pind].peer_id,"move "+x+" "+y+" "+z,0);
+play(type+"_spawn",x,y,z,map);
+send_reliable(players[pind].peer_id,"vespawning "+type,0);
+}
+void command(string cmd, bool force=false)
+{
+}
+void loop()
+{
+}
+void hit(int damage,string hb,string type="")
+{
+this.health-=damage;
+this.hitby=hb;
+if(type=="" or type=="knife" or type=="crossbow")
+{
+int rand=random(1,6);
+playsound("h"+rand,true,false);
+}
+else
+{
+playsound(type+"hit_vehicle",true,false);
+}
+}
+void playsound(string sound, bool ext=true, bool alt=true)
+{
+playint(sound+(alt==true&&ext==true ? "_int" : ""),owner);
+if(ext) playext(sound+(alt==true&&ext==true ? "_ext" : ""),x,y,z,map,owner);
+}
+}
+void spawn_vehicle(string type, int pind)
+{
+if(type=="aircraft")
+{
+aircraft v1(pind);
+vs.insert_last(v1);
+}
+else if(type=="tank")
+{
+tank v1(pind);
+vs.insert_last(v1);
+}
+else if(type=="armored_tank")
+{
+armored_tank v1(pind);
+vs.insert_last(v1);
+}
+else if(type=="police_car")
+{
+police_car v1(pind);
+vs.insert_last(v1);
+}
+}
+int in_vehicle(string name)
+{
+for(uint i=0; i<vs.length(); i++)
+{
+if(vs[i].owner==name) return i;
+}
+return -1;
+}
+void vloop()
+{
+for(uint i=0; i<vs.length(); i++)
+{
+if(vs[i].remove)
+{
+if(vs[i].mid!="") destroy_moving_sound(vs[i].mid);
+@vs[i]=null;
+vs.remove_at(i);
+return;
+}
+vs[i].loop();
+}
+for(int i=0; i<players.length(); i++)
+{
+int v=in_vehicle(players[i].name);
+if(v>-1 and players[i].get_item_count(vs[v].type)==0)
+{
+send_reliable(players[i].peer_id, "vestop", 0);
+send_reliable(players[i].peer_id, "veunspawn", 0);
+vs[v].remove=true;
+}
+}
+}

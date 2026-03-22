@@ -1,0 +1,256 @@
+
+kali net hunter (magistral) sent /where PhamHungVuong 2-8-2021, 9:31:50 AM
+kali net hunter (magistral) sent /where phamhoangminh 2-8-2021, 9:32:08 AM
+kali net hunter (magistral) sent /shark 2-8-2021, 9:37:47 AM
+kali net hunter (magistral) sent /go 1 1 1 admon_area 2-8-2021, 9:38:01 AM
+kali net hunter (magistral) sent /go 0 0 0 50 2-8-2021, 9:38:08 AM
+kali net hunter (magistral) sent /go 0 0 0 testing 2-8-2021, 9:38:23 AM
+kali net hunter (magistral) sent /gi 0 0 0 test 2-8-2021, 9:38:30 AM
+kali net hunter (magistral) sent /go 0 0 0 test 2-8-2021, 9:38:46 AM
+kali net hunter (magistral) sent /go 30 15 29 store 2-8-2021, 9:39:25 AM
+kali net hunter (magistral) sent /bid 2 2-8-2021, 9:40:20 AM
+kali net hunter (magistral) sent /cancelbid y 2-8-2021, 9:40:29 AM
+kali net hunter (magistral) sent /sell 2-8-2021, 9:40:43 AM
+kali net hunter (magistral) sent /cancelauction 2-8-2021, 9:41:24 AM
+kali net hunter (magistral) sent /reply hi 2-8-2021, 9:42:00 AM
+kali net hunter (magistral) sent /rawmap 2-8-2021, 9:44:37 AM
+kali net hunter (magistral) sent /rawdata mapname:bar
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:carpet4
+tile:0:0:0:50:0:20:wallwoodcrate
+tile:0:50:0:0:0:20:wallwoodcrate
+tile:50:50:0:50:0:20:wallwoodcrate
+tile:0:50:50:50:0:20:wallwoodcrate
+tile:0:50:0:50:20:20:wallwoodcrate
+tile:30:49:30:49:0:0:wallwoodcrate
+tile:30:49:30:49:1:1:hardwood
+zone:0:50:0:50:0:100:bar
+zone:30:49:30:49:1:19:dance area:trackme
+noitems:0:50:0:50:0:100:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:fire_starter:aircraft:police_car
+fightingstate:0
+travelpoint:49:50:15:15:0:10:store:30:15:29:moved
+tile:50:50:15:15:0:10:walldoor2
+zone:49:50:15:15:0:10:exit:trackme
+vending_machine:25:25:0
+zone:25:25:25:25:0:10:vending_machine:trackme
+tile:25:25:25:25:0:0:beam
+url:http://ep256.streamr.ru/
+ispawn:1:49:1:49:0:1:20000:1:pack_of_100_empty_beer_bottle 2-8-2021, 9:45:12 AM
+kali net hunter (magistral) sent /sethealth  AnhSon \ 2-8-2021, 9:45:31 AM
+kali net hunter (magistral) sent /inv 2-8-2021, 9:46:10 AM
+kali net hunter (magistral) sent /rawdata mapname:bar
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:carpet4
+tile:0:0:0:50:0:20:wallwoodcrate
+tile:0:50:0:0:0:20:wallwoodcrate
+tile:50:50:0:50:0:20:wallwoodcrate
+tile:0:50:50:50:0:20:wallwoodcrate
+tile:0:50:0:50:20:20:wallwoodcrate
+tile:30:49:30:49:0:0:wallwoodcrate
+tile:30:49:30:49:1:1:hardwood
+zone:0:50:0:50:0:100:bar
+zone:30:49:30:49:1:19:dance area:trackme
+noitems:0:50:0:50:0:100:wirebomb:motion_bomb:item_grabber:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb:frequency_scrambler:fire_starter:aircraft:police_car:aircraft:tank:armored_tank
+fightingstate:0
+travelpoint:49:50:15:15:0:10:store:30:15:29:moved
+tile:50:50:15:15:0:10:walldoor2
+zone:49:50:15:15:0:10:exit:trackme
+vending_machine:25:25:0
+zone:25:25:25:25:0:10:vending_machine:trackme
+tile:25:25:25:25:0:0:beam
+url:http://ep256.streamr.ru/
+ispawn:1:49:1:49:0:1:20000:1:pack_of_100_empty_beer_bottle 2-8-2021, 9:47:05 AM
+kali net hunter (magistral) sent /inv 2-8-2021, 9:47:11 AM
+kali net hunter (magistral) sent /leaveevent  2-8-2021, 9:48:51 AM
+kali net hunter (magistral) sent /leaveevent  2-8-2021, 9:49:07 AM
+kali net hunter (magistral) sent /leaveevent  2-8-2021, 9:49:07 AM
+kali net hunter (magistral) sent /go 1 1 1 admin_area 2-8-2021, 9:52:16 AM
+kali net hunter (magistral) sent /where DJ_mux 2-8-2021, 11:00:09 AM
+kali net hunter (magistral) sent /where sgamer 2-8-2021, 11:00:25 AM
+kali net hunter (magistral) sent /cancelauction 2-8-2021, 11:00:53 AM
+kali net hunter (magistral) sent /dc 2-8-2021, 11:01:24 AM
+kali net hunter (magistral) sent /garbage 2-8-2021, 11:01:51 AM
+kali net hunter (magistral) sent /gc 2-8-2021, 11:01:59 AM
+kali net hunter (magistral) sent /chars 2-8-2021, 11:02:49 AM
+kali net hunter (magistral) sent /hedme 2-8-2021, 11:03:05 AM
+kali net hunter (magistral) sent /hidme 2-8-2021, 11:03:10 AM
+kali net hunter (magistral) sent /chartrach 2-8-2021, 11:05:45 AM
+kali net hunter (magistral) sent /chartrash 2-8-2021, 11:05:53 AM
+kali net hunter (magistral) sent /bestplayer 2-8-2021, 11:08:36 AM
+kali net hunter (magistral) sent /plays bot_voice2\3 2-8-2021, 11:11:53 AM
+kali net hunter (magistral) sent /playes bot_voice23 2-8-2021, 11:12:23 AM
+kali net hunter (magistral) sent /plase bot_voice23 2-8-2021, 11:12:35 AM
+kali net hunter (magistral) sent /playss bot_voice23 2-8-2021, 11:12:48 AM
+kali net hunter (magistral) sent /plays def 2-8-2021, 11:13:00 AM
+kali net hunter (magistral) sent /playse bot_voice23 2-8-2021, 11:13:32 AM
+kali net hunter (magistral) sent /plays bot_voice23.ogg 2-8-2021, 11:13:42 AM
+kali net hunter (magistral) sent /plays beacon 2-8-2021, 11:14:37 AM
+kali net hunter (magistral) sent /plays beacon 2-8-2021, 11:14:46 AM
+kali net hunter (magistral) sent /upload_stream bot_voice23 2-8-2021, 11:17:49 AM
+kali net hunter (magistral) sent /go 1 25 0 2-8-2021, 11:19:29 AM
+kali net hunter (magistral) sent /pm  istek what are you duing? 2-8-2021, 11:22:22 AM
+kali net hunter (magistral) sent /countbombs 2-8-2021, 11:27:24 AM
+kali net hunter (magistral) sent /lchat how are you bro 2-8-2021, 11:27:59 AM
+kali net hunter (magistral) sent /inv 2-8-2021, 11:28:37 AM
+kali net hunter (magistral) sent /plays glider 2-8-2021, 11:29:28 AM
+kali net hunter (magistral) sent /plays glider_loop 2-8-2021, 11:29:54 AM
+kali net hunter (magistral) sent /playes glider_loop 2-8-2021, 11:30:02 AM
+kali net hunter (magistral) sent /plays glider_loop 2-8-2021, 11:30:11 AM
+kali net hunter (magistral) sent /playse glider_voice1 2-8-2021, 11:30:20 AM
+kali net hunter (magistral) sent /go 29 29 40 2-8-2021, 11:30:25 AM
+kali net hunter (magistral) sent /playes glider_voice1 2-8-2021, 11:30:36 AM
+kali net hunter (magistral) sent /playse glider 2-8-2021, 11:30:45 AM
+kali net hunter (magistral) sent /playse glider 2-8-2021, 11:30:51 AM
+kali net hunter (magistral) sent /playse cannon 2-8-2021, 11:31:17 AM
+kali net hunter (magistral) sent /playes glider 2-8-2021, 11:31:44 AM
+kali net hunter (magistral) sent /lchat kill all 2-8-2021, 11:32:01 AM
+kali net hunter (magistral) sent /inv 2-8-2021, 11:33:08 AM
+kali net hunter (magistral) sent /go 165 500 0 2-8-2021, 11:38:02 AM
+kali net hunter (magistral) sent /go 165 500 0 main 2-8-2021, 11:38:07 AM
+kali net hunter (magistral) sent /go 166 500 0 main 2-8-2021, 11:38:23 AM
+kali net hunter (magistral) sent /go 217 250 0 ,aom 2-8-2021, 11:39:24 AM
+kali net hunter (magistral) sent /go 217 250 0 main 2-8-2021, 11:39:31 AM
+kali net hunter (magistral) sent /go 100 100 010 2-8-2021, 11:40:51 AM
+kali net hunter (magistral) sent /pm PhamHungVuong type /suicide 2-8-2021, 11:41:09 AM
+kali net hunter (magistral) sent /reply 3 levels, 1 lvl stil wor hammer, 2 lvl mushinegun 3 lvl hand cannon 2-8-2021, 11:42:50 AM
+kali net hunter (magistral) sent /r sory 2-8-2021, 11:42:56 AM
+kali net hunter (magistral) sent /shockwave 2-8-2021, 11:43:37 AM
+kali net hunter (magistral) sent /garbage 2-8-2021, 11:43:54 AM
+kali net hunter (magistral) sent /chartrash 2-8-2021, 11:44:01 AM
+kali net hunter (magistral) sent /shockwave 2-8-2021, 11:45:02 AM
+kali net hunter (magistral) sent /where naver 2-8-2021, 1:43:54 PM
+kali net hunter (magistral) sent /fo;;ow naver 2-8-2021, 1:44:07 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:44:09 PM
+kali net hunter (magistral) sent /follow naver 2-8-2021, 1:44:12 PM
+kali net hunter (magistral) sent /robotinfo 2-8-2021, 1:44:28 PM
+kali net hunter (magistral) sent /pm  naver hi 2-8-2021, 1:45:02 PM
+kali net hunter (magistral) sent /stoprollow 2-8-2021, 1:46:01 PM
+kali net hunter (magistral) sent /stopfollow 2-8-2021, 1:46:10 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:46:18 PM
+kali net hunter (magistral) sent /lchat go doun 2-8-2021, 1:47:48 PM
+kali net hunter (magistral) sent /lchat ok 2-8-2021, 1:48:11 PM
+kali net hunter (magistral) sent /lchat i try 2-8-2021, 1:48:13 PM
+kali net hunter (magistral) sent /lchat doun 2-8-2021, 1:48:37 PM
+kali net hunter (magistral) sent /t no, not in the wall 2-8-2021, 1:49:16 PM
+kali net hunter (magistral) sent /lchat 27, 53, 0.  2-8-2021, 1:49:19 PM
+kali net hunter (magistral) sent /lchat go to 27 and paje doun 2-8-2021, 1:49:27 PM
+kali net hunter (magistral) sent /lchat faster 2-8-2021, 1:50:10 PM
+kali net hunter (magistral) sent /give magistral death_free_card 100 2-8-2021, 1:51:17 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:51:48 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:52:40 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:52:53 PM
+kali net hunter (magistral) sent /t come tt 2-8-2021, 1:53:14 PM
+kali net hunter (magistral) sent /t if you can 2-8-2021, 1:53:18 PM
+kali net hunter (magistral) sent /t ok 2-8-2021, 1:53:27 PM
+kali net hunter (magistral) sent /t looooool 2-8-2021, 1:53:35 PM
+kali net hunter (magistral) sent /where naver 2-8-2021, 1:54:19 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:55:04 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:56:18 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 1:56:20 PM
+kali net hunter (magistral) sent /bid 521 2-8-2021, 2:00:30 PM
+kali net hunter (magistral) sent /bid 55454 2-8-2021, 2:00:39 PM
+kali net hunter (magistral) sent /bid 542 2-8-2021, 2:00:41 PM
+kali net hunter (magistral) sent /bid 5214 2-8-2021, 2:00:44 PM
+kali net hunter (magistral) sent /bid 5480 2-8-2021, 2:00:46 PM
+kali net hunter (magistral) sent /bid 5426 2-8-2021, 2:00:49 PM
+kali net hunter (magistral) sent /cancelauction 2-8-2021, 2:01:17 PM
+kali net hunter (magistral) sent /bid 54 2-8-2021, 2:01:37 PM
+kali net hunter (magistral) sent /bid 101 2-8-2021, 2:02:51 PM
+kali net hunter (magistral) sent /cancelbid y 2-8-2021, 2:02:58 PM
+kali net hunter (magistral) sent /where naver 2-8-2021, 2:05:40 PM
+kali net hunter (magistral) sent /go 0 0 0 mag 2-8-2021, 2:07:31 PM
+kali net hunter (magistral) sent /go 25 25 25 2-8-2021, 2:08:36 PM
+kali net hunter (magistral) sent /killall 2-8-2021, 2:10:50 PM
+kali net hunter (magistral) sent /go 25 25 25 2-8-2021, 2:11:46 PM
+kali net hunter (magistral) sent /go 25 25 25 2-8-2021, 2:12:01 PM
+kali net hunter (magistral) sent /go 0 0 0 stor 2-8-2021, 3:18:37 PM
+kali net hunter (magistral) sent /go 0  0 0 store 2-8-2021, 3:18:44 PM
+kali net hunter (magistral) sent /give magistral death_free_card 4 2-8-2021, 3:20:21 PM
+kali net hunter (magistral) sent /give magistral death_free_card -97 2-8-2021, 3:20:39 PM
+kali net hunter (magistral) sent /cdata magistral shields 2-8-2021, 3:21:33 PM
+kali net hunter (magistral) sent /lchat d 2-8-2021, 3:22:08 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 4:30:52 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 4:31:01 PM
+kali net hunter (magistral) sent /garbage 2-8-2021, 4:31:11 PM
+kali net hunter (magistral) sent /killobjs 2-8-2021, 4:32:45 PM
+kali net hunter (magistral) sent /killobjs 2-8-2021, 4:32:54 PM
+kali net hunter (magistral) sent /garbage 2-8-2021, 4:33:53 PM
+kali net hunter (magistral) sent /garbage 2-8-2021, 4:33:54 PM
+kali net hunter (magistral) sent /garbage 2-8-2021, 4:33:55 PM
+kali net hunter (magistral) sent /garbage 2-8-2021, 4:33:58 PM
+kali net hunter (magistral) sent /chartrash 2-8-2021, 4:34:09 PM
+kali net hunter (magistral) sent /shockwave 2-8-2021, 4:34:34 PM
+kali net hunter (magistral) sent /cancelauction 2-8-2021, 4:34:59 PM
+kali net hunter (magistral) sent /go 0 0 0 military 2-8-2021, 4:35:44 PM
+kali net hunter (magistral) sent /shockwave 2-8-2021, 4:35:53 PM
+kali net hunter (magistral) sent /go 449 449 11 2-8-2021, 4:36:46 PM
+kali net hunter (magistral) sent /go 649 649 11 2-8-2021, 4:36:57 PM
+kali net hunter (magistral) sent /go 52 642 0 2-8-2021, 4:37:41 PM
+kali net hunter (magistral) sent /moveplayer magistral franklin 2-8-2021, 4:38:55 PM
+kali net hunter (magistral) sent /follow franklin 2-8-2021, 4:40:26 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 4:40:27 PM
+kali net hunter (magistral) sent /follow franklin 2-8-2021, 4:40:31 PM
+kali net hunter (magistral) sent /notify administrator 69  captain kali net hunter: ficlong tk server system\ 2-8-2021, 4:41:39 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 4:41:55 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 4:41:57 PM
+kali net hunter (magistral) sent /go 1 1 41 boxing 2-8-2021, 4:44:49 PM
+kali net hunter (magistral) sent /newmap magistral 50 50 50 metal 2-8-2021, 4:45:36 PM
+kali net hunter (magistral) sent /r sory dont can noe 2-8-2021, 4:46:45 PM
+kali net hunter (magistral) sent /r now* 2-8-2021, 4:46:50 PM
+kali net hunter (magistral) sent /r dont can now, i' m just bizzy 2-8-2021, 4:47:16 PM
+kali net hunter (magistral) sent /rawmap 2-8-2021, 4:47:31 PM
+kali net hunter (magistral) sent /r ok 2-8-2021, 4:47:54 PM
+kali net hunter (magistral) sent /go 50 50 50 2-8-2021, 4:49:35 PM
+kali net hunter (magistral) sent /go 5 0 0 2-8-2021, 4:49:39 PM
+kali net hunter (magistral) sent /go 50 50 0 2-8-2021, 4:50:52 PM
+kali net hunter (magistral) sent /go 50 50 50 2-8-2021, 4:51:13 PM
+kali net hunter (magistral) sent /delmap magistral 2-8-2021, 4:51:23 PM
+kali net hunter (magistral) sent /r hey, only 1 time 2-8-2021, 4:52:01 PM
+kali net hunter (magistral) sent /r and 1 xp box 2-8-2021, 4:52:12 PM
+kali net hunter (magistral) sent /give sgamer xp_box 1 2-8-2021, 4:52:23 PM
+kali net hunter (magistral) sent /r done 2-8-2021, 4:52:26 PM
+kali net hunter (magistral) sent /r 1 time 2-8-2021, 4:52:29 PM
+kali net hunter (magistral) sent /bid 5 2-8-2021, 4:55:46 PM
+kali net hunter (magistral) sent /bid 85 2-8-2021, 4:55:48 PM
+kali net hunter (magistral) sent /cancelbid y 2-8-2021, 4:55:51 PM
+kali net hunter (magistral) sent /s57 2-8-2021, 4:55:56 PM
+kali net hunter (magistral) sent /s57 2-8-2021, 4:55:57 PM
+kali net hunter (magistral) sent /s57 2-8-2021, 4:55:57 PM
+kali net hunter (magistral) sent /s57 2-8-2021, 4:55:57 PM
+kali net hunter (magistral) sent /super_xp 2-8-2021, 4:57:22 PM
+kali net hunter (magistral) sent /garbage 2-8-2021, 4:58:22 PM
+kali net hunter (magistral) sent /go 0 0 e0 zakp 2-8-2021, 5:06:25 PM
+kali net hunter (magistral) sent /go 0 0 0  2-8-2021, 5:06:28 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 5:35:24 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 5:36:17 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 5:36:42 PM
+kali net hunter (magistral) sent /inv 2-8-2021, 5:37:56 PM
+kali net hunter (magistral) sent /move franklin 0 0 0 military 2-8-2021, 5:39:22 PM
+kali net hunter (magistral) sent /super_xp 2-8-2021, 5:45:01 PM
+kali net hunter (magistral) sent /super_xp 2-8-2021, 5:45:44 PM
+kali net hunter (magistral) sent /t /nickname 2-8-2021, 5:48:11 PM
+kali net hunter (magistral) sent /nickname wifi ping tester 2-8-2021, 5:48:42 PM
+wifi ping tester (magistral) sent /notify gnstart? ok 2-8-2021, 5:50:23 PM
+wifi ping tester (magistral) sent /gnstart 2-8-2021, 5:50:26 PM
+wifi ping tester (magistral) sent /gnsubmit 4 2-8-2021, 5:50:28 PM
+wifi ping tester (magistral) sent /t zulfikar, 4 2-8-2021, 5:53:16 PM
+wifi ping tester (magistral) sent /inv\ 2-8-2021, 5:54:12 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 5:54:13 PM
+wifi ping tester (magistral) sent /follow franklin 2-8-2021, 5:54:21 PM
+wifi ping tester (magistral) sent /stopfollow 2-8-2021, 5:55:19 PM
+wifi ping tester (magistral) sent /ivn 2-8-2021, 5:55:21 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 5:55:25 PM
+wifi ping tester (magistral) sent /lchat hey, do you want are coins? 2-8-2021, 5:56:13 PM
+wifi ping tester (magistral) sent /lchat hant cannon is better 2-8-2021, 5:57:22 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 5:58:06 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 5:58:49 PM
+wifi ping tester (magistral) sent /go 0 0 0 store 2-8-2021, 5:59:10 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 6:59:59 PM
+wifi ping tester (magistral) sent /where DJ_mux 2-8-2021, 7:00:32 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 7:00:44 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 7:01:31 PM
+wifi ping tester (magistral) sent /inv 2-8-2021, 7:03:20 PM

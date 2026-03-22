@@ -1,0 +1,16 @@
+name fireball
+health 250000
+defence 5000
+speed 800
+damage 7000,70000
+shoot 2000
+distance 20
+aggro 1000
+spread 3
+angle 30
+steps 2
+loot coin
+amount 5000
+shieldhits 10,100
+shieldchance 20
+xp 15000,20000

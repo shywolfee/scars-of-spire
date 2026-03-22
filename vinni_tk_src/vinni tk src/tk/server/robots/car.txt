@@ -1,0 +1,16 @@
+name car
+health 15000
+defence 1000
+speed 200
+damage 200,40000
+shoot 500
+distance 3
+aggro 1000
+spread 2
+angle 90
+steps 2
+loot fuel_tank,toolbox,metal
+amount 1
+shieldhits 10,250
+shieldchance 2
+xp 500,2000

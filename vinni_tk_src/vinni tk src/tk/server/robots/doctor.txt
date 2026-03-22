@@ -1,0 +1,16 @@
+name doctor
+health 50000
+defence 10000
+speed 500
+damage 3000,30000
+shoot 2000
+distance 5
+aggro 1000
+spread 5
+angle 90
+steps 0
+loot antibiotic,health_dart,health_orb,tk_ultra_health_potion
+amount 1
+shieldhits 10,80
+shieldchance 40
+xp 4500,6500

@@ -1,0 +1,133 @@
+
+bolgelo (bolgelo) sent /t balls 8-22-2020, 1:18:21 PM
+bolgelo (bolgelo) sent /go 0 0 0 store 8-22-2020, 1:18:33 PM
+bolgelo (bolgelo) sent /go 30 30 0 main 8-22-2020, 1:18:39 PM
+bolgelo (bolgelo) sent /go 0 0 0 store 8-22-2020, 1:18:43 PM
+bolgelo (bolgelo) sent /move bolgelo 5 5 0 store 8-22-2020, 1:18:48 PM
+bolgelo (bolgelo) sent /builderhelp 8-22-2020, 1:19:09 PM
+bolgelo (bolgelo) sent /adminflag 8-22-2020, 1:19:25 PM
+bolgelo (bolgelo) sent /go 30 0 0  8-22-2020, 1:19:39 PM
+bolgelo (bolgelo) sent /move bolgelo 30 30 0 store 8-22-2020, 1:19:46 PM
+bolgelo (bolgelo) sent /go 30 30 0 store 8-22-2020, 1:19:53 PM
+bolgelo (bolgelo) sent /t dont want 8-22-2020, 1:20:20 PM
+bolgelo (bolgelo) sent /t if you want go 8-22-2020, 1:20:26 PM
+bolgelo (bolgelo) sent /where rider 8-22-2020, 1:20:33 PM
+bolgelo (bolgelo) sent /where darkfrent 8-22-2020, 1:20:43 PM
+bolgelo (bolgelo) sent /move bolgelo 50 250 0 cave5 8-22-2020, 1:21:02 PM
+bolgelo (bolgelo) sent /go 50 250 cave5 8-22-2020, 1:21:06 PM
+bolgelo (bolgelo) sent /go 50 250 0 cave5 8-22-2020, 1:21:14 PM
+bolgelo (bolgelo) sent /killall 8-22-2020, 1:23:32 PM
+bolgelo (bolgelo) sent /achivment 8-22-2020, 1:26:50 PM
+bolgelo (bolgelo) sent /go 0 0 0 store 8-22-2020, 1:27:16 PM
+bolgelo (bolgelo) sent /where Zurik 8-22-2020, 2:41:14 PM
+bolgelo (bolgelo) sent /go 0 0 0 store 8-22-2020, 2:54:45 PM
+bolgelo (bolgelo) sent /go 0 0 0  8-22-2020, 2:54:53 PM
+bolgelo (bolgelo) sent /lchat lol 8-22-2020, 2:55:29 PM
+bolgelo (bolgelo) sent /lchat hi 8-22-2020, 2:55:31 PM
+bolgelo (bolgelo) sent /lchat хм 8-22-2020, 2:55:39 PM
+bolgelo (bolgelo) sent /lchat а что ты слышыш 8-22-2020, 2:55:43 PM
+bolgelo (bolgelo) sent /lchat € просто в воздухе или нет 8-22-2020, 2:55:50 PM
+bolgelo (bolgelo) sent /lchat hit nothing 8-22-2020, 2:56:23 PM
+bolgelo (bolgelo) sent /go 0 0 0 store 8-22-2020, 2:56:53 PM
+bolgelo (bolgelo) sent /lchat oyyyyyyyyyyyyy 8-22-2020, 2:58:18 PM
+bolgelo (bolgelo) sent /lchat eeeeeeeee 8-22-2020, 2:58:20 PM
+bolgelo (bolgelo) sent /lchat sorry all 8-22-2020, 2:58:24 PM
+bolgelo (bolgelo) sent /lchat lol bug 8-22-2020, 2:58:31 PM
+bolgelo (bolgelo) sent /rawmap 8-22-2020, 2:58:34 PM
+bolgelo (bolgelo) sent /rawdata mapname:store
+maxx:30
+maxy:30
+maxz:30
+tile:0:30:0:30:0:0:wood10
+zone:0:30:0:30:0:30:store
+src:0:30:0:30:0:30:supermarket.ogg
+tile:0:0:0:0:0:0:beam
+zone:0:0:0:0:0:15:weapon store:trackme
+tile:0:0:10:10:0:0:beam
+zone:0:0:10:10:0:15:ammo store:trackme
+tile:10:10:10:10:0:0:beam
+zone:10:10:10:10:0:15:explosive store:trackme
+tile:0:0:20:20:0:0:beam
+zone:0:0:20:20:0:15:misc store:trackme
+tile:10:10:20:20:0:0:beam
+zone:10:10:20:20:0:15:medical store:trackme
+tile:20:20:10:10:0:0:beam
+zone:20:20:10:10:0:15:vehicle store:trackme
+tile:20:20:0:0:0:0:beam
+zone:20:20:0:0:0:15:melee weapons store:trackme
+tile:15:15:15:15:0:0:diamond
+zone:15:15:15:15:0:15:put a coin!:trackme
+zone:10:10:0:0:0:15:exit to the main:trackme
+zone:30:30:30:30:0:15:to go to the boxing ring, press enter:trackme
+travelpoint:30:30:30:30:0:10:boxing:1:1:40:moved
+zone:0:0:30:30:0:15:door to the cage of the angry and hungry animals, it looks like a really dangerous place, be very carefull entering this:trackme
+travelpoint:0:0:30:30:0:10:cage:0:0:40:good luck, try to survive here!
+vending_machine:20:20:0
+tile:20:20:20:20:0:0:beam
+zone:20:20:20:20:0:15:vending machine:trackme
+zone:15:15:30:30:0:15:to go on the zalp map, press enter:trackme
+travelpoint:15:15:30:30:0:10:zalp:25:25:0:good luck to surviv!
+/travelpoint:0:30:0:30:30:50:store:15:15:0:done
+noitems:0:300:0:300:0:30:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:remote_bomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:bottle_bomb:impact_bomb:guided_missile:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:warp_box:bomb_defuser:health_orb:poisoned_small_projectile:robocop:missile_interceptor:nuclear_bomb:stone:concussive_grenade:turret:hand_grenade:hipersound_bomb
+travelpoint:30:30:0:0:0:10:oldmain:250:250:0:moved
+zone:30:30:0:0:0:10:pass to old main map:trackme
+zone:5:5:0:0:0:0:pornohub vidios now enable!
+zone:5:5:0:0:0:0:store
+tile:10:10:0:0:0:0:vent
+tile:10:10:10:10:10:10:plywood
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:20:20:0:0:0:0:beam
+tile:10:10:0:0:0:0:plywood
+tile:15:15:15:15:0:0:diamond
+travelpoint:5:5:30:30:0:0:battles:0:0:0:ok
+zone:5:5:30:30:0:5:pass to the battlefield:trackme
+fightingstate:0
+tile:20:20:0:0:0:0:beam
+tile:0:0:0:0:0:0:beam
+tile:0:0:10:10:0:0:beam
+tile:0:0:20:20:0:0:beam
+tile:10:10:20:20:0:0:beam
+tile:10:10:10:10:0:0:beam
+tile:20:20:10:10:0:0:beam
+tile:20:20:20:20:0:0:beam
+tile:15:15:15:15:0:0:diamond
+tile:10:10:0:0:0:0:marble1
+jplayer:15:15:0
+travelpoint:25:25:25:25:0:10:kirill's_world:0:0:0:moved
+zone:25:25:25:25:0:10:to enter in the Kirill's world, press enter:trackme
+ 8-22-2020, 2:59:06 PM
+bolgelo (bolgelo) sent /lchat good can not use this item at this location! 8-22-2020, 2:59:21 PM
+bolgelo (bolgelo) sent /go 0 0 0  8-22-2020, 2:59:27 PM
+bolgelo (bolgelo) sent /go 0 0 0  8-22-2020, 2:59:41 PM
+bolgelo (bolgelo) sent /bid 2000000 8-22-2020, 3:05:21 PM
+bolgelo (bolgelo) sent /lchat dicks 8-22-2020, 3:05:39 PM
+bolgelo (bolgelo) sent /lchat fuck  8-22-2020, 3:08:36 PM
+bolgelo (bolgelo) sent /lchat who disable  8-22-2020, 3:08:39 PM
+bolgelo (bolgelo) sent /lchat dicks 8-22-2020, 3:08:41 PM
+bolgelo (bolgelo) sent /lchat aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 8-22-2020, 3:10:15 PM
+bolgelo (bolgelo) sent /kick kirill 8-22-2020, 3:10:26 PM
+bolgelo (bolgelo) sent /kick kirill 8-22-2020, 3:10:29 PM
+bolgelo (bolgelo) sent /lchat sorry? cant kick a developer 8-22-2020, 3:10:37 PM
+bolgelo (bolgelo) sent /teams 8-22-2020, 3:12:26 PM
+bolgelo (bolgelo) sent /where bloodstorm 8-22-2020, 9:08:56 PM
+bolgelo (bolgelo) sent /where bloodstorm 8-22-2020, 9:09:00 PM
+bolgelo (bolgelo) sent /where bloodstorm 8-22-2020, 9:09:04 PM
+bolgelo (bolgelo) sent /where bloodstorm 8-22-2020, 9:09:12 PM
+bolgelo (bolgelo) sent /go 15 15 0 store 8-22-2020, 9:15:16 PM
+bolgelo (bolgelo) sent /where Igrik 8-22-2020, 9:16:38 PM
+bolgelo (bolgelo) sent /go 0 0 0 store 8-22-2020, 10:36:32 PM
+bolgelo (bolgelo) sent /where bloodstorm 8-22-2020, 10:36:41 PM
+bolgelo (bolgelo) sent /go 0 100 0  8-22-2020, 10:37:03 PM
+bolgelo (bolgelo) sent /go 25 25 0  8-22-2020, 10:37:55 PM
+bolgelo (bolgelo) sent /suicide 8-22-2020, 10:39:19 PM
+bolgelo (bolgelo) sent /builders 8-22-2020, 10:39:25 PM
+bolgelo (bolgelo) sent /maps 8-22-2020, 10:41:11 PM
+bolgelo (bolgelo) sent /go 0 0 0 kirill's_world 8-22-2020, 10:42:50 PM
+bolgelo (bolgelo) sent /rawdata kirill'smain_room 8-22-2020, 10:43:12 PM
+bolgelo (bolgelo) sent /go 0 0 0 kirill'smain_room 8-22-2020, 10:43:16 PM

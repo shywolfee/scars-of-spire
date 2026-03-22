@@ -1,0 +1,149 @@
+mapname:battles
+maxx:1000
+maxy:1000
+maxz:1000
+
+tile:0:1000:0:1000:0:0:grass7
+tile:49:51:0:1000:0:0:dirt3
+zone:0:1000:0:1000:0:50:battlefield
+
+src:0:1000:0:1000:0:50:birds5.ogg
+zone:49:51:0:1000:0:50:first north south road:trackme
+tile:60:60:60:60:0:20:deck
+zone:60:60:60:60:0:20:a sniper tower looking over the road:trackme
+tile:100:200:100:100:0:50:wallbrick
+tile:101:199:101:199:0:0:wood6
+tile:100:100:100:200:0:50:wallbrick
+zone:101:199:101:199:0:50:old and abandoned house
+tile:200:200:100:148:0:50:wallbrick2
+tile:200:200:152:200:0:50:wallbrick1
+tile:200:200:149:151:0:0:debris
+tile:100:200:200:200:0:50:wallbrick2
+zone:200:200:149:151:0:50:entrance to an old and abandoned house:trackme
+tile:150:150:101:120:0:5:wallwoodpile
+tile:101:120:150:150:0:6:wallrocks1
+tile:300:300:300:300:-50:0:grate
+zone:300:300:300:300:-50:0:ladder to, hmmm, it goes down, so who knows:trackme
+amb:100:500:100:500:-100:-30:rumble.ogg
+tile:100:500:100:500:-51:-51:cavegrounds
+zone:100:500:100:500:-51:-30:underground chamber
+zone:300:300:300:300:-50:-30:the ladder goes down in what looks like a strange underground arena sort of thing
+tile:100:500:99:99:-50:-1:wallstone
+tile:99:99:100:500:-50:-1:wallstone
+tile:100:500:101:101:-50:-1:wallstone
+tile:501:501:99:501:-50:-1:wallstone
+tile:0:1000:550:650:-50:0:blank
+zone:0:1000:550:600:0:50:a huge river:trackme
+tile:0:1000:550:550:-100:0:ledge
+zone:0:1000:550:550:0:50: lej  of the canion
+tile:0:1000:549:549:-100:-1:wallrockdirt
+
+
+zone:0:1000:540:549:0:50:nearing an enormous kanion
+zone:0:1000:550:600:-100:-1:under water
+tile:0:1000:550:600:-100:-100:puddle
+tile:0:1000:575:580:-100:-100:marsh
+tile:0:1000:574:574:-100:-100:mud
+tile:0:1000:550:550:-100:-50:rocks
+tile:0:1000:581:581:-100:-100:mud
+zone:0:1000:575:580:-100:-80:some marsh formed here
+tile:0:1000:601:601:-100:-50:gravel3
+zone:0:1000:601:601:-100:-1:other lej of the canion
+tile:0:1000:602:602:-100:-1:wallrockdirt
+tile:0:1000:601:601:-49:0:ledge
+tile:0:1000:602:1000:0:0:grass7
+zone:0:1000:601:601:0:50:lej of the canion
+tile:49:51:602:1000:0:0:dirt3
+zone:99:101:601:601:0:3:other side of the rope bridge
+tile:199:201:550:575:0:0:bridge1
+tile:199:201:580:601:0:0:bridge1
+zone:199:201:550:601:0:50:second bridge:trackme
+tile:97:99:0:549:0:0:dirt3
+zone:97:99:0:549:0:50:second north south road
+tile:99:101:602:1000:0:0:dirt3
+zone:99:101:602:1000:0:50:second north south road
+tile:202:204:0:549:0:0:dirt6
+zone:202:204:0:549:0:50:third north south road
+tile:199:201:602:1000:0:0:dirt6
+zone:199:201:602:1000:0:50:third north south road
+tile:300:300:604:604:0:0:metal8
+zone:300:300:604:604:0:0:a teleporter lies here, enter to activate it:trackme
+door:300:604:0:300:548:0:0:.ogg:.ogg:.igg:move.ogg
+door:300:548:0:300:604:0:0:.ogg:.ogg:.igg:move.ogg
+tile:300:300:548:548:0:0:metal8
+zone:300:300:548:548:0:0:a teleporter, press enter to activate 
+
+tile:400:1000:800:1000:0:0:shallow
+tile:390:399:800:1000:0:0:sand
+tile:390:1000:790:799:0:0:sand
+zone:390:1000:790:1000:0:50:nearing a deep lake
+zone:400:1000:800:1000:0:50:in a deep lake:trackme
+tile:400:1000:795:799:0:0:mud
+tile:395:399:795:1000:0:0:mud
+src:400:1000:800:1000:0:5:lake2.ogg
+tile:400:1000:800:1000:-100:-1:underwater
+zone:400:1000:800:1000:-100:-1:going underwater
+amb:400:1000:800:1000:-100:-1:underwater.ogg
+tile:400:1000:799:799:-100:-1:wallunderwater
+tile:399:399:800:1000:-100:-1:wallunderwater
+tile:399:399:799:799:-100:-1:wallunderwater
+tile:400:400:1000:1000:-100:-100:pipe
+tile:300:400:1000:1000:-100:-100:pipe
+zone:400:400:1000:1000:-100:-100:entrance to a pipe
+zone:300:399:1000:1000:-100:-100:crossing a very small pipe
+tile:301:399:999:999:-100:-99:wallmedal1
+tile:300:399:1000:1000:-99:-99:wallmedal1
+amb:300:399:1000:1000:-100:-99:pipe1.ogg
+tile:299:299:800:1000:-100:-99:wallmedal1
+tile:300:300:800:1000:-100:-100:pipe
+zone:300:300:1000:1000:-100:-100:the pipe turns sharply to the left in a 90 degrees angle
+amb:300:300:800:900:-100:-99:pipe1.ogg
+tile:301:301:800:999:-100:-99:wallmedal1
+zone:300:300:800:999:-100:-99:continuing down in the pipe
+tile:299:301:800:1000:-99:-99:wallmedal1
+
+tile:299:301:799:801:-200:-101:wallmedal1
+tile:299:301:799:799:-100:-99:wallmedal1
+tile:300:300:800:800:-200:-100:pipe
+zone:300:300:800:800:-200:-100:the pipe goes down sharply, where in the fuck will you go?
+amb:300:300:800:800:-200:-101:pipe1.ogg
+tile:250:350:750:850:-215:-215:carpet5
+tile:300:300:800:800:-201:-201:metal5
+zone:250:350:750:850:-250:-201:the underground hotel chamber
+zone:300:300:800:800:-201:-201:you're standing on a metal platform out of the pipe, looking down you see that you're practicly on the ceiling of a nice hotel chamber, wy not drop   down in it?
+tile:250:350:851:851:-215:-200:wallbank
+src:250:350:750:850:-215:-205:room2.ogg
+tile:249:249:749:851:-215:-200:wallbank
+tile:249:351:749:749:-215:-200:wallbank
+tile:351:351:749:851:-215:-200:wallbank
+tile:300:300:800:800:-214:-205:ladder2
+zone:300:300:800:800:-214:-205:a ladder going up to the pipe, it doesn't reach it, but you can jump in to the pipe or drop from it safely
+zone:2:2:2:2:0:0:to leave, press enter:trackme
+
+
+tile:0:1000:551:600:-100:-1:underwater
+
+tile:0:1000:551:600:0:0:swimming
+tile:0:1000:550:550:-100:-1:wallrockdirt
+tile:0:1000:601:601:-100:-1:wallrockdirt
+zone:0:1000:602:610:0:500:border of the river
+
+zone:0:1000:540:549:0:500:border of the river
+
+zone:0:1000:550:550:0:100:near the river
+src:0:1000:551:599:0:10:stream.ogg
+zone:0:1000:601:601:0:100:near the river
+amb:0:1000:550:600:-100:-1:underwater1.ogg
+zone:0:1000:551:599:-100:-85:on the bottom of the river
+tile:400:1000:800:1000:0:0:swimming
+tile:300:300:800:800:-215:-201:ladder
+zone:300 :300 :800 :800 :-215 :-200:continue climbing down to enter what looks like a hotel room
+tile:299:299:799:801:-214:-201:wallmedal1
+tile:299:301:801:801:-214:-201:wallmedal1
+
+tile:301:301:799:801:-214:-201:wallmedal1
+tile:299:301:799:799:-214:-201:wallmedal1
+tile:0:1000:550:550:0:0:mud
+tile:0:1000:601:601:0:0:mud
+travelpoint:2:2:2:2:0:0:store:5:30:0:done
+amb:300:300:901:999:-100:-100:pipe2.ogg

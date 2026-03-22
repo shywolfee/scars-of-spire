@@ -1,0 +1,36 @@
+mapname:cave
+maxx:30
+maxy:100
+maxz:500
+tile:0:30:0:550:0:0:wetconcrete
+tile:0:30:0:10:0:200:underwater
+tile:6:6:11:100:0:250:wallstone
+tile:12:12:11:100:0:250:wallstone
+tile:18:18:11:100:0:250:wallstone
+tile:24:24:11:100:0:250:wallstone
+tile:0:0:0:100:0:250:wallstone
+tile:30:30:0:100:0:250:wallstone
+amb:0:30:0:10:0:200:underwater.ogg
+tile:0:24:95:100:0:0:wallstone
+tile:0:30:10:10:1:250:wallstone
+tile:1:30:0:9:201:201:swimming1
+src:0:30:0:9:202:210:waterdrip1.ogg
+tile:0:30:0:100:300:300:stone
+tile:25:29:90:100:-100:0:underwater
+tile:25:29:90:100:0:0:swimming
+amb:25:29:90:100:-100:-1:underwater.ogg
+tile:30:30:90:100:-101:0:wallstone
+tile:24:30:89:89:-101:-1:wallstone
+tile:24:24:90:100:-100:1:wallstone
+tile:24:30:100:100:-100:250:wallstone
+tile:25:29:90:99:-100:-100:wetconcrete
+tile:30:30:90:100:-101:0:wallstone
+tile:27:27:100:100:-100:-99:wetconcrete
+travelpoint:27:27:100:100:-100:-99:cave2:20:0:200:you went to the next cave
+robots:1:29:1:80:0:0:2:30000:zombie
+zone:0:30:0:100:0:500:intricate cave system
+zone:25:29:90:100:-100:-1:under dirty water
+amb:0:30:0:100:0:100000:cave1.ogg
+amb:0:30:0:100:0:100000:cave2.ogg
+src:25:29:100:100:0:100:stream5.ogg
+noitems:0:30:0:100:0:100000:warp_box:concussive_grenade:frequency_scrambler:tank:police_car:armored_tank:aircraft

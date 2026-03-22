@@ -1,0 +1,17 @@
+name kirill2
+health 100000
+defence 2000
+speed 500
+damage 5000,20000
+shoot 1000
+distance 5
+aggro 1000
+spread 3
+angle 10
+steps 0
+loot coin
+amount 10000
+pains 2
+shieldhits 10,50
+shieldchance 30
+xp 3900,7000

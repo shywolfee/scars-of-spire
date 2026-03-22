@@ -1,0 +1,41 @@
+mapname:hospital
+maxx:320
+maxy:210
+maxz:100
+tile:0:320:0:210:0:0:concrete13
+tile:0:0:0:210:0:100:wallsheetrock
+tile:320:320:0:210:0:100:wallsheetrock
+tile:0:320:0:0:0:100:wallsheetrock
+tile:0:320:210:210:0:100:wallsheetrock
+zone:0:320:0:210:0:100:the first floor of the hospital
+src:0:320:0:210:0:100:hospital1.ogg
+tile:1:50:99:99:0:100:wallplastic
+tile:1:4:99:99:0:10:walldoor2
+tile:51:51:99:151:0:100:wallplastic
+tile:1:50:151:151:0:100:wallplastic
+tile:1:50:100:150:0:0:carpet1
+zone:1:50:100:150:0:100:resident
+travelpoint:1:4:100:100:0:10:hospital:2:98:0:you left the resident
+travelpoint:1:4:98:98:0:10:hospital:2:100:0:you went into a small residency
+zone:1:4:98:98:0:10:door to the residency:trackme
+zone:1:4:100:100:0:10:door to the first floor of the hospital
+tile:52:299:99:99:0:100:wallsheetrock
+tile:98:99:99:99:0:10:walldoor2
+zone:98:99:98:98:0:10:entrance to dentistry:trackme
+zone:98:99:100:100:0:10:exit of dentistry:trackme
+travelpoint:98:99:98:98:0:10:hospital:98:100:0:You have entered the dentistry. Apparently, doctors are not treating here, and robots with dangerous tools for teeth go to the doctors ’place.
+travelpoint:98:99:100:100:0:10:hospital:98:98:0:you left dentistry
+tile:299:299:100:210:0:100:wallsheetrock
+tile:52:299:151:151:0:100:wallplastic
+tile:153:153:100:150:0:100:wallplastic
+zone:52:152:101:150:0:100:dentistry
+zone:100:150:100:100:0:100:dentistry
+zone:52:97:100:100:0:100:dentistry
+tile:300:305:200:200:0:10:walldoor
+tile:306:319:200:200:0:100:wallscreen1
+tile:300:305:200:200:11:100:wallscreen1
+travelpoint:300:305:199:199:0:10:hospital2:303:199:100:you went up to the second floor
+zone:300:305:199:199:0:10:elevator:trackme
+ispawn:52:151:100:149:0:0:60000:2:ammo
+travelpoint:1:1:1:20:0:10:the_lost_city:500:0:0:you went back to the lost city
+zone:1:1:1:20:0:50:exit from the hospital

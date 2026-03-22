@@ -1,0 +1,29 @@
+mapname:battlefield
+maxx:50
+maxy:50
+maxz:51
+tile:0:50:0:50:0:0:gravel
+zone:0:50:0:50:0:50:battlefield
+tile:10:40:10:40:20:20:bridge
+tile:25:25:25:25:0:20:ladder2
+tile:10:10:10:10:0:19:wallbigmetal1
+tile:10:10:40:40:0:19:wallbigmetal1
+tile:40:40:10:10:0:19:wallbigmetal1
+tile:40:40:40:40:0:19:wallbigmetal1
+tile:9:9:9:41:20:25:wallfurniture
+tile:41:41:9:41:20:25:wallfurniture
+tile:10:40:9:9:20:25:wallfurniture
+tile:10:40:41:41:20:25:wallfurniture
+tile:9:9:9:41:25:25:shelter
+tile:41:41:9:41:25:25:shelter
+tile:10:40:9:9:25:25:shelter
+tile:10:40:41:41:25:25:shelter
+zone:9:41:9:41:20:50:observation platform
+zone:25:25:25:25:0:20:staircase to the observation platform:trackme
+zone:25:25:25:25:20:30:stairs down
+zone:9:9:9:41:25:40:railing
+zone:41:41:9:41:25:40:railing
+zone:10:40:9:9:25:40:railing
+zone:10:40:41:41:25:40:railing
+src:0:50:0:50:0:50:calm.ogg
+noitems:0:50:0:50:0:50:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:barricade_bomb:health_dart:suicide_bomb:mass_bomb:concussive_grenade:bottle_bomb:impact_bomb:wood:ultrabomb:bottle_bomb:carrier_missile:bullet_bomb:stun_grenade:sticky_bomb:grenade:robot:helicopter:pipe_bomb:snowball:stone:small_projectile:tasing_small_projectile:stp429_mini_missile:throwing_star:poison_dart:sky_436_mine:shield:tk_ultra_health_potion:warp_box:bomb_defuser:nuclear_bomb:health_drink:missile_interceptor:turret:frequency_scrambler:fire_extinguisher:gas_mask:antibiotic:bullet_bomb_locator:remote_gun_controller:remote_timebomb_controller:remote_bomb:air_canister:open_beer_bottle:police_car:invisibility_shield:poisoned_small_projectile:ultrabomb_locator:health_orb:item_grabber:hand_grenade:antibiotic_canister

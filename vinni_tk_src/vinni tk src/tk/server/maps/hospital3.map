@@ -1,0 +1,11 @@
+mapname:hospital3
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:concrete17
+tile:50:50:0:0:0:0:metal10
+zone:50:50:0:0:0:20:elevator:trackme
+travelpoint:50:50:0:0:0:10:hospital2:50:1:100:you went down to the second floor of the hospital
+src:0:50:0:50:0:50:hospital4.ogg
+zone:0:49:0:50:0:50:psychiatrist's office
+zone:50:50:1:50:0:50:psychiatrist's office

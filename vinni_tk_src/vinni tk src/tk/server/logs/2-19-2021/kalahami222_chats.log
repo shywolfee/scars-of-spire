@@ -1,0 +1,72 @@
+
+alvin timecrest. (kalahami222) said can you trust me 2-19-2021, 12:14:54 AM
+alvin timecrest. (kalahami222) said well the thing is it should tell you what map your in 2-19-2021, 12:15:56 AM
+alvin timecrest. (kalahami222) said trust me jacks 2-19-2021, 12:16:16 AM
+alvin timecrest. (kalahami222) said ja juarosjuosjuosjuosjuosjuosjuosjuosjuosjuosjuosjuosjuosjuos acks 2-19-2021, 12:17:03 AM
+alvin timecrest. (kalahami222) said trhrhrhrhrhrhrhrhrhrhrhrhrhrhust me juarosjuosjuosjuosjuosjuosjuosjuosjuosjuosjuosjuos? e 2-19-2021, 12:17:33 AM
+alvin timecrest. (kalahami222) said same 2-19-2021, 12:20:50 AM
+alvin timecrest. (kalahami222) said . 2-19-2021, 12:22:05 AM
+alvin timecrest. (kalahami222) said oof 2-19-2021, 12:37:21 AM
+alvin timecrest. (kalahami222) said you need a trustlist command lmao 2-19-2021, 12:40:08 AM
+alvin timecrest. (kalahami222) said player.bgt I believe 2-19-2021, 12:41:17 AM
+alvin timecrest. (kalahami222) said #include"/includes player.bgt" 2-19-2021, 12:41:53 AM
+alvin timecrest. (kalahami222) said what do you want me to copy? 2-19-2021, 12:43:07 AM
+alvin timecrest. (kalahami222) said o you mean this? 2-19-2021, 12:43:49 AM
+alvin timecrest. (kalahami222) said this 2-19-2021, 12:44:26 AM
+alvin timecrest. (kalahami222) said send_reliable(players[index].peer_id,"followstart",0);
+ 2-19-2021, 12:44:29 AM
+alvin timecrest. (kalahami222) said send_reliable(players[index].peer_id,"followstop",0);
+ 2-19-2021, 12:45:01 AM
+alvin timecrest. (kalahami222) said ooo 2-19-2021, 12:45:11 AM
+alvin timecrest. (kalahami222) said ok so go to includes in the server folder, and edit player.bgt, then press control f, and type in: follow: and you might see it 2-19-2021, 12:46:57 AM
+alvin timecrest. (kalahami222) said type it again 2-19-2021, 12:47:55 AM
+alvin timecrest. (kalahami222) said keep typing it ,a nd you should see it 2-19-2021, 12:48:56 AM
+alvin timecrest. (kalahami222) said let me see 2-19-2021, 12:50:42 AM
+alvin timecrest. (kalahami222) said bool frozen=false,following=false;
+ 2-19-2021, 12:50:55 AM
+alvin timecrest. (kalahami222) said else if(parsed[0]=="followstart")
+{
+can_move=false;
+following=true;
+}
+else if(parsed[0]=="followstop")
+{
+can_move=true;
+following=false;
+}
+ 2-19-2021, 12:51:20 AM
+alvin timecrest. (kalahami222) said is that it 2-19-2021, 12:51:42 AM
+alvin timecrest. (kalahami222) said moving is stoping it I believe 2-19-2021, 12:52:38 AM
+alvin timecrest. (kalahami222) said stopping* 2-19-2021, 12:52:43 AM
+alvin timecrest. (kalahami222) said you mean when it says: your are now following playernmae? 2-19-2021, 12:53:46 AM
+alvin timecrest. (kalahami222) said server.bgt 2-19-2021, 12:54:12 AM
+alvin timecrest. (kalahami222) said else if(parsed[0]=="/follow"&&parsed.length>1&&(players[index].invinsible||players[index].hidden>0))
+{
+if(players[index].following!="")
+{
+send_reliable(players[index].peer_id,"you must stop following "+players[index].following+" first",2);
+return;
+}
+int ind=get_player_index_from(parsed[1]);
+if(ind>-1)
+{
+players[index].following=players[ind].name;
+players[ind].follower=players[index].name;
+players[index].following_on=true;
+send_reliable(players[index].peer_id,"now following "+players[ind].name,2);
+send_reliable(players[index].peer_id,"followstart",0);
+}
+else send_reliable(players[index].peer_id,"that player could not be found",2);
+}
+else if(parsed[0]=="/stopfollow"&&players[index].following!="")
+{
+int ind=get_player_index_from(players[index].following);
+if(ind>-1) players[ind].follower="";
+send_reliable(players[index].peer_id,"stopped following "+players[index].following,2);
+send_reliable(players[index].peer_id,"followstop",0);
+players[index].following="";
+}
+ 2-19-2021, 12:54:39 AM
+alvin timecrest. (kalahami222) said darkness 2-19-2021, 12:56:12 AM
+alvin timecrest. (kalahami222) said trust me 2-19-2021, 12:56:17 AM
+alvin timecrest. (kalahami222) said o my god this robot loo, darkness 2-19-2021, 1:10:25 AM
