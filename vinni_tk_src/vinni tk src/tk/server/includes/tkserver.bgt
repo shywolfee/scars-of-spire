@@ -4200,13 +4200,13 @@ send_reliable(0,"play_s kick.ogg",0);
 }
 else if(parsed[0]=="/disableadmingun" and players[index].adminable())
 {
-bool admingun=false;
+admingun=false;
 send_reliable(players[index].peer_id,"Done",0);
 send_reliable(0,"notify alert: admingun is disabled!",0);
 }
 else if(parsed[0]=="/enableadmingun" and players[index].adminable())
 {
-bool admingun=true;
+admingun=true;
 send_reliable(players[index].peer_id,"Done",0);
 send_reliable(0,"notify alert: admingun is enabled!",0);
 }
