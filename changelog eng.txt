@@ -1,3 +1,8 @@
+New in 2.0.3
+Added a welcome screen that displays on first run with game rules. Players must check the agree checkbox and click continue before they can play.
+Added /debug command. Type /debug in the command prompt (shift+slash) to view debug information in a form, including position, map, level, XP, network stats, and more.
+Added configure server option to the settings menu. This option is only available when running from source and allows setting the server address and port in a form.
+
 New in 2.0.2
 Integrated form.bgt (audio_form) into the project.
 Converted the options/settings menu to use audio_form with checkboxes for toggle settings and buttons for actions.

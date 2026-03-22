@@ -124,9 +124,11 @@ if(speechmode==1)
 btn_sapivoice=f.create_button("Select SAPI &voice");
 btn_sprate=f.create_button("Select speech ra&te");
 }
+int btn_server=-1;
 int btn_release=-1;
 if(!SCRIPT_COMPILED)
 {
+btn_server=f.create_button("Co&nfigure server");
 btn_release=f.create_button("&Generate release folder");
 }
 int btn_save=f.create_button("&Save and go back", true);
@@ -208,6 +210,12 @@ f.reset();
 speechratemenu();
 return;
 }
+if(btn_server>-1 and f.is_pressed(btn_server))
+{
+f.reset();
+configure_server_form();
+return;
+}
 if(btn_release>-1 and f.is_pressed(btn_release))
 {
 f.reset();
@@ -245,6 +253,45 @@ password=pass;
 writeprefs();
 f.reset();
 dlg("Success!");
+optionsmenu();
+return;
+}
+}
+if(f.is_pressed(btn_cancel))
+{
+f.reset();
+optionsmenu();
+return;
+}
+wait(5);
+}
+}
+void configure_server_form()
+{
+audio_form f;
+f.create_window("Configure Server", true, true);
+int inp_address=f.create_input_box("Server &address:", netaddress);
+int inp_port=f.create_input_box("Server &port:", ""+netport);
+int btn_save=f.create_button("&Save", true);
+int btn_cancel=f.create_button("&Cancel", false, true);
+while(true)
+{
+f.monitor();
+if(f.is_pressed(btn_save))
+{
+string addr=f.get_text(inp_address);
+string pt=f.get_text(inp_port);
+if(addr=="")
+{
+speak("Server address cannot be empty");
+}
+else
+{
+netaddress=addr;
+if(pt!="") netport=stn(pt);
+writeprefs();
+f.reset();
+speak("Server configuration saved");
 optionsmenu();
 return;
 }

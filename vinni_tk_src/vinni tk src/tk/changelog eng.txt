@@ -1,3 +1,16 @@
+New in 2.0.3
+Added a welcome screen that displays on first run with game rules. Players must check the agree checkbox and click continue before they can play.
+Added /debug command. Type /debug in the command prompt (shift+slash) to view debug information in a form, including position, map, level, XP, network stats, and more.
+Added configure server option to the settings menu. This option is only available when running from source and allows setting the server address and port in a form.
+
+New in 2.0.2
+Integrated form.bgt (audio_form) into the project.
+Converted the options/settings menu to use audio_form with checkboxes for toggle settings and buttons for actions.
+Converted account creation dialog to use audio_form with username and password input fields.
+Converted account setup dialog to use audio_form with username and password input fields.
+Converted password reset dialog to use audio_form with character name input field.
+All form-based dialogs now support tab navigation, keyboard shortcuts, and accessible screen reader output.
+
 New in 2.0.1
 added enable and disable buffer beep option to game settings menu for enabling or disabling buffer beep.
 added /resetnickname playername command for admins to reset someone's name to default

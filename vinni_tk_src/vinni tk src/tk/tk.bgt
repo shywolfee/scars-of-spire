@@ -94,6 +94,7 @@ double xprequired=500;
 int killmsgs=1;
 int readmessages=1;
 int rcontrol;
+int accepted_rules=0;
 int speechmode=0;
 int ttsvoice=0;
 int speakonlinemsgs=1;
@@ -236,6 +237,10 @@ p.play_stationary("error.ogg",false);
 int q=question("error","you are currently banned from the game. Would you like to generate an ID to reverse this ban?");
 if(q==1) clipboard_copy_text(banid);
 exit();
+}
+if(accepted_rules==0)
+{
+welcome_screen();
 }
 if(!SCRIPT_COMPILED) speed_stop_disable();
 df_s.mode=speechmode;
@@ -499,7 +504,11 @@ if (key_pressed(KEY_SLASH) )
 if(shift_is_down())
 {
 string command =v.input("type a command here.",true);
-if(command!="")
+if(command=="debug")
+{
+debug_form();
+}
+else if(command!="")
 send_reliable(0,"/"+command,1);
 }
 else
@@ -1180,8 +1189,12 @@ for(int i=0; i<buffers.length(); i++)
 if(sd.d.exists("b"+i+"int"))
 buffers[i].interrupt=sd.readn("b"+i+"int");
 }
-if(sd.d.exists("netaddress")) sd.d.delete("netaddress");
-if(sd.d.exists("netport")) sd.d.delete("netport");
+if(sd.d.exists("accepted_rules"))
+accepted_rules=sd.readn("accepted_rules");
+if(sd.d.exists("netaddress"))
+netaddress=sd.read("netaddress");
+if(sd.d.exists("netport"))
+netport=sd.readn("netport");
 }
 int menumusvol=0;
 void writeprefs()
@@ -1222,9 +1235,81 @@ for(int i=0; i<buffers.length(); i++)
 sd.add("b"+i+"int",buffers[i].interrupt);
 }
 sd.add("readerinterrupt",readerinterrupt);
+sd.add("accepted_rules",accepted_rules);
 sd.add("netaddress",netaddress);
 sd.add("netport",netport);
 sd.save();
+}
+void welcome_screen()
+{
+audio_form f;
+f.create_window("Welcome to Scars of Spire", true, true);
+f.create_status_bar("Rules", "Please read and accept the following rules before playing:");
+f.create_status_bar("Rule 1", "Be respectful to all players. No harassment, bullying, or hate speech.");
+f.create_status_bar("Rule 2", "No cheating, hacking, or exploiting bugs for unfair advantage.");
+f.create_status_bar("Rule 3", "No spamming in chat or abusing the communication systems.");
+f.create_status_bar("Rule 4", "Follow the instructions of administrators and moderators.");
+f.create_status_bar("Rule 5", "No impersonating other players or staff members.");
+f.create_status_bar("Rule 6", "Do not share your account credentials with others.");
+f.create_status_bar("Rule 7", "Violating these rules may result in a temporary or permanent ban.");
+int cb_agree=f.create_checkbox("I &agree to the rules above");
+int btn_continue=f.create_button("&Continue", true);
+int btn_exit=f.create_button("&Exit", false, true);
+while(true)
+{
+f.monitor();
+if(f.is_pressed(btn_exit))
+{
+f.reset();
+exit();
+}
+if(f.is_pressed(btn_continue))
+{
+if(!f.is_checked(cb_agree))
+{
+speak("You must check the agree checkbox before continuing.");
+}
+else
+{
+accepted_rules=1;
+writeprefs();
+f.reset();
+return;
+}
+}
+wait(5);
+}
+}
+void debug_form()
+{
+audio_form f;
+f.create_window("Debug Information", true, true);
+f.create_status_bar("Version", ver);
+f.create_status_bar("Network version", netver);
+f.create_status_bar("Position", "X: "+me.x+", Y: "+me.y+", Z: "+me.z);
+f.create_status_bar("Facing", ""+facing);
+f.create_status_bar("Map", mapname);
+f.create_status_bar("Player", name);
+f.create_status_bar("Level", ""+level);
+f.create_status_bar("XP", ""+xp+" / "+xprequired);
+f.create_status_bar("Connected", (connected ? "Yes" : "No"));
+f.create_status_bar("Packets sent", ""+sent_packets);
+f.create_status_bar("Packets received", ""+received_packets);
+f.create_status_bar("Connected peers", ""+n.connected_peers);
+f.create_status_bar("Network debug", (net_debug ? "Enabled" : "Disabled"));
+f.create_status_bar("Admin", (admin ? "Yes" : "No"));
+f.create_status_bar("Compiled", (SCRIPT_COMPILED ? "Yes" : "No"));
+int btn_close=f.create_button("&Close", true, true);
+while(true)
+{
+f.monitor();
+if(f.is_pressed(btn_close))
+{
+f.reset();
+return;
+}
+wait(5);
+}
 }
 void teammenu()
 {
@@ -3333,9 +3418,9 @@ return ret;
 }
 string keygen(string fn) {
 string key=fn;
-key=string_replace(key, "a","æ", true);
-key=string_replace(key, "l","¦", true);
-key=string_replace(key, " ","÷", true);
+key=string_replace(key, "a","ï¿½", true);
+key=string_replace(key, "l","ï¿½", true);
+key=string_replace(key, " ","ï¿½", true);
 key=string_reverse(key);
 key=string_hash(key, 2, true);
 key=string_encrypt(key, key);
