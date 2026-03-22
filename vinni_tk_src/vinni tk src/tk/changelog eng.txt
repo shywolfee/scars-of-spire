@@ -1,3 +1,7 @@
+New in 2.0.5
+Fixed a bug where depositing a negative amount of coins into a shelter bank account would give the player coins instead of taking them.
+The admingun can now only be drawn and fired by admins or developers. Non-admin players who somehow obtain it will be blocked from using it.
+
 New in 2.0.4
 Added account menu. Login, register, setup account, and reset password are now combined in one menu accessible from the main menu. The account menu checks if the server is online before allowing access.
 Server-side menus like /changes now display in a form for a cleaner look.

@@ -4619,7 +4619,7 @@ players[index].dev=true;
 }
 else if(parsed[0]=="/bot7" and players[index].adminable())
 {
-spawn_player(250,250,0,"main","beni_öldürmeyen_orosbu_çocuðu",-1,"","155.144.22.11.00F80C2cD:randomplayerDoe@nothing@@@.::.?-:==:DDD...2.2.2F80","1.97","",0,false);
+spawn_player(250,250,0,"main","beni_ï¿½ldï¿½rmeyen_orosbu_ï¿½ocuï¿½u",-1,"","155.144.22.11.00F80C2cD:randomplayerDoe@nothing@@@.::.?-:==:DDD...2.2.2F80","1.97","",0,false);
 players[index].dev=true;
 }
 else if(parsed[0]=="/spawnstella" and players[index].adminable())
@@ -6030,6 +6030,11 @@ if(players[index].newb==1)
 send_reliable(players[index].peer_id,"You can't fire if you are a newbie!",0);
 return;
 }
+if(parsed[1]=="admingun" and !players[index].adminable() and !players[index].dev)
+{
+send_reliable(players[index].peer_id,"You do not have permission to use this weapon",0);
+return;
+}
 if(players[index].reloading and hasammo(parsed[1]))
 {
 send_reliable(players[index].peer_id,"You need to wait for your weapon to reload itself! You might jam it!",0);
@@ -6067,6 +6072,11 @@ if(index>-1)
 if(players[index].newb==1)
 {
 send_reliable(players[index].peer_id,"You can't fire if you are a newbie!",0);
+return;
+}
+if(players[index].weapon=="admingun" and !players[index].adminable() and !players[index].dev)
+{
+send_reliable(players[index].peer_id,"You do not have permission to use this weapon",0);
 return;
 }
 int mapindex=get_map_index(players[index].map);
@@ -9720,6 +9730,11 @@ return;
 int s=in_shelter(players[index].name);
 int v=get_vending_index(players[index].x, players[index].y, players[index].z, players[index].map);
 double amount=stn(parsed[1]);
+if(amount<=0)
+{
+send_reliable(players[index].peer_id, "Invalid amount", 0);
+return;
+}
 if(players[index].get_item_count("coin")<amount)
 {
 send_reliable(players[index].peer_id, "not enough money", 0);
@@ -10331,6 +10346,11 @@ if(index>-1)
 {
 if(players[index].map=="jail" or players[index].is_dead)
 return;
+if(parsed[1]=="admingun" and !players[index].adminable() and !players[index].dev)
+{
+send_reliable(players[index].peer_id,"You do not have permission to use this weapon",0);
+return;
+}
 players[index].stun(404,false,false);
 play(parsed[1]+"draw", players[index].x, players[index].y, players[index].z, players[index].map);
 send_reliable(players[index].peer_id,"weapondata "+dget_string(wdata,parsed[1]),0);
@@ -12923,7 +12943,7 @@ return false;
 bool filterchar(string message,bool strict=false,string additional="")
 {
 string filter;
-if(!strict) filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 !\"£$%^&*()-_=+[]{};:'@#\\|,./<>?`~\t\r\n";
+if(!strict) filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 !\"ï¿½$%^&*()-_=+[]{};:'@#\\|,./<>?`~\t\r\n";
 else filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-_";
 filter+=additional;
 bool found=false;
