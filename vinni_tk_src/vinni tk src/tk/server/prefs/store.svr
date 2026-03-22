@@ -39,6 +39,16 @@ barrett_m82_sniper_rifle=50000=powerful sniper rifle, good range, good damage.=w
 stp429_mini_missile=50=good mini missile, kill the players and yourself!=weapon_store
 rocket_launcher=400000=rocket launcher=weapon_store
 throwing_knives=450=wonderful throwing knives=weapon_store
+cannon=900000=extremely powerful cannon with massive range, can hit targets from very far away=weapon_store
+cyanide_pistol=75000=a pistol that shoots cyanide rounds, slowly poisoning the target=weapon_store
+nak_nk1000_decimater=500000=nak nk1000 decimater, high spread devastating weapon=weapon_store
+sky_28_laser=90000=sky 28 laser, a reliable laser weapon with good range and damage=weapon_store
+sky_286_laser_pistol=60000=sky 286 laser pistol, a compact laser sidearm=weapon_store
+sky_372_laser_machinegun=350000=sky 372 laser machinegun, rapid fire laser with high damage output=weapon_store
+sky_386_laser_assault_rifle=450000=sky 386 laser assault rifle, long range laser weapon with great damage=weapon_store
+sky_429_laser_shotgun=800000=sky 429 laser shotgun, devastating close range laser weapon with massive damage=weapon_store
+storm_sniper=300000=storm sniper, a powerful sniper rifle with excellent range and damage=weapon_store
+zulfikar=1500000=zulfikar, an extremely powerful weapon with massive damage output=weapon_store
 carrier_missile=600=A missile that can send items and deploy them if possible=misc_store
 warp_box=90=a smart little device that will allow you to fly ahead an catch a running coward=misc_store
 bomb_defuser=50=no description=misc_store
@@ -82,6 +92,7 @@ suicide_bomb=1000=it can help if you need to die quickly!=explosive_store
 hipersound_bomb=2500=This bomb stuns and paralyzes people standing within 15 squares for 12 seconds=explosive_store
 ultrabomb=350=A very poweful bomb that can be detinated with coins. Packs lots of range=explosive_store
 bottle_bomb=150=Throw these bombs at your enemies, robots. good range, good damage!=explosive_store
+sticky_bomb=200=a bomb that sticks to players on contact and explodes after a short delay=explosive_store
 aircraft=500=An airborn vehicle with a high powered lazer and capable of very high speeds=vehicle_store
 tank=700=A massive ground vehicle equipped with a very powerful cannon=vehicle_store
 armored_tank=10000=powerful machine, equipped with a good brane, as well as a strong gun. Good luck, tankman!=vehicle_store
@@ -149,3 +160,5 @@ spiked_chain_mace=15000=spiked_chain_mace=melee_weapon_store
 steal_warhammer=25000=steal_warhammer=melee_weapon_store
 stp_m4_combat_knife=600=stp_m4_combat_knife=melee_weapon_store
 studded_boots=2000=studded_boots=melee_weapon_store
+crow_bar=1500=a sturdy crow bar, good for close combat=melee_weapon_store
+crt17_combat_knife=800=crt17 combat knife, a reliable combat blade=melee_weapon_store
