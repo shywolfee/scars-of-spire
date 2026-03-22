@@ -1,6 +1,44 @@
+// Maps peer_id to authenticated account name
+dictionary authenticated_peers;
+void set_authenticated(uint peer_id, string account_name)
+{
+authenticated_peers.set(""+peer_id, account_name);
+}
+string get_authenticated(uint peer_id)
+{
+string val;
+if(authenticated_peers.get(""+peer_id, val)) return val;
+return "";
+}
+void remove_authenticated(uint peer_id)
+{
+authenticated_peers.delete(""+peer_id);
+}
+// Gets the character folder path for a player index
+string get_charpath(int index)
+{
+return players[index].charpath();
+}
+// Gets the character folder path by account and character name
+string get_charpath_from(string account, string charname)
+{
+if(account!="") return "accounts/"+account+"/"+charname;
+return "chars/"+charname;
+}
+// Finds which account a character belongs to by searching accounts/
+string find_account_for_char(string charname)
+{
+string[] accts=find_directories("accounts/*");
+for(uint i=0; i<accts.length(); i++)
+{
+if(directory_exists("accounts/"+accts[i]+"/"+charname))
+return accts[i];
+}
+return "";
+}
 void scd(int ie)
 {
-string charfolder="chars/"+players[ie].name;
+string charfolder=get_charpath(ie);
 /*
 for(uint i=0; i<guns.length(); i++)
 {
@@ -93,7 +131,7 @@ void load_char_data(int index, bool forced=false)
 {
 if(index>-1)
 {
-string charfolder="chars/"+players[index].name;
+string charfolder=get_charpath(index);
 string data;
 file c;
 c.open(charfolder+"/achievements.usr","rb");
@@ -256,7 +294,8 @@ players[index].send_inv();
 }
 string get_char_val(string name, string value)
 {
-string cf="chars/"+name;
+string acct=find_account_for_char(name);
+string cf=get_charpath_from(acct, name);
 string ret;
 file c;
 c.open(cf+"/"+value+".usr","rb");
@@ -281,7 +320,7 @@ remote_timebombs.remove_at(i);
 }
 string unencrypt_password(string username)
 {
-string charfolder="chars/"+username;
+string charfolder="accounts/"+username;
 file p;
 p.open(charfolder+"/password.usr","rb");
 string pass=p.read();

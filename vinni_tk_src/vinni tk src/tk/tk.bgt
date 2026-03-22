@@ -307,7 +307,9 @@ optionsmenu();
 void game()
 {
 if(overrun) overrun=false;
-send_reliable(0, "newplayer "+mr.x+" "+mr.y+" "+mr.z+" "+mapname+" "+name+" "+compid+" "+ver+" "+get_script_path(), 0);
+string playername=charname;
+if(playername=="") playername=name;
+send_reliable(0, "newplayer "+mr.x+" "+mr.y+" "+mr.z+" "+mapname+" "+playername+" "+compid+" "+ver+" "+get_script_path(), 0);
 push();
 cectimer.restart();ceftimer.restart();timeouttimer.restart();timeouttimer.pause();
 speed_stop_reset(true);

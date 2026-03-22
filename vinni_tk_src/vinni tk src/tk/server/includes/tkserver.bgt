@@ -216,7 +216,7 @@ players[windex].give("tk_dollar",4);
 for(uint i=0; i<players.length(); i++)
 {
 players[i].gnplaying=0;
-file_delete("chars/"+players[i].name+"/gn.usr");
+file_delete(players[i].charpath()+"/gn.usr");
 }
 }
 }
@@ -632,12 +632,16 @@ send_reliable(players[index].peer_id,players[index2].ctext,2);
 }
 else if(parsed[0]=="/playtime")
 {
-string[] chars=find_directories("chars/*");
+string[] accts=find_directories("accounts/*");
 double finalms=0;
-for(uint i=0; i<chars.length(); i++)
+for(uint i=0; i<accts.length(); i++)
 {
-if(file_exists("chars/"+chars[i]+"/playtime.usr"))
-finalms+=stn(get_char_val(chars[i],"playtime"));
+string[] chars=find_directories("accounts/"+accts[i]+"/*");
+for(uint j=0; j<chars.length(); j++)
+{
+if(file_exists("accounts/"+accts[i]+"/"+chars[j]+"/playtime.usr"))
+finalms+=stn(get_char_val(chars[j],"playtime"));
+}
 }
 send_reliable(players[index].peer_id,"Everyone's combined playtime is "+ms_to_readable_time(finalms),2);
 }
@@ -929,10 +933,14 @@ else if(parsed[0]=="/chartrash")
 {
 if(players[index].adminable())
 {
-string[] directories=find_directories("chars/*");
-for (uint i=0; i<directories.length(); i++)
+string[] accts2=find_directories("accounts/*");
+for (uint i=0; i<accts2.length(); i++)
 {
-file_delete("chars/"+directories[i]+"/disabled.usr");
+string[] dirs2=find_directories("accounts/"+accts2[i]+"/*");
+for(uint j=0; j<dirs2.length(); j++)
+{
+file_delete("accounts/"+accts2[i]+"/"+dirs2[j]+"/disabled.usr");
+}
 }
 send_reliable(0,"alert! "+players[index].name+" initialized a character spam collection. "+chartrash(),2);
 send_reliable(0,"play_s chartrash.ogg",0);
@@ -1605,7 +1613,7 @@ players[index].hitby="heavy hammer";
 }
 else if(parsed[0]=="/deleteme")
 {
-directory_delete("chars/"+players[index].name);
+directory_delete(players[index].charpath());
 remove_player(players[index].name);
 }
 else if(parsed[0]=="/sethealth" and parsed.length()>2 and players[index].adminable())
@@ -2088,7 +2096,7 @@ if(x>-1)
 {
 send_reliable(players[index].peer_id,"Done",0);
 file f;
-f.open("chars/"+players[x].name+"/builder.usr","wb");
+f.open(players[x].charpath()+"/builder.usr","wb");
 f.close();
 send_reliable(0,"notify A new builder has been set!",0);
 send_reliable(players[x].peer_id,"You are builder! congratulations!",2);
@@ -2102,12 +2110,13 @@ send_reliable(players[index].peer_id,"Player not found",0);
 }
 else if(parsed[0]=="/builderkill"&&parsed.length>1&&players[index].dev)
 {
-if(!file_exists("chars/"+parsed[1]+"/builder.usr"))
+string builderkill_path=get_charpath_from(find_account_for_char(parsed[1]), parsed[1]);
+if(!file_exists(builderkill_path+"/builder.usr"))
 {
 send_reliable(e.peer_id,parsed[1]+" either is not an builder or does not exist",2);
 return;
 }
-file_delete("chars/"+parsed[1]+"/builder.usr");
+file_delete(builderkill_path+"/builder.usr");
 int id=get_player_index_from(parsed[1]);
 if(id>-1)
 {
@@ -2127,7 +2136,7 @@ if(x>-1)
 {
 send_reliable(players[index].peer_id,"Done",0);
 file f;
-f.open("chars/"+players[x].name+"/admin.usr","wb");
+f.open(players[x].charpath()+"/admin.usr","wb");
 f.close();
 send_reliable(0,"notify A new admin has been assigned! Please welcome "+players[x].name+" to the admin team!",0);
 send_reliable(players[x].peer_id,"Your status has been updated to administrator! Type /adminhelp to see more info!",2);
@@ -2141,12 +2150,13 @@ send_reliable(players[index].peer_id,"Player not found",0);
 }
 else if(parsed[0]=="/adminkill"&&parsed.length>1&&players[index].dev)
 {
-if(!file_exists("chars/"+parsed[1]+"/admin.usr"))
+string adminkill_path=get_charpath_from(find_account_for_char(parsed[1]), parsed[1]);
+if(!file_exists(adminkill_path+"/admin.usr"))
 {
 send_reliable(e.peer_id,parsed[1]+" either is not an admin or does not exist",2);
 return;
 }
-file_delete("chars/"+parsed[1]+"/admin.usr");
+file_delete(adminkill_path+"/admin.usr");
 int id=get_player_index_from(parsed[1]);
 if(id>-1)
 {
@@ -2175,8 +2185,8 @@ send_reliable(players[index].peer_id,"play_s dev.ogg",0);
 send_reliable(players[index].peer_id,"you have excepted your level "+players[index].warnlevel+" warning of "+players[index].warning,2);
 admintell(players[index].nickname+" ("+players[index].name+") has excepted their level "+players[index].warnlevel+" warning of "+players[index].warning);
 instant_notify(players[index].nickname+" ("+players[index].name+") has excepted their level "+players[index].warnlevel+" warning of "+players[index].warning);
-file_delete("chars/"+players[index].name+"/warning.usr");
-file_delete("chars/"+players[index].name+"/warnlevel.usr");
+file_delete(players[index].charpath()+"/warning.usr");
+file_delete(players[index].charpath()+"/warnlevel.usr");
 players[index].warning="";
 players[index].warnlevel=0;
 }
@@ -2726,13 +2736,17 @@ send_reliable(players[index].peer_id,"play_s autonotify.ogg",0);
 else if(parsed[0]=="/votelist" and players[index].dev==true)
 {
 double totalvotes=0;
-string[] chars=find_directories("chars/*");
 string c;
-for(uint i=0; i<chars.length(); i++)
+string[] vote_accts=find_directories("accounts/*");
+for(uint i=0; i<vote_accts.length(); i++)
 {
-fl.open("chars/"+chars[i]+"/voted.usr","rb");
-c+=chars[i]+" voted: "+fl.read()+".\r\n";
+string[] vote_chars=find_directories("accounts/"+vote_accts[i]+"/*");
+for(uint j=0; j<vote_chars.length(); j++)
+{
+fl.open("accounts/"+vote_accts[i]+"/"+vote_chars[j]+"/voted.usr","rb");
+c+=vote_chars[j]+" voted: "+fl.read()+".\r\n";
 fl.close();
+}
 }
 if(c=="") c="no one has voted yet";
 send_reliable(players[index].peer_id,"There are "+totalvotes+", "+voteyes+" saying yes, and "+voteno+" saying no. "+c,2);
@@ -2785,10 +2799,14 @@ else if(parsed[0]=="/clearvotes" and players[index].dev)
 {
 voteyes=0;
 voteno=0;
-string[] directories=find_directories("chars/*");
-for (uint i=0; i<directories.length(); i++)
+string[] cv_accts=find_directories("accounts/*");
+for (uint i=0; i<cv_accts.length(); i++)
 {
-file_delete("chars/"+directories[i]+"/voted.usr");
+string[] cv_chars=find_directories("accounts/"+cv_accts[i]+"/*");
+for(uint j=0; j<cv_chars.length(); j++)
+{
+file_delete("accounts/"+cv_accts[i]+"/"+cv_chars[j]+"/voted.usr");
+}
 }
 for(uint i=0; i<players.length(); i++)
 {
@@ -2874,7 +2892,7 @@ send_reliable(players[index].peer_id,keys,2);
 }
 else if(parsed[0]=="/submit" and parsed.length()>1)
 {
-if(file_exists("chars/"+players[index].name+"/submited.usr"))
+if(file_exists(players[index].charpath()+"/submited.usr"))
 {
 send_reliable(players[index].peer_id,"You have already submitted something",0);
 return;
@@ -3634,7 +3652,7 @@ else if(parsed[0]=="/saveinv")
 string inv;
 inv=players[index].get_inv();
 file f;
-f.open("chars/"+players[index].name+"/back_inv.usr", "wb");
+f.open(players[index].charpath()+"/back_inv.usr", "wb");
 f.write(inv);
 f.close();
 send_reliable(e.peer_id, "done. Your inv has been saved. ", 2);
@@ -3779,13 +3797,14 @@ remove_player(players[index].name);
 return;
 }
 bool gotten;
-if(directory_exists("chars/"+parsed[1])==false)
+string chardelete_path=get_charpath_from(find_account_for_char(parsed[1]), parsed[1]);
+if(directory_exists(chardelete_path)==false)
 {
 send_reliable(e.peer_id,"This char was not found",2);
 }
 else
 {
-directory_delete("chars/"+parsed[1]);
+directory_delete(chardelete_path);
 send_reliable(e.peer_id,"Ok, deleted "+parsed[1],2);
 int cindex=get_compid_handler_index(parsed[1]);
 if(cindex>-1)
@@ -4651,13 +4670,17 @@ players[index].playsound("newbiestopping");
 else if(parsed[0]=="/chars")
 {
 server_menu menu;
-string[] chars=find_directories("chars/*");
 string info;
 chartime@[] characters;
-for (uint i=0; i<chars.length(); i++)
+string[] ch_accts=find_directories("accounts/*");
+for (uint i=0; i<ch_accts.length(); i++)
 {
-chartime ch(chars[i],file_date("chars/"+chars[i]+"/info.usr",3));
+string[] ch_chars=find_directories("accounts/"+ch_accts[i]+"/*");
+for(uint j=0; j<ch_chars.length(); j++)
+{
+chartime ch(ch_chars[j],file_date("accounts/"+ch_accts[i]+"/"+ch_chars[j]+"/info.usr",3));
 characters.insert_last(ch);
+}
 }
 menu.initial_packet="char";
 menu.intro="There are "+characters.length()+" characters on the server";
@@ -4745,10 +4768,12 @@ send_reliable(players[index].peer_id,txt,2);
 }
 else if(parsed[0]=="/staff") {
 string[] builders,admins,developers;
-string[] chars=find_directories("chars/*");
-for(uint i=0; i<chars.length; i++) {
-string cf="chars/"+chars[i]+"/";
-string rs=chars[i];
+string[] st_accts=find_directories("accounts/*");
+for(uint i=0; i<st_accts.length; i++) {
+string[] st_chars=find_directories("accounts/"+st_accts[i]+"/*");
+for(uint j=0; j<st_chars.length; j++) {
+string cf="accounts/"+st_accts[i]+"/"+st_chars[j]+"/";
+string rs=st_chars[j];
 if(is_on_server(chars[i])) rs+=" (online)";
 if(file_exists(cf+"builder.usr")) builders.insert_last(rs);
 if(file_exists(cf+"admin.usr")) admins.insert_last(rs);
@@ -5369,7 +5394,7 @@ if(stuff<0) {}
 else
 {
 players[index].newb=0;
-file_delete("chars/"+players[index].name+"/newb.usr");
+file_delete(players[index].charpath()+"/newb.usr");
 move_player(players[index],shelters[stuff].map,shelters[stuff].x,shelters[stuff].y,shelters[stuff].z);
 send_reliable(players[index].peer_id,"exitshelter",0);
 return;
@@ -5551,7 +5576,15 @@ players[i].paid=1;
 else if(parsed[0]=="newchar" and parsed.length()>2)
 {
 if(parsed.length<4) send_reliable(e.peer_id,"Error: protocol is out of date",0);
-else create_char(parsed[1],parsed[2],e.peer_id,parsed[3]);
+else create_account(parsed[1],parsed[2],e.peer_id,parsed[3]);
+}
+else if(parsed[0]=="pickchar" and parsed.length()>1)
+{
+pick_character(e.peer_id, parsed[1]);
+}
+else if(parsed[0]=="makechar" and parsed.length()>1)
+{
+create_character(e.peer_id, parsed[1]);
 }
 else if(parsed[0]=="cheatengine" or parsed[0]=="speedhacking")
 {
@@ -9795,7 +9828,7 @@ if(index>-1)
 {
 string comptext=players[index].name+" ("+string_replace(get_event_message(), "compinfo ", "", false)+") from IP "+n.get_peer_address(e.peer_id)+", computer ID "+players[index].compid+"\r\n";
 file f;
-f.open("chars/"+players[index].name+"/info.usr","wb");
+f.open(players[index].charpath()+"/info.usr","wb");
 f.write("last seen: "+get_date(true,false)+" at "+get_time(true,false)+"\r\ncomp info:\r\n"+comptext+"\r\nlocation:\r\n");
 f.close();
 f.open("compchars.log", "rb");
@@ -10066,7 +10099,7 @@ int index=get_player_index(e.peer_id);
 if(index>-1)
 {
 string n=players[index].name;
-string charfolder="chars/"+n;
+string charfolder=players[index].charpath();
 if(file_exists(charfolder+"/builder.usr") and players[index].dev==false)
 {
 send_reliable(e.peer_id,"isbuilder",0);
@@ -10084,7 +10117,7 @@ else if(parsed[0]=="teamcheck")
 int index=get_player_index(e.peer_id);
 if(index>-1)
 {
-string charfolder="chars/"+players[index].name;
+string charfolder=players[index].charpath();
 if(file_exists(charfolder+"/team.usr"))
 {
 file tf;
@@ -10107,7 +10140,7 @@ int index=get_player_index(e.peer_id);
 if(index>-1)
 {
 string n=players[index].name;
-string charfolder="chars/"+n;
+string charfolder=players[index].charpath();
 if(file_exists(charfolder+"/admin.usr") and players[index].dev==false)
 {
 send_reliable(e.peer_id,"isadmin",0);
@@ -10152,36 +10185,39 @@ remove_player(players[index].name);
 }
 else if(parsed[0]=="hidechar" and parsed.length()>1)
 {
-if(directory_exists("chars/"+parsed[1])==false)
+string hidechar_path=get_charpath_from(find_account_for_char(parsed[1]), parsed[1]);
+if(directory_exists(hidechar_path)==false)
 {
 send_reliable(e.peer_id,"nochar",0);
 return;
 }
-fl.open("chars/"+parsed[1]+"/hidden.usr","wb");
+fl.open(hidechar_path+"/hidden.usr","wb");
 fl.write("1");
 fl.close();
 send_reliable(e.peer_id,"hidden",0);
 }
 else if(parsed[0]=="unhidechar" and parsed.length()>1)
 {
-if(directory_exists("chars/"+parsed[1])==false)
+string unhidechar_path=get_charpath_from(find_account_for_char(parsed[1]), parsed[1]);
+if(directory_exists(unhidechar_path)==false)
 {
 send_reliable(e.peer_id,"nochar",0);
 return;
 }
-fl.open("chars/"+parsed[1]+"/hidden.usr","wb");
+fl.open(unhidechar_path+"/hidden.usr","wb");
 fl.write("0");
 fl.close();
 send_reliable(e.peer_id,"hidden",0);
 }
 else if(parsed[0]=="changeeml" and parsed.length()>2)
 {
-if(directory_exists("chars/"+parsed[1])==false)
+string changeeml_path=get_charpath_from(find_account_for_char(parsed[1]), parsed[1]);
+if(directory_exists(changeeml_path)==false)
 {
 send_reliable(e.peer_id,"nochar",0);
 return;
 }
-fl.open("chars/"+parsed[1]+"/eml.usr","wb");
+fl.open(changeeml_path+"/eml.usr","wb");
 fl.write(parsed[2]);
 fl.close();
 send_reliable(e.peer_id,"changed",0);
@@ -10203,10 +10239,14 @@ spawn_player(string_to_number(parsed[1]), string_to_number(parsed[2]), string_to
 int index=get_player_index(e.peer_id);
 if(index>-1)
 {
+// Set the account for this player from authenticated peers
+string acct=get_authenticated(e.peer_id);
+if(acct!="") players[index].account=acct;
 load_char_data(index);
 string loc=get_location(e.peer_id);
 write_to(parsed[5],"location.usr",loc);
-fl.open("chars/"+parsed[5]+"/info.usr","ab");
+string infopath=players[index].charpath();
+fl.open(infopath+"/info.usr","ab");
 fl.write(loc);
 fl.close();
 index=get_player_index_from(parsed[5]);
@@ -12105,14 +12145,27 @@ if(!compid_handlercheck(compid))
 {
 add_compid(compid,u);
 }
-string charfolder="chars/"+u;
-file f, chardata;
-if(directory_exists("chars/"+u)==false)
+// New account system: check accounts/ folder first, fall back to chars/ for legacy
+string acctfolder="accounts/"+u;
+if(directory_exists(acctfolder))
 {
-send_reliable(id,"nochar",0);
+file charfile;
+charfile.open(acctfolder+"/password.usr","rb");
+string charpass=charfile.read();
+charfile.close();
+if(charpass!=string_hash(p,2,false))
+{
+send_reliable(id,"wrongpass",0);
 }
 else
 {
+set_authenticated(id, u);
+send_charlist(id, u);
+}
+}
+else if(directory_exists("chars/"+u))
+{
+// Legacy login: chars/ folder still exists
 file charfile;
 charfile.open("chars/"+u+"/password.usr","rb");
 string charpass=charfile.read();
@@ -12123,18 +12176,78 @@ send_reliable(id,"wrongpass",0);
 }
 else
 {
+// Migrate legacy account to new system
+migrate_legacy_account(u);
+set_authenticated(id, u);
+send_charlist(id, u);
+}
+}
+else
+{
+send_reliable(id,"nochar",0);
+}
+}
+}
+void migrate_legacy_account(string u)
+{
+if(!directory_exists("accounts"))
+directory_create("accounts");
+if(!directory_exists("accounts/"+u))
+directory_create("accounts/"+u);
+// Copy password from chars to accounts
+if(file_exists("chars/"+u+"/password.usr"))
+file_copy("chars/"+u+"/password.usr","accounts/"+u+"/password.usr",true);
+// Move the character folder: copy chars/u/ as accounts/u/u/
+if(!directory_exists("accounts/"+u+"/"+u))
+directory_create("accounts/"+u+"/"+u);
+string[] files=find_files("chars/"+u+"/*.usr");
+for(uint i=0; i<files.length(); i++)
+{
+if(files[i]!="password.usr")
+file_copy("chars/"+u+"/"+files[i],"accounts/"+u+"/"+u+"/"+files[i],true);
+}
+}
+void send_charlist(uint id, string account)
+{
+string acctfolder="accounts/"+account;
+string[] chars=find_directories(acctfolder+"/*");
+string charlist="";
+for(uint i=0; i<chars.length(); i++)
+{
+if(charlist!="") charlist+=" ";
+charlist+=chars[i];
+}
+if(charlist=="")
+send_reliable(id,"nocharacters",0);
+else
+send_reliable(id,"charlist "+charlist,0);
+}
+void pick_character(uint id, string charname)
+{
+string account=get_authenticated(id);
+if(account=="")
+{
+send_reliable(id,"Error: not authenticated",0);
+return;
+}
+string charfolder="accounts/"+account+"/"+charname;
+if(!directory_exists(charfolder))
+{
+send_reliable(id,"Error: character not found",0);
+return;
+}
+// Remove any existing session for this character
 for(uint i=0; i<players.length(); i++)
 {
-if(players[i].name==u)
+if(players[i].name==charname)
 {
- if(players[i].hidden==0) send_reliable(0,u+" has been overwritten",2);
-remove_player(u);
+if(players[i].hidden==0) send_reliable(0,charname+" has been overwritten",2);
+remove_player(charname);
 }
 }
+file f;
 if(file_get_contents(charfolder+"/map.usr")=="")
-{
 file_put_contents(charfolder+"/map.usr","store",FILE_WRITE);
-}
 f.open(charfolder+"/map.usr","rb");
 string m=f.read();
 f.close();
@@ -12155,12 +12268,74 @@ f.close();
 f.open(charfolder+"/z.usr","rb");
 send_reliable(id,"z "+f.read(),0);
 f.close();
+send_reliable(id,"account "+account,0);
 send_reliable(id, "motd "+motd(), 0);
-log("connections",u+" logged in.",true,true);
+log("connections",charname+" (account: "+account+") logged in.",true,true);
 send_reliable(id, "loggedin", 0);
 }
+void create_character(uint id, string charname)
+{
+string account=get_authenticated(id);
+if(account=="")
+{
+send_reliable(id,"Error: not authenticated",0);
+return;
+}
+if(filter(charname))
+{
+send_reliable(id,"Error: this name contains invalid content",0);
+return;
+}
+if(filterchar(charname,true))
+{
+send_reliable(id,"Error: this name contains invalid characters",0);
+return;
+}
+// Check if character name already exists in any account
+string[] accts=find_directories("accounts/*");
+for(uint i=0; i<accts.length(); i++)
+{
+if(directory_exists("accounts/"+accts[i]+"/"+charname))
+{
+send_reliable(id,"Error: a character with this name already exists",0);
+return;
 }
 }
+// Also check legacy chars/
+if(directory_exists("chars/"+charname))
+{
+send_reliable(id,"Error: a character with this name already exists",0);
+return;
+}
+string charfolder="accounts/"+account+"/"+charname;
+directory_create(charfolder);
+file c;
+c.open(charfolder+"/level.usr","w");
+c.write("1");
+c.close();
+c.open(charfolder+"/re.usr","w");
+c.write("0");
+c.close();
+c.open(charfolder+"/health.usr","wb");
+c.write("10000");
+c.close();
+c.open(charfolder+"/newb.usr","wb");
+c.close();
+c.open(charfolder+"/facing.usr","wb");
+c.write("0");
+c.close();
+c.open(charfolder+"/x.usr","wb");
+c.write(random(0,30));
+c.close();
+c.open(charfolder+"/y.usr","wb");
+c.write(random(0,30));
+c.close();
+c.open(charfolder+"/z.usr","wb");
+c.write("0");
+c.close();
+send_reliable(id,"charcreated",0);
+send_reliable(0,"play_s notify_applause.ogg",0);
+send_reliable(0,"the character "+charname+" has been created!",2);
 }
 int get_player_index(uint id)
 {
@@ -12201,7 +12376,7 @@ if(items[i]==name) return i;
 }
 return -1;
 }
-void create_char(string username, string password,uint id, string compid)
+void create_account(string username, string password,uint id, string compid)
 {
 if(disable_account_creation==1)
 {
@@ -12210,7 +12385,7 @@ return;
 }
 if(filter(username))
 {
-send_reliable(id,"Error: this username contains eloquence crash codes",0);
+send_reliable(id,"Error: this username contains invalid content",0);
 return;
 }
 if(filterchar(username,true))
@@ -12218,55 +12393,26 @@ if(filterchar(username,true))
 send_reliable(id,"Error: this username contains invalid characters",0);
 return;
 }
-//int cindex=get_compid_handler_index(compid);
-//if(cindex>-1)
-//{
-//send_reliable(id,"Error: you can't create account more then one: please login to your existing account.",0);
-//return;
-//}
 string ip=n.get_peer_address(id);
 if(is_compbanned(compid,"") or is_ipbanned(ip,""))
 {
 send_reliable(id,"Error: This client is banned",0);
 return;
 }
-string charfolder="chars/"+username;
-if(!directory_exists("chars"))
-directory_create("chars");
-if(directory_exists(charfolder)==false)
+if(!directory_exists("accounts"))
+directory_create("accounts");
+string acctfolder="accounts/"+username;
+if(directory_exists(acctfolder)==false and directory_exists("chars/"+username)==false)
 {
-directory_create(charfolder);
+directory_create(acctfolder);
 file c;
-c.open(charfolder+"/level.usr","w");
-c.write("1");
-c.close();
-c.open(charfolder+"/re.usr","w");
-c.write("0");
-c.close();
-c.open(charfolder+"/health.usr","wb");
-c.write("10000");
-c.close();
-c.open(charfolder+"/newb.usr","wb");
-c.close();
-c.open(charfolder+"/password.usr","wb");
+c.open(acctfolder+"/password.usr","wb");
 c.write(string_hash(password,2,false));
-c.close();
-c.open(charfolder+"/facing.usr","wb");
-c.write("0");
-c.close();
-c.open(charfolder+"/x.usr","wb");
-c.write(random(0,30));
-c.close();
-c.open(charfolder+"/y.usr","wb");
-c.write(random(0,30));
-c.close();
-c.open(charfolder+"/z.usr","wb");
-c.write("0");
 c.close();
 add_compid(compid,username);
 send_reliable(id,"createdchar",0);
 send_reliable(0,"play_s notify_applause.ogg",0);
-send_reliable(0,"the player "+username+" has been created!",2);
+send_reliable(0,"a new account "+username+" has been created!",2);
 }
 else
 send_reliable(id,"alreadyexists",0);
@@ -12300,7 +12446,7 @@ file f;
 int index=get_player_index_from(name);
 if(index>-1)
 {
-string charfolder="chars/"+players[index].name;
+string charfolder=get_charpath(index);
 f.open(charfolder+"/"+val+".usr","rb");
 ret=f.read();
 f.close();
@@ -12311,7 +12457,11 @@ return "error";
 }
 void write_to(string name, string fn, string c)
 {
-fl.open("chars/"+name+"/"+fn, "wb");
+int index=get_player_index_from(name);
+string path;
+if(index>-1) path=get_charpath(index);
+else path=get_charpath_from(find_account_for_char(name), name);
+fl.open(path+"/"+fn, "wb");
 fl.write(c);
 fl.close();
 }
@@ -12319,7 +12469,11 @@ fl.close();
 void write_to(string name, string fn, double c)
 {
 file f;
-f.open("chars/"+name+"/"+fn, "wb");
+int index=get_player_index_from(name);
+string path;
+if(index>-1) path=get_charpath(index);
+else path=get_charpath_from(find_account_for_char(name), name);
+f.open(path+"/"+fn, "wb");
 f.write(c);
 f.close();
 }
@@ -12411,10 +12565,10 @@ void send_inv(int index)
 {
 if(index>-1)
 {
-if(!file_exists("chars/"+players[index].name+"/inv.usr") and has_shelter(players[index])==false)
-file_copy("prefs/default_inv.svr","chars/"+players[index].name+"/inv.usr",true);
+if(!file_exists(players[index].charpath()+"/inv.usr") and has_shelter(players[index])==false)
+file_copy("prefs/default_inv.svr",players[index].charpath()+"/inv.usr",true);
 file f;
-f.open("chars/"+players[index].name+"/inv.usr","rb");
+f.open(players[index].charpath()+"/inv.usr","rb");
 string inv=f.read();
 string[] invvalues=string_split(inv,"\r\n",false);
 for(uint i=0; i<invvalues.length(); i++)
@@ -12795,18 +12949,24 @@ return pls;
 }
 string get_registered_names()
 {
-string[] chars=find_directories("chars/*");
+string[] accounts=find_directories("accounts/*");
 string info;
 int reg=0;
-for(uint i=0; i<chars.length(); i++)
+int total=0;
+for(uint i=0; i<accounts.length(); i++)
 {
-if(file_exists("chars/"+chars[i]+"/reginfo.usr"))
+string[] chars=find_directories("accounts/"+accounts[i]+"/*");
+for(uint j=0; j<chars.length(); j++)
+{
+total++;
+if(file_exists("accounts/"+accounts[i]+"/"+chars[j]+"/reginfo.usr"))
 {
 reg++;
-info+=chars[i]+", ";
+info+=chars[j]+", ";
 }
 }
-return "There are "+chars.length()+" characters on the server. Out of all of them, "+reg+" are registered. They are: "+info;
+}
+return "There are "+total+" characters on the server. Out of all of them, "+reg+" are registered. They are: "+info;
 }
 void storeplay(string what, int max,int x,bool custom=false, int xx=0, int y=0, int z=0)
 {
@@ -12994,12 +13154,12 @@ return false;
 }
 bool actually_change_password(string name, string newpassword)
 {
-if(!file_exists("chars/"+name+"/password.usr")) return false;
+if(!file_exists("accounts/"+name+"/password.usr")) return false;
 else
 {
 file f;
 bool ret;
-ret=f.open("chars/"+name+"/password.usr","wb");
+ret=f.open("accounts/"+name+"/password.usr","wb");
 if(!ret) return false;
 f.write(string_hash(newpassword,2,false));
 f.close();

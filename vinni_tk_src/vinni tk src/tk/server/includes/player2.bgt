@@ -236,7 +236,7 @@ compid=cid;
 version=pver;
 ip=pip;
 ctext=compt;
-if(file_exists("chars/"+name+"/playtime.usr"))
+if(file_exists(charpath()+"/playtime.usr"))
 playtimer.force(stn(read_from(name,"playtimer.usr")));
 hidden=phid;
 if(hidden>0) is_dead=true;
@@ -663,7 +663,7 @@ return ss;
 }
 void send_inv()
 {
-string charfolder="chars/"+name;
+string charfolder=charpath();
 if(file_exists(charfolder+"/inv.usr")==false and !sheltercheck() and has_locker(this.name)==-1)
 file_copy("prefs/default_inv.svr",charfolder+"/inv.usr",true);
 file f;
@@ -1025,8 +1025,8 @@ players[i].cheatertimer.restart();
 send_reliable(players[i].peer_id,"You may now play again",0);
 players[i].playsound("confirmation");
 send_reliable(players[i].peer_id,"startmoving",0);
-file_delete("chars/"+players[i].name+"/cheater.usr");
-file_delete("chars/"+players[i].name+"/cheater.usr");
+file_delete(players[i].charpath()+"/cheater.usr");
+file_delete(players[i].charpath()+"/cheater.usr");
 }
 if(players[i].firetimer.elapsed>=players[i].firetime and players[i].firing==true and players[i].weapon!="" and players[i].newb==0 and automatic(players[i].weapon)==true and players[i].get_ammo_count(players[i].weapon)>0)
 {
@@ -1076,7 +1076,7 @@ players[i].newbtimer.restart();
 send_reliable(players[i].peer_id,"Your newbie flag has been disabled!",0);
 send_reliable(0,"notify "+players[i].nickname+" is no longer a newbie!",0);
 log("eventstream","server notification: "+players[i].nickname+" is no longer a newbie!");
-file_delete("chars/"+players[i].name+"/newb.usr");
+file_delete(players[i].charpath()+"/newb.usr");
 }
 if(players[i].following!="")
 {
@@ -1706,7 +1706,7 @@ if(vs[v].owner==pname) ret+="'s "+vs[v].type;
 }
 }
 }
-if(ret==pname&&file_exists("chars/"+pname+"/nickname.usr"))
+if(ret==pname&&file_exists(get_charpath_from(find_account_for_char(pname), pname)+"/nickname.usr"))
 {
 ret=get_char_val(pname,"nickname");
 }
@@ -1740,7 +1740,7 @@ return t.get_keys();
 bool cheatercheck(int index, bool excludepaid=false)
 {
 if(index<0) return false;
-if(file_exists("chars/"+players[index].name+"/cheater.usr")) return false; //server already caught it in reception of close
+if(file_exists(players[index].charpath()+"/cheater.usr")) return false; //server already caught it in reception of close
 bool missilesnear=false;
 for(uint i=0; i<missiles.length(); i++)
 {

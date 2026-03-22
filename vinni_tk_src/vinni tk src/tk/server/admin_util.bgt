@@ -2,12 +2,26 @@ void main()
 {
 string admin=input_box("Admin util","Please enter the name of the char you would like to make admin");
 if(admin=="") exit();
-if(!directory_exists("chars/"+admin))
+// Search accounts/ for the character
+string acct="";
+string[] accts=find_directories("accounts/*");
+for(uint i=0; i<accts.length(); i++)
+{
+if(directory_exists("accounts/"+accts[i]+"/"+admin))
+{
+acct=accts[i];
+break;
+}
+}
+string charfolder;
+if(acct!="") charfolder="accounts/"+acct+"/"+admin;
+else if(directory_exists("chars/"+admin)) charfolder="chars/"+admin;
+else
 {
 alert("Error","That player could not be found.");
 exit();
 }
-else if(file_exists("chars/"+admin+"/admin.usr"))
+if(file_exists(charfolder+"/admin.usr"))
 {
 alert("Error","This player already has admin status.");
 exit();
@@ -15,7 +29,7 @@ exit();
 else
 {
 file f;
-f.open("chars/"+admin+"/admin.usr","wb");
+f.open(charfolder+"/admin.usr","wb");
 f.close();
 alert("Success","The player "+admin+" is now an admin of the game.");
 exit();

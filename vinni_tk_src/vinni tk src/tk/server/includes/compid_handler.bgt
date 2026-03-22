@@ -35,11 +35,15 @@ return -1;
 }
 void load_compids()
 {
-string[] chars=find_directories("chars/*");
-for(uint i=0; i<chars.length(); i++)
+string[] accts=find_directories("accounts/*");
+for(uint i=0; i<accts.length(); i++)
 {
-if(file_exists("chars/"+chars[i]+"/compid.usr")==false) continue;
-string compid=file_get_contents("chars/"+chars[i]+"/compid.usr");
-add_compid(compid,chars[i]);
+string[] chars=find_directories("accounts/"+accts[i]+"/*");
+for(uint j=0; j<chars.length(); j++)
+{
+if(file_exists("accounts/"+accts[i]+"/"+chars[j]+"/compid.usr")==false) continue;
+string compid=file_get_contents("accounts/"+accts[i]+"/"+chars[j]+"/compid.usr");
+add_compid(compid,chars[j]);
+}
 }
 }

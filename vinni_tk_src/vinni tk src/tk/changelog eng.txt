@@ -1,3 +1,10 @@
+New in 2.1.0
+Redesigned the player system to separate accounts from characters. Players now create an account and then create characters within that account.
+After logging in, players see a character selection screen where they can pick an existing character or create a new one.
+Character data is now stored under accounts/{account}/{character}/ instead of chars/{name}/.
+Existing players using the old chars/ system are automatically migrated to the new accounts/ structure on login.
+The admin utility tool now supports the new account-based file structure.
+
 New in 2.0.5
 Fixed a bug where depositing a negative amount of coins into a shelter bank account would give the player coins instead of taking them.
 The admingun can now only be drawn and fired by admins or developers. Non-admin players who somehow obtain it will be blocked from using it.

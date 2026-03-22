@@ -178,7 +178,7 @@ for(uint i=0; i<invstuff.length(); i++)
 string[] parsed2=string_split(invstuff[i],"=",false);
 if(parsed2.length()==2) pl.give(parsed2[0],stn(parsed2[1]));
 }
-string charfolder="chars/"+pl.name;
+string charfolder=pl.charpath();
 file_delete(charfolder+"/oldx.usr");
 file_delete(charfolder+"/oldy.usr");
 file_delete(charfolder+"/oldz.usr");

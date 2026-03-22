@@ -228,7 +228,7 @@ while(teammembers.length()>0);
 }
 for(uint i=0; i<buffermembers.length(); i++)
 {
-file_delete("chars/"+buffermembers[i]+"/team.usr");
+file_delete(get_charpath_from(find_account_for_char(buffermembers[i]), buffermembers[i])+"/team.usr");
 }
 buffermembers.resize(0);
 }
