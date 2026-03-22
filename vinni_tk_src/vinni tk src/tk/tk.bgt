@@ -549,6 +549,9 @@ send_reliable(0,"/beacon",1);
 }
 else
 {
+if(motd!="")
+show_motd_ingame(motd);
+else
 send_reliable(0,"motd",0);
 }
 }

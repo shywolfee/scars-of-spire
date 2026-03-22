@@ -11,11 +11,11 @@ if(string_hash(motd,2,false)!=motdhash)
 {
 motdhash=string_hash(motd,2,false);
 p.play_stationary("motdstart.wav",false);
-dlg("Message of the day: "+motd);
-sound m;
-m.load("motdend.wav");
-m.play_wait();
-m.close();
+motd_form("Message of the Day", motd);
+sound ms;
+ms.load("motdend.wav");
+ms.play_wait();
+ms.close();
 return;
 }
 }
@@ -29,5 +29,39 @@ if(hash!=motdhash)
 motdhash=hash;
 dlgplay(motd,true,15, false);
 }
+}
+}
+void motd_form(string title, string message)
+{
+audio_form f;
+f.create_window(title, true, true);
+f.create_status_bar("Message", message);
+int btn_ok=f.create_button("&OK", true, true);
+while(true)
+{
+f.monitor();
+if(f.is_pressed(btn_ok))
+{
+f.reset();
+return;
+}
+wait(5);
+}
+}
+void show_motd_ingame(string message)
+{
+audio_form f;
+f.create_window("Message of the Day", true, true);
+f.create_status_bar("Message", message);
+int btn_ok=f.create_button("&OK", true, true);
+while(true)
+{
+f.monitor();
+if(f.is_pressed(btn_ok))
+{
+f.reset();
+return;
+}
+wait(5);
 }
 }
