@@ -236,6 +236,10 @@ void create_character_form()
 audio_form f;
 f.create_window("Create Character", true, true);
 int inp_name=f.create_input_box("Character &name:");
+int lst_gender=f.create_list("&Gender:");
+f.add_list_item(lst_gender, "Male", -1, true);
+f.add_list_item(lst_gender, "Female");
+f.add_list_item(lst_gender, "Other");
 int btn_create=f.create_button("C&reate", true);
 int btn_cancel=f.create_button("&Cancel", false, true);
 while(true)
@@ -250,10 +254,11 @@ speak("Character name cannot be empty or contain spaces");
 }
 else
 {
+string gender=f.get_text(lst_gender);
 charname=cname;
 f.reset();
 speak("Creating character...");
-send_reliable(0, "makechar "+cname, 0);
+send_reliable(0, "makechar "+cname+" "+gender, 0);
 return;
 }
 }

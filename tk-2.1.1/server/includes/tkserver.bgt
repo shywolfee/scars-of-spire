@@ -5578,7 +5578,9 @@ pick_character(e.peer_id, parsed[1]);
 }
 else if(parsed[0]=="makechar" and parsed.length()>1)
 {
-create_character(e.peer_id, parsed[1]);
+string gender="Other";
+if(parsed.length()>2) gender=parsed[2];
+create_character(e.peer_id, parsed[1], gender);
 }
 else if(parsed[0]=="cheatengine" or parsed[0]=="speedhacking")
 {
@@ -7124,409 +7126,409 @@ players[index].snowballtimer.restart();
 }
 if(wname=="knife")
 {
-if( players[index].weapon=="knife"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="knife"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw knife",0);
 }
 if(wname=="nunchaku")
 {
-if( players[index].weapon=="nunchaku"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="nunchaku"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw nunchaku",0);
 }
 if(wname=="rusty_axe")
 {
-if( players[index].weapon=="rusty_axe"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="rusty_axe"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw rusty_axe",0);
 }
 if(wname=="rusty_scalpel")
 {
-if( players[index].weapon=="rusty_scalpel"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="rusty_scalpel"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw rusty_scalpel",0);
 }
 if(wname=="studded_boots")
 {
-if( players[index].weapon=="studded_boots"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="studded_boots"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw studded_boots",0);
 }
 if(wname=="garden_spade")
 {
-if( players[index].weapon=="garden_spade"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="garden_spade"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw garden_spade",0);
 }
 if(wname=="spiked_bat")
 {
-if( players[index].weapon=="spiked_bat"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="spiked_bat"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw spiked_bat",0);
 }
 if(wname=="steal_warhammer")
 {
-if( players[index].weapon=="steal_warhammer"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="steal_warhammer"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw steal_warhammer",0);
 }
 if(wname=="spiked_chain_mace")
 {
-if( players[index].weapon=="spiked_chain_mace"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="spiked_chain_mace"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw spiked_chain_mace",0);
 }
 if(wname=="small_hammer")
 {
-if( players[index].weapon=="small_hammer"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="small_hammer"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw small_hammer",0);
 }
 if(wname=="small_iron_club")
 {
-if( players[index].weapon=="small_iron_club"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="small_iron_club"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw small_iron_club",0);
 }
 if(wname=="small_dagger")
 {
-if( players[index].weapon=="small_dagger"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="small_dagger"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw small_dagger",0);
 }
 if(wname=="small_sabre")
 {
-if( players[index].weapon=="small_sabre"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="small_sabre"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw small_sabre",0);
 }
 if(wname=="sky_372_laser_machinegun")
 {
-if( players[index].weapon=="sky_372_laser_machinegun"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="sky_372_laser_machinegun"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw sky_372_laser_machinegun",0);
 }
 if(wname=="sky_429_laser_shotgun")
 {
-if( players[index].weapon=="sky_429_laser_shotgun"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="sky_429_laser_shotgun"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw sky_429_laser_shotgun",0);
 }
 if(wname=="cop_357_derringer_pistol")
 {
-if( players[index].weapon=="cop_357_derringer_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="cop_357_derringer_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw cop_357_derringer_pistol",0);
 }
 if(wname=="sky_28_laser")
 {
-if( players[index].weapon=="sky_28_laser"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="sky_28_laser"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw sky_28_laser",0);
 }
 if(wname=="beretta_m1951_machine_pistol")
 {
-if( players[index].weapon=="beretta_m1951_machine_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="beretta_m1951_machine_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw beretta_m1951_machine_pistol",0);
 }
 if(wname=="glock_17_pistol")
 {
-if( players[index].weapon=="glock_17_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="glock_17_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw glock_17_pistol",0);
 }
 if(wname=="sig_p226_combat_pistol")
 {
-if( players[index].weapon=="sig_p226_combat_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="sig_p226_combat_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw sig_p226_combat_pistol",0);
 }
 if(wname=="modern_sub_machine_gun_carbine")
 {
-if( players[index].weapon=="modern_sub_machine_gun_carbine"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="modern_sub_machine_gun_carbine"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw modern_sub_machine_gun_carbine",0);
 }
 if(wname=="stp21_handgun")
 {
-if( players[index].weapon=="stp21_handgun"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="stp21_handgun"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw stp21_handgun",0);
 }
 if(wname=="m79_grenade_launcher")
 {
-if( players[index].weapon=="m79_grenade_launcher"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="m79_grenade_launcher"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw m79_grenade_launcher",0);
 }
 if(wname=="fnminimilight")
 {
-if( players[index].weapon=="fnminimilight"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="fnminimilight"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw fnminimilight",0);
 }
 if(wname=="str_301_long_barreled_machine_pistol")
 {
-if( players[index].weapon=="str_301_long_barreled_machine_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="str_301_long_barreled_machine_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw str_301_long_barreled_machine_pistol",0);
 }
 if(wname=="barrett_m82_sniper_rifle")
 {
-if( players[index].weapon=="barrett_m82_sniper_rifle"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="barrett_m82_sniper_rifle"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw barrett_m82_sniper_rifle",0);
 }
 if(wname=="crt43_automatic_shotgun")
 {
-if( players[index].weapon=="crt43_automatic_shotgun"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="crt43_automatic_shotgun"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw crt43_automatic_shotgun",0);
 }
 if(wname=="beretta_nano_pocket_pistol")
 {
-if( players[index].weapon=="beretta_nano_pocket_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="beretta_nano_pocket_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw beretta_nano_pocket_pistol",0);
 }
 if(wname=="shotgun")
 {
-if( players[index].weapon=="shotgun"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="shotgun"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw shotgun",0);
 }
 if(wname=="mlk_207_combat_rifle")
 {
-if( players[index].weapon=="mlk_207_combat_rifle"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="mlk_207_combat_rifle"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw mlk_207_combat_rifle",0);
 }
 if(wname=="stp106_long_barreled_pistol")
 {
-if( players[index].weapon=="stp106_long_barreled_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="stp106_long_barreled_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw stp106_long_barreled_pistol",0);
 }
 if(wname=="colt_ar_15_assault_rifle")
 {
-if( players[index].weapon=="colt_ar_15_assault_rifle"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="colt_ar_15_assault_rifle"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw colt_ar_15_assault_rifle",0);
 }
 if(wname=="cyanide_pistol")
 {
-if( players[index].weapon=="cyanide_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="cyanide_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw cyanide_pistol",0);
 }
 if(wname=="str_32_pump_action_shotgun")
 {
-if( players[index].weapon=="str_32_pump_action_shotgun"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="str_32_pump_action_shotgun"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw str_32_pump_action_shotgun",0);
 }
 if(wname=="pistol")
 {
-if( players[index].weapon=="pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw pistol",0);
 }
 if(wname=="sky_386_laser_assault_rifle")
 {
-if( players[index].weapon=="sky_386_laser_assault_rifle"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="sky_386_laser_assault_rifle"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw sky_386_laser_assault_rifle",0);
 }
 if(wname=="sky_286_laser_pistol")
 {
-if( players[index].weapon=="sky_286_laser_pistol"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="sky_286_laser_pistol"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw sky_286_laser_pistol",0);
 }
 if(wname=="scissor_blade")
 {
-if( players[index].weapon=="scissor_blade"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="scissor_blade"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw scissor_blade",0);
 }
 if(wname=="machete")
 {
-if( players[index].weapon=="machete"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="machete"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw machete",0);
 }
 if(wname=="large_iron_club")
 {
-if( players[index].weapon=="large_iron_club"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="large_iron_club"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw large_iron_club",0);
 }
 if(wname=="crow_bar")
 {
-if( players[index].weapon=="crow_bar"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="crow_bar"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw crow_bar",0);
 }
 if(wname=="long_sword")
 {
-if( players[index].weapon=="long_sword"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="long_sword"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw long_sword",0);
 }
 if(wname=="iron_shovel")
 {
-if( players[index].weapon=="iron_shovel"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="iron_shovel"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw iron_shovel",0);
 }
 if(wname=="hammer")
 {
-if( players[index].weapon=="hammer"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="hammer"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw hammer",0);
 }
 if(wname=="golden_war_axe")
 {
-if( players[index].weapon=="golden_war_axe"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="golden_war_axe"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw golden_war_axe",0);
 }
 if(wname=="broken_rifle")
 {
-if( players[index].weapon=="broken_rifle"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="broken_rifle"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw broken_rifle",0);
 }
 if(wname=="crt17_combat_knife")
 {
-if( players[index].weapon=="crt17_combat_knife"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="crt17_combat_knife"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw crt17_combat_knife",0);
 }
 if(wname=="brass_knuckles")
 {
-if( players[index].weapon=="brass_knuckles"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="brass_knuckles"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw brass_knuckles",0);
 }
 if(wname=="spear")
 {
-if( players[index].weapon=="spear"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="spear"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw spear",0);
 }
 if(wname=="short_sword")
 {
-if( players[index].weapon=="short_sword"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="short_sword"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw short_sword",0);
 }
 if(wname=="taser")
 {
-if( players[index].weapon=="taser"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="taser"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw taser",0);
 }
 if(wname=="crossbow")
 {
-if( players[index].weapon=="crossbow"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="crossbow"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw crossbow",0);
 }
 if(wname=="gauss")
 {
-if( players[index].weapon=="gauss"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="gauss"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw gauss",0);
 }
 if(wname=="throwing_knives")
 {
-if( players[index].weapon=="throwing_knives"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="throwing_knives"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw throwing_knives",0);
 }
 if(wname=="sniper")
 {
-if( players[index].weapon=="sniper"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="sniper"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw sniper",0);
 }
 if(wname=="awp")
 {
-if( players[index].weapon=="awp"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="awp"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw awp",0);
 }
 if(wname=="m16_assault_rifle")
 {
-if( players[index].weapon=="m16_assault_rifle"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="m16_assault_rifle"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw m16_assault_rifle",0);
 }
 if(wname=="gp30")
 {
-if( players[index].weapon=="gp30"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="gp30"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw gp30",0);
 }
 if(wname=="ags30")
 {
-if( players[index].weapon=="ags30"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="ags30"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw ags30",0);
 }
 if(wname=="rpg7")
 {
-if( players[index].weapon=="rpg7"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="rpg7"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw rpg7",0);
 }
 if(wname=="hand_cannon")
 {
-if( players[index].weapon=="hand_cannon"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="hand_cannon"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw hand_cannon",0);
 }
 if(wname=="nak_nk1000_decimater")
 {
-if( players[index].weapon=="nak_nk1000_decimater"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="nak_nk1000_decimater"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw nak_nk1000_decimater",0);
 }
 if(wname=="cannon")
 {
-if( players[index].weapon=="cannon"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="cannon"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw cannon",0);
 }
 if(wname=="rocket_launcher")
 {
-if( players[index].weapon=="rocket_launcher"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="rocket_launcher"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw rocket_launcher",0);
 }
 if(wname=="stp_m4_combat_knife")
 {
-if( players[index].weapon=="stp_m4_combat_knife"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="stp_m4_combat_knife"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw stp_m4_combat_knife",0);
 }
 if(wname=="zulfikar")
 {
-if( players[index].weapon=="zulfikar"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="zulfikar"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw zulfikar",0);
 }
 if(wname=="storm_sniper")
 {
-if( players[index].weapon=="storm_sniper"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="storm_sniper"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw storm_sniper",0);
 }
 if(wname=="the_legendary_sword")
 {
-if( players[index].weapon=="the_legendary_sword"||players[index].sitting==1||in_vehicle(players[index].name)>-1||players[index].reloading) return;
+if( players[index].weapon=="the_legendary_sword"||in_vehicle(players[index].name)>-1||players[index].reloading) return;
 takeobj=false;
 send_reliable(players[index].peer_id,"draw the_legendary_sword",0);
 }
@@ -10322,8 +10324,6 @@ if(players[index].health>=2500)
 {
 add_achievement("Survived a fall with 50 percent default health",index,"1 antibiotic_pack");
 }
-players[index].sitting=1;
-send_reliable(players[index].peer_id,"sitstart",0);
 }
 }
 else if(parsed[0]=="land")
@@ -11465,34 +11465,6 @@ if(index>-1)
 send_reliable(players[index].peer_id,"You have "+players[index].air+" air. This should last you about "+ms_to_readable_time(players[index].air*3500),0);
 }
 }
-else if(parsed[0]=="sitstand")
-{
-int index=get_player_index(e.peer_id);
-if(index>-1)
-{
-players[index].sitting=toggle(players[index].sitting);
-if(players[index].sitting==1)
-{
-spawn_bodyfall(players[index].x,players[index].y,players[index].z,players[index].map,500,index);
-players[index].playsound("sit");
-}
-else
-{
-if(players[index].drunk==true)
-{
-int r=random(-50, 100);
-if(r>49)
-{
-send_reliable(players[index].peer_id,"you can't stand up!",0);
-spawn_bodyfall(players[index].x,players[index].y,players[index].z,players[index].map,500,index);
-}
-}
-players[index].playsound("sit1");
-players[index].playsound("stand"+random(1,3));
-spawn_timepacket(players[index].peer_id,"sitstop",0,1000);
-}
-}
-}
 else if(parsed[0]=="newlocker" and parsed.length()>1)
 {
 int index=get_player_index(e.peer_id);
@@ -12260,7 +12232,7 @@ send_reliable(id, "motd "+motd(), 0);
 log("connections",charname+" (account: "+account+") logged in.",true,true);
 send_reliable(id, "loggedin", 0);
 }
-void create_character(uint id, string charname)
+void create_character(uint id, string charname, string gender="Other")
 {
 string account=get_authenticated(id);
 if(account=="")
@@ -12319,6 +12291,9 @@ c.write(random(0,30));
 c.close();
 c.open(charfolder+"/z.usr","wb");
 c.write("0");
+c.close();
+c.open(charfolder+"/gender.usr","wb");
+c.write(gender);
 c.close();
 send_reliable(id,"charcreated",0);
 send_reliable(0,"play_s notify_applause.ogg",0);

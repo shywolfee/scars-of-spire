@@ -1,3 +1,11 @@
+New in 2.2.0
+Players can now select their gender (Male, Female, or Other) when creating a character.
+Removed the sitting/standing system. Players can no longer sit or stand, and weapon restrictions tied to sitting have been removed.
+Removed the minimum version check from the server login process.
+Removed all references to darkserver.ru, which was causing long load times due to failed connection attempts.
+Removed the server backup file to eliminate duplicate code maintenance.
+Renamed window title from "The killer" to "TK".
+
 New in 2.1.1
 Fixed a bug where the charname variable was not declared in includes/net.bgt, causing a compilation error when entering the game.
 Restructured project directory: removed triple-nested vinni_tk_src/vinni tk src/tk/ and renamed to tk-2.1.1/.

@@ -82,7 +82,7 @@ int beaconing=0;
 timer chattimer;
 bool x=false;
 bool pinging=false;
-string netver="2.1.1";
+string netver="2.2.0";
 bool dead=false;
 bool connected,playing;
 bool creating;
@@ -112,7 +112,7 @@ double volumestream=5000;
 int w;
 bool overrun=false;
 DFSpeech df_s;
-string ver="2.1.1";
+string ver="2.2.0";
 string name;
 string password;
 double facing=0.0;
@@ -405,11 +405,6 @@ doorcheck();
 }
 {
 auto_moovercheck();
-}
-if(key_pressed(KEY_S) and posetimer.elapsed>=400 and can_move==true&&!inve)
-{
-posetimer.restart();
-send_reliable(0,"sitstand",0);
 }
 if(key_pressed(KEY_X) and can_move==false)
 {
@@ -812,7 +807,7 @@ controling_remgun=false;
 send_reliable(0,"destrem",0);
 send_reliable(0,"remdisconnect",0);
 }
-if(key_pressed(KEY_SPACE) and jumping==false and canjump==1 and falling==false and can_move==true and inve==false and sitting==0)
+if(key_pressed(KEY_SPACE) and jumping==false and canjump==1 and falling==false and can_move==true and inve==false)
 {
 if(bike==true) send_reliable(0,"bicyclebell",0);
 if(controling_remgun) send_reliable(0,"firerem",0);
@@ -930,9 +925,9 @@ string g;
 speak(mr.x+", "+mr.y+", "+me.z+". "+g);
 }
 // Press arrow for step, walk and turn.
-if (!inve and key_up(KEY_G) and sitting==0)
+if (!inve and key_up(KEY_G))
 { // Running.
-if(walktimer.elapsed>movetime and can_move==true and !inve and key_up(KEY_G) and sitting==0)
+if(walktimer.elapsed>movetime and can_move==true and !inve and key_up(KEY_G))
 {
 if(key_down(KEY_PRIOR) and jumping==false)
 {
@@ -1777,14 +1772,6 @@ else if(parsed[0]=="killtree" and parsed.length()>1)
 int tr=find_tree(stn(parsed[1]));
 if(tr>-1)
 trees[tr].killed=true;
-}
-else if(parsed[0]=="sitstart")
-{
-sitting=1;
-}
-else if(parsed[0]=="sitstop")
-{
-sitting=0;
 }
 else if(parsed[0]=="weaponlist" and parsed.length>1)
 {
