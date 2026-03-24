@@ -1,5 +1,7 @@
 New in 2.1.1
 Fixed a bug where the charname variable was not declared in includes/net.bgt, causing a compilation error when entering the game.
+Restructured project directory: removed triple-nested vinni_tk_src/vinni tk src/tk/ and renamed to tk-2.1.1/.
+Synced updated source files (net, buffer, dateandtime, menu, updater) into includes/, replacing original unmodified versions.
 
 New in 2.1.0
 Redesigned the player system to separate accounts from characters. Players now create an account and then create characters within that account.
