@@ -7688,6 +7688,53 @@ players[index].shieldshots+=random(8,30);
 play("shieldon",players[index].x,players[index].y,players[index].z,players[index].map);
 }
 }
+if(wname=="watch")
+{
+takeobj=false;
+send_reliable(players[index].peer_id,"The current date is "+get_date(true,false)+", and the time is "+get_time(),0);
+}
+if(wname=="shield_remover")
+{
+if(players[index].shieldshots<=0)
+{
+takeobj=false;
+send_reliable(players[index].peer_id,"You don't have any shielded shots to remove",0);
+return;
+}
+players[index].shieldshots=0;
+players[index].shielded=false;
+play("shieldbreak1",players[index].x,players[index].y,players[index].z,players[index].map);
+send_reliable(players[index].peer_id,"All shielded shots have been removed",0);
+}
+if(wname=="ammo_synthesis_machine")
+{
+if(players[index].weapon=="")
+{
+takeobj=false;
+send_reliable(players[index].peer_id,"You need to have a weapon drawn to use this",0);
+return;
+}
+players[index].ammo_give(players[index].weapon,25);
+players[index].playsound("antibiotic");
+send_reliable(players[index].peer_id,"25 rounds of ammo synthesized for your "+string_replace(players[index].weapon,"_"," ",true),0);
+}
+if(wname=="rejuvenation_dart")
+{
+int healed=0;
+for(uint i=0; i<players.length(); i++)
+{
+if(players[i].is_dead or players[i].map!=players[index].map) continue;
+if(get_3d_distance(players[index].x,players[index].y,players[index].z,players[i].x,players[i].y,players[i].z)<=10)
+{
+players[i].health+=10000;
+if(players[i].health>100000) players[i].health=100000;
+send_reliable(players[i].peer_id,"You have been healed by a rejuvenation dart!",0);
+healed+=1;
+}
+}
+play("ultrapotion",players[index].x,players[index].y,players[index].z,players[index].map);
+send_reliable(players[index].peer_id,"Rejuvenation dart healed "+healed+" players",0);
+}
 if(wname=="fire_extinguisher")
 {
 play("fire_extinguisher",players[index].x,players[index].y,players[index].z,players[index].map);
@@ -12446,8 +12493,9 @@ players[index].is_dead=false;
 players[index].storetimer.restart();
 players[index].storestage=1;
 players[index].oldhealth=players[index].health;
-//players[index].sitting=0;
-//send_reliable(players[index].peer_id,"sitstart",0);
+players[index].respawn_immune=true;
+players[index].respawn_immunity_timer.restart();
+players[index].stun_count=0;
 players[index].statchangetimer.force(60000);
 }
 void move_player(player@p, string map, int x, int y, int z, bool sound=true,bool command=false,int sindex=-1)

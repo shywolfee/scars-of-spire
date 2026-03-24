@@ -38,6 +38,10 @@ timer unstuntrytimer;timer storetimer;
 timer spamtimer;
 int spammedmsgs;
 int stuntime;
+int stun_count=0;
+timer stun_count_timer;
+timer respawn_immunity_timer;
+bool respawn_immune=false;
 int workingammo;
 int food;
 int bikehelmet=0;
@@ -905,19 +909,35 @@ return amount;
 }
 void stun(int ms,bool playafter=false,bool fall=false,int cooldown=0)
 {
+if(this.respawn_immune and this.respawn_immunity_timer.elapsed<60000)
+{
+return;
+}
+if(this.respawn_immune and this.respawn_immunity_timer.elapsed>=60000)
+{
+this.respawn_immune=false;
+}
 if(this.stunagaintimer.elapsed<=this.stunagaintime)
 {
 return;
 }
-else
+if(this.stun_count_timer.elapsed>=120000)
 {
+this.stun_count=0;
+this.stun_count_timer.restart();
+}
+if(this.stun_count>=5)
+{
+return;
+}
 this.stunagaintime=0;
 this.stunagaintimer.restart();
-}
+if(ms>5000) ms=5000;
 send_reliable(peer_id,"stopmoving",0);
 stunned=true;
 stuntime=ms;
 stuntimer.restart();
+this.stun_count+=1;
 this.stunagaintime=ms+cooldown;
 unstunplay=playafter;
 if(fall==true) {

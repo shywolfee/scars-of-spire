@@ -63,6 +63,10 @@ fire_starter=100=just a fire starter=misc_store
 flair=60=just a flair=misc_store
 locker_pack=80000=locker_pack=misc_store
 locker_security_booster=20000=security booster for lockers=misc_store
+watch=50=Tells you the current date and time when used=misc_store
+shield_remover=100=Removes all of your shielded shots=misc_store
+ammo_synthesis_machine=500=Synthesizes 25 rounds of ammo for whatever weapon you have drawn=misc_store
+rejuvenation_dart=800=Heals all players within 10 tiles by 10000 HP=misc_store
 mini_antibiotic_pack=20=A pack of 15 antibiotics=medical_store
 antibiotic_pack=120=A normal pack of 30 antibiotics=medical_store
 ultra_antibiotic_pack=800=A pack of antibiotics containing 60 antibiotics=medical_store

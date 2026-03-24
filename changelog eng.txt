@@ -1,3 +1,12 @@
+New in 2.3.0
+Anti-stunlock: Players can no longer be stunned for more than 5 seconds at a time.
+Anti-stunlock: Players can only be stunned a maximum of 5 times every 2 minutes.
+Anti-stunlock: Players are immune to stuns for 1 minute after dying and respawning.
+New item: Watch. Tells you the current date and time when used. Available in the misc store.
+New item: Shield remover. Removes all of your shielded shots. Available in the misc store.
+New item: Ammo synthesis machine. Synthesizes 25 rounds of ammo for whatever weapon you have drawn. Available in the misc store.
+New item: Rejuvenation dart. Heals all players within 10 tiles by 10000 HP. Available in the misc store.
+
 New in 2.2.0
 Players can now select their gender (Male, Female, or Other) when creating a character.
 Removed the sitting/standing system. Players can no longer sit or stand, and weapon restrictions tied to sitting have been removed.
