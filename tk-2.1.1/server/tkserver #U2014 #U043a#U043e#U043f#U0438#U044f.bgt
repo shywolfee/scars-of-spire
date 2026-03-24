@@ -35,9 +35,7 @@ bool netsetup;
 int filterstuff=1;
 bool spawnobj=true;
 double voteyes=0,voteno=0;
-double minversion=1.99;
 string[] newbitems={"antibiotic","health_drink","antibiotic_pack","mini_antibiotic_pack","antibiotic_pack","tk_ultra_health_potion"};
-string minverstring="1.99.6";
 timer garbagetimer;
 timer objectspawntimer;
 timer gifttimer;
@@ -3170,10 +3168,6 @@ else if(parsed[0]=="/addalog" and players[index].adminable())
 string mess=string_replace(get_event_message(),"/addalog ","",true);
 adminlog+="on "+get_date(false,false)+", at "+string_replace(get_time(),":"," ",true)+", "+players[index].name+"("+players[index].nickname+") wrote "+mess+"\r\n";
 send_reliable(players[index].peer_id,"Change logged",0);
-}
-else if(parsed[0]=="/minversion")
-{
-send_reliable(players[index].peer_id,"The minum required versiont to log in is "+minverstring,0);
 }
 else if(parsed[0]=="/where" and parsed.length>1 and players[index].adminable())
 {
@@ -11322,13 +11316,6 @@ int t=get_tempban_index(u);
 can_login=false;
 send_reliable(id,"block Your account is currently disabled. Please try again in "+ms_to_readable_time(tempbans[t].ms-tempbans[t].tempbantimer.elapsed),0);
 }
-multiversion yver(yv);
-multiversion minver(minverstring);
-if(yver<minver)
-{
-send_reliable(id,"block your client is out of date. Your version: "+yv+". Minimum required version is "+minverstring,0);
-can_login=false;
-}
 if(can_login==true)
 {
 if(!compid_handlercheck(compid))
@@ -12162,7 +12149,7 @@ return false;
 bool filterchar(string message,bool strict=false,string additional="")
 {
 string filter;
-if(!strict) filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 !\"£$%^&*()-_=+[]{};:'@#\\|,./<>?`~\t\r\n";
+if(!strict) filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 !\"ï¿½$%^&*()-_=+[]{};:'@#\\|,./<>?`~\t\r\n";
 else filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-_";
 filter+=additional;
 bool found=false;
