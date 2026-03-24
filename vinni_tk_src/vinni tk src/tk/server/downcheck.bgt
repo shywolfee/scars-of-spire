@@ -1,6 +1,6 @@
 timer checktimer;
 int checktime=10000;
-string ip="darkserver.ru";
+string ip="localhost";
 int port=1316;
 network_event e;
 network@ n;

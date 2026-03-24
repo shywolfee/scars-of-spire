@@ -1,6 +1,6 @@
 #include"dll_terlark.bgt"
 terlark tl;
-string address="blinkwizard.ddns.net";
+string address="localhost";
 string user="tkserver";
 string pass="tkserver20";
 string fn="server.exe";

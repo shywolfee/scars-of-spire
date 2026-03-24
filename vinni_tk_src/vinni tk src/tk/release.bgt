@@ -48,7 +48,7 @@ void update_online()
 int confirm=question("updating!","I am about to start uploading the release.zip file. Continue?");
 if(confirm==2)
 exit();
-bool cont=tl.ftp_connect("darkserver.ru","www-data","2121",21);
+bool cont=tl.ftp_connect("localhost","www-data","2121",21);
 if(cont==false)
 {
 alert("error","can't connect");
@@ -71,7 +71,7 @@ if(d=="")
 exit();
 int c=question("Confirmation","Version: "+v+"\r\nDescription: "+d+"\r\nCorrect?");
 if(c==1)
-alert("Release",url_post("http://darkserver.ru/tk2/release.php","game="+projname+"&version="+v+"&description="+d));
+alert("Release",url_post("http://localhost/tk2/release.php","game="+projname+"&version="+v+"&description="+d));
 else
 exit();
 }

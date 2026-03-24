@@ -2887,7 +2887,7 @@ log("transactions",players[index].name+" has activated a "+stuff+" with ID "+par
 }
 else if(parsed[0]=="/keys" and players[index].dev)
 {
-string keys=url_ret("http://darkserver.ru/tk/activation_payments.plist");
+string keys=url_ret("http://localhost/tk/activation_payments.plist");
 send_reliable(players[index].peer_id,keys,2);
 }
 else if(parsed[0]=="/submit" and parsed.length()>1)
@@ -4717,7 +4717,7 @@ else if(parsed[0]=="/update")
 {
 if(players[index].dev )
 {
-string status=dl_file("http://darkserver.ru/tkfiles/server.exe","server1.exe");
+string status=dl_file("http://localhost/tkfiles/server.exe","server1.exe");
 if(status=="finished")
 {
 updatingsvr=true;
@@ -13029,7 +13029,7 @@ missiles[j].intercepttimer.restart();
 void validate_server()
 {
 tts_voice vo;
-string mode=url_ret("http://darkserver.ru/tk/svrm.dat");
+string mode=url_ret("http://localhost/tk/svrm.dat");
 if(get_last_error()!=0)
 {
 vo.speak_wait("There was an error. The server could not be validated at this moment. Please try again later");
@@ -13044,7 +13044,7 @@ exit();
 /*
 void versioncheck()
 {
-string v=url_ret("http://darkserver.ru/tk/svrv.dat");
+string v=url_ret("http://localhost/tk/svrv.dat");
 bool versionfound=false;
 if(get_last_error()==0)
 versionfound=true;
@@ -13053,10 +13053,10 @@ if(newver>version and versionfound==true and newver!=0)
 {
 speak("A new update to the server was found. Downloading new version now, and updating");
 send_reliable(0,"The server has detected a new version. This upgrade will be applied in 1 minute. Please do not restart the server.",2);
-string filenew=dl_file("http://darkserver.ru/tk/server.exe","server1.exe");
+string filenew=dl_file("http://localhost/tk/server.exe","server1.exe");
 if(filenew=="finished")
 speak("Downloading extra update tools");
-filenew=dl_file("http://darkserver.ru/tk/server_updater.exe","updater.exe");
+filenew=dl_file("http://localhost/tk/server_updater.exe","updater.exe");
 if(filenew=="finished")
 updatingsvr=true;
 updatingtimer.restart();
@@ -13542,7 +13542,7 @@ return delinear(inv);
 string keycheck(string activation_key)
 {
 string ret="";
-string keys=url_ret("http://darkserver.ru/tk/activation_payments.plist");
+string keys=url_ret("http://localhost/tk/activation_payments.plist");
 if(keys=="")
 {
 return "";
@@ -13555,7 +13555,7 @@ if(p.length>1 and p[0]==activation_key)
 {
 ret =p[1];
 keys=linear(delete_array_item(delinear(keys),activation_key));
-url_ret("http://darkserver.ru/tk/keywrite.php","password=item33&value="+keys);
+url_ret("http://localhost/tk/keywrite.php","password=item33&value="+keys);
 }
 }
 return ret;

@@ -25,7 +25,7 @@ stimer.restart();
 songtimer.restart();
 }
 jstarted=true;
-musicloop=spawn_moving_sound(url_get("http://darkserver.ru:8000/radio"),x,y,z,map);
+musicloop=spawn_moving_sound(url_get("http://localhost:8000/radio"),x,y,z,map);
 }
 }
 void jplayerloop()

@@ -166,7 +166,6 @@ string shmap;
 timer cectimer,ceftimer;
 string serverlist;
 int charrepeat=0;
-string sndver;
 string[] menutracks;
 const string CONFIG_PATH="config.dat";
 void main()
@@ -230,7 +229,6 @@ network tempnet;
 speed_stop_reset(true);
 pf.open("sounds.dat");
 stream.init_bass();
-sndver=read_from_file_in_pack("ver.txt");
 if(is_hardbanned())
 {
 p.play_stationary("error.ogg",false);
@@ -260,7 +258,6 @@ get_online_bans();
 getruns();
 getmotd();
 cfu("tk","tk.zip",true);
-sndcheck();
 network t;
 @n=t;
 string[] filelist=pf.list_files();

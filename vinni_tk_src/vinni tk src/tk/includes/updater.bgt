@@ -4,7 +4,7 @@ void cfu(string name, string zipname, bool silent)
 {
 sound updating;
 speak("checking version...");
-string l=get_from_url("http://darkserver.ru/tk2/version.txt");
+string l=get_from_url("http://localhost/tk2/version.txt");
 string[] latest=string_split(l,".",true);
 double version=string_to_number(latest[0]);
 double subversion;
@@ -29,7 +29,7 @@ mainmenu();
 }
 else if (yv<version or sb<subversion or b<build)
 {
-string description=get_from_url("http://darkserver.ru/tk2/description.txt");
+string description=get_from_url("http://localhost/tk2/description.txt");
 updating.stream("updating.ogg");
 updating.volume=-15;
 p.play_stationary("update.ogg",false);
@@ -38,7 +38,7 @@ int q=yesno("New update "+l+" has been found! Description: "+description+"\r\nWo
 if (q==1)
 {
 updating.play_looped();
-string status=dl_file("http://darkserver.ru/tk2/"+zipname,zipname);
+string status=dl_file("http://localhost/tk2/"+zipname,zipname);
 //download_file_as("http://modified-games.ru/"+name+"/"+zipname,zipname);
 if(status=="finished")
 {
@@ -47,26 +47,6 @@ p.play_stationary("updated.ogg",false);
 run("replacer.exe","",true,true);
 exit();
 }
-}
-}
-}
-void sndcheck()
-{
-string latest=get_from_url("http://darkserver.ru/tk2/soundsver.txt");
-double lv=string_to_number(latest);
-string[] yourversion=string_split(sndver," ",true);
-double yv=string_to_number(yourversion[0]);
-if (yv<lv or !file_exists("sounds.dat"))
-{
-dlg("New sounds available. Press enter to download now");
-string status=dl_file("http://darkserver.ru/tk2/sounds.dat","sounds.dat",false,"Downloading new sounds version "+lv+"...");
-if (status=="finished")
-{
-if(!SCRIPT_COMPILED)
-run("c:\\windows\\explorer.exe","\""+get_script_path()+"\"",false,false);
-else
-run(get_script_path(),"",false,false);
-exit();
 }
 }
 }

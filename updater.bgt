@@ -49,23 +49,3 @@ void cfu(string name, string zipname, bool silent)
 }
 }
 }
-void sndcheck()
-{
-string latest=get_from_url("http://mythology-zone.freevar.com/mythic_relm/soundsver.txt");
-double lv=string_to_number(latest);
-string[] yourversion=string_split(sndver," ",true);
-double yv=string_to_number(yourversion[0]);
-if (yv<lv or !file_exists("sounds.dat"))
-{
-dlg("New sounds available. Press enter to download now");
-string status=dl_file("http://mythology-zone.freevar.com/mythic_relm/sounds.dat","sounds.dat",false,"Downloading new sounds version "+lv+"...");
-if (status=="finished")
-{
-if(!SCRIPT_COMPILED)
-run("c:\\windows\\explorer.exe","\""+get_script_path()+"\"",false,false);
-else
-run(get_script_path(),"",false,false);
-exit();
-}
-}
-}

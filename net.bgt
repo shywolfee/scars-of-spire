@@ -1,4 +1,4 @@
-string netaddress="darkserver.ru";
+string netaddress="localhost";
 int netport=1316;
 uint peer_id=0;
 string oldservers;

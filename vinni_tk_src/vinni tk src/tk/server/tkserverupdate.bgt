@@ -9,7 +9,7 @@ network net;
 string key="upload";
 int found_reader=0;
 network_event event;
-string netaddress="blinkwizard.ddns.net";
+string netaddress="localhost";
 int netport=45533;
 bool connected=false;
 bool beta=false;
