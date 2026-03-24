@@ -1,4 +1,4 @@
-#include"includes.bgt"
+#include"../includes.bgt"
 ip_locale l;
 bool varified=false;
 bool fireon;
