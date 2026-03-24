@@ -1,5 +1,5 @@
 string motdhash;
-string webdir="http://darkserver.ru/tk2/motd";
+string webdir="";
 void getmotd()
 {
 string mode=url_get(webdir+"/mode.txt");

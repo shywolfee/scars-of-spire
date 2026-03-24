@@ -3,7 +3,7 @@ tts_voice tts;
 network net;
 int found_reader=0;
 network_event event;
-string netaddress="darkserver.ru";
+string netaddress="localhost";
 int netport=51642;
 void main()
 {

@@ -12,17 +12,8 @@ exit();
 show_game_window("TK updater");
 string ver="1.0";
 speak("Downloading update...");
-string d=dl_file("http://darkserver.ru/tk/upfiles/tk.exe","tk.exe");
-if(d=="finished")
-d=dl_file("http://darkserver.ru/tk/upfiles/changelog.txt","changelog.txt",false);
-if(d=="finished")
-d=dl_file("http://darkserver.ru/tk/upfiles/GameEngine.dll","GameEngine.dll",false);
-if(d=="finished")
-d=dl_file("http://darkserver.ru/tk/upfiles/oggenc2.exe","oggenc2.exe",false);
-if(d=="finished")
-d=dl_file("http://darkserver.ru/tk/upfiles/nvdaControllerClient32.dll","nvdaControllerClient32.dll",false);
-if(d=="finished")
-d=dl_file("http://darkserver.ru/tk/upfiles/readme.txt","readme.txt",false);
+speak("No update server configured.");
+wait(2800);
 {
 speak("Update downloaded");
 wait(2800);

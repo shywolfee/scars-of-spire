@@ -1,10 +1,10 @@
 void push()
 {
-string stuff=url_post("http://darkserver.ru/tk2/runs/runs.php","id="+projname+"&name="+name);
+return;
 }
 void getruns()
 {
-runs=get_from_url("http://darkserver.ru/tk2/runs/runs.txt");
+return;
 }
 //testing
 string get_from_url(string url)
