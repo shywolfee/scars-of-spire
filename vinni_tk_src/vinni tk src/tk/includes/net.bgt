@@ -4,6 +4,7 @@ uint peer_id=0;
 string oldservers;
 string lookname;
 bool prior_connected=false;
+string charname;
 void login()
 {
 if(name==""||password=="")

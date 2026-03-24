@@ -1,3 +1,6 @@
+New in 2.1.1
+Fixed a bug where the charname variable was not declared in includes/net.bgt, causing a compilation error when entering the game.
+
 New in 2.1.0
 Redesigned the player system to separate accounts from characters. Players now create an account and then create characters within that account.
 After logging in, players see a character selection screen where they can pick an existing character or create a new one.
